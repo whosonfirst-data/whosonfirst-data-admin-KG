@@ -1,0 +1,70 @@
+{
+  "id": 1242771025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27923,40.4513,73.27923,40.4513",
+    "geom:latitude":40.4513,
+    "geom:longitude":73.27923,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Tebe",
+    "gn:country_code":"KG",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144390,
+    "gn:latitude":40.4513,
+    "gn:longitude":73.27923,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kara-Tebe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0422\u0435\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144390
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f079b3caabae7998934069f309a9a973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1242771025,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242771025,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Kara-Tebe",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27923,
+    40.4513,
+    73.27923,
+    40.4513
+],
+  "geometry": {"coordinates":[73.27923,40.4513],"type":"Point"}
+}

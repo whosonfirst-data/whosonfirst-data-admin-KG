@@ -1,0 +1,73 @@
+{
+  "id": 1260183997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5658,40.94146,72.5658,40.94146",
+    "geom:latitude":40.94146,
+    "geom:longitude":72.5658,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dukur",
+    "gn:country_code":"KG",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137717,
+    "gn:latitude":40.94146,
+    "gn:longitude":72.5658,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dukur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u0443\u043a\u0443\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043a\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137717
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e9cbfb890ed89834ee978190f884ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1260183997,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260183997,
+    "wof:lastmodified":1537653214,
+    "wof:name":"Dukur",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5658,
+    40.94146,
+    72.5658,
+    40.94146
+],
+  "geometry": {"coordinates":[72.5658,40.94146],"type":"Point"}
+}

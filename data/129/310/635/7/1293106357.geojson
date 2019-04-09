@@ -1,0 +1,70 @@
+{
+  "id": 1293106357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.22011,41.85486,71.22011,41.85486",
+    "geom:latitude":41.85486,
+    "geom:longitude":71.22011,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Korgon-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139160,
+    "gn:latitude":41.85486,
+    "gn:longitude":71.22011,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Korgon-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0440\u0433\u043e\u043d-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139160
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dc999335c6f23967ff397f7cded44e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1293106357,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293106357,
+    "wof:lastmodified":1537653216,
+    "wof:name":"Korgon-Say",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.22010999999998,
+    41.85486,
+    71.22010999999998,
+    41.85486
+],
+  "geometry": {"coordinates":[71.22010999999998,41.85486],"type":"Point"}
+}

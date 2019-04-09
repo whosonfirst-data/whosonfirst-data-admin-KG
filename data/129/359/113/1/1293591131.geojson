@@ -1,0 +1,73 @@
+{
+  "id": 1293591131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14426,40.88376,73.14426,40.88376",
+    "geom:latitude":40.88376,
+    "geom:longitude":73.14426,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pasty-Mazar",
+    "gn:country_code":"KG",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174073,
+    "gn:latitude":40.88376,
+    "gn:longitude":73.14426,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Pasty-Mazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u044b-\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u044b-\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174073
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1b11d2de05402f94ba2116eba2dce55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1293591131,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293591131,
+    "wof:lastmodified":1537653248,
+    "wof:name":"Pasty-Mazar",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14426,
+    40.88376,
+    73.14426,
+    40.88376
+],
+  "geometry": {"coordinates":[73.14426,40.88376],"type":"Point"}
+}

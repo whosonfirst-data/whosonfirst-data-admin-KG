@@ -1,0 +1,76 @@
+{
+  "id": 1326450445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75966,40.58907,72.75966,40.58907",
+    "geom:latitude":40.58907,
+    "geom:longitude":72.75966,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vlksm",
+    "gn:country_code":"KG",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139896,
+    "gn:latitude":40.58907,
+    "gn:longitude":72.75966,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Vlksm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0412\u043b\u043a\u0441\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u043a\u0441\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Olimtyube"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139896
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"62ca8279d791f75cacf00bfa56b2ab4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1326450445,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326450445,
+    "wof:lastmodified":1537653225,
+    "wof:name":"Vlksm",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75966,
+    40.58907,
+    72.75966,
+    40.58907
+],
+  "geometry": {"coordinates":[72.75966,40.58907],"type":"Point"}
+}

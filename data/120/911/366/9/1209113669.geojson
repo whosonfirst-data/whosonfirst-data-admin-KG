@@ -1,0 +1,73 @@
+{
+  "id": 1209113669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60744,41.46743,71.60744,41.46743",
+    "geom:latitude":41.46743,
+    "geom:longitude":71.60744,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Tam",
+    "gn:country_code":"KG",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579743,
+    "gn:latitude":41.46743,
+    "gn:longitude":71.60744,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Ak-Tam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oq-Tom"
+    ],
+    "name:kir_x_preferred":[
+        "Ak-Tam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0422\u0430\u043c"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Tom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579743
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5d6a02a8f120ff37c2b54467b29cda02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209113669
+        }
+    ],
+    "wof:id":1209113669,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Ak-Tam",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60744,
+    41.46743,
+    71.60744,
+    41.46743
+],
+  "geometry": {"coordinates":[71.60744,41.46743],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1344264619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.72171,41.10491,72.72171,41.10491",
+    "geom:latitude":41.10491,
+    "geom:longitude":72.72171,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shydyr",
+    "gn:country_code":"KG",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527376,
+    "gn:latitude":41.10491,
+    "gn:longitude":72.72171,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Shydyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u044b\u0434\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044b\u0434\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Shidyr"
+    ],
+    "name:uzb_x_preferred":[
+        "Shidir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527376,
+        "wk:page":"Shidyr"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"27c52ef91327985e92ceb64ccfe39cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1344264619,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1344264619,
+    "wof:lastmodified":1537653117,
+    "wof:name":"Shydyr",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.72171,
+    41.10491,
+    72.72171,
+    41.10491
+],
+  "geometry": {"coordinates":[72.72171,41.10491],"type":"Point"}
+}

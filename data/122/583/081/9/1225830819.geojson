@@ -1,0 +1,73 @@
+{
+  "id": 1225830819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98421,40.26241,72.98421,40.26241",
+    "geom:latitude":40.26241,
+    "geom:longitude":72.98421,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Charaygyr",
+    "gn:country_code":"KG",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139532,
+    "gn:latitude":40.26241,
+    "gn:longitude":72.98421,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Charaygyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u0439\u0433\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0430\u0439\u0433\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139532
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"06d2a9f6223594b0b59b8d4c8eb7bb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1225830819,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1225830819,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Charaygyr",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98421,
+    40.26241,
+    72.98421,
+    40.26241
+],
+  "geometry": {"coordinates":[72.98421,40.26241],"type":"Point"}
+}

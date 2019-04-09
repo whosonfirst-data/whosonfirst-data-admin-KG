@@ -1,0 +1,74 @@
+{
+  "id": 1310602775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96905,40.89846,72.96905,40.89846",
+    "geom:latitude":40.89846,
+    "geom:longitude":72.96905,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Masadan",
+    "gn:country_code":"KG",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137687,
+    "gn:latitude":40.89846,
+    "gn:longitude":72.96905,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Masadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u0434\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u0434\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137687,
+        "wk:page":"Masadan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a12212e3385d62f93f59a99a7a742977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1310602775,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310602775,
+    "wof:lastmodified":1537653212,
+    "wof:name":"Masadan",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96905,
+    40.89846,
+    72.96905,
+    40.89846
+],
+  "geometry": {"coordinates":[72.96905,40.89846],"type":"Point"}
+}

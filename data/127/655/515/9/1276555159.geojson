@@ -1,0 +1,77 @@
+{
+  "id": 1276555159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12143,41.59452,72.12143,41.59452",
+    "geom:latitude":41.59452,
+    "geom:longitude":72.12143,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhangi-Dzhol",
+    "gn:country_code":"KG",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528417,
+    "gn:latitude":41.59452,
+    "gn:longitude":72.12143,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Dzhangi-Dzhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jangy-Jol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0433\u0438-\u0414\u0436\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dzhangay-Dzhol",
+        "Dzhangi-Dzhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528417
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3f8f141f92cd4c3d3760103dfc5d978a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1276555159,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276555159,
+    "wof:lastmodified":1537653162,
+    "wof:name":"Dzhangi-Dzhol",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12143,
+    41.59452,
+    72.12143,
+    41.59452
+],
+  "geometry": {"coordinates":[72.12143,41.59452],"type":"Point"}
+}

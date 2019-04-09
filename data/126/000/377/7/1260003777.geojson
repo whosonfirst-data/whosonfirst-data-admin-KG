@@ -1,0 +1,78 @@
+{
+  "id": 1260003777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95337,41.98582,74.95337,41.98582",
+    "geom:latitude":41.98582,
+    "geom:longitude":74.95337,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jangy-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528413,
+    "gn:latitude":41.98582,
+    "gn:longitude":74.95337,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Jangy-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jangy-Aryk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhangi-Aryk",
+        "Dzhangyaryk",
+        "Dzhanaryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528413
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"08d5f4f673b839b2d13e1412613be8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1260003777,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1260003777,
+    "wof:lastmodified":1537653162,
+    "wof:name":"Jangy-Aryk",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95336999999998,
+    41.98582,
+    74.95336999999998,
+    41.98582
+],
+  "geometry": {"coordinates":[74.95336999999998,41.98582],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225955749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.25468,41.546,70.25468,41.546",
+    "geom:latitude":41.546,
+    "geom:longitude":70.25468,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kishlaksay",
+    "gn:country_code":"KG",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1527832,
+    "gn:latitude":41.546,
+    "gn:longitude":70.25468,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kishlaksay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0448\u043b\u0430\u043a\u0441\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0448\u043b\u0430\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kotak",
+        "Kishlaksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527832,
+        "wk:page":"Kotak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d5117a50d7cea6e4f2cabf58cd0c0ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1225955749,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1225955749,
+    "wof:lastmodified":1537653138,
+    "wof:name":"Kishlaksay",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.25468000000001,
+    41.54600000000001,
+    70.25468000000001,
+    41.54600000000001
+],
+  "geometry": {"coordinates":[70.25468000000001,41.54600000000001],"type":"Point"}
+}

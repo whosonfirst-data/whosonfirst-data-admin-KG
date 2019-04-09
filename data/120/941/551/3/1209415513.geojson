@@ -1,0 +1,70 @@
+{
+  "id": 1209415513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46599,41.90982,74.46599,41.90982",
+    "geom:latitude":41.90982,
+    "geom:longitude":74.46599,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Besh-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064053,
+    "gn:latitude":41.90982,
+    "gn:longitude":74.46599,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Besh-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Besh-Terek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Beshterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064053
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ca15434a4fb7bbd4fc656d0c4e01fc29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209415513
+        }
+    ],
+    "wof:id":1209415513,
+    "wof:lastmodified":1537653200,
+    "wof:name":"Besh-Terek",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46599,
+    41.90982,
+    74.46599,
+    41.90982
+],
+  "geometry": {"coordinates":[74.46599000000001,41.90982],"type":"Point"}
+}

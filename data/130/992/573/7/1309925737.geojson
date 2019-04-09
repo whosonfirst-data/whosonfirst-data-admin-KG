@@ -1,0 +1,73 @@
+{
+  "id": 1309925737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42287,39.88756,73.42287,39.88756",
+    "geom:latitude":39.88756,
+    "geom:longitude":73.42287,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kedzhige",
+    "gn:country_code":"KG",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402331,
+    "gn:latitude":39.88756,
+    "gn:longitude":73.42287,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kedzhige",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u0436\u0438\u0433\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0434\u0436\u0438\u0433\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402331
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fcec35febfcb863bfebf2f049c4db2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1309925737,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309925737,
+    "wof:lastmodified":1537653310,
+    "wof:name":"Kedzhige",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42286999999997,
+    39.88756,
+    73.42286999999997,
+    39.88756
+],
+  "geometry": {"coordinates":[73.42286999999997,39.88756],"type":"Point"}
+}

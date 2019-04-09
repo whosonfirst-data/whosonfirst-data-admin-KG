@@ -1,0 +1,74 @@
+{
+  "id": 1260184143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12253,41.78262,71.12253,41.78262",
+    "geom:latitude":41.78262,
+    "geom:longitude":71.12253,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chukurchak",
+    "gn:country_code":"KG",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528475,
+    "gn:latitude":41.78262,
+    "gn:longitude":71.12253,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chukurchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0443\u043a\u0443\u0440\u0447\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043a\u0443\u0440\u0447\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528475,
+        "wk:page":"Chukurchak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ae417e6f5221fb6f945964627618cfec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1260184143,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260184143,
+    "wof:lastmodified":1537653165,
+    "wof:name":"Chukurchak",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12253,
+    41.78262,
+    71.12253,
+    41.78262
+],
+  "geometry": {"coordinates":[71.12253,41.78262],"type":"Point"}
+}

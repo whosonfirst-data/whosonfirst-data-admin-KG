@@ -1,0 +1,73 @@
+{
+  "id": 1193139095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88978,41.67731,71.88978,41.67731",
+    "geom:latitude":41.67731,
+    "geom:longitude":71.88978,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tovar-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139179,
+    "gn:latitude":41.67731,
+    "gn:longitude":71.88978,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tovar-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tovar-Say"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0432\u0430\u0440-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139179
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e766da01d1bfc3e487992329de729162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1193139095,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1193139095,
+    "wof:lastmodified":1537653217,
+    "wof:name":"Tovar-Say",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88978,
+    41.67731,
+    71.88978,
+    41.67731
+],
+  "geometry": {"coordinates":[71.88978,41.67731],"type":"Point"}
+}

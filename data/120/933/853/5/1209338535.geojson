@@ -1,0 +1,67 @@
+{
+  "id": 1209338535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.69527,41.30377,74.69527,41.30377",
+    "geom:latitude":41.30377,
+    "geom:longitude":74.69527,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saz",
+    "gn:country_code":"KG",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527417,
+    "gn:latitude":41.30377,
+    "gn:longitude":74.69527,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Saz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527417
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"def35d889808830646c40427ca3758f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209338535
+        }
+    ],
+    "wof:id":1209338535,
+    "wof:lastmodified":1537653119,
+    "wof:name":"Saz",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.69527,
+    41.30377,
+    74.69527,
+    41.30377
+],
+  "geometry": {"coordinates":[74.69526999999999,41.30377],"type":"Point"}
+}

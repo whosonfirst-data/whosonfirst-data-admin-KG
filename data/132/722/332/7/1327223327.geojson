@@ -1,0 +1,82 @@
+{
+  "id": 1327223327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34966,40.31055,71.34966,40.31055",
+    "geom:latitude":40.31055,
+    "geom:longitude":71.34966,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kyrgyz-Kyshtak",
+    "gn:country_code":"KG",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8376052,
+    "gn:latitude":40.31055,
+    "gn:longitude":71.34966,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Kyrgyz-Kyshtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0440\u0433\u0438\u0437-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0433\u0438\u0437-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kirgiz-Kyshtak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qirg\u2018iz-Qishtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376052
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0799402a138a89fb9a3486aa0e946f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1327223327,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1327223327,
+    "wof:lastmodified":1537653292,
+    "wof:name":"Kyrgyz-Kyshtak",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34966,
+    40.31055,
+    71.34966,
+    40.31055
+],
+  "geometry": {"coordinates":[71.34966,40.31055],"type":"Point"}
+}

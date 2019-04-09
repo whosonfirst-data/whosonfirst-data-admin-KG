@@ -1,0 +1,73 @@
+{
+  "id": 1310218177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12847,43.03909,74.12847,43.03909",
+    "geom:latitude":43.03909,
+    "geom:longitude":74.12847,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Spartak",
+    "gn:country_code":"KG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064022,
+    "gn:latitude":43.03909,
+    "gn:longitude":74.12847,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Spartak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Spartak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430\u0440\u0442\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064022
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0ad0d609277cff93c4b259b12e8ccda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691579,
+            "locality_id":1310218177,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310218177,
+    "wof:lastmodified":1537653199,
+    "wof:name":"Spartak",
+    "wof:parent_id":1091691579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12847,
+    43.03909,
+    74.12847,
+    43.03909
+],
+  "geometry": {"coordinates":[74.12846999999999,43.03909],"type":"Point"}
+}

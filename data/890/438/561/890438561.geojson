@@ -1,0 +1,81 @@
+{
+  "id": 890438561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.18627,40.29513,72.18627,40.29513",
+    "geom:latitude":40.29513,
+    "geom:longitude":72.18627,
+    "gn:country":"KG",
+    "gn:fcode":"PPL",
+    "gn:pop":1100,
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kerben"
+    ],
+    "name:eng_x_variant":[
+        "Karavan"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "qs:name":"Karavan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":1618,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528053,
+        "gp:id":1969514,
+        "qs:id":1031893,
+        "wd:id":"Q6368832",
+        "wk:page":"Karavan"
+    },
+    "wof:country":"KG",
+    "wof:created":1469052200,
+    "wof:geomhash":"aafb4fa6bbc414ca8b79e15c6c928edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":890438561,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":890438561,
+    "wof:lastmodified":1527735419,
+    "wof:name":"Karavan",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:population":1100,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.18627,
+    40.29513,
+    72.18627,
+    40.29513
+],
+  "geometry": {"coordinates":[72.18626999999999,40.29513],"type":"Point"}
+}

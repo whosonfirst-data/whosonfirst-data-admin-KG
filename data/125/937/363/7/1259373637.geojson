@@ -1,0 +1,79 @@
+{
+  "id": 1259373637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.17763,40.55909,73.17763,40.55909",
+    "geom:latitude":40.55909,
+    "geom:longitude":73.17763,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kreml'",
+    "gn:country_code":"KG",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144835,
+    "gn:latitude":40.55909,
+    "gn:longitude":73.17763,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kreml\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kreml\u2019"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Kreml\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0435\u043c\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144835
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"374ffeb8e8e12d2a806c8c16fc7204ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1259373637,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259373637,
+    "wof:lastmodified":1537653238,
+    "wof:name":"Kreml'",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.17763000000002,
+    40.55909000000001,
+    73.17763000000002,
+    40.55909000000001
+],
+  "geometry": {"coordinates":[73.17763000000002,40.55909000000001],"type":"Point"}
+}

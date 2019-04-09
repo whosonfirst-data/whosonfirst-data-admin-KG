@@ -1,0 +1,76 @@
+{
+  "id": 1242876011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.25893,41.02383,72.25893,41.02383",
+    "geom:latitude":41.02383,
+    "geom:longitude":72.25893,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhenish",
+    "gn:country_code":"KG",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134497,
+    "gn:latitude":41.02383,
+    "gn:longitude":72.25893,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Dzhenish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0435\u043d\u0438\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043d\u0438\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Jenish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134497
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"957a0cf0193d1b900de92616eee7d525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1242876011,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1242876011,
+    "wof:lastmodified":1537653209,
+    "wof:name":"Dzhenish",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.25893,
+    41.02383,
+    72.25893,
+    41.02383
+],
+  "geometry": {"coordinates":[72.25893000000001,41.02383],"type":"Point"}
+}

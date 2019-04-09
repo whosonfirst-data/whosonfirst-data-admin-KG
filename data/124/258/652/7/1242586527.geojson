@@ -1,0 +1,73 @@
+{
+  "id": 1242586527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.86774,42.97621,74.86774,42.97621",
+    "geom:latitude":42.97621,
+    "geom:longitude":74.86774,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khun-Chi",
+    "gn:country_code":"KG",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8218145,
+    "gn:latitude":42.97621,
+    "gn:longitude":74.86774,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Khun-Chi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0425\u0443\u043d-\u0427\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043d-\u0427\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8218145
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8f101e37ac836912979e5ffc4a187bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1242586527,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1242586527,
+    "wof:lastmodified":1537653267,
+    "wof:name":"Khun-Chi",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.86774,
+    42.97621,
+    74.86774,
+    42.97621
+],
+  "geometry": {"coordinates":[74.86774,42.97621],"type":"Point"}
+}

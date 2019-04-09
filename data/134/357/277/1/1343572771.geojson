@@ -1,0 +1,77 @@
+{
+  "id": 1343572771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36707,41.41999,72.36707,41.41999",
+    "geom:latitude":41.41999,
+    "geom:longitude":72.36707,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kelish",
+    "gn:country_code":"KG",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527007,
+    "gn:latitude":41.41999,
+    "gn:longitude":72.36707,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Kelish",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043b\u0438\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u0438\u0448"
+    ],
+    "name:und_x_variant":[
+        "Yerish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527007,
+        "wk:page":"Yerish"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c845b46eafd3e225409e43a431b0555a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1343572771,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343572771,
+    "wof:lastmodified":1537653103,
+    "wof:name":"Kelish",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36707,
+    41.41999000000001,
+    72.36707,
+    41.41999000000001
+],
+  "geometry": {"coordinates":[72.36707,41.41999000000001],"type":"Point"}
+}

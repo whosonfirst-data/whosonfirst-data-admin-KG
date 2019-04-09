@@ -1,0 +1,73 @@
+{
+  "id": 1226154629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35676,41.82531,73.35676,41.82531",
+    "geom:latitude":41.82531,
+    "geom:longitude":73.35676,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shilekkana",
+    "gn:country_code":"KG",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208333,
+    "gn:latitude":41.82531,
+    "gn:longitude":73.35676,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Shilekkana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0438\u043b\u0435\u043d\u043a\u0430\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043b\u0435\u043a\u043a\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208333
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"84034a5c26ce2a381e36430f1d67684e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1226154629,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226154629,
+    "wof:lastmodified":1537653261,
+    "wof:name":"Shilekkana",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35676,
+    41.82531,
+    73.35676,
+    41.82531
+],
+  "geometry": {"coordinates":[73.35675999999999,41.82531],"type":"Point"}
+}

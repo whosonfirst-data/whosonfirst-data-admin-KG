@@ -1,0 +1,77 @@
+{
+  "id": 1327323495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05411,40.18801,71.05411,40.18801",
+    "geom:latitude":40.18801,
+    "geom:longitude":71.05411,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ak-Turpak",
+    "gn:country_code":"KG",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514637,
+    "gn:latitude":40.18801,
+    "gn:longitude":71.05411,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Ak-Turpak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0422\u0443\u0440\u043f\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0422\u0443\u0440\u043f\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Turpoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514637,
+        "wk:page":"Ak-Turpak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"173e9d06fd878acad5a7f2275606b19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1327323495,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1327323495,
+    "wof:lastmodified":1537653101,
+    "wof:name":"Ak-Turpak",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05411,
+    40.18801,
+    71.05411,
+    40.18801
+],
+  "geometry": {"coordinates":[71.05410999999999,40.18801],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310002867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52174,40.21486,73.52174,40.21486",
+    "geom:latitude":40.21486,
+    "geom:longitude":73.52174,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sogondu",
+    "gn:country_code":"KG",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527323,
+    "gn:latitude":40.21486,
+    "gn:longitude":73.52174,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Sogondu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u043e\u0433\u043e\u043d\u0434\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0433\u043e\u043d\u0434\u0443"
+    ],
+    "name:und_x_variant":[
+        "Sungandy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527323,
+        "wk:page":"Sungandy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"626ee2b303aa2fd9f3dea058dd478a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1310002867,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310002867,
+    "wof:lastmodified":1537653115,
+    "wof:name":"Sogondu",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52174000000002,
+    40.21486,
+    73.52174000000002,
+    40.21486
+],
+  "geometry": {"coordinates":[73.52174000000002,40.21486],"type":"Point"}
+}

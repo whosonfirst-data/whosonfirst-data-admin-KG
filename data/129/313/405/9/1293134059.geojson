@@ -1,0 +1,74 @@
+{
+  "id": 1293134059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.65707,41.38579,75.65707,41.38579",
+    "geom:latitude":41.38579,
+    "geom:longitude":75.65707,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kyzyl-Asker",
+    "gn:country_code":"KG",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527737,
+    "gn:latitude":41.38579,
+    "gn:longitude":75.65707,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyl-Asker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0410\u0441\u043a\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0410\u0441\u043a\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527737,
+        "wk:page":"Kyzyl-Asker"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4b09d55e1dcf9a9799679d7026adbac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1293134059,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1293134059,
+    "wof:lastmodified":1537653135,
+    "wof:name":"Kyzyl-Asker",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.65706999999998,
+    41.38579,
+    75.65706999999998,
+    41.38579
+],
+  "geometry": {"coordinates":[75.65706999999998,41.38579],"type":"Point"}
+}

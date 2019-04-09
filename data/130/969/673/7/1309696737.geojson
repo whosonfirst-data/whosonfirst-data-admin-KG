@@ -1,0 +1,79 @@
+{
+  "id": 1309696737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04475,40.24428,72.04475,40.24428",
+    "geom:latitude":40.24428,
+    "geom:longitude":72.04475,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kara-Debe",
+    "gn:country_code":"KG",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8139689,
+    "gn:latitude":40.24428,
+    "gn:longitude":72.04475,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Kara-D\u00ebb\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kara-D\u00f6b\u00f6"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0414\u0451\u0431\u0451"
+    ],
+    "name:und_x_variant":[
+        "Kara-D\u00ebb\u00eb"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora-Dyobyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139689
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b62cc8d183599d98dfdc51b5966ad323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1309696737,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1309696737,
+    "wof:lastmodified":1537653221,
+    "wof:name":"Kara-Debe",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04475,
+    40.24428,
+    72.04475,
+    40.24428
+],
+  "geometry": {"coordinates":[72.04474999999999,40.24428],"type":"Point"}
+}

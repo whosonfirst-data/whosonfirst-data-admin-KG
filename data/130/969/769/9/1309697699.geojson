@@ -1,0 +1,77 @@
+{
+  "id": 1309697699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64916,40.57314,73.64916,40.57314",
+    "geom:latitude":40.57314,
+    "geom:longitude":73.64916,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Karadzhilga",
+    "gn:country_code":"KG",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528157,
+    "gn:latitude":40.57314,
+    "gn:longitude":73.64916,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Karadzhilga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0416\u044b\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0414\u0436\u044b\u043b\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kara-Dzhylga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528157,
+        "wk:page":"Karadzhilga"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3b19d4b4e5e8c548ac3a09d1dbe2e710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1309697699,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309697699,
+    "wof:lastmodified":1537653151,
+    "wof:name":"Karadzhilga",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64916,
+    40.57314,
+    73.64916,
+    40.57314
+],
+  "geometry": {"coordinates":[73.64915999999999,40.57314],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343854903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63397,40.84268,73.63397,40.84268",
+    "geom:latitude":40.84268,
+    "geom:longitude":73.63397,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Salamalik",
+    "gn:country_code":"KG",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527480,
+    "gn:latitude":40.84268,
+    "gn:longitude":73.63397,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Salamalik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c-\u0410\u043b\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0430\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Galyam-alik",
+        "Salyam-Alyk",
+        "Salyam-Alim",
+        "Salyam-Alik",
+        "Salamalik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527480,
+        "wk:page":"Salyam-Alik"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d875f0aec0574f76851d052e927174ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1343854903,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343854903,
+    "wof:lastmodified":1537653122,
+    "wof:name":"Salamalik",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63396999999998,
+    40.84268,
+    73.63396999999998,
+    40.84268
+],
+  "geometry": {"coordinates":[73.63396999999998,40.84268],"type":"Point"}
+}

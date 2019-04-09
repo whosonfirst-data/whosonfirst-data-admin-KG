@@ -1,0 +1,68 @@
+{
+  "id": 1209102909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42586,40.63587,73.42586,40.63587",
+    "geom:latitude":40.63587,
+    "geom:longitude":73.42586,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kenesh",
+    "gn:country_code":"KG",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145273,
+    "gn:latitude":40.63587,
+    "gn:longitude":73.42586,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kenesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kengesh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145273,
+        "wk:page":"Kenesh"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c2c21807c716fbbf91e235a2d78f24a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209102909
+        }
+    ],
+    "wof:id":1209102909,
+    "wof:lastmodified":1537653239,
+    "wof:name":"Kenesh",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42586,
+    40.63587,
+    73.42586,
+    40.63587
+],
+  "geometry": {"coordinates":[73.42586,40.63587],"type":"Point"}
+}

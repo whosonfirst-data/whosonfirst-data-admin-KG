@@ -1,0 +1,73 @@
+{
+  "id": 1226078405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.63201,41.07085,75.63201,41.07085",
+    "geom:latitude":41.07085,
+    "geom:longitude":75.63201,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dzhanyguch",
+    "gn:country_code":"KG",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066392,
+    "gn:latitude":41.07085,
+    "gn:longitude":75.63201,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhanyguch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u041a\u044e\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b\u0433\u0443\u0447"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066392
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2dddd6dd62218ca27b4483866fc1f097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1226078405,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226078405,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Dzhanyguch",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.63201,
+    41.07085,
+    75.63201,
+    41.07085
+],
+  "geometry": {"coordinates":[75.63200999999999,41.07085],"type":"Point"}
+}

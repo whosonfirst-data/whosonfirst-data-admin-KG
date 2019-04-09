@@ -1,0 +1,85 @@
+{
+  "id": 1310703637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.17657,41.25946,71.17657,41.25946",
+    "geom:latitude":41.25946,
+    "geom:longitude":71.17657,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Birlashken",
+    "gn:country_code":"KG",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577853,
+    "gn:latitude":41.25946,
+    "gn:longitude":71.17657,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Birlashken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Birlashkan"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0430\u0448\u043a\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0430\u0448\u043a\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "K\u00ebksarek"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebksarek"
+    ],
+    "name:uzb_x_preferred":[
+        "Birleshken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577853
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"22644143b07dc06962714563f4d71b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1310703637,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310703637,
+    "wof:lastmodified":1537653190,
+    "wof:name":"Birlashken",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.17657,
+    41.25946,
+    71.17657,
+    41.25946
+],
+  "geometry": {"coordinates":[71.17657,41.25946],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259478735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65685,40.32618,73.65685,40.32618",
+    "geom:latitude":40.32618,
+    "geom:longitude":73.65685,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Orto-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142747,
+    "gn:latitude":40.32618,
+    "gn:longitude":73.65685,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Orto-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142747
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"20a44cb37bdf272bbd118c8149328c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1259478735,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259478735,
+    "wof:lastmodified":1537653233,
+    "wof:name":"Orto-Suu",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65685,
+    40.32618,
+    73.65685,
+    40.32618
+],
+  "geometry": {"coordinates":[73.65685000000001,40.32618],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276356165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58233,40.4215,73.58233,40.4215",
+    "geom:latitude":40.4215,
+    "geom:longitude":73.58233,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":2129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528179,
+    "gn:latitude":40.4215,
+    "gn:longitude":73.58233,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Kara-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528179
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9fd71e2f7117274c5a1d12f819498763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1276356165,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276356165,
+    "wof:lastmodified":1537653152,
+    "wof:name":"Kara-Bulak",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58233,
+    40.4215,
+    73.58233,
+    40.4215
+],
+  "geometry": {"coordinates":[73.58233,40.4215],"type":"Point"}
+}

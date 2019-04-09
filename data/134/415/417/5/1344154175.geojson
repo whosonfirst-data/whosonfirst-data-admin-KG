@@ -1,0 +1,83 @@
+{
+  "id": 1344154175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.81571,40.88399,73.81571,40.88399",
+    "geom:latitude":40.88399,
+    "geom:longitude":73.81571,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oktyabrdyn On Besh Jyldygy",
+    "gn:country_code":"KG",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527460,
+    "gn:latitude":40.88399,
+    "gn:longitude":73.81571,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Oktyabrdyn On Besh Jyldygy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_historical":[
+        "Oktyabrdyn On Besh Jyldygy"
+    ],
+    "name:kir_x_preferred":[
+        "Oktyabrdyn On Besh Jyldygy"
+    ],
+    "name:rus_x_preferred":[
+        "Pyatnadtsat\u2019 Let Oktyabr\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u044f\u0442\u043d\u0430\u0434\u0446\u0430\u0442\u044c \u041b\u0435\u0442 \u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:und_x_variant":[
+        "Sarybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527460,
+        "wk:page":"Sarybulak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bf45eff3bfff42a06e42eaf1287054a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1344154175,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1344154175,
+    "wof:lastmodified":1537653121,
+    "wof:name":"Oktyabrdyn On Besh Jyldygy",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.81571,
+    40.88399,
+    73.81571,
+    40.88399
+],
+  "geometry": {"coordinates":[73.81571,40.88399],"type":"Point"}
+}

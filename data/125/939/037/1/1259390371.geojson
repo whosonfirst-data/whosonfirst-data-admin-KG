@@ -1,0 +1,74 @@
+{
+  "id": 1259390371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86667,41.75,72.86667,41.75",
+    "geom:latitude":41.75,
+    "geom:longitude":72.86667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tortkel'",
+    "gn:country_code":"KG",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1527176,
+    "gn:latitude":41.75,
+    "gn:longitude":72.86667,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Tortk\u00ebl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u0422\u04e9\u0440\u0442-\u041a\u04e9\u043b"
+    ],
+    "name:und_x_variant":[
+        "Tortk\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527176,
+        "wk:page":"Tortkel%27"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9c121b5416211c7e29383967b447d199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1259390371,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259390371,
+    "wof:lastmodified":1537653109,
+    "wof:name":"Tortkel'",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86667,
+    41.75,
+    72.86667,
+    41.75
+],
+  "geometry": {"coordinates":[72.86667,41.75],"type":"Point"}
+}

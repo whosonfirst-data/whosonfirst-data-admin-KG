@@ -1,0 +1,73 @@
+{
+  "id": 1344142441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52132,40.54655,73.52132,40.54655",
+    "geom:latitude":40.54655,
+    "geom:longitude":73.52132,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Kum",
+    "gn:country_code":"KG",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144405,
+    "gn:latitude":40.54655,
+    "gn:longitude":73.52132,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyl-Kum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u0443\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144405
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e8f69089e1c030bda0ed2fc894399869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1344142441,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1344142441,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Kyzyl-Kum",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52131999999997,
+    40.54655,
+    73.52131999999997,
+    40.54655
+],
+  "geometry": {"coordinates":[73.52131999999997,40.54655],"type":"Point"}
+}

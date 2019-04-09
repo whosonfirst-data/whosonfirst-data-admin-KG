@@ -1,0 +1,78 @@
+{
+  "id": 1293397399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.79288,41.11251,72.79288,41.11251",
+    "geom:latitude":41.11251,
+    "geom:longitude":72.79288,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Seyit-Kazy",
+    "gn:country_code":"KG",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527024,
+    "gn:latitude":41.11251,
+    "gn:longitude":72.79288,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Seyit-Kazy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0435\u0439\u0438\u0442-\u041a\u0430\u0437\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0439\u0438\u0442-\u041a\u0430\u0437\u044b"
+    ],
+    "name:und_x_variant":[
+        "Yanabadam",
+        "Seyit-Kazy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527024,
+        "wk:page":"Yanabadam"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"76a9804952f000c7df91c75dc0786336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1293397399,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293397399,
+    "wof:lastmodified":1537653104,
+    "wof:name":"Seyit-Kazy",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.79288000000003,
+    41.11251,
+    72.79288000000003,
+    41.11251
+],
+  "geometry": {"coordinates":[72.79288000000003,41.11251],"type":"Point"}
+}

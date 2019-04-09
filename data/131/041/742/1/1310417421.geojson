@@ -1,0 +1,73 @@
+{
+  "id": 1310417421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18414,41.27755,71.18414,41.27755",
+    "geom:latitude":41.27755,
+    "geom:longitude":71.18414,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sari-Kol",
+    "gn:country_code":"KG",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577854,
+    "gn:latitude":41.27755,
+    "gn:longitude":71.18414,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Sari-Kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sari-Ko\u2018l"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577854
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3efefd85edbd62954eab2f99425292c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1310417421,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310417421,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Sari-Kol",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18414,
+    41.27755,
+    71.18414,
+    41.27755
+],
+  "geometry": {"coordinates":[71.18414,41.27755],"type":"Point"}
+}

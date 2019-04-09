@@ -1,0 +1,73 @@
+{
+  "id": 1343459189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.71836,41.43526,75.71836,41.43526",
+    "geom:latitude":41.43526,
+    "geom:longitude":75.71836,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Maynetkech",
+    "gn:country_code":"KG",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142009,
+    "gn:latitude":41.43526,
+    "gn:longitude":75.71836,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Maynetkech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0439\u043d\u0435\u0442\u043a\u0435\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u043d\u0435\u0442\u043a\u0435\u0447"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142009
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c2354b9832dd2e36795adab2b4b5f594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1343459189,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343459189,
+    "wof:lastmodified":1537653230,
+    "wof:name":"Maynetkech",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.71836,
+    41.43526,
+    75.71836,
+    41.43526
+],
+  "geometry": {"coordinates":[75.71836,41.43526],"type":"Point"}
+}

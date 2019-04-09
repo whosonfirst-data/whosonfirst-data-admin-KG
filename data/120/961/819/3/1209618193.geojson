@@ -1,0 +1,67 @@
+{
+  "id": 1209618193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.06293,42.88128,74.06293,42.88128",
+    "geom:latitude":42.88128,
+    "geom:longitude":74.06293,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyzyl-Tuu",
+    "gn:country_code":"KG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217172,
+    "gn:latitude":42.88128,
+    "gn:longitude":74.06293,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyl-Tuu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217172
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1434579bea90eb8248ecf66a1f4e2840",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209618193
+        }
+    ],
+    "wof:id":1209618193,
+    "wof:lastmodified":1537653263,
+    "wof:name":"Kyzyl-Tuu",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.06293000000002,
+    42.88128,
+    74.06293000000002,
+    42.88128
+],
+  "geometry": {"coordinates":[74.06293000000002,42.88128],"type":"Point"}
+}

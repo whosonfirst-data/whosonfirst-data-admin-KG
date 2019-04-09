@@ -1,0 +1,73 @@
+{
+  "id": 1310101135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89986,40.67983,72.89986,40.67983",
+    "geom:latitude":40.67983,
+    "geom:longitude":72.89986,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Erkin",
+    "gn:country_code":"KG",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8161862,
+    "gn:latitude":40.67983,
+    "gn:longitude":72.89986,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Erkin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042d\u0440\u043a\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u043a\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8161862
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4e82566e23594c94f6b6e73770d840d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1310101135,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310101135,
+    "wof:lastmodified":1537653241,
+    "wof:name":"Erkin",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89986,
+    40.67983,
+    72.89986,
+    40.67983
+],
+  "geometry": {"coordinates":[72.89986,40.67983],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259573911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28684,40.26123,73.28684,40.26123",
+    "geom:latitude":40.26123,
+    "geom:longitude":73.28684,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chiyrchik",
+    "gn:country_code":"KG",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143684,
+    "gn:latitude":40.26123,
+    "gn:longitude":73.28684,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chiyrchik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0438\u0439\u0440\u0447\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0439\u0440\u0447\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143684
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8a20b2869e50b21dbe2c4d94553ee9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1259573911,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259573911,
+    "wof:lastmodified":1537653235,
+    "wof:name":"Chiyrchik",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28684,
+    40.26123,
+    73.28684,
+    40.26123
+],
+  "geometry": {"coordinates":[73.28684,40.26123],"type":"Point"}
+}

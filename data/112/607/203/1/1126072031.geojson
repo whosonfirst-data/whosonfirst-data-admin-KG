@@ -1,0 +1,93 @@
+{
+  "id": 1126072031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.63333,42.86667,74.63333,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":74.63333,
+    "gn:gn_country":"KG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"KG",
+    "lbl:latitude":42.86667,
+    "lbl:longitude":74.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"KG",
+    "qs_pg:gn_country":"KG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1527198,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tokol'dosh",
+    "qs_pg:name_adm0":"Kyrgyzstan",
+    "qs_pg:name_adm1":"Chuy",
+    "qs_pg:photos":60,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":60,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":266914,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424864,
+    "qs_pg:woe_id":1969793,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424864,
+    "woe:name_adm0":"Kyrgyzstan",
+    "woe:name_adm1":"Chuy",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672975,
+        102191569,
+        85632761,
+        1091692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527198,
+        "gp:id":1969793,
+        "qs_pg:id":266914
+    },
+    "wof:country":"KG",
+    "wof:created":1497310117,
+    "wof:geomhash":"d1d22bd694a75a9f560dbe16b80d3d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091692295,
+            "locality_id":-1,
+            "neighbourhood_id":1126072031,
+            "region_id":85672975
+        }
+    ],
+    "wof:id":1126072031,
+    "wof:lastmodified":1534379373,
+    "wof:name":"Tokol'dosh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[
+        85903153
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.63333,
+    42.86667,
+    74.63333,
+    42.86667
+],
+  "geometry": {"coordinates":[74.63333,42.86667],"type":"Point"}
+}

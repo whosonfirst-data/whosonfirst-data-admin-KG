@@ -1,0 +1,76 @@
+{
+  "id": 1276463867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31574,40.36887,74.31574,40.36887",
+    "geom:latitude":40.36887,
+    "geom:longitude":74.31574,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Kiya",
+    "gn:country_code":"KG",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406189,
+    "gn:latitude":40.36887,
+    "gn:longitude":74.31574,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Kyzyl-Kiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Koo-Chaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406189
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"03d1607123bc8b9fb4ef4e10cb8f03a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1276463867,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276463867,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Kyzyl-Kiya",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31574,
+    40.36887,
+    74.31574,
+    40.36887
+],
+  "geometry": {"coordinates":[74.31574000000001,40.36887],"type":"Point"}
+}

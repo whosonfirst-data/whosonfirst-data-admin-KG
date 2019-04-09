@@ -1,0 +1,73 @@
+{
+  "id": 1243162757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97256,40.20707,72.97256,40.20707",
+    "geom:latitude":40.20707,
+    "geom:longitude":72.97256,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tarylga",
+    "gn:country_code":"KG",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139528,
+    "gn:latitude":40.20707,
+    "gn:longitude":72.97256,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Tarylga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0440\u044b\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u044b\u043b\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139528
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c0cb5fd433c6dfd11ce27bb16d4f6c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1243162757,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243162757,
+    "wof:lastmodified":1537653217,
+    "wof:name":"Tarylga",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97256,
+    40.20707,
+    72.97256,
+    40.20707
+],
+  "geometry": {"coordinates":[72.97256,40.20707],"type":"Point"}
+}

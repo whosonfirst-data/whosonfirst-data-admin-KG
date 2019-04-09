@@ -1,0 +1,73 @@
+{
+  "id": 1260065899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66736,40.24618,72.66736,40.24618",
+    "geom:latitude":40.24618,
+    "geom:longitude":72.66736,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Borko",
+    "gn:country_code":"KG",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139571,
+    "gn:latitude":40.24618,
+    "gn:longitude":72.66736,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Borko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0440\u043a\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139571
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b735fae753521e421a6e464ffb332f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1260065899,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260065899,
+    "wof:lastmodified":1537653219,
+    "wof:name":"Borko",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66736,
+    40.24618,
+    72.66736,
+    40.24618
+],
+  "geometry": {"coordinates":[72.66736,40.24618],"type":"Point"}
+}

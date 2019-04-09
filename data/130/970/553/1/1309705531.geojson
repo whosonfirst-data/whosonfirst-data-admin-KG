@@ -1,0 +1,78 @@
+{
+  "id": 1309705531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64121,40.17019,73.64121,40.17019",
+    "geom:latitude":40.17019,
+    "geom:longitude":73.64121,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chong-Byulelyu",
+    "gn:country_code":"KG",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528504,
+    "gn:latitude":40.17019,
+    "gn:longitude":73.64121,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Chong-Byul\u00eblyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Chong-Byul\u00eblyu"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u043e\u043d\u0433-\u0411\u044e\u043b\u0451\u043b\u044e"
+    ],
+    "name:und_x_variant":[
+        "Chonbleuli",
+        "Chonbulolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528504,
+        "wk:page":"Chonbulolu"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f84f8c5d091edc6a318f9920dfb2c406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1309705531,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309705531,
+    "wof:lastmodified":1537653166,
+    "wof:name":"Chong-Byulelyu",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64121,
+    40.17019000000001,
+    73.64121,
+    40.17019000000001
+],
+  "geometry": {"coordinates":[73.64121,40.17019000000001],"type":"Point"}
+}

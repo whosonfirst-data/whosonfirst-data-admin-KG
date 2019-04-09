@@ -1,0 +1,71 @@
+{
+  "id": 1259397345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41667,41.66667,73.41667,41.66667",
+    "geom:latitude":41.66667,
+    "geom:longitude":73.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kyzylzhildyz",
+    "gn:country_code":"KG",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527696,
+    "gn:latitude":41.66667,
+    "gn:longitude":73.41667,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Kyzylzhildyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0416\u044b\u043b\u0434\u044b\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527696,
+        "wk:page":"Kyzylzhildyz"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3d6e570d33766cea9cbb3155d1d17be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1259397345,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259397345,
+    "wof:lastmodified":1537653132,
+    "wof:name":"Kyzylzhildyz",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41667,
+    41.66667,
+    73.41667,
+    41.66667
+],
+  "geometry": {"coordinates":[73.41667,41.66667],"type":"Point"}
+}

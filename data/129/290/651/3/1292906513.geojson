@@ -1,0 +1,73 @@
+{
+  "id": 1292906513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22244,42.85237,74.22244,42.85237",
+    "geom:latitude":42.85237,
+    "geom:longitude":74.22244,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Aleksandrovka",
+    "gn:country_code":"KG",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217177,
+    "gn:latitude":42.85237,
+    "gn:longitude":74.22244,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Aleksandrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217177
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9b87cb16130a61e873fd245e8419d786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691579,
+            "locality_id":1292906513,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1292906513,
+    "wof:lastmodified":1537653263,
+    "wof:name":"Aleksandrovka",
+    "wof:parent_id":1091691579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22244,
+    42.85237,
+    74.22244,
+    42.85237
+],
+  "geometry": {"coordinates":[74.22244000000001,42.85237],"type":"Point"}
+}

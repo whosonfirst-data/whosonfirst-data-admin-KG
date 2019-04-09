@@ -1,0 +1,73 @@
+{
+  "id": 1276224281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.65638,42.52262,78.65638,42.52262",
+    "geom:latitude":42.52262,
+    "geom:longitude":78.65638,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kayirmaaryk",
+    "gn:country_code":"KG",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8334071,
+    "gn:latitude":42.52262,
+    "gn:longitude":78.65638,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kayirmaaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0439\u044b\u0440\u043c\u0430-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0438\u0440\u043c\u0430\u0430\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8334071
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a130bea819cf1f8d4e6dad9c523e664c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691455,
+            "locality_id":1276224281,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1276224281,
+    "wof:lastmodified":1537653289,
+    "wof:name":"Kayirmaaryk",
+    "wof:parent_id":1091691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.65638,
+    42.52262,
+    78.65638,
+    42.52262
+],
+  "geometry": {"coordinates":[78.65638,42.52262],"type":"Point"}
+}

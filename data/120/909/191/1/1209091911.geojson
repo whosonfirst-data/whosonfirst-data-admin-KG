@@ -1,0 +1,67 @@
+{
+  "id": 1209091911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23896,40.46033,72.23896,40.46033",
+    "geom:latitude":40.46033,
+    "geom:longitude":72.23896,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Katta-Nayman",
+    "gn:country_code":"KG",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538442,
+    "gn:latitude":40.46033,
+    "gn:longitude":72.23896,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Katta-Nayman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0442\u0442\u0430-\u041d\u0430\u0439\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0442\u0430-\u041d\u0430\u0439\u043c\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538442
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f0f1c49759abdace785aaea88b8f2d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209091911
+        }
+    ],
+    "wof:id":1209091911,
+    "wof:lastmodified":1537653313,
+    "wof:name":"Katta-Nayman",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23895999999998,
+    40.46033,
+    72.23895999999998,
+    40.46033
+],
+  "geometry": {"coordinates":[72.23895999999998,40.46033],"type":"Point"}
+}

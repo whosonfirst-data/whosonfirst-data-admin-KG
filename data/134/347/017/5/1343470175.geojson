@@ -1,0 +1,76 @@
+{
+  "id": 1343470175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74794,41.65396,72.74794,41.65396",
+    "geom:latitude":41.65396,
+    "geom:longitude":72.74794,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kara-Kol",
+    "gn:country_code":"KG",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528123,
+    "gn:latitude":41.65396,
+    "gn:longitude":72.74794,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kara-Kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Karakol\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528123
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b96927c3e6dfed6e15385143ba36dfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1343470175,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343470175,
+    "wof:lastmodified":1537653150,
+    "wof:name":"Kara-Kol",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74794,
+    41.65396,
+    72.74794,
+    41.65396
+],
+  "geometry": {"coordinates":[72.74794,41.65396],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310026805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.24737,42.79182,78.24737,42.79182",
+    "geom:latitude":42.79182,
+    "geom:longitude":78.24737,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kurmenty",
+    "gn:country_code":"KG",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527771,
+    "gn:latitude":42.79182,
+    "gn:longitude":78.24737,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kurmenty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04af\u0440\u043c\u04e9\u043d\u0442\u04af"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043c\u0435\u043d\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kurment\u00f6",
+        "Kurmenty",
+        "K\u00fcrm\u00f6nt\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527771,
+        "wk:page":"Kurmenty"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bb3483cd42823d0183e9c713641e91b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691407,
+            "locality_id":1310026805,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1310026805,
+    "wof:lastmodified":1537653136,
+    "wof:name":"Kurmenty",
+    "wof:parent_id":1091691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.24736999999998,
+    42.79182,
+    78.24736999999998,
+    42.79182
+],
+  "geometry": {"coordinates":[78.24736999999998,42.79182],"type":"Point"}
+}

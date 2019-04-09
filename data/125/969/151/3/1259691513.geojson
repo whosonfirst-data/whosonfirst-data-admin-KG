@@ -1,0 +1,77 @@
+{
+  "id": 1259691513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04648,41.419,74.04648,41.419",
+    "geom:latitude":41.419,
+    "geom:longitude":74.04648,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tabylgyty",
+    "gn:country_code":"KG",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527251,
+    "gn:latitude":41.419,
+    "gn:longitude":74.04648,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tabylgyty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tabylgyty"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0432\u044b\u043b\u0433\u044b\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tavylgyty",
+        "Tebykty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527251
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"008d2124a12dd3d31c2f4b6d2b693a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1259691513,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259691513,
+    "wof:lastmodified":1537653112,
+    "wof:name":"Tabylgyty",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04648,
+    41.419,
+    74.04648,
+    41.419
+],
+  "geometry": {"coordinates":[74.04648,41.419],"type":"Point"}
+}

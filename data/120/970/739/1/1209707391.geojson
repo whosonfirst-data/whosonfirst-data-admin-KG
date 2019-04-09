@@ -1,0 +1,70 @@
+{
+  "id": 1209707391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.41667,42.31667,76.41667,42.31667",
+    "geom:latitude":42.31667,
+    "geom:longitude":76.41667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Imeni Voroshilova",
+    "gn:country_code":"KG",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528285,
+    "gn:latitude":42.31667,
+    "gn:longitude":76.41667,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Imeni Voroshilova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432 \u0430\u0442\u044b\u043d\u0434\u0430\u0433\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528285
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b8810b1f3d263c7ebe82e33a0088eb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1209707391,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1209707391,
+    "wof:lastmodified":1537653155,
+    "wof:name":"Imeni Voroshilova",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.41667,
+    42.31667,
+    76.41667,
+    42.31667
+],
+  "geometry": {"coordinates":[76.41667,42.31667],"type":"Point"}
+}

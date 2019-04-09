@@ -1,0 +1,67 @@
+{
+  "id": 1209016211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42287,41.08445,73.42287,41.08445",
+    "geom:latitude":41.08445,
+    "geom:longitude":73.42287,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kadu-Alma",
+    "gn:country_code":"KG",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178282,
+    "gn:latitude":41.08445,
+    "gn:longitude":73.42287,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kadu-Alma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0434\u0443-\u0410\u043b\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0434\u0443-\u0410\u043b\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178282
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9e2cd7d7c8f8c20b51b030c5a4bee167",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209016211
+        }
+    ],
+    "wof:id":1209016211,
+    "wof:lastmodified":1537653251,
+    "wof:name":"Kadu-Alma",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42286999999997,
+    41.08445,
+    73.42286999999997,
+    41.08445
+],
+  "geometry": {"coordinates":[73.42286999999997,41.08445],"type":"Point"}
+}

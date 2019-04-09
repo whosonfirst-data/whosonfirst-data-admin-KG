@@ -1,0 +1,79 @@
+{
+  "id": 1243181197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.28233,42.81973,75.28233,42.81973",
+    "geom:latitude":42.81973,
+    "geom:longitude":75.28233,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chuy",
+    "gn:country_code":"KG",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1527338,
+    "gn:latitude":42.81973,
+    "gn:longitude":75.28233,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Chuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ch\u00fcy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0439"
+    ],
+    "name:und_x_variant":[
+        "Staraya Pokrovka",
+        "Staropokrovka",
+        "Pokrovka",
+        "Chuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527338
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6fa9191994a5114809f64a972eba61b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691731,
+            "locality_id":1243181197,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1243181197,
+    "wof:lastmodified":1537653116,
+    "wof:name":"Chuy",
+    "wof:parent_id":1091691731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.28233,
+    42.81973,
+    75.28233,
+    42.81973
+],
+  "geometry": {"coordinates":[75.28233,42.81973],"type":"Point"}
+}

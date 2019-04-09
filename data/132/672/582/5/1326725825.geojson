@@ -1,0 +1,82 @@
+{
+  "id": 1326725825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44282,40.68144,73.44282,40.68144",
+    "geom:latitude":40.68144,
+    "geom:longitude":73.44282,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oktyabr'skoye",
+    "gn:country_code":"KG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527564,
+    "gn:latitude":40.68144,
+    "gn:longitude":73.44282,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Oktyabr\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Oktyabr\u2019skoye"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kara-Kashkar",
+        "Oktyabr\u2019",
+        "Oktyabr\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527564,
+        "wk:page":"Kara-Kashkar"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"06ba6ba3d009f6afcbc1040fc11a4e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1326725825,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326725825,
+    "wof:lastmodified":1537653126,
+    "wof:name":"Oktyabr'skoye",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44282,
+    40.68144,
+    73.44282,
+    40.68144
+],
+  "geometry": {"coordinates":[73.44282,40.68144],"type":"Point"}
+}

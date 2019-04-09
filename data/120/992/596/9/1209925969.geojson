@@ -1,0 +1,76 @@
+{
+  "id": 1209925969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10283,41.41941,72.10283,41.41941",
+    "geom:latitude":41.41941,
+    "geom:longitude":72.10283,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kara-dzhigach",
+    "gn:country_code":"KG",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194420,
+    "gn:latitude":41.41941,
+    "gn:longitude":72.10283,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kara-dzhigach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0416\u0438\u0433\u0430\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0438\u0433\u0430\u0447"
+    ],
+    "name:und_x_variant":[
+        "Karadzhigach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194420
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bd92e19461cccf1ec514ffe5c4b9f503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1209925969,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209925969,
+    "wof:lastmodified":1537653257,
+    "wof:name":"Kara-dzhigach",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10283000000003,
+    41.41941,
+    72.10283000000003,
+    41.41941
+],
+  "geometry": {"coordinates":[72.10283000000003,41.41941],"type":"Point"}
+}

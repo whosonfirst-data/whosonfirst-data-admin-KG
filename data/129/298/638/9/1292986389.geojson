@@ -1,0 +1,73 @@
+{
+  "id": 1292986389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95695,40.70578,72.95695,40.70578",
+    "geom:latitude":40.70578,
+    "geom:longitude":72.95695,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Savay Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538614,
+    "gn:latitude":40.70578,
+    "gn:longitude":72.95695,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Savay Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u0439-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u0439 \u0410\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538614
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6f920cdb831bf4a3bb439bfaac647872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1292986389,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1292986389,
+    "wof:lastmodified":1537653314,
+    "wof:name":"Savay Aryk",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95695,
+    40.70578,
+    72.95695,
+    40.70578
+],
+  "geometry": {"coordinates":[72.95695000000001,40.70578],"type":"Point"}
+}

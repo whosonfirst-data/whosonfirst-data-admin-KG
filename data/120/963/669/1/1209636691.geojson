@@ -1,0 +1,71 @@
+{
+  "id": 1209636691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.56489,42.78511,78.56489,42.78511",
+    "geom:latitude":42.78511,
+    "geom:longitude":78.56489,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Korumdy",
+    "gn:country_code":"KG",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527841,
+    "gn:latitude":42.78511,
+    "gn:longitude":78.56489,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Korumdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0440\u0443\u043c\u0434\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0443\u043c\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Korumdu",
+        "Korumdy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527841
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d318bfe5e44235818d2c8768ef5d4fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209636691
+        }
+    ],
+    "wof:id":1209636691,
+    "wof:lastmodified":1537653138,
+    "wof:name":"Korumdy",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.56489,
+    42.78511,
+    78.56489,
+    42.78511
+],
+  "geometry": {"coordinates":[78.56489000000001,42.78511],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310510135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35433,42.68963,75.35433,42.68963",
+    "geom:latitude":42.68963,
+    "geom:longitude":75.35433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Koshoj",
+    "gn:country_code":"KG",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528209,
+    "gn:latitude":42.68963,
+    "gn:longitude":75.35433,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Koshoj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0448\u0438\u0439"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528209
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"16bd0d6f7caf9583b1afd3787d40863b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691731,
+            "locality_id":1310510135,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310510135,
+    "wof:lastmodified":1537653153,
+    "wof:name":"Koshoj",
+    "wof:parent_id":1091691731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35433,
+    42.68963,
+    75.35433,
+    42.68963
+],
+  "geometry": {"coordinates":[75.35433,42.68963],"type":"Point"}
+}

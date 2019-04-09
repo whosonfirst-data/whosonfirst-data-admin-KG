@@ -1,0 +1,76 @@
+{
+  "id": 1226144917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04325,40.8638,73.04325,40.8638",
+    "geom:latitude":40.8638,
+    "geom:longitude":73.04325,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tashtak",
+    "gn:country_code":"KG",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174140,
+    "gn:latitude":40.8638,
+    "gn:longitude":73.04325,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Tashtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u0442\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Toshtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174140
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7af47aff4bd2f7fd4b4721d95ae3f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1226144917,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226144917,
+    "wof:lastmodified":1537653248,
+    "wof:name":"Tashtak",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04325,
+    40.8638,
+    73.04325,
+    40.8638
+],
+  "geometry": {"coordinates":[73.04325,40.8638],"type":"Point"}
+}

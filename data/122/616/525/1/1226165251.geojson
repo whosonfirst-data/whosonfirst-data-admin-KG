@@ -1,0 +1,73 @@
+{
+  "id": 1226165251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.70004,41.67193,76.70004,41.67193",
+    "geom:latitude":41.67193,
+    "geom:longitude":76.70004,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uzun-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":2738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8416820,
+    "gn:latitude":41.67193,
+    "gn:longitude":76.70004,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Uzun-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0437\u0443\u043d-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8416820
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4bc8d51c8fea743d869ef08b4a58dec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1226165251,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226165251,
+    "wof:lastmodified":1537653313,
+    "wof:name":"Uzun-Bulak",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.70004,
+    41.67193,
+    76.70004,
+    41.67193
+],
+  "geometry": {"coordinates":[76.70004,41.67193],"type":"Point"}
+}

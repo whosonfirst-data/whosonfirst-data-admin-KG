@@ -1,0 +1,70 @@
+{
+  "id": 1209399163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65879,39.94353,71.65879,39.94353",
+    "geom:latitude":39.94353,
+    "geom:longitude":71.65879,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kara-Shoro",
+    "gn:country_code":"KG",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8390259,
+    "gn:latitude":39.94353,
+    "gn:longitude":71.65879,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Kara-Shoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0428\u043e\u0440\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0428\u043e\u0440\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora-Sho\u2018ro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8390259
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dccb479d1d6981688da23778ffda65c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209399163
+        }
+    ],
+    "wof:id":1209399163,
+    "wof:lastmodified":1537653308,
+    "wof:name":"Kara-Shoro",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65879,
+    39.94353,
+    71.65879,
+    39.94353
+],
+  "geometry": {"coordinates":[71.65879,39.94353],"type":"Point"}
+}

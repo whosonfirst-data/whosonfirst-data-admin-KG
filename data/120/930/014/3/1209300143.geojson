@@ -1,0 +1,67 @@
+{
+  "id": 1209300143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56578,40.28387,73.56578,40.28387",
+    "geom:latitude":40.28387,
+    "geom:longitude":73.56578,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142722,
+    "gn:latitude":40.28387,
+    "gn:longitude":73.56578,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kara-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142722
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e8fd6f86e7318e647599adddb57b87a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209300143
+        }
+    ],
+    "wof:id":1209300143,
+    "wof:lastmodified":1537653233,
+    "wof:name":"Kara-Suu",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56578,
+    40.28387,
+    73.56578,
+    40.28387
+],
+  "geometry": {"coordinates":[73.56578,40.28387],"type":"Point"}
+}

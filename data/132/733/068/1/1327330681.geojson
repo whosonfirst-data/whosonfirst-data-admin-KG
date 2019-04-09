@@ -1,0 +1,79 @@
+{
+  "id": 1327330681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.66458,42.09031,76.66458,42.09031",
+    "geom:latitude":42.09031,
+    "geom:longitude":76.66458,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kul'tor",
+    "gn:country_code":"KG",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331939,
+    "gn:latitude":42.09031,
+    "gn:longitude":76.66458,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Kul\u2019tor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043b-\u0422\u04e9\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "Kul\u2019tor"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kul\u2019tor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331939
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"18b285e9e1587ad357704fca60c9c804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1327330681,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1327330681,
+    "wof:lastmodified":1537653287,
+    "wof:name":"Kul'tor",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.66458,
+    42.09031,
+    76.66458,
+    42.09031
+],
+  "geometry": {"coordinates":[76.66458,42.09031],"type":"Point"}
+}

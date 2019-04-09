@@ -1,0 +1,73 @@
+{
+  "id": 1309912057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.88667,42.17459,75.88667,42.17459",
+    "geom:latitude":42.17459,
+    "geom:longitude":75.88667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uchbulak",
+    "gn:country_code":"KG",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328344,
+    "gn:latitude":42.17459,
+    "gn:longitude":75.88667,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Uchbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04ae\u0447-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328344
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"eb66c5ed5c8ce983c82dd13f4eec2960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1309912057,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1309912057,
+    "wof:lastmodified":1537653286,
+    "wof:name":"Uchbulak",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.88667,
+    42.17459,
+    75.88667,
+    42.17459
+],
+  "geometry": {"coordinates":[75.88667,42.17459],"type":"Point"}
+}

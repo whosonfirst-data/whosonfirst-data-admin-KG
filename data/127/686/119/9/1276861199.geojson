@@ -1,0 +1,73 @@
+{
+  "id": 1276861199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12171,40.29203,72.12171,40.29203",
+    "geom:latitude":40.29203,
+    "geom:longitude":72.12171,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akbulak Vtoroy",
+    "gn:country_code":"KG",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10901353,
+    "gn:latitude":40.29203,
+    "gn:longitude":72.12171,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Akbulak Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0431\u0443\u043b\u0430\u043a \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Buloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10901353
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d2ad8a676798a7e3f8a7a55eefee63c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1276861199,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276861199,
+    "wof:lastmodified":1537653316,
+    "wof:name":"Akbulak Vtoroy",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12171,
+    40.29203,
+    72.12171,
+    40.29203
+],
+  "geometry": {"coordinates":[72.12170999999999,40.29203],"type":"Point"}
+}

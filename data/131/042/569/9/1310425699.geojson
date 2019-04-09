@@ -1,0 +1,80 @@
+{
+  "id": 1310425699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.39282,40.19118,74.39282,40.19118",
+    "geom:latitude":40.19118,
+    "geom:longitude":74.39282,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chatyr",
+    "gn:country_code":"KG",
+    "gn:dem":2839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528595,
+    "gn:latitude":40.19118,
+    "gn:longitude":74.39282,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chatyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u0442\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "Zimov\u2019ye Chatyr"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0438\u043c\u043e\u0432\u044c\u0435 \u0427\u0430\u0442\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chakir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528595,
+        "wk:page":"Chakir"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"38a0148675e8fcb07b0ab7dd47bc780f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1310425699,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310425699,
+    "wof:lastmodified":1537653170,
+    "wof:name":"Chatyr",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.39282,
+    40.19118,
+    74.39282,
+    40.19118
+],
+  "geometry": {"coordinates":[74.39282,40.19118],"type":"Point"}
+}

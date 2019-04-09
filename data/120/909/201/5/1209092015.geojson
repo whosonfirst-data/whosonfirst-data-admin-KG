@@ -1,0 +1,70 @@
+{
+  "id": 1209092015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.4063,40.3717,73.4063,40.3717",
+    "geom:latitude":40.3717,
+    "geom:longitude":73.4063,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pervoye Maya",
+    "gn:country_code":"KG",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143868,
+    "gn:latitude":40.3717,
+    "gn:longitude":73.4063,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Pervoye Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0440\u0438\u043d\u0447\u0438 \u041c\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Birinchi May"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143868
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ffff72e7bb7315d55dbb8cdaa8929429",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209092015
+        }
+    ],
+    "wof:id":1209092015,
+    "wof:lastmodified":1537653235,
+    "wof:name":"Pervoye Maya",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.4063,
+    40.3717,
+    73.4063,
+    40.3717
+],
+  "geometry": {"coordinates":[73.4063,40.3717],"type":"Point"}
+}

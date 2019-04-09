@@ -1,0 +1,73 @@
+{
+  "id": 1327238927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89889,40.85572,72.89889,40.85572",
+    "geom:latitude":40.85572,
+    "geom:longitude":72.89889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Munduz",
+    "gn:country_code":"KG",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137700,
+    "gn:latitude":40.85572,
+    "gn:longitude":72.89889,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Munduz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0443\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0443\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137700
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3de78d3a5b0f2ac306e79e273dc9adfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1327238927,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327238927,
+    "wof:lastmodified":1537653213,
+    "wof:name":"Munduz",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89889000000002,
+    40.85572,
+    72.89889000000002,
+    40.85572
+],
+  "geometry": {"coordinates":[72.89889000000002,40.85572],"type":"Point"}
+}

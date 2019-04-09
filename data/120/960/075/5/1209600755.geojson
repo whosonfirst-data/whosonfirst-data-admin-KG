@@ -1,0 +1,73 @@
+{
+  "id": 1209600755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.4126,39.90168,73.4126,39.90168",
+    "geom:latitude":39.90168,
+    "geom:longitude":73.4126,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kichi-Karakol",
+    "gn:country_code":"KG",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222629,
+    "gn:latitude":39.90168,
+    "gn:longitude":73.4126,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kichi-Karakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0447\u0438-\u041a\u0430\u0440\u0430\u043a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0447\u0438-\u041a\u0430\u0440\u0430\u043a\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Kichik-Karakol",
+        "Chongkarak\u00ebl\u2019",
+        "Kichi-Karakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222629,
+        "wk:page":"Chongkarakel%27"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"aa8fc33eaf0eaa5e83cfdbfa7a487d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209600755
+        }
+    ],
+    "wof:id":1209600755,
+    "wof:lastmodified":1537653097,
+    "wof:name":"Kichi-Karakol",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.4126,
+    39.90168,
+    73.4126,
+    39.90168
+],
+  "geometry": {"coordinates":[73.4126,39.90168],"type":"Point"}
+}

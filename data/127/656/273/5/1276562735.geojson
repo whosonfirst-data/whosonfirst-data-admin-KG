@@ -1,0 +1,71 @@
+{
+  "id": 1276562735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6,40.66667,73.6,40.66667",
+    "geom:latitude":40.66667,
+    "geom:longitude":73.6,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bulak (Bulak = Source/Water, not inhabited, delete?)",
+    "gn:country_code":"KG",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528631,
+    "gn:latitude":40.66667,
+    "gn:longitude":73.6,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Bulak (Bulak = Source/Water, not inhabited, delete?)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulat",
+        "Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528631
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"142f535acaed9cb39ee2837f3e7d885e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1276562735,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276562735,
+    "wof:lastmodified":1537653171,
+    "wof:name":"Bulak (Bulak = Source/Water, not inhabited, delete?)",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6,
+    40.66667,
+    73.6,
+    40.66667
+],
+  "geometry": {"coordinates":[73.59999999999999,40.66667],"type":"Point"}
+}

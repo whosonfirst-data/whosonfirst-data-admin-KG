@@ -1,0 +1,67 @@
+{
+  "id": 1209107891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21579,41.06293,73.21579,41.06293",
+    "geom:latitude":41.06293,
+    "geom:longitude":73.21579,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uch-Malay",
+    "gn:country_code":"KG",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178287,
+    "gn:latitude":41.06293,
+    "gn:longitude":73.21579,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Uch-Malay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0447-\u041c\u0430\u043b\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447-\u041c\u0430\u043b\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178287
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"18f3a0f4d786e6f4c8fb41198b912b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209107891
+        }
+    ],
+    "wof:id":1209107891,
+    "wof:lastmodified":1537653251,
+    "wof:name":"Uch-Malay",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21579,
+    41.06293,
+    73.21579,
+    41.06293
+],
+  "geometry": {"coordinates":[73.21579,41.06293],"type":"Point"}
+}

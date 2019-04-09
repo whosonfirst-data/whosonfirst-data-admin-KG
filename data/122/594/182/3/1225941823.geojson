@@ -1,0 +1,79 @@
+{
+  "id": 1225941823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15426,40.68585,73.15426,40.68585",
+    "geom:latitude":40.68585,
+    "geom:longitude":73.15426,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Staraya Pokrovka",
+    "gn:country_code":"KG",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527041,
+    "gn:latitude":40.68585,
+    "gn:longitude":73.15426,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Staraya Pokrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Eski-Pokrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Pokrovskoye",
+        "Verkhne-Pokrovskoye",
+        "Staraya Pokrovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527041,
+        "wk:page":"Verkhne-Pokrovskoye"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b49cefef5b6a54c9a45c0d5d7857e3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1225941823,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1225941823,
+    "wof:lastmodified":1537653105,
+    "wof:name":"Staraya Pokrovka",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15426,
+    40.68585,
+    73.15426,
+    40.68585
+],
+  "geometry": {"coordinates":[73.15425999999999,40.68585],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243556401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48628,41.4105,71.48628,41.4105",
+    "geom:latitude":41.4105,
+    "geom:longitude":71.48628,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ala-Buka",
+    "gn:country_code":"KG",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1528875,
+    "gn:latitude":41.4105,
+    "gn:longitude":71.48628,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Ala-Buka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ala-Buka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430-\u0411\u0443\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ola-Bo\u2018qa"
+    ],
+    "name:uzb_x_preferred":[
+        "Ola-Bo\u2018ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528875
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3ffd24ecbad5e97ada616662d540a05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1243556401,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243556401,
+    "wof:lastmodified":1537653180,
+    "wof:name":"Ala-Buka",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48628000000002,
+    41.4105,
+    71.48628000000002,
+    41.4105
+],
+  "geometry": {"coordinates":[71.48628000000002,41.4105],"type":"Point"}
+}

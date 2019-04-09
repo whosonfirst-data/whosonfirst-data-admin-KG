@@ -1,0 +1,73 @@
+{
+  "id": 1260308303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56869,40.27798,73.56869,40.27798",
+    "geom:latitude":40.27798,
+    "geom:longitude":73.56869,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kaynama",
+    "gn:country_code":"KG",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142723,
+    "gn:latitude":40.27798,
+    "gn:longitude":73.56869,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kaynama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142723
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"621db59a9b868b5ed776427b232697da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1260308303,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260308303,
+    "wof:lastmodified":1537653233,
+    "wof:name":"Kaynama",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56869,
+    40.27798,
+    73.56869,
+    40.27798
+],
+  "geometry": {"coordinates":[73.56869,40.27798],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242785495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.03108,41.74196,72.03108,41.74196",
+    "geom:latitude":41.74196,
+    "geom:longitude":72.03108,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzylemgek",
+    "gn:country_code":"KG",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194297,
+    "gn:latitude":41.74196,
+    "gn:longitude":72.03108,
+    "gn:modification_date":"2015-05-29",
+    "gn:name":"Kyzylemgek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u042d\u043c\u0433\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u044d\u043c\u0433\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194297
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b746304dafb0ba3742ae9ac13cb68334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1242785495,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1242785495,
+    "wof:lastmodified":1537653255,
+    "wof:name":"Kyzylemgek",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.03108,
+    41.74196,
+    72.03108,
+    41.74196
+],
+  "geometry": {"coordinates":[72.03108,41.74196],"type":"Point"}
+}

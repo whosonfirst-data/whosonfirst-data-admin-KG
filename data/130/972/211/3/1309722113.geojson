@@ -1,0 +1,70 @@
+{
+  "id": 1309722113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20046,41.0527,73.20046,41.0527",
+    "geom:latitude":41.0527,
+    "geom:longitude":73.20046,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malay",
+    "gn:country_code":"KG",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528541,
+    "gn:latitude":41.0527,
+    "gn:longitude":73.20046,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Malay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528541
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c5fac4b6b0fd42cda6b25de375f677ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1309722113,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1309722113,
+    "wof:lastmodified":1537653167,
+    "wof:name":"Malay",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20045999999998,
+    41.0527,
+    73.20045999999998,
+    41.0527
+],
+  "geometry": {"coordinates":[73.20045999999998,41.0527],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310307997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35428,42.81247,75.35428,42.81247",
+    "geom:latitude":42.81247,
+    "geom:longitude":75.35428,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzhany-Chek",
+    "gn:country_code":"KG",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528394,
+    "gn:latitude":42.81247,
+    "gn:longitude":75.35428,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhany-Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0427\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0427\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhenychek",
+        "Dzhany-Chek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528394,
+        "wk:page":"Dzhenychek"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"40c4b98d7c58ce47aafff261d515f978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691731,
+            "locality_id":1310307997,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310307997,
+    "wof:lastmodified":1537653161,
+    "wof:name":"Dzhany-Chek",
+    "wof:parent_id":1091691731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35428,
+    42.81247000000001,
+    75.35428,
+    42.81247000000001
+],
+  "geometry": {"coordinates":[75.35428,42.81247000000001],"type":"Point"}
+}

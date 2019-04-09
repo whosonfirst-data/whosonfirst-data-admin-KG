@@ -1,0 +1,73 @@
+{
+  "id": 1293020783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60957,40.2467,72.60957,40.2467",
+    "geom:latitude":40.2467,
+    "geom:longitude":72.60957,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Noygut",
+    "gn:country_code":"KG",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139566,
+    "gn:latitude":40.2467,
+    "gn:longitude":72.60957,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Noygut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0439\u0433\u0443\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0439\u0433\u0443\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139566
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"efc27487ab23a8b1535ba72539ea33fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293020783,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293020783,
+    "wof:lastmodified":1537653219,
+    "wof:name":"Noygut",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60956999999998,
+    40.2467,
+    72.60956999999998,
+    40.2467
+],
+  "geometry": {"coordinates":[72.60956999999998,40.2467],"type":"Point"}
+}

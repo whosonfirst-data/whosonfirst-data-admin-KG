@@ -1,0 +1,83 @@
+{
+  "id": 1343869801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23191,41.10168,73.23191,41.10168",
+    "geom:latitude":41.10168,
+    "geom:longitude":73.23191,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mikhaylovka",
+    "gn:country_code":"KG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527631,
+    "gn:latitude":41.10168,
+    "gn:longitude":73.23191,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Mikhaylovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0435\u0440\u0433\u0435-\u0422\u0430\u043b"
+    ],
+    "name:kir_x_variant":[
+        "Mikhaylovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Jirgital",
+        "Dzhergetal",
+        "Dzhirgatal",
+        "Dzhirgital",
+        "Mikhaylovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527631
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"53f49f66b69893d231c4a8a5dbe824a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1343869801,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343869801,
+    "wof:lastmodified":1537653129,
+    "wof:name":"Mikhaylovka",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23191,
+    41.10168,
+    73.23191,
+    41.10168
+],
+  "geometry": {"coordinates":[73.23191,41.10168],"type":"Point"}
+}

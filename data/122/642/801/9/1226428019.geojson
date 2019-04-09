@@ -1,0 +1,79 @@
+{
+  "id": 1226428019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.69977,40.20964,72.69977,40.20964",
+    "geom:latitude":40.20964,
+    "geom:longitude":72.69977,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ak-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139544,
+    "gn:latitude":40.20964,
+    "gn:longitude":72.69977,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Ak-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Imeni Tel\u2019mana"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0422\u0435\u043b\u044c\u043c\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Al-Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139544
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b025ab5ca447ddad444281770c267246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1226428019,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226428019,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Ak-Bulak",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69977,
+    40.20964,
+    72.69977,
+    40.20964
+],
+  "geometry": {"coordinates":[72.69977,40.20964],"type":"Point"}
+}

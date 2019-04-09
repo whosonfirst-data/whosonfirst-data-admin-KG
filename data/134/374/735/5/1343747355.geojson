@@ -1,0 +1,79 @@
+{
+  "id": 1343747355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9405,40.03492,72.9405,40.03492",
+    "geom:latitude":40.03492,
+    "geom:longitude":72.9405,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kul'tientr Ak-Talas",
+    "gn:country_code":"KG",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139473,
+    "gn:latitude":40.03492,
+    "gn:longitude":72.9405,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kul\u2019tientr Ak-Talas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u043b\u044c\u0442\u0438\u0435\u043d\u0442\u0440 \u0410\u043a-\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "Kul\u2019tientr Ak-Talas"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u0438\u0435\u043d\u0442\u0440 \u0410\u043a-\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Kul\u2019tientr Ak-Talas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139473
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"841bc08cf2e8b2d91b13e9551fbed211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1343747355,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343747355,
+    "wof:lastmodified":1537653217,
+    "wof:name":"Kul'tientr Ak-Talas",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9405,
+    40.03492,
+    72.9405,
+    40.03492
+],
+  "geometry": {"coordinates":[72.9405,40.03492],"type":"Point"}
+}

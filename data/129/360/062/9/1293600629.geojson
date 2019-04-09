@@ -1,0 +1,73 @@
+{
+  "id": 1293600629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95602,40.85415,72.95602,40.85415",
+    "geom:latitude":40.85415,
+    "geom:longitude":72.95602,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyrgyz-Abad",
+    "gn:country_code":"KG",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137698,
+    "gn:latitude":40.85415,
+    "gn:longitude":72.95602,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyrgyz-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u044b\u0440\u0433\u044b\u0437-\u0410\u0432\u0430\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u044b\u0440\u0433\u044b\u0437-\u0410\u0432\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137698
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0e7efec4f0ad24a6984054fb3595a7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1293600629,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293600629,
+    "wof:lastmodified":1537653213,
+    "wof:name":"Kyrgyz-Abad",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95602,
+    40.85415,
+    72.95602,
+    40.85415
+],
+  "geometry": {"coordinates":[72.95602,40.85415],"type":"Point"}
+}

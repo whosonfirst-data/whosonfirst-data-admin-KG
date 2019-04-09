@@ -1,0 +1,70 @@
+{
+  "id": 1209299961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00921,40.68048,73.00921,40.68048",
+    "geom:latitude":40.68048,
+    "geom:longitude":73.00921,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sary-Kolot",
+    "gn:country_code":"KG",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8173344,
+    "gn:latitude":40.68048,
+    "gn:longitude":73.00921,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Sary-Kolot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Sari-Kolot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8173344
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e3c198c3fe0db44361aef01a8a03ae6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209299961
+        }
+    ],
+    "wof:id":1209299961,
+    "wof:lastmodified":1537653242,
+    "wof:name":"Sary-Kolot",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00921,
+    40.68048,
+    73.00921,
+    40.68048
+],
+  "geometry": {"coordinates":[73.00921,40.68048],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1193272523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.01542,42.74162,78.01542,42.74162",
+    "geom:latitude":42.74162,
+    "geom:longitude":78.01542,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oytal",
+    "gn:country_code":"KG",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527516,
+    "gn:latitude":42.74162,
+    "gn:longitude":78.01542,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Oytal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0439\u0442\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0439\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Alekseyvka",
+        "Uytal",
+        "Alekseyevka",
+        "Oytal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527516
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"37bc38414929800e3b2ee70cd9327fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691407,
+            "locality_id":1193272523,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1193272523,
+    "wof:lastmodified":1537653124,
+    "wof:name":"Oytal",
+    "wof:parent_id":1091691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.01541999999998,
+    42.74162000000001,
+    78.01541999999998,
+    42.74162000000001
+],
+  "geometry": {"coordinates":[78.01541999999998,42.74162000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243549873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74937,40.22803,72.74937,40.22803",
+    "geom:latitude":40.22803,
+    "geom:longitude":72.74937,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shankol",
+    "gn:country_code":"KG",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527390,
+    "gn:latitude":40.22803,
+    "gn:longitude":72.74937,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Shankol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u043d\u043a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u043a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527390,
+        "wk:page":"Shankol"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"841f922519546b2468fbc8b1671139d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1243549873,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243549873,
+    "wof:lastmodified":1537653118,
+    "wof:name":"Shankol",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74937,
+    40.22803,
+    72.74937,
+    40.22803
+],
+  "geometry": {"coordinates":[72.74937,40.22803],"type":"Point"}
+}

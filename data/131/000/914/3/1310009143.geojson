@@ -1,0 +1,76 @@
+{
+  "id": 1310009143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.49736,43.0494,74.49736,43.0494",
+    "geom:latitude":43.0494,
+    "geom:longitude":74.49736,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mramornoe",
+    "gn:country_code":"KG",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064028,
+    "gn:latitude":43.0494,
+    "gn:longitude":74.49736,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Mramornoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Mramornoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0440\u0430\u043c\u043e\u0440\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mramornoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064028
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"254ddddbf708bd7650be8b2c932900a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1310009143,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310009143,
+    "wof:lastmodified":1537653199,
+    "wof:name":"Mramornoe",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.49736,
+    43.0494,
+    74.49736,
+    43.0494
+],
+  "geometry": {"coordinates":[74.49736,43.0494],"type":"Point"}
+}

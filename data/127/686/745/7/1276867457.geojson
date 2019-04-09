@@ -1,0 +1,79 @@
+{
+  "id": 1276867457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24092,40.65999,73.24092,40.65999",
+    "geom:latitude":40.65999,
+    "geom:longitude":73.24092,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Kel'",
+    "gn:country_code":"KG",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145300,
+    "gn:latitude":40.65999,
+    "gn:longitude":73.24092,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kyzyl-K\u00ebl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Kyzyl-K\u00ebl\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u0451\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kyzyl-K\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145300
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bebb1a8e45f628e13bfd449076f625be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1276867457,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276867457,
+    "wof:lastmodified":1537653240,
+    "wof:name":"Kyzyl-Kel'",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24091999999997,
+    40.65999,
+    73.24091999999997,
+    40.65999
+],
+  "geometry": {"coordinates":[73.24091999999997,40.65999],"type":"Point"}
+}

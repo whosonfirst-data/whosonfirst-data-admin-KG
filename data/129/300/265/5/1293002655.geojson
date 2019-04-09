@@ -1,0 +1,73 @@
+{
+  "id": 1293002655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.31304,41.31906,72.31304,41.31906",
+    "geom:latitude":41.31906,
+    "geom:longitude":72.31304,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shyng-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134474,
+    "gn:latitude":41.31906,
+    "gn:longitude":72.31304,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Shyng-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u044b\u043d\u0433-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044b\u043d\u0433-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134474
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"023679ceca0bdf3755aa1866805da999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1293002655,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293002655,
+    "wof:lastmodified":1537653208,
+    "wof:name":"Shyng-Say",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.31304,
+    41.31906,
+    72.31304,
+    41.31906
+],
+  "geometry": {"coordinates":[72.31304,41.31906],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226143561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.54683,41.93661,74.54683,41.93661",
+    "geom:latitude":41.93661,
+    "geom:longitude":74.54683,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Tatyr",
+    "gn:country_code":"KG",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064060,
+    "gn:latitude":41.93661,
+    "gn:longitude":74.54683,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ak-Tatyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ak-Tatyr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u0434\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Aktadyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064060
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5197be7dff75a55cd66d62c09279b5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1226143561,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226143561,
+    "wof:lastmodified":1537653201,
+    "wof:name":"Ak-Tatyr",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.54683,
+    41.93661,
+    74.54683,
+    41.93661
+],
+  "geometry": {"coordinates":[74.54683,41.93661],"type":"Point"}
+}

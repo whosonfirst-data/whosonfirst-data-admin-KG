@@ -1,0 +1,76 @@
+{
+  "id": 1309920455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.41667,40.55,74.41667,40.55",
+    "geom:latitude":40.55,
+    "geom:longitude":74.41667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sherif",
+    "gn:cc2":"KG",
+    "gn:country_code":"KG",
+    "gn:dem":3666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527377,
+    "gn:latitude":40.55,
+    "gn:longitude":74.41667,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Sherif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0435\u0440\u0438\u0444"
+    ],
+    "name:und_x_variant":[
+        "Camp Snerif",
+        "Sherif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527377,
+        "wk:page":"Camp_Snerif"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9bd5cbe836f9efca156b7ca1d25afd88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1309920455,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309920455,
+    "wof:lastmodified":1537653117,
+    "wof:name":"Sherif",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.41667,
+    40.55,
+    74.41667,
+    40.55
+],
+  "geometry": {"coordinates":[74.41667,40.55],"type":"Point"}
+}

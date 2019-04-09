@@ -1,0 +1,76 @@
+{
+  "id": 1243070885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.65017,42.67283,74.65017,42.67283",
+    "geom:latitude":42.67283,
+    "geom:longitude":74.65017,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tatyr",
+    "gn:country_code":"KG",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064036,
+    "gn:latitude":42.67283,
+    "gn:longitude":74.65017,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tatyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tatyr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0442\u044b\u0440"
+    ],
+    "name:und_x_variant":[
+        "Koytash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064036
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5fe137ccf25861657f540eb0b192e8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1243070885,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1243070885,
+    "wof:lastmodified":1537653200,
+    "wof:name":"Tatyr",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.65016999999997,
+    42.67283,
+    74.65016999999997,
+    42.67283
+],
+  "geometry": {"coordinates":[74.65016999999997,42.67283],"type":"Point"}
+}

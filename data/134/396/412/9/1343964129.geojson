@@ -1,0 +1,74 @@
+{
+  "id": 1343964129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.18912,41.7273,74.18912,41.7273",
+    "geom:latitude":41.7273,
+    "geom:longitude":74.18912,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kyzylkurgan",
+    "gn:country_code":"KG",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527720,
+    "gn:latitude":41.7273,
+    "gn:longitude":74.18912,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kyzylkurgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kyzylkurgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527720,
+        "wk:page":"Kyzylkurgan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6e03b2449c8d0f414d7384eabbf89cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1343964129,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343964129,
+    "wof:lastmodified":1537653134,
+    "wof:name":"Kyzylkurgan",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.18911999999997,
+    41.7273,
+    74.18911999999997,
+    41.7273
+],
+  "geometry": {"coordinates":[74.18911999999997,41.7273],"type":"Point"}
+}

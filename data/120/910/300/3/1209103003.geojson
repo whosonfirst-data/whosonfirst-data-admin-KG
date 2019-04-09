@@ -1,0 +1,67 @@
+{
+  "id": 1209103003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5109,40.81035,73.5109,40.81035",
+    "geom:latitude":40.81035,
+    "geom:longitude":73.5109,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kakyr",
+    "gn:country_code":"KG",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174048,
+    "gn:latitude":40.81035,
+    "gn:longitude":73.5109,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kakyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043a\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043a\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174048
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"74cfc30ff9632fe174cab758cfb59e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209103003
+        }
+    ],
+    "wof:id":1209103003,
+    "wof:lastmodified":1537653246,
+    "wof:name":"Kakyr",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5109,
+    40.81035,
+    73.5109,
+    40.81035
+],
+  "geometry": {"coordinates":[73.51090000000001,40.81035],"type":"Point"}
+}

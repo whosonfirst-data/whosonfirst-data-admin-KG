@@ -1,0 +1,86 @@
+{
+  "id": 1310117673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.74842,41.52322,71.74842,41.52322",
+    "geom:latitude":41.52322,
+    "geom:longitude":71.74842,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Krupskaya Atyndagi",
+    "gn:country_code":"KG",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580284,
+    "gn:latitude":41.52322,
+    "gn:longitude":71.74842,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Krupskaya Atyndagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Krupskaya Nomli"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0414\u04e9\u0431\u04e9"
+    ],
+    "name:kir_x_variant":[
+        "Krupskaya Atyndagi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0442\u0447\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kutchu",
+        "Imeni Krupskoy"
+    ],
+    "name:uzb_x_preferred":[
+        "Krupskaya Nomli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580284
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"be9f7f7a2dd0a9e0a09aa2cad056db92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1310117673,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310117673,
+    "wof:lastmodified":1537653192,
+    "wof:name":"Krupskaya Atyndagi",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.74842,
+    41.52322,
+    71.74842,
+    41.52322
+],
+  "geometry": {"coordinates":[71.74842,41.52322],"type":"Point"}
+}

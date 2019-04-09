@@ -1,0 +1,73 @@
+{
+  "id": 1276458347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.84849,42.82682,71.84849,42.82682",
+    "geom:latitude":42.82682,
+    "geom:longitude":71.84849,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Qaratobe Asuy",
+    "gn:country_code":"KG",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11118831,
+    "gn:latitude":42.82682,
+    "gn:longitude":71.84849,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Qarat\u00f6be As\u016by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Almaty",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "Qarat\u00f6be As\u016by"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u0430\u0440\u0430\u0442\u04e9\u0431\u0435 \u0410\u0441\u0443\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118831
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d1c34b964b54fafd5b0444937f6872a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690313,
+            "locality_id":1276458347,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1276458347,
+    "wof:lastmodified":1537653316,
+    "wof:name":"Qaratobe Asuy",
+    "wof:parent_id":1091690313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.84849,
+    42.82682,
+    71.84849,
+    42.82682
+],
+  "geometry": {"coordinates":[71.84849,42.82682],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1209723015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41569,41.64927,73.41569,41.64927",
+    "geom:latitude":41.64927,
+    "geom:longitude":73.41569,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyluzgorysh",
+    "gn:country_code":"KG",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527697,
+    "gn:latitude":41.64927,
+    "gn:longitude":73.41569,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kyzyluzgorysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u04e8\u0437\u0433\u04e9\u0440\u04af\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "Kyzyl-Ozg\u00ebryush"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041e\u0437\u0433\u0451\u0440\u044e\u0448"
+    ],
+    "name:und_x_variant":[
+        "Kyzylozk\u00ebrush",
+        "Kyzyluzgorysh",
+        "Kyzyl-\u00d6zg\u00f6r\u00fcsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527697,
+        "wk:page":"Kyzyluzgorysh"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2ab12d54bbc93c0a9ef1f32cfaac703b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1209723015,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209723015,
+    "wof:lastmodified":1537653132,
+    "wof:name":"Kyzyluzgorysh",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41569,
+    41.64927,
+    73.41569,
+    41.64927
+],
+  "geometry": {"coordinates":[73.41569,41.64927],"type":"Point"}
+}

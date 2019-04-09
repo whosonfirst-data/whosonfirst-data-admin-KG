@@ -1,0 +1,73 @@
+{
+  "id": 1259768861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34952,40.28721,72.34952,40.28721",
+    "geom:latitude":40.28721,
+    "geom:longitude":72.34952,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Naray",
+    "gn:country_code":"KG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140065,
+    "gn:latitude":40.28721,
+    "gn:longitude":72.34952,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Naray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140065
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a3f1185a08b008122f163584d5acaff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1259768861,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259768861,
+    "wof:lastmodified":1537653229,
+    "wof:name":"Naray",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34952,
+    40.28721,
+    72.34952,
+    40.28721
+],
+  "geometry": {"coordinates":[72.34952,40.28721],"type":"Point"}
+}

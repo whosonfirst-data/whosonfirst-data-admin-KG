@@ -1,0 +1,66 @@
+{
+  "id": 1293802689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.19343,42.45009,78.19343,42.45009",
+    "geom:latitude":42.45009,
+    "geom:longitude":78.19343,
+    "gn:asciiname":"Jele Tobe",
+    "gn:country_code":"KG",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7667508,
+    "gn:latitude":42.45009,
+    "gn:longitude":78.19343,
+    "gn:modification_date":"2011-02-10",
+    "gn:name":"Jele Tobe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7667508
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3a452daae18e1bd5ab7b6b7b80aae1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1293802689,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1293802689,
+    "wof:lastmodified":1536828797,
+    "wof:name":"Jele Tobe",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.19343,
+    42.45009,
+    78.19343,
+    42.45009
+],
+  "geometry": {"coordinates":[78.19343000000001,42.45009],"type":"Point"}
+}

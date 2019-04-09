@@ -1,0 +1,73 @@
+{
+  "id": 1276466387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58249,40.26744,73.58249,40.26744",
+    "geom:latitude":40.26744,
+    "geom:longitude":73.58249,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shalba",
+    "gn:country_code":"KG",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142724,
+    "gn:latitude":40.26744,
+    "gn:longitude":73.58249,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Shalba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u043b\u0431\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043b\u0431\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142724
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"224902b687b68cdc528086d908251d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1276466387,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276466387,
+    "wof:lastmodified":1537653233,
+    "wof:name":"Shalba",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58249,
+    40.26744,
+    73.58249,
+    40.26744
+],
+  "geometry": {"coordinates":[73.58249000000001,40.26744],"type":"Point"}
+}

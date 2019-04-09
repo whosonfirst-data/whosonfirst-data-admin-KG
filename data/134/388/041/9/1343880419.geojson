@@ -1,0 +1,76 @@
+{
+  "id": 1343880419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95443,42.40832,72.95443,42.40832",
+    "geom:latitude":42.40832,
+    "geom:longitude":72.95443,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ak-Korgon",
+    "gn:country_code":"KG",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272600,
+    "gn:latitude":42.40832,
+    "gn:longitude":72.95443,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-Korgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Akkurgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272600
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ef16b9881d899e72598f752e1ac3e9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1343880419,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1343880419,
+    "wof:lastmodified":1537653282,
+    "wof:name":"Ak-Korgon",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95443,
+    42.40832,
+    72.95443,
+    42.40832
+],
+  "geometry": {"coordinates":[72.95443,42.40832],"type":"Point"}
+}

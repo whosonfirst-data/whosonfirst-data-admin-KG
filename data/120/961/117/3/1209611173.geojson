@@ -1,0 +1,67 @@
+{
+  "id": 1209611173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98113,39.86968,69.98113,39.86968",
+    "geom:latitude":39.86968,
+    "geom:longitude":69.98113,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shoro",
+    "gn:country_code":"KG",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377901,
+    "gn:latitude":39.86968,
+    "gn:longitude":69.98113,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Shoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u043e\u0440\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377901
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fbfcf0f772250586e428824d5cda7c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209611173
+        }
+    ],
+    "wof:id":1209611173,
+    "wof:lastmodified":1537653302,
+    "wof:name":"Shoro",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98113000000001,
+    39.86968,
+    69.98113000000001,
+    39.86968
+],
+  "geometry": {"coordinates":[69.98113000000001,39.86968],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226562137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35994,40.88272,73.35994,40.88272",
+    "geom:latitude":40.88272,
+    "geom:longitude":73.35994,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Boto-Moynok",
+    "gn:country_code":"KG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174057,
+    "gn:latitude":40.88272,
+    "gn:longitude":73.35994,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Boto-Moynok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u043e-\u041c\u043e\u0439\u043d\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174057
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"41985d75b9d85cf3e4697eb0511daefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1226562137,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226562137,
+    "wof:lastmodified":1537653247,
+    "wof:name":"Boto-Moynok",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35994000000002,
+    40.88272,
+    73.35994000000002,
+    40.88272
+],
+  "geometry": {"coordinates":[73.35994000000002,40.88272],"type":"Point"}
+}

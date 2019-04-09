@@ -1,0 +1,73 @@
+{
+  "id": 1310216761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20368,41.33962,73.20368,41.33962",
+    "geom:latitude":41.33962,
+    "geom:longitude":73.20368,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhaz-kechuu",
+    "gn:country_code":"KG",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134210,
+    "gn:latitude":41.33962,
+    "gn:longitude":73.20368,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dzhaz-kechuu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jaz-Kech\u00fc\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0437-\u041a\u0435\u0447\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134210
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e9ab7fdf21b0189249a9157f401f161e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1310216761,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310216761,
+    "wof:lastmodified":1537653206,
+    "wof:name":"Dzhaz-kechuu",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20368,
+    41.33962,
+    73.20368,
+    41.33962
+],
+  "geometry": {"coordinates":[73.20368000000001,41.33962],"type":"Point"}
+}

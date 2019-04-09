@@ -1,0 +1,79 @@
+{
+  "id": 1226154367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17427,41.00203,72.17427,41.00203",
+    "geom:latitude":41.00203,
+    "geom:longitude":72.17427,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kokandyk",
+    "gn:country_code":"KG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7528855,
+    "gn:latitude":41.00203,
+    "gn:longitude":72.17427,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kokandyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qo\u2018qondiq"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u043d\u0434\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0430\u043d\u0434\u044b\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018qondiq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7528855
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"953fab77e5cc9929347d63340684438a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1226154367,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226154367,
+    "wof:lastmodified":1537653190,
+    "wof:name":"Kokandyk",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17426999999998,
+    41.00203,
+    72.17426999999998,
+    41.00203
+],
+  "geometry": {"coordinates":[72.17426999999998,41.00203],"type":"Point"}
+}

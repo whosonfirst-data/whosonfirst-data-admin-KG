@@ -1,0 +1,73 @@
+{
+  "id": 1293881327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36749,42.50557,72.36749,42.50557",
+    "geom:latitude":42.50557,
+    "geom:longitude":72.36749,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kemer",
+    "gn:country_code":"KG",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272593,
+    "gn:latitude":42.50557,
+    "gn:longitude":72.36749,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kemer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043c\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272593
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"97b9425d24a8b20b7996bea50d0c32bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1293881327,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1293881327,
+    "wof:lastmodified":1537653282,
+    "wof:name":"Kemer",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36749,
+    42.50557,
+    72.36749,
+    42.50557
+],
+  "geometry": {"coordinates":[72.36749,42.50557],"type":"Point"}
+}

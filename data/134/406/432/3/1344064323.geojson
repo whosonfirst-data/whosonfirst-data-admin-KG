@@ -1,0 +1,73 @@
+{
+  "id": 1344064323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95541,40.9915,72.95541,40.9915",
+    "geom:latitude":40.9915,
+    "geom:longitude":72.95541,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Orto-Aziya",
+    "gn:country_code":"KG",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137678,
+    "gn:latitude":40.9915,
+    "gn:longitude":72.95541,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Orto-Aziya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0410\u0437\u0438\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0410\u0437\u0438\u044f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137678
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4fb3e0d18a87a4d68f9a111e26094a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1344064323,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1344064323,
+    "wof:lastmodified":1537653212,
+    "wof:name":"Orto-Aziya",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95541,
+    40.9915,
+    72.95541,
+    40.9915
+],
+  "geometry": {"coordinates":[72.95541,40.9915],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209500665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00927,39.97979,73.00927,39.97979",
+    "geom:latitude":39.97979,
+    "geom:longitude":73.00927,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ak-Jylga",
+    "gn:country_code":"KG",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222692,
+    "gn:latitude":39.97979,
+    "gn:longitude":73.00927,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Ak-Jylga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0416\u044b\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0414\u0436\u044b\u043b\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chalkuyruk",
+        "Ak-Dzhylga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222692,
+        "wk:page":"Chalkuyruk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"46f463796c142f4434cd47c570db9d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209500665
+        }
+    ],
+    "wof:id":1209500665,
+    "wof:lastmodified":1537653099,
+    "wof:name":"Ak-Jylga",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00927,
+    39.97979,
+    73.00927,
+    39.97979
+],
+  "geometry": {"coordinates":[73.00927,39.97979],"type":"Point"}
+}

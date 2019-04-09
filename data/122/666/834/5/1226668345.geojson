@@ -1,0 +1,73 @@
+{
+  "id": 1226668345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49988,40.66534,73.49988,40.66534",
+    "geom:latitude":40.66534,
+    "geom:longitude":73.49988,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Kochkor",
+    "gn:country_code":"KG",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142404,
+    "gn:latitude":40.66534,
+    "gn:longitude":73.49988,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kara-Kochkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u0447\u043a\u043e\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u0447\u043a\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142404
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7a5a84a606efc3c4a1b1212df92092b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226668345,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226668345,
+    "wof:lastmodified":1537653230,
+    "wof:name":"Kara-Kochkor",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49988,
+    40.66534,
+    73.49988,
+    40.66534
+],
+  "geometry": {"coordinates":[73.49988,40.66534],"type":"Point"}
+}

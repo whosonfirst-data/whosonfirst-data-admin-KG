@@ -1,0 +1,77 @@
+{
+  "id": 1293209339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.07576,42.73302,76.07576,42.73302",
+    "geom:latitude":42.73302,
+    "geom:longitude":76.07576,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shabdan",
+    "gn:country_code":"KG",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527572,
+    "gn:latitude":42.73302,
+    "gn:longitude":76.07576,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Shabdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u0431\u0434\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0441\u0438\u0439\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novorssiyskoye",
+        "Novorossiyka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527572
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"edd8746ae943ebb511c83f09777891c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1293209339,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293209339,
+    "wof:lastmodified":1537653127,
+    "wof:name":"Shabdan",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.07576,
+    42.73302,
+    76.07576,
+    42.73302
+],
+  "geometry": {"coordinates":[76.07576,42.73302],"type":"Point"}
+}

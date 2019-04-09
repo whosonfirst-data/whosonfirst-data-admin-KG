@@ -1,0 +1,73 @@
+{
+  "id": 1293710365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.65847,42.78334,77.65847,42.78334",
+    "geom:latitude":42.78334,
+    "geom:longitude":77.65847,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chetbaysaur",
+    "gn:country_code":"KG",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238871,
+    "gn:latitude":42.78334,
+    "gn:longitude":77.65847,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Chetbaysaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0442\u0431\u0430\u0439\u0441\u0430\u0443\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0442\u0431\u0430\u0439\u0441\u0430\u0443\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238871
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"329c73f6aa8a1362ea1b9a256b27f60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691273,
+            "locality_id":1293710365,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1293710365,
+    "wof:lastmodified":1537653277,
+    "wof:name":"Chetbaysaur",
+    "wof:parent_id":1091691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.65847,
+    42.78334,
+    77.65847,
+    42.78334
+],
+  "geometry": {"coordinates":[77.65846999999999,42.78334],"type":"Point"}
+}

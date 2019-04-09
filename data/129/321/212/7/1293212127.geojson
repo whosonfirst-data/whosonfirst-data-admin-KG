@@ -1,0 +1,73 @@
+{
+  "id": 1293212127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13209,41.20106,73.13209,41.20106",
+    "geom:latitude":41.20106,
+    "geom:longitude":73.13209,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karamart",
+    "gn:country_code":"KG",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528100,
+    "gn:latitude":41.20106,
+    "gn:longitude":73.13209,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Karamart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Karamart"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u0440\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528100
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e000bf8a486d6ab6e2a54daf725f7ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1293212127,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293212127,
+    "wof:lastmodified":1537653149,
+    "wof:name":"Karamart",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13209,
+    41.20106,
+    73.13209,
+    41.20106
+],
+  "geometry": {"coordinates":[73.13209000000001,41.20106],"type":"Point"}
+}

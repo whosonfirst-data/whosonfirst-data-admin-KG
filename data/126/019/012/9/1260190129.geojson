@@ -1,0 +1,73 @@
+{
+  "id": 1260190129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01247,40.98167,73.01247,40.98167",
+    "geom:latitude":40.98167,
+    "geom:longitude":73.01247,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Doskana",
+    "gn:country_code":"KG",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174155,
+    "gn:latitude":40.98167,
+    "gn:longitude":73.01247,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Doskana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u043e\u0441\u043a\u0430\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0441\u043a\u0430\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174155
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"282b05e918128ea9c64e8ca87394a7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1260190129,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260190129,
+    "wof:lastmodified":1537653249,
+    "wof:name":"Doskana",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01247,
+    40.98167,
+    73.01247,
+    40.98167
+],
+  "geometry": {"coordinates":[73.01246999999999,40.98167],"type":"Point"}
+}

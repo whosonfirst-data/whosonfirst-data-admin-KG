@@ -1,0 +1,68 @@
+{
+  "id": 1209928947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.78333,40.48333,73.78333,40.48333",
+    "geom:latitude":40.48333,
+    "geom:longitude":73.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Akkyungey",
+    "gn:country_code":"KG",
+    "gn:dem":2070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1528931,
+    "gn:latitude":40.48333,
+    "gn:longitude":73.78333,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Akkyungey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528931,
+        "wk:page":"Akkyungey"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4a06f2c685440053f88a226b028bccae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1209928947,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1209928947,
+    "wof:lastmodified":1537567194,
+    "wof:name":"Akkyungey",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.78333,
+    40.48333,
+    73.78333,
+    40.48333
+],
+  "geometry": {"coordinates":[73.78333000000001,40.48333],"type":"Point"}
+}

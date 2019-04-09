@@ -1,0 +1,79 @@
+{
+  "id": 1292928077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.35255,42.54053,71.35255,42.54053",
+    "geom:latitude":42.54053,
+    "geom:longitude":71.35255,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bakayyr",
+    "gn:country_code":"KG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246584,
+    "gn:latitude":42.54053,
+    "gn:longitude":71.35255,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Bakayyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u043e\u043d-\u0414\u04e9\u0431\u04e9"
+    ],
+    "name:kir_x_variant":[
+        "Bakayyr"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhoon-D\u00ebbe"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u043e\u043e\u043d-\u0414\u0451\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246584
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e64d6db1324743becb6e9e3832af3915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690357,
+            "locality_id":1292928077,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1292928077,
+    "wof:lastmodified":1537653278,
+    "wof:name":"Bakayyr",
+    "wof:parent_id":1091690357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.35255,
+    42.54053,
+    71.35255,
+    42.54053
+],
+  "geometry": {"coordinates":[71.35254999999999,42.54053],"type":"Point"}
+}

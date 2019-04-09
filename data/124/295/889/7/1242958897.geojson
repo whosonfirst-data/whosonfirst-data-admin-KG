@@ -1,0 +1,73 @@
+{
+  "id": 1242958897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01586,40.41795,74.01586,40.41795",
+    "geom:latitude":40.41795,
+    "geom:longitude":74.01586,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhosha",
+    "gn:country_code":"KG",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403908,
+    "gn:latitude":40.41795,
+    "gn:longitude":74.01586,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhosha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u0436\u043e\u0448\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u0448\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403908
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"80f8fdbd6d0022da3855af25baea6bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1242958897,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242958897,
+    "wof:lastmodified":1537653311,
+    "wof:name":"Dzhosha",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01586,
+    40.41795,
+    74.01586,
+    40.41795
+],
+  "geometry": {"coordinates":[74.01586,40.41795],"type":"Point"}
+}

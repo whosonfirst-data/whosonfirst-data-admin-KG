@@ -1,0 +1,73 @@
+{
+  "id": 1343370659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.72694,41.06899,72.72694,41.06899",
+    "geom:latitude":41.06899,
+    "geom:longitude":72.72694,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gostutpitomnik",
+    "gn:country_code":"KG",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135795,
+    "gn:latitude":41.06899,
+    "gn:longitude":72.72694,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Gostutpitomnik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0443\u0442\u043f\u0438\u0442\u043e\u043c\u043d\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0443\u0442\u043f\u0438\u0442\u043e\u043c\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135795
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3ceeff15a6f65d9c7f55bb69ce981529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1343370659,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343370659,
+    "wof:lastmodified":1537653211,
+    "wof:name":"Gostutpitomnik",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.72694,
+    41.06899,
+    72.72694,
+    41.06899
+],
+  "geometry": {"coordinates":[72.72694,41.06899],"type":"Point"}
+}

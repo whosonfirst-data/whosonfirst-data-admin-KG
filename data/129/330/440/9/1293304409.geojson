@@ -1,0 +1,76 @@
+{
+  "id": 1293304409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98696,41.39569,71.98696,41.39569",
+    "geom:latitude":41.39569,
+    "geom:longitude":71.98696,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kamranki",
+    "gn:country_code":"KG",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527512,
+    "gn:latitude":41.39569,
+    "gn:longitude":71.98696,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Kamranki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043c\u0440\u0430\u043d\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0440\u0430\u043d\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Padak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527512
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"84252668895bd6ba33a2f80505c164fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1293304409,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293304409,
+    "wof:lastmodified":1537653124,
+    "wof:name":"Kamranki",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98696,
+    41.39569,
+    71.98696,
+    41.39569
+],
+  "geometry": {"coordinates":[71.98696,41.39569],"type":"Point"}
+}

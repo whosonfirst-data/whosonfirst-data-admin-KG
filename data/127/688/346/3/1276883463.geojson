@@ -1,0 +1,70 @@
+{
+  "id": 1276883463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95,41.3,74.95,41.3",
+    "geom:latitude":41.3,
+    "geom:longitude":74.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kasymbek",
+    "gn:country_code":"KG",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528023,
+    "gn:latitude":41.3,
+    "gn:longitude":74.95,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kasymbek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0441\u044b\u043c\u0431\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528023
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"73c99ca3cac05a018985fcecbef6bb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1276883463,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276883463,
+    "wof:lastmodified":1537653147,
+    "wof:name":"Kasymbek",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95,
+    41.3,
+    74.95,
+    41.3
+],
+  "geometry": {"coordinates":[74.95,41.3],"type":"Point"}
+}

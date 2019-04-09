@@ -1,0 +1,78 @@
+{
+  "id": 1226231977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.00662,39.81762,72.00662,39.81762",
+    "geom:latitude":39.81762,
+    "geom:longitude":72.00662,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Razvaliny Urakain",
+    "gn:country_code":"KG",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222530,
+    "gn:latitude":39.81762,
+    "gn:longitude":72.00662,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Razvaliny Urakain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0423\u0440\u0430\u043a\u0430\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0423\u0440\u0430\u043a\u0430\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Urakain",
+        "Razvaliny Urakain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222530,
+        "wk:page":"Urakain"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d2d27356cffe478fb92735abc529a801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1226231977,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1226231977,
+    "wof:lastmodified":1537653096,
+    "wof:name":"Razvaliny Urakain",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.00662,
+    39.81762,
+    72.00662,
+    39.81762
+],
+  "geometry": {"coordinates":[72.00662,39.81762],"type":"Point"}
+}

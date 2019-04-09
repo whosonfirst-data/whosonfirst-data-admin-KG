@@ -1,0 +1,73 @@
+{
+  "id": 1343784307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68216,40.30007,72.68216,40.30007",
+    "geom:latitude":40.30007,
+    "geom:longitude":72.68216,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kommunizm",
+    "gn:country_code":"KG",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139574,
+    "gn:latitude":40.30007,
+    "gn:longitude":72.68216,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kommunizm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139574
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8daae77aa50b6eb2626032d9d47f69c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1343784307,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343784307,
+    "wof:lastmodified":1537653219,
+    "wof:name":"Kommunizm",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68216,
+    40.30007,
+    72.68216,
+    40.30007
+],
+  "geometry": {"coordinates":[72.68216,40.30007],"type":"Point"}
+}

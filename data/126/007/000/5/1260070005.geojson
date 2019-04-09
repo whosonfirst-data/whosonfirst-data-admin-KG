@@ -1,0 +1,76 @@
+{
+  "id": 1260070005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.96298,40.23457,71.96298,40.23457",
+    "geom:latitude":40.23457,
+    "geom:longitude":71.96298,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Pyldyrak",
+    "gn:country_code":"KG",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376080,
+    "gn:latitude":40.23457,
+    "gn:longitude":71.96298,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Pyldyrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041f\u044b\u043b\u0434\u044b\u0440\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u043b\u0434\u044b\u0440\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Poldiroq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376080
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"86537081ebee7e774ab39c4a8bf20b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1260070005,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1260070005,
+    "wof:lastmodified":1537653292,
+    "wof:name":"Pyldyrak",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.96298,
+    40.23457,
+    71.96298,
+    40.23457
+],
+  "geometry": {"coordinates":[71.96298,40.23457],"type":"Point"}
+}

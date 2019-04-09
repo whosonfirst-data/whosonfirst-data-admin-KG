@@ -1,0 +1,70 @@
+{
+  "id": 1326631979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1303,41.04284,73.1303,41.04284",
+    "geom:latitude":41.04284,
+    "geom:longitude":73.1303,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Safarovka",
+    "gn:country_code":"KG",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178289,
+    "gn:latitude":41.04284,
+    "gn:longitude":73.1303,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Safarovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178289
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"24e448edd48bd5439dbe6ee9e96c77b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1326631979,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1326631979,
+    "wof:lastmodified":1537653252,
+    "wof:name":"Safarovka",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1303,
+    41.04284000000001,
+    73.1303,
+    41.04284000000001
+],
+  "geometry": {"coordinates":[73.13030000000001,41.04284000000001],"type":"Point"}
+}

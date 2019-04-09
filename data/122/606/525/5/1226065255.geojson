@@ -1,0 +1,74 @@
+{
+  "id": 1226065255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.24941,40.30136,74.24941,40.30136",
+    "geom:latitude":40.30136,
+    "geom:longitude":74.24941,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyldzhar",
+    "gn:country_code":"KG",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527730,
+    "gn:latitude":40.30136,
+    "gn:longitude":74.24941,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyldzhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0416\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0434\u0436\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527730,
+        "wk:page":"Kyzyldzhar"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7c733cb082898850d80570f6a2e10c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226065255,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226065255,
+    "wof:lastmodified":1537653135,
+    "wof:name":"Kyzyldzhar",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.24941,
+    40.30136,
+    74.24941,
+    40.30136
+],
+  "geometry": {"coordinates":[74.24941,40.30136],"type":"Point"}
+}

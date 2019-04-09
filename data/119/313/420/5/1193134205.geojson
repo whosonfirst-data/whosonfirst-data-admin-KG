@@ -1,0 +1,73 @@
+{
+  "id": 1193134205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67608,40.31208,72.67608,40.31208",
+    "geom:latitude":40.31208,
+    "geom:longitude":72.67608,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yatan",
+    "gn:country_code":"KG",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139587,
+    "gn:latitude":40.31208,
+    "gn:longitude":72.67608,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Yatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0442\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139587
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a41e8b47e1dce93301afb1afc848e8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1193134205,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1193134205,
+    "wof:lastmodified":1537653220,
+    "wof:name":"Yatan",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67608,
+    40.31208,
+    72.67608,
+    40.31208
+],
+  "geometry": {"coordinates":[72.67608,40.31208],"type":"Point"}
+}

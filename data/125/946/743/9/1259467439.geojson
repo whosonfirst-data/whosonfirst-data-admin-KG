@@ -1,0 +1,79 @@
+{
+  "id": 1259467439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1,40.26667,72.1,40.26667",
+    "geom:latitude":40.26667,
+    "geom:longitude":72.1,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Iradan",
+    "gn:cc2":"KG",
+    "gn:country_code":"KG",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528283,
+    "gn:latitude":40.26667,
+    "gn:longitude":72.1,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Iradan",
+    "gn:population":26200,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u0440\u0430\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Radinan",
+        "Iradan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528283,
+        "wk:page":"Iradan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"895110e0c0daa21e98cc9438b9d9f2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1259467439,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1259467439,
+    "wof:lastmodified":1537653155,
+    "wof:name":"Iradan",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:population":26200,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1,
+    40.26667,
+    72.1,
+    40.26667
+],
+  "geometry": {"coordinates":[72.09999999999999,40.26667],"type":"Point"}
+}

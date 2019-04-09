@@ -1,0 +1,74 @@
+{
+  "id": 1243560581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.44818,42.30995,75.44818,42.30995",
+    "geom:latitude":42.30995,
+    "geom:longitude":75.44818,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kashat",
+    "gn:country_code":"KG",
+    "gn:dem":2254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528044,
+    "gn:latitude":42.30995,
+    "gn:longitude":75.44818,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0448\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528044,
+        "wk:page":"Kashat"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"23ff9c7f8ed5908812b5dca7657920f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1243560581,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1243560581,
+    "wof:lastmodified":1537653147,
+    "wof:name":"Kashat",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.44818000000002,
+    42.30995,
+    75.44818000000002,
+    42.30995
+],
+  "geometry": {"coordinates":[75.44818000000002,42.30995],"type":"Point"}
+}

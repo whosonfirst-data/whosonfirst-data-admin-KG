@@ -1,0 +1,73 @@
+{
+  "id": 1243467111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.04284,42.84075,76.04284,42.84075",
+    "geom:latitude":42.84075,
+    "geom:longitude":76.04284,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kordon",
+    "gn:country_code":"KG",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238162,
+    "gn:latitude":42.84075,
+    "gn:longitude":76.04284,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kordon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238162
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5224d54891145eca74b682ee4eed75b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1243467111,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1243467111,
+    "wof:lastmodified":1537653276,
+    "wof:name":"Kordon",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.04284,
+    42.84075,
+    76.04284,
+    42.84075
+],
+  "geometry": {"coordinates":[76.04284,42.84075],"type":"Point"}
+}

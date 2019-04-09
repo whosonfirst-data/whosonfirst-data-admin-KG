@@ -1,0 +1,73 @@
+{
+  "id": 1259489219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03443,41.55638,75.03443,41.55638",
+    "geom:latitude":41.55638,
+    "geom:longitude":75.03443,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kairma",
+    "gn:country_code":"KG",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141059,
+    "gn:latitude":41.55638,
+    "gn:longitude":75.03443,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kairma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0438\u0440\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u0440\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141059
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2e12b79d2f16f5edcda4f2cdb65638f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1259489219,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259489219,
+    "wof:lastmodified":1537653229,
+    "wof:name":"Kairma",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03443,
+    41.55638,
+    75.03443,
+    41.55638
+],
+  "geometry": {"coordinates":[75.03443,41.55638],"type":"Point"}
+}

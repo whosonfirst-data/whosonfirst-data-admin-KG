@@ -1,0 +1,73 @@
+{
+  "id": 1225953163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.94273,42.77644,75.94273,42.77644",
+    "geom:latitude":42.77644,
+    "geom:longitude":75.94273,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzhany-Dzhol",
+    "gn:country_code":"KG",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235150,
+    "gn:latitude":42.77644,
+    "gn:longitude":75.94273,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Dzhany-Dzhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0416\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0414\u0436\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235150
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ef2d0a90c349298be052dec7ec57a1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1225953163,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1225953163,
+    "wof:lastmodified":1537653276,
+    "wof:name":"Dzhany-Dzhol",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.94273000000003,
+    42.77644,
+    75.94273000000003,
+    42.77644
+],
+  "geometry": {"coordinates":[75.94273000000003,42.77644],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326926183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.71944,40.37747,72.71944,40.37747",
+    "geom:latitude":40.37747,
+    "geom:longitude":72.71944,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Almalyk",
+    "gn:country_code":"KG",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139764,
+    "gn:latitude":40.37747,
+    "gn:longitude":72.71944,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Almalyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u043b\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043c\u0430\u043b\u044b\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Olmaliq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139764
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e5864782726a6e3f544c5675e5a023ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1326926183,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326926183,
+    "wof:lastmodified":1537653222,
+    "wof:name":"Almalyk",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.71944,
+    40.37747,
+    72.71944,
+    40.37747
+],
+  "geometry": {"coordinates":[72.71944000000001,40.37747],"type":"Point"}
+}

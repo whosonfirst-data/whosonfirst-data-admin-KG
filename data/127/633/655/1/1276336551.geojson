@@ -1,0 +1,74 @@
+{
+  "id": 1276336551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91271,41.1858,72.91271,41.1858",
+    "geom:latitude":41.1858,
+    "geom:longitude":72.91271,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyrgoo",
+    "gn:country_code":"KG",
+    "gn:dem":946,
+    "gn:elevation":"1931.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138092,
+    "gn:latitude":41.1858,
+    "gn:longitude":72.91271,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyrgoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u043e\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u043e\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138092
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4f332c6cdc0600778dc61ef946233035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1276336551,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276336551,
+    "wof:lastmodified":1537653216,
+    "wof:name":"Kyrgoo",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91271,
+    41.1858,
+    72.91271,
+    41.1858
+],
+  "geometry": {"coordinates":[72.91271,41.1858],"type":"Point"}
+}

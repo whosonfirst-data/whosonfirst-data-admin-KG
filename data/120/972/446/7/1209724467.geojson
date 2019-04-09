@@ -1,0 +1,73 @@
+{
+  "id": 1209724467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.67418,42.90499,74.67418,42.90499",
+    "geom:latitude":42.90499,
+    "geom:longitude":74.67418,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vostok",
+    "gn:country_code":"KG",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540671,
+    "gn:latitude":42.90499,
+    "gn:longitude":74.67418,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Vostok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540671
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2be7cf633b40984fc511c75caee281a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1209724467,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1209724467,
+    "wof:lastmodified":1537653187,
+    "wof:name":"Vostok",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.67418,
+    42.90499000000001,
+    74.67418,
+    42.90499000000001
+],
+  "geometry": {"coordinates":[74.67418000000001,42.90499000000001],"type":"Point"}
+}

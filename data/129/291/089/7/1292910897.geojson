@@ -1,0 +1,70 @@
+{
+  "id": 1292910897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.59229,41.00986,72.59229,41.00986",
+    "geom:latitude":41.00986,
+    "geom:longitude":72.59229,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kagazdy",
+    "gn:country_code":"KG",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135763,
+    "gn:latitude":41.00986,
+    "gn:longitude":72.59229,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kagazdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0433\u0430\u0437\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135763
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1aeac0db919ef08b5da4c6656479539d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1292910897,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1292910897,
+    "wof:lastmodified":1537653210,
+    "wof:name":"Kagazdy",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.59229,
+    41.00986,
+    72.59229,
+    41.00986
+],
+  "geometry": {"coordinates":[72.59229000000001,41.00986],"type":"Point"}
+}

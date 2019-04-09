@@ -1,0 +1,73 @@
+{
+  "id": 1344163177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.36933,41.46247,76.36933,41.46247",
+    "geom:latitude":41.46247,
+    "geom:longitude":76.36933,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Imeni Kalinina",
+    "gn:country_code":"KG",
+    "gn:dem":2322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066520,
+    "gn:latitude":41.46247,
+    "gn:longitude":76.36933,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Imeni Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066520
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"12d127cd37bed6c55e0a75bf91dcc627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1344163177,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1344163177,
+    "wof:lastmodified":1537653204,
+    "wof:name":"Imeni Kalinina",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.36933,
+    41.46247,
+    76.36933,
+    41.46247
+],
+  "geometry": {"coordinates":[76.36933000000001,41.46247],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209019139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56667,40.35,73.56667,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":73.56667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uryukty",
+    "gn:country_code":"KG",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527066,
+    "gn:latitude":40.35,
+    "gn:longitude":73.56667,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Uryukty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0440\u0443\u043a\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527066,
+        "wk:page":"Uryukty"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"03a28e9019bbb0b355ea0c4ca68e6b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209019139
+        }
+    ],
+    "wof:id":1209019139,
+    "wof:lastmodified":1537653106,
+    "wof:name":"Uryukty",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56667,
+    40.35,
+    73.56667,
+    40.35
+],
+  "geometry": {"coordinates":[73.56667,40.35],"type":"Point"}
+}

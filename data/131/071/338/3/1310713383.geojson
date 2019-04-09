@@ -1,0 +1,79 @@
+{
+  "id": 1310713383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38937,40.97468,73.38937,40.97468",
+    "geom:latitude":40.97468,
+    "geom:longitude":73.38937,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174065,
+    "gn:latitude":40.97468,
+    "gn:longitude":73.38937,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Ak-T\u00ebrek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0422\u04e9\u0440\u04e9\u043a"
+    ],
+    "name:kir_x_variant":[
+        "Ak-T\u00ebrek"
+    ],
+    "name:rus_x_preferred":[
+        "Ak-T\u00ebrek"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a-\u0422\u0451\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174065
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"58cd6a23ed76affdf3b5351c71799349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1310713383,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310713383,
+    "wof:lastmodified":1537653247,
+    "wof:name":"Ak-Terek",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38937,
+    40.97468,
+    73.38937,
+    40.97468
+],
+  "geometry": {"coordinates":[73.38937,40.97468],"type":"Point"}
+}

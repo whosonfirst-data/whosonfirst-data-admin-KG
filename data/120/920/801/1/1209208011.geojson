@@ -1,0 +1,67 @@
+{
+  "id": 1209208011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30748,40.82219,73.30748,40.82219",
+    "geom:latitude":40.82219,
+    "geom:longitude":73.30748,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Makarenko",
+    "gn:country_code":"KG",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174024,
+    "gn:latitude":40.82219,
+    "gn:longitude":73.30748,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Makarenko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0435\u043d\u043a\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u0435\u043d\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174024
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c647d138767cb83763f8e1d1c32f62e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209208011
+        }
+    ],
+    "wof:id":1209208011,
+    "wof:lastmodified":1537653245,
+    "wof:name":"Makarenko",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30748,
+    40.82219,
+    73.30748,
+    40.82219
+],
+  "geometry": {"coordinates":[73.30748,40.82219],"type":"Point"}
+}

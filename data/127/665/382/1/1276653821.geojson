@@ -1,0 +1,79 @@
+{
+  "id": 1276653821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.15034,42.60087,78.15034,42.60087",
+    "geom:latitude":42.60087,
+    "geom:longitude":78.15034,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ysyk-Kol",
+    "gn:country_code":"KG",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8372905,
+    "gn:latitude":42.60087,
+    "gn:longitude":78.15034,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Ysyk-K\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u0441\u0441\u044b\u043a-\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Issyk-Kul\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ysyk-K\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8372905
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b5ddf73e2bdb038b76a55d6565cbf4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691407,
+            "locality_id":1276653821,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1276653821,
+    "wof:lastmodified":1537653289,
+    "wof:name":"Ysyk-Kol",
+    "wof:parent_id":1091691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.15034,
+    42.60087,
+    78.15034,
+    42.60087
+],
+  "geometry": {"coordinates":[78.15034,42.60087],"type":"Point"}
+}

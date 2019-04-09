@@ -1,0 +1,82 @@
+{
+  "id": 1344258839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.3281,41.38473,71.3281,41.38473",
+    "geom:latitude":41.38473,
+    "geom:longitude":71.3281,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Tokoy",
+    "gn:country_code":"KG",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527704,
+    "gn:latitude":41.38473,
+    "gn:longitude":71.3281,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Kyzyl-Tokoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u043e\u043a\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u043e\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kizyl-Tukay",
+        "Kyzyl-Tokay",
+        "Kyzyl-Tokoy"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil-Toqoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527704,
+        "wk:page":"Kyzyltokoy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d534def6b09040dd6efe94bcab46b16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1344258839,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1344258839,
+    "wof:lastmodified":1537653133,
+    "wof:name":"Kyzyl-Tokoy",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.3281,
+    41.38473,
+    71.3281,
+    41.38473
+],
+  "geometry": {"coordinates":[71.32810000000001,41.38473],"type":"Point"}
+}

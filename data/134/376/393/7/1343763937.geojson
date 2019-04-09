@@ -1,0 +1,73 @@
+{
+  "id": 1343763937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.49485,41.30541,72.49485,41.30541",
+    "geom:latitude":41.30541,
+    "geom:longitude":72.49485,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sary-Bez",
+    "gn:country_code":"KG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135721,
+    "gn:latitude":41.30541,
+    "gn:longitude":72.49485,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sary-Bez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0411\u044d\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0411\u044d\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091692051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135721
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3dee3375755fbb5a8340a4d9d91d5bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091692051,
+            "locality_id":1343763937,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343763937,
+    "wof:lastmodified":1537653210,
+    "wof:name":"Sary-Bez",
+    "wof:parent_id":1091692051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.49485,
+    41.30541,
+    72.49485,
+    41.30541
+],
+  "geometry": {"coordinates":[72.49485,41.30541],"type":"Point"}
+}

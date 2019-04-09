@@ -1,0 +1,73 @@
+{
+  "id": 1276874243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92737,40.90272,72.92737,40.90272",
+    "geom:latitude":40.90272,
+    "geom:longitude":72.92737,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyumyush-Aziz",
+    "gn:country_code":"KG",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134200,
+    "gn:latitude":40.90272,
+    "gn:longitude":72.92737,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kyumyush-Aziz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "K\u00fcm\u00fcsh-Aziz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u043c\u044e\u0448-\u0410\u0437\u0438\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134200
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"96d583668f53cb229446248b6108ba90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1276874243,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276874243,
+    "wof:lastmodified":1537653206,
+    "wof:name":"Kyumyush-Aziz",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92737,
+    40.90272,
+    72.92737,
+    40.90272
+],
+  "geometry": {"coordinates":[72.92737,40.90272],"type":"Point"}
+}

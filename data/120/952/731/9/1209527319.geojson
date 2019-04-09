@@ -1,0 +1,67 @@
+{
+  "id": 1209527319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02205,41.73922,71.02205,41.73922",
+    "geom:latitude":41.73922,
+    "geom:longitude":71.02205,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chaar-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374542,
+    "gn:latitude":41.73922,
+    "gn:longitude":71.02205,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Chaar-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u0430\u0440-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0430\u0440-\u0422\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374542
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d0e84e6cea6f03a9f5ef57af3bc60a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209527319
+        }
+    ],
+    "wof:id":1209527319,
+    "wof:lastmodified":1537653289,
+    "wof:name":"Chaar-Tash",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02205,
+    41.73922,
+    71.02205,
+    41.73922
+],
+  "geometry": {"coordinates":[71.02204999999999,41.73922],"type":"Point"}
+}

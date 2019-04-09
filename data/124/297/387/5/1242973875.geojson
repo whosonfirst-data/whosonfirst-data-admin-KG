@@ -1,0 +1,73 @@
+{
+  "id": 1242973875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91449,42.88683,73.91449,42.88683",
+    "geom:latitude":42.88683,
+    "geom:longitude":73.91449,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ak-Bashat",
+    "gn:country_code":"KG",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221254,
+    "gn:latitude":42.88683,
+    "gn:longitude":73.91449,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Ak-Bashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0430\u0448\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0411\u0430\u0448\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221254
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bd0b7262a3569355028b3d5ee4c7aa33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691555,
+            "locality_id":1242973875,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1242973875,
+    "wof:lastmodified":1537653271,
+    "wof:name":"Ak-Bashat",
+    "wof:parent_id":1091691555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91449,
+    42.88683,
+    73.91449,
+    42.88683
+],
+  "geometry": {"coordinates":[73.91449,42.88683],"type":"Point"}
+}

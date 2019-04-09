@@ -1,0 +1,76 @@
+{
+  "id": 1276336489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.05733,41.28206,73.05733,41.28206",
+    "geom:latitude":41.28206,
+    "geom:longitude":73.05733,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kek-Alma",
+    "gn:country_code":"KG",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178564,
+    "gn:latitude":41.28206,
+    "gn:longitude":73.05733,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"K\u00ebk-Alma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043a-\u0410\u043b\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u04e9\u043a-\u0410\u043b\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0451\u043a-\u0410\u043b\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178564
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"09fa6cc93ecc3d82ab292823e167a0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1276336489,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276336489,
+    "wof:lastmodified":1537653254,
+    "wof:name":"Kek-Alma",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.05733000000002,
+    41.28206,
+    73.05733000000002,
+    41.28206
+],
+  "geometry": {"coordinates":[73.05733000000002,41.28206],"type":"Point"}
+}

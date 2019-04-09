@@ -1,0 +1,76 @@
+{
+  "id": 1260290825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.8569,41.5137,75.8569,41.5137",
+    "geom:latitude":41.5137,
+    "geom:longitude":75.8569,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kuybysheva",
+    "gn:country_code":"KG",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523961,
+    "gn:latitude":41.5137,
+    "gn:longitude":75.8569,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kuybysheva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0443\u0439\u0431\u044b\u0448\u0435\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Kuybysheva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523961
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"13d254638b82b6d8bcac9b30139bc16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1260290825,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1260290825,
+    "wof:lastmodified":1537653103,
+    "wof:name":"Kuybysheva",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.8569,
+    41.5137,
+    75.8569,
+    41.5137
+],
+  "geometry": {"coordinates":[75.8569,41.5137],"type":"Point"}
+}

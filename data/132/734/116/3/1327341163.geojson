@@ -1,0 +1,76 @@
+{
+  "id": 1327341163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66615,41.26147,72.66615,41.26147",
+    "geom:latitude":41.26147,
+    "geom:longitude":72.66615,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kegere-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528866,
+    "gn:latitude":41.26147,
+    "gn:longitude":72.66615,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kegere-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044d\u0433\u0435\u0440\u0435-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u0433\u0435-\u0422\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Alash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528866
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2603b88acda0d2199b90b246b53ae691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1327341163,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327341163,
+    "wof:lastmodified":1537653179,
+    "wof:name":"Kegere-Tash",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66615,
+    41.26147,
+    72.66615,
+    41.26147
+],
+  "geometry": {"coordinates":[72.66615,41.26147],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259679307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.14204,40.42836,72.14204,40.42836",
+    "geom:latitude":40.42836,
+    "geom:longitude":72.14204,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Syrt",
+    "gn:country_code":"KG",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140096,
+    "gn:latitude":40.42836,
+    "gn:longitude":72.14204,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Syrt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u044b\u0440\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Sirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140096
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"51f8ebc8d91bdc707aa2875289172ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690603,
+            "locality_id":1259679307,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259679307,
+    "wof:lastmodified":1537653229,
+    "wof:name":"Syrt",
+    "wof:parent_id":1091690603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.14204000000002,
+    40.42836,
+    72.14204000000002,
+    40.42836
+],
+  "geometry": {"coordinates":[72.14204000000002,40.42836],"type":"Point"}
+}

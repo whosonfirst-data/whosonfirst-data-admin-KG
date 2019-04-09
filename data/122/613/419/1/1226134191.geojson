@@ -1,0 +1,79 @@
+{
+  "id": 1226134191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.54102,42.2571,76.54102,42.2571",
+    "geom:latitude":42.2571,
+    "geom:longitude":76.54102,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shor-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527088,
+    "gn:latitude":42.2571,
+    "gn:longitude":76.54102,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Shor-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u043e\u0440-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0440-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Ulokhol",
+        "Ulakhol",
+        "Shor-Bulak",
+        "Sovkhoz Ulakhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527088
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f19b3cdc83bb1155c82c3eb0b5561fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1226134191,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1226134191,
+    "wof:lastmodified":1537653107,
+    "wof:name":"Shor-Bulak",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.54101999999997,
+    42.2571,
+    76.54101999999997,
+    42.2571
+],
+  "geometry": {"coordinates":[76.54101999999997,42.2571],"type":"Point"}
+}

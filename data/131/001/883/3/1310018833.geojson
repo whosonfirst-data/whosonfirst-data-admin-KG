@@ -1,0 +1,73 @@
+{
+  "id": 1310018833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.9009,42.84588,74.9009,42.84588",
+    "geom:latitude":42.84588,
+    "geom:longitude":74.9009,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Imeni Gagarina",
+    "gn:country_code":"KG",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217685,
+    "gn:latitude":42.84588,
+    "gn:longitude":74.9009,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Imeni Gagarina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217685
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2b89efd53f8662b46a8b0390c3006e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1310018833,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310018833,
+    "wof:lastmodified":1537653267,
+    "wof:name":"Imeni Gagarina",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.9009,
+    42.84588,
+    74.9009,
+    42.84588
+],
+  "geometry": {"coordinates":[74.90089999999999,42.84588],"type":"Point"}
+}

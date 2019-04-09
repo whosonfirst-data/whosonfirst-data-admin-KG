@@ -1,0 +1,77 @@
+{
+  "id": 1343965547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.96192,41.80927,71.96192,41.80927",
+    "geom:latitude":41.80927,
+    "geom:longitude":71.96192,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arkit",
+    "gn:country_code":"KG",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528823,
+    "gn:latitude":41.80927,
+    "gn:longitude":71.96192,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Arkit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u043a\u044b\u0442"
+    ],
+    "name:kir_x_variant":[
+        "Arkyt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043a\u0438\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528823,
+        "wk:page":"Arkit"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d997faa2c73f332a5715eefba81c75ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1343965547,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343965547,
+    "wof:lastmodified":1537653178,
+    "wof:name":"Arkit",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.96191999999998,
+    41.80927,
+    71.96191999999998,
+    41.80927
+],
+  "geometry": {"coordinates":[71.96191999999998,41.80927],"type":"Point"}
+}

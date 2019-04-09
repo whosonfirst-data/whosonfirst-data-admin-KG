@@ -1,0 +1,76 @@
+{
+  "id": 1344148495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.2096,42.17957,76.2096,42.17957",
+    "geom:latitude":42.17957,
+    "geom:longitude":76.2096,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Semisbel'",
+    "gn:country_code":"KG",
+    "gn:dem":2403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331931,
+    "gn:latitude":42.17957,
+    "gn:longitude":76.2096,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Semisbel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0435\u043c\u0438\u0441\u0431\u0435\u043b\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Semisbel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0435\u043c\u0438\u0441\u0431\u0435\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331931
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6d537b853c94a52f82f0725d032e8a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1344148495,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1344148495,
+    "wof:lastmodified":1537653287,
+    "wof:name":"Semisbel'",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.2096,
+    42.17957,
+    76.2096,
+    42.17957
+],
+  "geometry": {"coordinates":[76.20959999999999,42.17957],"type":"Point"}
+}

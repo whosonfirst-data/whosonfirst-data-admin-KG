@@ -1,0 +1,80 @@
+{
+  "id": 1226055381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.00369,42.78804,76.00369,42.78804",
+    "geom:latitude":42.78804,
+    "geom:longitude":76.00369,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Il'ichyovskoe",
+    "gn:country_code":"KG",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528298,
+    "gn:latitude":42.78804,
+    "gn:longitude":76.00369,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Il\u2019ichyovskoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Il\u2019ichyovskoe"
+    ],
+    "name:rus_x_preferred":[
+        "Il\u2019ich\u00ebvskoye"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043b\u044c\u0438\u0447\u0451\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Imeni Il\u2019icha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528298,
+        "wk:page":"Imeni_Il%27icha"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7e18861ae52d18123710c6582fe23021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1226055381,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1226055381,
+    "wof:lastmodified":1537653156,
+    "wof:name":"Il'ichyovskoe",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.00369,
+    42.78804,
+    76.00369,
+    42.78804
+],
+  "geometry": {"coordinates":[76.00369000000001,42.78804],"type":"Point"}
+}

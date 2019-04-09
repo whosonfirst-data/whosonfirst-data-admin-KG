@@ -1,0 +1,73 @@
+{
+  "id": 1276454833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36091,40.97409,73.36091,40.97409",
+    "geom:latitude":40.97409,
+    "geom:longitude":73.36091,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kara-Kolot",
+    "gn:country_code":"KG",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174066,
+    "gn:latitude":40.97409,
+    "gn:longitude":73.36091,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kara-Kolot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174066
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4f6e89af7eb2f1ec0fbb6167117d1b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1276454833,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276454833,
+    "wof:lastmodified":1537653247,
+    "wof:name":"Kara-Kolot",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36091,
+    40.97409,
+    73.36091,
+    40.97409
+],
+  "geometry": {"coordinates":[73.36091,40.97409],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243563311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.37542,42.79645,75.37542,42.79645",
+    "geom:latitude":42.79645,
+    "geom:longitude":75.37542,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzhany-Turmush",
+    "gn:country_code":"KG",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232310,
+    "gn:latitude":42.79645,
+    "gn:longitude":75.37542,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhany-Turmush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0422\u0443\u0440\u043c\u0443\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0422\u0443\u0440\u043c\u0443\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232310
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"35aed1200ca64040075466993436f3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691731,
+            "locality_id":1243563311,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1243563311,
+    "wof:lastmodified":1537653274,
+    "wof:name":"Dzhany-Turmush",
+    "wof:parent_id":1091691731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.37541999999998,
+    42.79645,
+    75.37541999999998,
+    42.79645
+],
+  "geometry": {"coordinates":[75.37541999999998,42.79645],"type":"Point"}
+}

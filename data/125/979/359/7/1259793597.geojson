@@ -1,0 +1,71 @@
+{
+  "id": 1259793597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.7,40.25,72.7,40.25",
+    "geom:latitude":40.25,
+    "geom:longitude":72.7,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chukur (only fields... delete?)",
+    "gn:country_code":"KG",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528476,
+    "gn:latitude":40.25,
+    "gn:longitude":72.7,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chukur (only fields... delete?)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chukur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528476,
+        "wk:page":"Chukur"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"51e0d8e9a95cdc33dad7b06ead827825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1259793597,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259793597,
+    "wof:lastmodified":1537653165,
+    "wof:name":"Chukur (only fields... delete?)",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.7,
+    40.25,
+    72.7,
+    40.25
+],
+  "geometry": {"coordinates":[72.7,40.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243173833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.30827,41.25876,72.30827,41.25876",
+    "geom:latitude":41.25876,
+    "geom:longitude":72.30827,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kuduk",
+    "gn:country_code":"KG",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134466,
+    "gn:latitude":41.25876,
+    "gn:longitude":72.30827,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kuduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134466
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"09e321ab14487425895eac879c94bae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1243173833,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243173833,
+    "wof:lastmodified":1537653208,
+    "wof:name":"Kuduk",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.30827,
+    41.25876,
+    72.30827,
+    41.25876
+],
+  "geometry": {"coordinates":[72.30826999999999,41.25876],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344260293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.45621,43.12361,74.45621,43.12361",
+    "geom:latitude":43.12361,
+    "geom:longitude":74.45621,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lubyanoye",
+    "gn:country_code":"KG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219706,
+    "gn:latitude":43.12361,
+    "gn:longitude":74.45621,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Lubyanoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041b\u0443\u0431\u044f\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0431\u044f\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219706
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"58ac92e0c34072afc8841d8c589cce89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1344260293,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1344260293,
+    "wof:lastmodified":1537653268,
+    "wof:name":"Lubyanoye",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.45621,
+    43.12361,
+    74.45621,
+    43.12361
+],
+  "geometry": {"coordinates":[74.45621,43.12361],"type":"Point"}
+}

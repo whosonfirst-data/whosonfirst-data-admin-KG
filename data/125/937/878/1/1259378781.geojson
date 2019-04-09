@@ -1,0 +1,79 @@
+{
+  "id": 1259378781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8661,40.69116,72.8661,40.69116",
+    "geom:latitude":40.69116,
+    "geom:longitude":72.8661,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imeni Tel'mana",
+    "gn:country_code":"KG",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8163647,
+    "gn:latitude":40.69116,
+    "gn:longitude":72.8661,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Imeni Tel\u2019mana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Imeni Tel\u2019mana"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0420\u0435\u043b\u044c\u043c\u0430\u043d\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Telman Nomli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8163647
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1538b85051a145f0a0829c3586b2f61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1259378781,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259378781,
+    "wof:lastmodified":1537653241,
+    "wof:name":"Imeni Tel'mana",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8661,
+    40.69116,
+    72.8661,
+    40.69116
+],
+  "geometry": {"coordinates":[72.8661,40.69116],"type":"Point"}
+}

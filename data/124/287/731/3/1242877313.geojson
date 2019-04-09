@@ -1,0 +1,73 @@
+{
+  "id": 1242877313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.7647,42.76335,75.7647,42.76335",
+    "geom:latitude":42.76335,
+    "geom:longitude":75.7647,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sveklopunkt",
+    "gn:country_code":"KG",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8232186,
+    "gn:latitude":42.76335,
+    "gn:longitude":75.7647,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Sveklopunkt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0435\u0441\u044b\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u043a\u043b\u043e\u043f\u0443\u043d\u043a\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8232186
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9e8fa84359d2753837c5a36f1497fcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1242877313,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1242877313,
+    "wof:lastmodified":1537653273,
+    "wof:name":"Sveklopunkt",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.7647,
+    42.76335,
+    75.7647,
+    42.76335
+],
+  "geometry": {"coordinates":[75.7647,42.76335],"type":"Point"}
+}

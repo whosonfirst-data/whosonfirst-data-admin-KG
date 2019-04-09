@@ -1,0 +1,77 @@
+{
+  "id": 1225941917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97487,40.55046,73.97487,40.55046",
+    "geom:latitude":40.55046,
+    "geom:longitude":73.97487,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chong-Taldy-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527285,
+    "gn:latitude":40.55046,
+    "gn:longitude":73.97487,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chong-Taldy-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u04a3-\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d\u0433-\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
+    ],
+    "name:und_x_variant":[
+        "Taldy-Su"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527285,
+        "wk:page":"Taldy-Su"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8c430db6c0dde8c081699bc1cc5988d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1225941917,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1225941917,
+    "wof:lastmodified":1537653113,
+    "wof:name":"Chong-Taldy-Suu",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97487,
+    40.55046,
+    73.97487,
+    40.55046
+],
+  "geometry": {"coordinates":[73.97487,40.55046],"type":"Point"}
+}

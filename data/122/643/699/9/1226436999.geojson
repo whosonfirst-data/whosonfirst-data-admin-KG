@@ -1,0 +1,76 @@
+{
+  "id": 1226436999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.14222,42.45571,78.14222,42.45571",
+    "geom:latitude":42.45571,
+    "geom:longitude":78.14222,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ak-Usten",
+    "gn:country_code":"KG",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528926,
+    "gn:latitude":42.45571,
+    "gn:longitude":78.14222,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ak-Usten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041e\u0441\u0442\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0423\u0441\u0442\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ak-Osten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528926
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2f49b5a4eaf7438763f8e8d95c49f106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1226436999,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1226436999,
+    "wof:lastmodified":1537653182,
+    "wof:name":"Ak-Usten",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.14222,
+    42.45571,
+    78.14222,
+    42.45571
+],
+  "geometry": {"coordinates":[78.14221999999999,42.45571],"type":"Point"}
+}

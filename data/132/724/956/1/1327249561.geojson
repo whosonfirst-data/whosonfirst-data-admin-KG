@@ -1,0 +1,72 @@
+{
+  "id": 1327249561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1,40.76667,73.1,40.76667",
+    "geom:latitude":40.76667,
+    "geom:longitude":73.1,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kara-Sadak",
+    "gn:country_code":"KG",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1528094,
+    "gn:latitude":40.76667,
+    "gn:longitude":73.1,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kara-Sadak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kara-Sadanto",
+        "Kara-Sadak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528094,
+        "wk:page":"Kara-Sadak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2a620c7016660d181026367d3be4f118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1327249561,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327249561,
+    "wof:lastmodified":1537653149,
+    "wof:name":"Kara-Sadak",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1,
+    40.76667,
+    73.1,
+    40.76667
+],
+  "geometry": {"coordinates":[73.09999999999999,40.76667],"type":"Point"}
+}

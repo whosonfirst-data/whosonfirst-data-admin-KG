@@ -1,0 +1,73 @@
+{
+  "id": 1226466511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.22344,41.43294,75.22344,41.43294",
+    "geom:latitude":41.43294,
+    "geom:longitude":75.22344,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dzhilanaryk",
+    "gn:country_code":"KG",
+    "gn:dem":1695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528373,
+    "gn:latitude":41.43294,
+    "gn:longitude":75.22344,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Dzhilanaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jylan-Aryk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043b\u0430\u043d\u0430\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528373
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7643b1154b49c0ee3a0819eb6ae3088b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1226466511,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226466511,
+    "wof:lastmodified":1537653160,
+    "wof:name":"Dzhilanaryk",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.22344,
+    41.43294,
+    75.22344,
+    41.43294
+],
+  "geometry": {"coordinates":[75.22344,41.43294],"type":"Point"}
+}

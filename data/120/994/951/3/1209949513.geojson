@@ -1,0 +1,77 @@
+{
+  "id": 1209949513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.3599,41.38364,75.3599,41.38364",
+    "geom:latitude":41.38364,
+    "geom:longitude":75.3599,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uchkun",
+    "gn:country_code":"KG",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527100,
+    "gn:latitude":41.38364,
+    "gn:longitude":75.3599,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Uchkun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Uchkun"
+    ],
+    "name:kir_x_preferred":[
+        "\u04ae\u0447\u043a\u04af\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u043a\u0443\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527100,
+        "wk:page":"Uchkun"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8c2777839980fd4a0e9fab10ddf0ec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1209949513,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1209949513,
+    "wof:lastmodified":1537653107,
+    "wof:name":"Uchkun",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.3599,
+    41.38364,
+    75.3599,
+    41.38364
+],
+  "geometry": {"coordinates":[75.3599,41.38364],"type":"Point"}
+}

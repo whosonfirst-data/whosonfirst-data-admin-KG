@@ -1,0 +1,71 @@
+{
+  "id": 1209932535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.946,42.78358,75.946,42.78358",
+    "geom:latitude":42.78358,
+    "geom:longitude":75.946,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Uchuruk",
+    "gn:country_code":"KG",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527096,
+    "gn:latitude":42.78358,
+    "gn:longitude":75.946,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Uchuruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04ae\u0447-\u04e8\u0440\u04af\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527096,
+        "wk:page":"Uchuruk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fec470cb1e4afbbf842d0e35a9dbe1f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1209932535,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1209932535,
+    "wof:lastmodified":1537653107,
+    "wof:name":"Uchuruk",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.946,
+    42.78358,
+    75.946,
+    42.78358
+],
+  "geometry": {"coordinates":[75.946,42.78358],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293108923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36136,40.16845,72.36136,40.16845",
+    "geom:latitude":40.16845,
+    "geom:longitude":72.36136,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khodzhaaryk",
+    "gn:country_code":"KG",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527946,
+    "gn:latitude":40.16845,
+    "gn:longitude":72.36136,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Khodzhaaryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0425\u043e\u0436\u0430-\u0410\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527946,
+        "wk:page":"Khodzhaaryk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2eb94eaa09085fd9bd9f4155ddbe69fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293108923,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293108923,
+    "wof:lastmodified":1537653143,
+    "wof:name":"Khodzhaaryk",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36135999999998,
+    40.16845,
+    72.36135999999998,
+    40.16845
+],
+  "geometry": {"coordinates":[72.36135999999998,40.16845],"type":"Point"}
+}

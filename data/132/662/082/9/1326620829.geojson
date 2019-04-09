@@ -1,0 +1,73 @@
+{
+  "id": 1326620829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00202,40.40967,74.00202,40.40967",
+    "geom:latitude":40.40967,
+    "geom:longitude":74.00202,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Akbogus",
+    "gn:country_code":"KG",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403907,
+    "gn:latitude":40.40967,
+    "gn:longitude":74.00202,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Akbogus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a\u0431\u043e\u0433\u0443\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0431\u043e\u0433\u0443\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403907
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"76f073dc55454da3e689cfa6af345eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1326620829,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326620829,
+    "wof:lastmodified":1537653311,
+    "wof:name":"Akbogus",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00202,
+    40.40967,
+    74.00202,
+    40.40967
+],
+  "geometry": {"coordinates":[74.00202,40.40967],"type":"Point"}
+}

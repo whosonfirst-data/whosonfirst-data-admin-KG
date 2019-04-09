@@ -1,0 +1,76 @@
+{
+  "id": 1293509591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57021,40.26357,72.57021,40.26357",
+    "geom:latitude":40.26357,
+    "geom:longitude":72.57021,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gyul'stan",
+    "gn:country_code":"KG",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139563,
+    "gn:latitude":40.26357,
+    "gn:longitude":72.57021,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Gyul\u2019stan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "G\u00fclstan"
+    ],
+    "name:rus_x_preferred":[
+        "Gyul\u2019stan"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u044e\u043b\u044c\u0441\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139563
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"021d271b7a87fa3a2bf9d35fbfaa30fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293509591,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293509591,
+    "wof:lastmodified":1537653219,
+    "wof:name":"Gyul'stan",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57021,
+    40.26357,
+    72.57021,
+    40.26357
+],
+  "geometry": {"coordinates":[72.57021,40.26357],"type":"Point"}
+}

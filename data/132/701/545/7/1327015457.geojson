@@ -1,0 +1,79 @@
+{
+  "id": 1327015457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88542,40.56476,73.88542,40.56476",
+    "geom:latitude":40.56476,
+    "geom:longitude":73.88542,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ordesh",
+    "gn:country_code":"KG",
+    "gn:dem":1823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142471,
+    "gn:latitude":40.56476,
+    "gn:longitude":73.88542,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Ord\u00ebsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0434\u04e9\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "Ord\u00ebsh"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u0434\u0451\u0448"
+    ],
+    "name:und_x_variant":[
+        "Ord\u00ebsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142471
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"40c378af58c3e79b33a28106ca8caf61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1327015457,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327015457,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Ordesh",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88542,
+    40.56476,
+    73.88542,
+    40.56476
+],
+  "geometry": {"coordinates":[73.88542,40.56476],"type":"Point"}
+}

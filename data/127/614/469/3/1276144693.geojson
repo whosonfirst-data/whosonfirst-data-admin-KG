@@ -1,0 +1,77 @@
+{
+  "id": 1276144693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86188,40.04798,72.86188,40.04798",
+    "geom:latitude":40.04798,
+    "geom:longitude":72.86188,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chogon",
+    "gn:country_code":"KG",
+    "gn:dem":2301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528898,
+    "gn:latitude":40.04798,
+    "gn:longitude":72.86188,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u0433\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0433\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Aktash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528898,
+        "wk:page":"Aktash"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2c7410b148e52e8e52b01ba60a6f4c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1276144693,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276144693,
+    "wof:lastmodified":1537653181,
+    "wof:name":"Chogon",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86188,
+    40.04798,
+    72.86188,
+    40.04798
+],
+  "geometry": {"coordinates":[72.86188,40.04798],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226133329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6127,40.41867,73.6127,40.41867",
+    "geom:latitude":40.41867,
+    "geom:longitude":73.6127,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tegerek-Saz",
+    "gn:country_code":"KG",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527250,
+    "gn:latitude":40.41867,
+    "gn:longitude":73.6127,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Tegerek-Saz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u0440\u0435\u043a-\u0421\u0430\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u0440\u0435\u043a-\u0421\u0430\u0437"
+    ],
+    "name:und_x_variant":[
+        "Tegerek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527250,
+        "wk:page":"Tegerek"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2c5384e237fd6b51a374b75f48175412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226133329,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226133329,
+    "wof:lastmodified":1537653112,
+    "wof:name":"Tegerek-Saz",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6127,
+    40.41867,
+    73.6127,
+    40.41867
+],
+  "geometry": {"coordinates":[73.6127,40.41867],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276235761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23766,41.60096,72.23766,41.60096",
+    "geom:latitude":41.60096,
+    "geom:longitude":72.23766,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chigir",
+    "gn:country_code":"KG",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528535,
+    "gn:latitude":41.60096,
+    "gn:longitude":72.23766,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Chigir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0438\u0433\u0438\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0433\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Raykomol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528535,
+        "wk:page":"Chigir"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9ae50a70c01770047ed8cbb5a8f3e992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1276235761,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276235761,
+    "wof:lastmodified":1537653167,
+    "wof:name":"Chigir",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23765999999998,
+    41.60096,
+    72.23765999999998,
+    41.60096
+],
+  "geometry": {"coordinates":[72.23765999999998,41.60096],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276253209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.20243,41.94366,76.20243,41.94366",
+    "geom:latitude":41.94366,
+    "geom:longitude":76.20243,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tuura-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":2728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065100,
+    "gn:latitude":41.94366,
+    "gn:longitude":76.20243,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tuura-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tuura-Suu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u0430\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Turasu",
+        "Ulakhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065100
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"59e91ea3b7a75e4a744a6ae86718f949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1276253209,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276253209,
+    "wof:lastmodified":1537653201,
+    "wof:name":"Tuura-Suu",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.20243,
+    41.94366,
+    76.20243,
+    41.94366
+],
+  "geometry": {"coordinates":[76.20243000000001,41.94366],"type":"Point"}
+}

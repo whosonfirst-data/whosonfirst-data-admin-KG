@@ -1,0 +1,77 @@
+{
+  "id": 1360085207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.14377,40.86357,75.14377,40.86357",
+    "geom:latitude":40.86357,
+    "geom:longitude":75.14377,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Beyit",
+    "gn:country_code":"KG",
+    "gn:dem":3010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528965,
+    "gn:latitude":40.86357,
+    "gn:longitude":75.14377,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ak-Beyit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0435\u0438\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u0410\u043a\u0431\u0435\u0438\u0442"
+    ],
+    "name:und_x_variant":[
+        "Distantsiya Akbeit",
+        "Akbeit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528965
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"cfc332b10e26e1db9bd0747a930f2bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1360085207,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1360085207,
+    "wof:lastmodified":1537653184,
+    "wof:name":"Ak-Beyit",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.14376999999998,
+    40.86357,
+    75.14376999999998,
+    40.86357
+],
+  "geometry": {"coordinates":[75.14376999999998,40.86357],"type":"Point"}
+}

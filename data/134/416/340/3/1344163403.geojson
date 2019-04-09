@@ -1,0 +1,85 @@
+{
+  "id": 1344163403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95698,41.26668,74.95698,41.26668",
+    "geom:latitude":41.26668,
+    "geom:longitude":74.95698,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baetovo",
+    "gn:country_code":"KG",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1528766,
+    "gn:latitude":41.26668,
+    "gn:longitude":74.95698,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Baetovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0435\u0442\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0435\u0442\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "Dyurbel\u2019dzhin",
+        "\u0414\u044e\u0440\u0431\u0435\u043b\u044c\u0434\u0436\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dyurbel\u2019jin",
+        "Dyurbel\u2019dzhin",
+        "Bayetovo",
+        "Durbel\u2019jin",
+        "Baetov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528766,
+        "wk:page":"Baetov"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"964253ad341773f0f16f30564c1c5931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1344163403,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1344163403,
+    "wof:lastmodified":1537653177,
+    "wof:name":"Baetovo",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95698,
+    41.26668,
+    74.95698,
+    41.26668
+],
+  "geometry": {"coordinates":[74.95698,41.26668],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1225856335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67027,41.62828,72.67027,41.62828",
+    "geom:latitude":41.62828,
+    "geom:longitude":72.67027,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kara-Kul'",
+    "gn:country_code":"KG",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528124,
+    "gn:latitude":41.62828,
+    "gn:longitude":72.67027,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kara-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kara-K\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "Kara-Kul\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430-\u041a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Kara-K\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528124,
+        "wk:page":"Karak%C3%B6l"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"72eabc91754f5f342240726b4fe76aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1225856335,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1225856335,
+    "wof:lastmodified":1537653150,
+    "wof:name":"Kara-Kul'",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67027,
+    41.62828,
+    72.67027,
+    41.62828
+],
+  "geometry": {"coordinates":[72.67027,41.62828],"type":"Point"}
+}

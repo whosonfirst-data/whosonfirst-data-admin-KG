@@ -1,0 +1,73 @@
+{
+  "id": 1260268561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82136,40.93092,73.82136,40.93092",
+    "geom:latitude":40.93092,
+    "geom:longitude":73.82136,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tashkupyr",
+    "gn:country_code":"KG",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174892,
+    "gn:latitude":40.93092,
+    "gn:longitude":73.82136,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Tashkupyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0443\u043f\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u0443\u043f\u044b\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174892
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8cbd2de3701c3292ac1575eec6e56e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1260268561,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260268561,
+    "wof:lastmodified":1537653250,
+    "wof:name":"Tashkupyr",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82136,
+    40.93092,
+    73.82136,
+    40.93092
+],
+  "geometry": {"coordinates":[73.82136,40.93092],"type":"Point"}
+}

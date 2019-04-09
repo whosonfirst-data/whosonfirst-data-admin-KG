@@ -1,0 +1,77 @@
+{
+  "id": 1293198333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27757,42.58736,71.27757,42.58736",
+    "geom:latitude":42.58736,
+    "geom:longitude":71.27757,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Krupskaya Atyndagi",
+    "gn:country_code":"KG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063994,
+    "gn:latitude":42.58736,
+    "gn:longitude":71.27757,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Krupskaya Atyndagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Krupskaya Atyndagi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Krupskoye",
+        "Ak-Dzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063994
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6f3652ed5f0bf76e68eadccf2cfef9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690357,
+            "locality_id":1293198333,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1293198333,
+    "wof:lastmodified":1537653197,
+    "wof:name":"Krupskaya Atyndagi",
+    "wof:parent_id":1091690357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27757,
+    42.58736,
+    71.27757,
+    42.58736
+],
+  "geometry": {"coordinates":[71.27757,42.58736],"type":"Point"}
+}

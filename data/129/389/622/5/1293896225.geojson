@@ -1,0 +1,73 @@
+{
+  "id": 1293896225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37007,42.82008,74.37007,42.82008",
+    "geom:latitude":42.82008,
+    "geom:longitude":74.37007,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Karasakal",
+    "gn:country_code":"KG",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217156,
+    "gn:latitude":42.82008,
+    "gn:longitude":74.37007,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Karasakal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0430\u043a\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0430\u043a\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217156
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"43e9a74fab76c1cecb2845aed83c5ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1293896225,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293896225,
+    "wof:lastmodified":1537653262,
+    "wof:name":"Karasakal",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37007,
+    42.82008,
+    74.37007,
+    42.82008
+],
+  "geometry": {"coordinates":[74.37007,42.82008],"type":"Point"}
+}

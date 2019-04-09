@@ -1,0 +1,78 @@
+{
+  "id": 1209404495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.64575,40.26075,71.64575,40.26075",
+    "geom:latitude":40.26075,
+    "geom:longitude":71.64575,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yntymak",
+    "gn:country_code":"KG",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376107,
+    "gn:latitude":40.26075,
+    "gn:longitude":71.64575,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Yntymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042b\u044f\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u042b\u044f\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Yyatymak",
+        "Kutal",
+        "Yntymak"
+    ],
+    "name:uzb_x_preferred":[
+        "Intimoq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376107
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fc968a73464d27aaf9a5c5232808d429",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209404495
+        }
+    ],
+    "wof:id":1209404495,
+    "wof:lastmodified":1537653293,
+    "wof:name":"Yntymak",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.64575,
+    40.26075,
+    71.64575,
+    40.26075
+],
+  "geometry": {"coordinates":[71.64575000000001,40.26075],"type":"Point"}
+}

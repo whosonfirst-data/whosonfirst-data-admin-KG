@@ -1,0 +1,76 @@
+{
+  "id": 1225856559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94192,40.87888,72.94192,40.87888",
+    "geom:latitude":40.87888,
+    "geom:longitude":72.94192,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aral-Say",
+    "gn:country_code":"KG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137694,
+    "gn:latitude":40.87888,
+    "gn:longitude":72.94192,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Aral-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u0430\u043b-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0430\u043b-\u0421\u0430\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Orol-Soy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137694
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8ef1fcf3d9e5f9e648779bbb09cbd244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1225856559,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1225856559,
+    "wof:lastmodified":1537653213,
+    "wof:name":"Aral-Say",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94192,
+    40.87888,
+    72.94192,
+    40.87888
+],
+  "geometry": {"coordinates":[72.94192,40.87888],"type":"Point"}
+}

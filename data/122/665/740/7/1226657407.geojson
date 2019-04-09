@@ -1,0 +1,73 @@
+{
+  "id": 1226657407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66722,40.98184,72.66722,40.98184",
+    "geom:latitude":40.98184,
+    "geom:longitude":72.66722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chon-Kurulush",
+    "gn:country_code":"KG",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137728,
+    "gn:latitude":40.98184,
+    "gn:longitude":72.66722,
+    "gn:modification_date":"2015-05-30",
+    "gn:name":"Chon-Kurulush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u04a3-\u041a\u0443\u0440\u0443\u043b\u0443\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d-\u041a\u0443\u0440\u0443\u043b\u0443\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137728
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d2e69b86715a0854ef32636e906d65da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1226657407,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226657407,
+    "wof:lastmodified":1537653214,
+    "wof:name":"Chon-Kurulush",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66722,
+    40.98184000000001,
+    72.66722,
+    40.98184000000001
+],
+  "geometry": {"coordinates":[72.66722,40.98184000000001],"type":"Point"}
+}

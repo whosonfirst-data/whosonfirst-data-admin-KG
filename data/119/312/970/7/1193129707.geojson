@@ -1,0 +1,76 @@
+{
+  "id": 1193129707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35051,42.45808,72.35051,42.45808",
+    "geom:latitude":42.45808,
+    "geom:longitude":72.35051,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Atay Ogonbaev",
+    "gn:country_code":"KG",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063980,
+    "gn:latitude":42.45808,
+    "gn:longitude":72.35051,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Atay Ogonbaev",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Atay Ogonbaev"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0433\u0435\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dzhergetal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063980
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9e1dc9ef00d62c4cf83b592545224095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1193129707,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1193129707,
+    "wof:lastmodified":1537653197,
+    "wof:name":"Atay Ogonbaev",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35051,
+    42.45808,
+    72.35051,
+    42.45808
+],
+  "geometry": {"coordinates":[72.35051,42.45808],"type":"Point"}
+}

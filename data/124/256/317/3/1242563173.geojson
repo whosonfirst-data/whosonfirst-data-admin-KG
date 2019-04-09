@@ -1,0 +1,73 @@
+{
+  "id": 1242563173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39272,39.90758,73.39272,39.90758",
+    "geom:latitude":39.90758,
+    "geom:longitude":73.39272,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Dzhylga",
+    "gn:country_code":"KG",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402327,
+    "gn:latitude":39.90758,
+    "gn:longitude":73.39272,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kara-Dzhylga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0416\u044b\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0414\u0436\u044b\u043b\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402327
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"46e73f107272a2b6b5dd727644decb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1242563173,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242563173,
+    "wof:lastmodified":1537653310,
+    "wof:name":"Kara-Dzhylga",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39272,
+    39.90758,
+    73.39272,
+    39.90758
+],
+  "geometry": {"coordinates":[73.39272,39.90758],"type":"Point"}
+}

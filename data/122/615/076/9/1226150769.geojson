@@ -1,0 +1,81 @@
+{
+  "id": 1226150769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.79274,41.10189,72.79274,41.10189",
+    "geom:latitude":41.10189,
+    "geom:longitude":72.79274,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Oktyabr'",
+    "gn:country_code":"KG",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138116,
+    "gn:latitude":41.10189,
+    "gn:longitude":72.79274,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kyzyl-Oktyabr\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041e\u043a\u0442\u044f\u0431\u0440\u044c"
+    ],
+    "name:rus_x_preferred":[
+        "Kyzyl-Oktyabr\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041e\u043a\u0442\u044f\u0431\u0440\u044c",
+        "Eskidurbul\u2019"
+    ],
+    "name:und_x_variant":[
+        "Kyzyl-Oktyabr\u2019",
+        "Eskidurbul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138116
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9d70cb4ebd23453ff9508dea29a85927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1226150769,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226150769,
+    "wof:lastmodified":1537653216,
+    "wof:name":"Kyzyl-Oktyabr'",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.79274000000002,
+    41.10189,
+    72.79274000000002,
+    41.10189
+],
+  "geometry": {"coordinates":[72.79274000000002,41.10189],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276118175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.24803,42.19922,75.24803,42.19922",
+    "geom:latitude":42.19922,
+    "geom:longitude":75.24803,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mantysh",
+    "gn:country_code":"KG",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064363,
+    "gn:latitude":42.19922,
+    "gn:longitude":75.24803,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Mantysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u044b\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u044b\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064363,
+        "wk:page":"Mantysh"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f074f7cd75ff7fb2c148e9df444fa461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1276118175,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276118175,
+    "wof:lastmodified":1537653201,
+    "wof:name":"Mantysh",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.24803,
+    42.19922,
+    75.24803,
+    42.19922
+],
+  "geometry": {"coordinates":[75.24803,42.19922],"type":"Point"}
+}

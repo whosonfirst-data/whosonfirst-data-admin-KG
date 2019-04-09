@@ -1,0 +1,80 @@
+{
+  "id": 1259388845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.78952,41.57257,75.78952,41.57257",
+    "geom:latitude":41.57257,
+    "geom:longitude":75.78952,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dzhergetal",
+    "gn:country_code":"KG",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528390,
+    "gn:latitude":41.57257,
+    "gn:longitude":75.78952,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Dzhergetal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jergetal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0433\u0435\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Jergety",
+        "Jerget\u00f6",
+        "Dzhergety",
+        "Dzhergetal",
+        "Jergetal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528390
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5763ea2e8dff5a84b35c69eac7215c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1259388845,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259388845,
+    "wof:lastmodified":1537653161,
+    "wof:name":"Dzhergetal",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.78952,
+    41.57257,
+    75.78952,
+    41.57257
+],
+  "geometry": {"coordinates":[75.78952,41.57257],"type":"Point"}
+}

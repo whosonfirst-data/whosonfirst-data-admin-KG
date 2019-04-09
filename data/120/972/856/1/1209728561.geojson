@@ -1,0 +1,74 @@
+{
+  "id": 1209728561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48936,42.94133,74.48936,42.94133",
+    "geom:latitude":42.94133,
+    "geom:longitude":74.48936,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ak-Dzhol",
+    "gn:country_code":"KG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540652,
+    "gn:latitude":42.94133,
+    "gn:longitude":74.48936,
+    "gn:modification_date":"2015-05-22",
+    "gn:name":"Ak-Dzhol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0416\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0414\u0436\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540652,
+        "wk:page":"Ak-Dzhol"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"66f91bc345819fb8def225f380875067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1209728561,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1209728561,
+    "wof:lastmodified":1537653186,
+    "wof:name":"Ak-Dzhol",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48935999999998,
+    42.94133,
+    74.48935999999998,
+    42.94133
+],
+  "geometry": {"coordinates":[74.48935999999998,42.94133],"type":"Point"}
+}

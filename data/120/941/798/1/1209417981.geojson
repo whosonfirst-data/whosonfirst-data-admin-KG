@@ -1,0 +1,67 @@
+{
+  "id": 1209417981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33405,43.10299,74.33405,43.10299",
+    "geom:latitude":43.10299,
+    "geom:longitude":74.33405,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zapadnoye",
+    "gn:country_code":"KG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219885,
+    "gn:latitude":43.10299,
+    "gn:longitude":74.33405,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Zapadnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219885
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8bb372e71c8b04c7840c1192221e19cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209417981
+        }
+    ],
+    "wof:id":1209417981,
+    "wof:lastmodified":1537653269,
+    "wof:name":"Zapadnoye",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33405,
+    43.10299000000001,
+    74.33405,
+    43.10299000000001
+],
+  "geometry": {"coordinates":[74.33405,43.10299000000001],"type":"Point"}
+}

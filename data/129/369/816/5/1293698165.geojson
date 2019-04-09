@@ -1,0 +1,74 @@
+{
+  "id": 1293698165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20033,41.76222,73.20033,41.76222",
+    "geom:latitude":41.76222,
+    "geom:longitude":73.20033,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uch-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8134212,
+    "gn:latitude":41.76222,
+    "gn:longitude":73.20033,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"\u00dcch-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0447-\u0422\u0435\u0440\u0435\u0433"
+    ],
+    "name:und_x_variant":[
+        "\u00dcch-Terek",
+        "\u0421\u0430\u0440\u0433\u0430\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134212
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4e60000c3766b061e04a2a901d2ccef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1293698165,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293698165,
+    "wof:lastmodified":1537653207,
+    "wof:name":"Uch-Terek",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20033000000002,
+    41.76222,
+    73.20033000000002,
+    41.76222
+],
+  "geometry": {"coordinates":[73.20033000000002,41.76222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209727075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70932,41.63519,72.70932,41.63519",
+    "geom:latitude":41.63519,
+    "geom:longitude":72.70932,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yazkechu",
+    "gn:country_code":"KG",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194831,
+    "gn:latitude":41.63519,
+    "gn:longitude":72.70932,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Yazkechu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042f\u0437\u043a\u0435\u0447\u04af"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0437\u043a\u0435\u0447\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194831
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"67c7d97e6fba6bada5bfeb9773eeec82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1209727075,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209727075,
+    "wof:lastmodified":1537653258,
+    "wof:name":"Yazkechu",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70931999999998,
+    41.63519,
+    72.70931999999998,
+    41.63519
+],
+  "geometry": {"coordinates":[72.70931999999998,41.63519],"type":"Point"}
+}

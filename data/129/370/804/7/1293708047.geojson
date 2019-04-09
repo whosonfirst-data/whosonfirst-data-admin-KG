@@ -1,0 +1,73 @@
+{
+  "id": 1293708047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.57344,39.95429,69.57344,39.95429",
+    "geom:latitude":39.95429,
+    "geom:longitude":69.57344,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kyyal-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377874,
+    "gn:latitude":39.95429,
+    "gn:longitude":69.57344,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Kyyal-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u044f\u043b-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u044f\u043b-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377874
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c54cc6dcedc6b281956115dae2b6e3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1293708047,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1293708047,
+    "wof:lastmodified":1537653301,
+    "wof:name":"Kyyal-Say",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.57344,
+    39.95429,
+    69.57344,
+    39.95429
+],
+  "geometry": {"coordinates":[69.57344000000001,39.95429],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1343273683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65037,41.42957,71.65037,41.42957",
+    "geom:latitude":41.42957,
+    "geom:longitude":71.65037,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gulistan",
+    "gn:country_code":"KG",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580292,
+    "gn:latitude":41.42957,
+    "gn:longitude":71.65037,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Gulistan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gyulstan"
+    ],
+    "name:kir_x_preferred":[
+        "G\u00fclstan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "G\u00fclstan"
+    ],
+    "name:uzb_x_preferred":[
+        "Gyulstan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580292
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"40f0cd9ddad7bceff1df70cf76e771cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1343273683,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343273683,
+    "wof:lastmodified":1537653193,
+    "wof:name":"Gulistan",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65037,
+    41.42957,
+    71.65037,
+    41.42957
+],
+  "geometry": {"coordinates":[71.65037,41.42957],"type":"Point"}
+}

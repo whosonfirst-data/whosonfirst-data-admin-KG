@@ -1,0 +1,73 @@
+{
+  "id": 1293596531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.01448,41.74316,71.01448,41.74316",
+    "geom:latitude":41.74316,
+    "geom:longitude":71.01448,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manday",
+    "gn:country_code":"KG",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374541,
+    "gn:latitude":41.74316,
+    "gn:longitude":71.01448,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Manday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374541
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a733029a8bafa6f03f6c5f2eccf31d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1293596531,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293596531,
+    "wof:lastmodified":1537653289,
+    "wof:name":"Manday",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.01448,
+    41.74316,
+    71.01448,
+    41.74316
+],
+  "geometry": {"coordinates":[71.01448000000001,41.74316],"type":"Point"}
+}

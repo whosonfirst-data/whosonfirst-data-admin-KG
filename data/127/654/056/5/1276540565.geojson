@@ -1,0 +1,73 @@
+{
+  "id": 1276540565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.16938,42.6897,77.16938,42.6897",
+    "geom:latitude":42.6897,
+    "geom:longitude":77.16938,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ashkhabak",
+    "gn:country_code":"KG",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238858,
+    "gn:latitude":42.6897,
+    "gn:longitude":77.16938,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ashkhabak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0448\u0445\u0430\u0431\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0448\u0445\u0430\u0431\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238858
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9475ebdfd44c3c1135d5152e80bb2e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691273,
+            "locality_id":1276540565,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1276540565,
+    "wof:lastmodified":1537653276,
+    "wof:name":"Ashkhabak",
+    "wof:parent_id":1091691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.16938,
+    42.6897,
+    77.16938,
+    42.6897
+],
+  "geometry": {"coordinates":[77.16938,42.6897],"type":"Point"}
+}

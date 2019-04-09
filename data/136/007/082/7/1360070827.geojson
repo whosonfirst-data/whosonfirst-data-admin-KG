@@ -1,0 +1,73 @@
+{
+  "id": 1360070827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5285,40.32564,73.5285,40.32564",
+    "geom:latitude":40.32564,
+    "geom:longitude":73.5285,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhol-Dzhylga",
+    "gn:country_code":"KG",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142718,
+    "gn:latitude":40.32564,
+    "gn:longitude":73.5285,
+    "gn:modification_date":"2015-05-30",
+    "gn:name":"Dzhol-Dzhylga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0416\u044b\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043b-\u0414\u0436\u044b\u043b\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142718
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d0aa646a29a8fe61f1332238a7a0f52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1360070827,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1360070827,
+    "wof:lastmodified":1537653232,
+    "wof:name":"Dzhol-Dzhylga",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5285,
+    40.32564,
+    73.5285,
+    40.32564
+],
+  "geometry": {"coordinates":[73.52849999999999,40.32564],"type":"Point"}
+}

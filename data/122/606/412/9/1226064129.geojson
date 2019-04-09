@@ -1,0 +1,82 @@
+{
+  "id": 1226064129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66945,40.05689,71.66945,40.05689",
+    "geom:latitude":40.05689,
+    "geom:longitude":71.66945,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Orozbekovo",
+    "gn:country_code":"KG",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1527566,
+    "gn:latitude":40.05689,
+    "gn:longitude":71.66945,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Orozbekovo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u043e\u0437\u0431\u0435\u043a\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043e\u0437\u0431\u0435\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Orozbekov",
+        "Okhna",
+        "Urazbekovo"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018rozbekovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527566,
+        "wk:page":"Okhna"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4fb05e3e8f6d75c0b023e12a7b01d0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1226064129,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1226064129,
+    "wof:lastmodified":1537653126,
+    "wof:name":"Orozbekovo",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66945,
+    40.05689,
+    71.66945,
+    40.05689
+],
+  "geometry": {"coordinates":[71.66945,40.05689],"type":"Point"}
+}

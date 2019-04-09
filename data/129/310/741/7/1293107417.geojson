@@ -1,0 +1,73 @@
+{
+  "id": 1293107417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48278,42.8732,74.48278,42.8732",
+    "geom:latitude":42.8732,
+    "geom:longitude":74.48278,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novopavlovka",
+    "gn:country_code":"KG",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540654,
+    "gn:latitude":42.8732,
+    "gn:longitude":74.48278,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Novopavlovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Novopavlovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540654
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8f97000417458c694f5d488930b16e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1293107417,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293107417,
+    "wof:lastmodified":1537653186,
+    "wof:name":"Novopavlovka",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48278,
+    42.8732,
+    74.48278,
+    42.8732
+],
+  "geometry": {"coordinates":[74.48278000000001,42.8732],"type":"Point"}
+}

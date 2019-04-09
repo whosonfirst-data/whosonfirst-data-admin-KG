@@ -1,0 +1,67 @@
+{
+  "id": 1209326119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04172,41.26383,73.04172,41.26383",
+    "geom:latitude":41.26383,
+    "geom:longitude":73.04172,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Buvakol",
+    "gn:country_code":"KG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178388,
+    "gn:latitude":41.26383,
+    "gn:longitude":73.04172,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Buvakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0443\u0432\u0430\u043a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0432\u0430\u043a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178388
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9cfdba519f0f6f3f78069988524a56c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209326119
+        }
+    ],
+    "wof:id":1209326119,
+    "wof:lastmodified":1537653254,
+    "wof:name":"Buvakol",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04172,
+    41.26383,
+    73.04172,
+    41.26383
+],
+  "geometry": {"coordinates":[73.04172,41.26383],"type":"Point"}
+}

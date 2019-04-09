@@ -1,0 +1,77 @@
+{
+  "id": 1276775017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91474,41.9027,72.91474,41.9027",
+    "geom:latitude":41.9027,
+    "geom:longitude":72.91474,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bala-Chychkan",
+    "gn:country_code":"KG",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134190,
+    "gn:latitude":41.9027,
+    "gn:longitude":72.91474,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Bala-Chychkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u043b\u0430-\u0427\u044b\u0447\u043a\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043c\u0433\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kuybyshev Atyndagy",
+        "Emgek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134190
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"386c059d5cdb1e09d24338b46d7ae9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1276775017,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276775017,
+    "wof:lastmodified":1537653205,
+    "wof:name":"Bala-Chychkan",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91474000000002,
+    41.9027,
+    72.91474000000002,
+    41.9027
+],
+  "geometry": {"coordinates":[72.91474000000002,41.9027],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343966777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.06852,42.84084,75.06852,42.84084",
+    "geom:latitude":42.84084,
+    "geom:longitude":75.06852,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ivanovka (geological base)",
+    "gn:country_code":"KG",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539464,
+    "gn:latitude":42.84084,
+    "gn:longitude":75.06852,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Ivanovka (geological base)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043a\u0430 \u0413\u0435\u043e\u043b\u043e\u0433\u043e\u0431\u0430\u0437\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u0430\u043d\u043e\u0432\u043a\u0430 \u0413\u0435\u043e\u043b\u043e\u0433\u043e\u0431\u0430\u0437\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ivanovka Geologobasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539464
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0eb8b253bbc84ecd83c8d534910cc825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1343966777,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1343966777,
+    "wof:lastmodified":1537653314,
+    "wof:name":"Ivanovka (geological base)",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.06851999999998,
+    42.84084,
+    75.06851999999998,
+    42.84084
+],
+  "geometry": {"coordinates":[75.06851999999998,42.84084],"type":"Point"}
+}

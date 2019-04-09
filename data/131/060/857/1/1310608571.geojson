@@ -1,0 +1,85 @@
+{
+  "id": 1310608571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.92794,41.44101,71.92794,41.44101",
+    "geom:latitude":41.44101,
+    "geom:longitude":71.92794,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mundus",
+    "gn:country_code":"KG",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527657,
+    "gn:latitude":41.44101,
+    "gn:longitude":71.92794,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Mundus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_historical":[
+        "\u041c\u04af\u04a3\u0434\u0443\u0437"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0443\u0441"
+    ],
+    "name:kir_x_variant":[
+        "\u041c\u04af\u04a3\u0434\u0443\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d\u0434\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Manduz",
+        "Munduz",
+        "Mundus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527657,
+        "wk:page":"Manduz"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"668c51fc250d40582d19e6119ed450ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1310608571,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310608571,
+    "wof:lastmodified":1537653131,
+    "wof:name":"Mundus",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.92794,
+    41.44101,
+    71.92794,
+    41.44101
+],
+  "geometry": {"coordinates":[71.92794000000001,41.44101],"type":"Point"}
+}

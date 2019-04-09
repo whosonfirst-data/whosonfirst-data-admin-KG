@@ -1,0 +1,74 @@
+{
+  "id": 1226051371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.03153,42.71493,76.03153,42.71493",
+    "geom:latitude":42.71493,
+    "geom:longitude":76.03153,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kyzyl-Bayrak",
+    "gn:country_code":"KG",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527734,
+    "gn:latitude":42.71493,
+    "gn:longitude":76.03153,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kyzyl-Bayrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0411\u0430\u0439\u0440\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0411\u0430\u0439\u0440\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527734,
+        "wk:page":"Kyzylbayrak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9473958fb86b2762501fd3ab15c0f886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691775,
+            "locality_id":1226051371,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1226051371,
+    "wof:lastmodified":1537653135,
+    "wof:name":"Kyzyl-Bayrak",
+    "wof:parent_id":1091691775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.03153,
+    42.71493,
+    76.03153,
+    42.71493
+],
+  "geometry": {"coordinates":[76.03153,42.71493],"type":"Point"}
+}

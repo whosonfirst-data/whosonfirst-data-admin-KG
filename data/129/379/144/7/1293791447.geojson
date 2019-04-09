@@ -1,0 +1,73 @@
+{
+  "id": 1293791447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65831,41.5977,71.65831,41.5977",
+    "geom:latitude":41.5977,
+    "geom:longitude":71.65831,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chuluk-Kolot",
+    "gn:country_code":"KG",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374628,
+    "gn:latitude":41.5977,
+    "gn:longitude":71.65831,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chuluk-Kolot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u043a-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u043a-\u041a\u043e\u043b\u043e\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374628
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e71e1fda0fab11530938189292383946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1293791447,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293791447,
+    "wof:lastmodified":1537653290,
+    "wof:name":"Chuluk-Kolot",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65831,
+    41.5977,
+    71.65831,
+    41.5977
+],
+  "geometry": {"coordinates":[71.65831,41.5977],"type":"Point"}
+}

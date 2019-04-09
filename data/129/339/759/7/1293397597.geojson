@@ -1,0 +1,82 @@
+{
+  "id": 1293397597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58563,41.38584,71.58563,41.38584",
+    "geom:latitude":41.38584,
+    "geom:longitude":71.58563,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Korgon",
+    "gn:country_code":"KG",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580294,
+    "gn:latitude":41.38584,
+    "gn:longitude":71.58563,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Ak-Korgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oq-Qo\u2018rg\u2018on"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u041a\u0443\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ak-Kurgan"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Qo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580294
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e14bf3916f118257d581f393daf269e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1293397597,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293397597,
+    "wof:lastmodified":1537653193,
+    "wof:name":"Ak-Korgon",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58563000000002,
+    41.38584,
+    71.58563000000002,
+    41.38584
+],
+  "geometry": {"coordinates":[71.58563000000002,41.38584],"type":"Point"}
+}

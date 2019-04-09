@@ -1,0 +1,73 @@
+{
+  "id": 1226547381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07622,41.29711,73.07622,41.29711",
+    "geom:latitude":41.29711,
+    "geom:longitude":73.07622,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karayuz",
+    "gn:country_code":"KG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178391,
+    "gn:latitude":41.29711,
+    "gn:longitude":73.07622,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Karayuz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u04ae\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u044e\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178391
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d4ffa651be02821b982f741c3d774566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1226547381,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226547381,
+    "wof:lastmodified":1537653254,
+    "wof:name":"Karayuz",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07621999999998,
+    41.29711,
+    73.07621999999998,
+    41.29711
+],
+  "geometry": {"coordinates":[73.07621999999998,41.29711],"type":"Point"}
+}

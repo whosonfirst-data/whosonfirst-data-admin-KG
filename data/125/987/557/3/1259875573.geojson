@@ -1,0 +1,76 @@
+{
+  "id": 1259875573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.68917,40.20105,71.68917,40.20105",
+    "geom:latitude":40.20105,
+    "geom:longitude":71.68917,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dzhoshuk",
+    "gn:country_code":"KG",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376110,
+    "gn:latitude":40.20105,
+    "gn:longitude":71.68917,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Dzhoshuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Djoshuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u0448\u0443\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Joshuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376110
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1b49cadb09d5114631f120db24a62429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1259875573,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1259875573,
+    "wof:lastmodified":1537653293,
+    "wof:name":"Dzhoshuk",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.68916999999998,
+    40.20105,
+    71.68916999999998,
+    40.20105
+],
+  "geometry": {"coordinates":[71.68916999999998,40.20105],"type":"Point"}
+}

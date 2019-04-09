@@ -1,0 +1,70 @@
+{
+  "id": 1343360813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03079,41.1194,73.03079,41.1194",
+    "geom:latitude":41.1194,
+    "geom:longitude":73.03079,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Soku-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178295,
+    "gn:latitude":41.1194,
+    "gn:longitude":73.03079,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Soku-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u0443-\u0422\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178295
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a356cac82325ffb31ca4d3a623fb35bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1343360813,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343360813,
+    "wof:lastmodified":1537653252,
+    "wof:name":"Soku-Tash",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03079,
+    41.1194,
+    73.03079,
+    41.1194
+],
+  "geometry": {"coordinates":[73.03079,41.1194],"type":"Point"}
+}

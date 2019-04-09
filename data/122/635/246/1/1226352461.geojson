@@ -1,0 +1,67 @@
+{
+  "id": 1226352461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.13863,41.32069,72.13863,41.32069",
+    "geom:latitude":41.32069,
+    "geom:longitude":72.13863,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Kirova",
+    "gn:country_code":"KG",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1528292,
+    "gn:latitude":41.32069,
+    "gn:longitude":72.13863,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Imeni Kirova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528292
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a13f53f76cbc916f7d82623580bcd39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226352461,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226352461,
+    "wof:lastmodified":1536780204,
+    "wof:name":"Imeni Kirova",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.13863,
+    41.32069,
+    72.13863,
+    41.32069
+],
+  "geometry": {"coordinates":[72.13863000000001,41.32069],"type":"Point"}
+}

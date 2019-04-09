@@ -1,0 +1,73 @@
+{
+  "id": 1343843539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97104,39.7033,72.97104,39.7033",
+    "geom:latitude":39.7033,
+    "geom:longitude":72.97104,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Taldy-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":3053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393186,
+    "gn:latitude":39.7033,
+    "gn:longitude":72.97104,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Taldy-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393186
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c666e31f1e2e85e64ec33edffd50e1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1343843539,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343843539,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Taldy-Suu",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97104,
+    39.7033,
+    72.97104,
+    39.7033
+],
+  "geometry": {"coordinates":[72.97104,39.7033],"type":"Point"}
+}

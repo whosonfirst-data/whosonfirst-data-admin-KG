@@ -1,0 +1,71 @@
+{
+  "id": 1327431927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.67894,41.93283,75.67894,41.93283",
+    "geom:latitude":41.93283,
+    "geom:longitude":75.67894,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Keng-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":2323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540807,
+    "gn:latitude":41.93283,
+    "gn:longitude":75.67894,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Keng-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u04a3-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540807,
+        "wk:page":"Keng-Suu"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d6ab5355bcff3a9db9961de6d82a01c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1327431927,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1327431927,
+    "wof:lastmodified":1537653188,
+    "wof:name":"Keng-Suu",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.67894,
+    41.93283,
+    75.67894,
+    41.93283
+],
+  "geometry": {"coordinates":[75.67894,41.93283],"type":"Point"}
+}

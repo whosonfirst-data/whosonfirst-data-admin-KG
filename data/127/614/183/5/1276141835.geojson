@@ -1,0 +1,74 @@
+{
+  "id": 1276141835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98805,40.29885,72.98805,40.29885",
+    "geom:latitude":40.29885,
+    "geom:longitude":72.98805,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Papan",
+    "gn:country_code":"KG",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527507,
+    "gn:latitude":40.29885,
+    "gn:longitude":72.98805,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Papan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043f\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043f\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527507,
+        "wk:page":"Papan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"34cb34f2a2a5f160273efd0d908c83dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1276141835,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276141835,
+    "wof:lastmodified":1537653123,
+    "wof:name":"Papan",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98805,
+    40.29885,
+    72.98805,
+    40.29885
+],
+  "geometry": {"coordinates":[72.98805,40.29885],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310305247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.20473,41.20973,76.20473,41.20973",
+    "geom:latitude":41.20973,
+    "geom:longitude":76.20473,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uzgorysh",
+    "gn:country_code":"KG",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540828,
+    "gn:latitude":41.20973,
+    "gn:longitude":76.20473,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Uzgorysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u00d6rg\u00f6r\u00fcsh"
+    ],
+    "name:rus_x_preferred":[
+        "Ozg\u00ebryush"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0437\u0433\u043e\u0440\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Ozg\u00ebryush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540828
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e69b9a0878016477c5cd8102011ef48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1310305247,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1310305247,
+    "wof:lastmodified":1537653188,
+    "wof:name":"Uzgorysh",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.20473,
+    41.20973,
+    76.20473,
+    41.20973
+],
+  "geometry": {"coordinates":[76.20473,41.20973],"type":"Point"}
+}

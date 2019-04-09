@@ -1,0 +1,73 @@
+{
+  "id": 1327219349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54125,40.61214,73.54125,40.61214",
+    "geom:latitude":40.61214,
+    "geom:longitude":73.54125,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sary-Kamysh",
+    "gn:country_code":"KG",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142405,
+    "gn:latitude":40.61214,
+    "gn:longitude":73.54125,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sary-Kamysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u0430\u043c\u044b\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u0430\u043c\u044b\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142405
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"310d9da391207507c6281ecd650aad2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1327219349,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327219349,
+    "wof:lastmodified":1537653230,
+    "wof:name":"Sary-Kamysh",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54125,
+    40.61214,
+    73.54125,
+    40.61214
+],
+  "geometry": {"coordinates":[73.54125000000001,40.61214],"type":"Point"}
+}

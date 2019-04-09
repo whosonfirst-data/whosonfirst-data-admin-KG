@@ -1,0 +1,79 @@
+{
+  "id": 1293874273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22685,40.29267,72.22685,40.29267",
+    "geom:latitude":40.29267,
+    "geom:longitude":72.22685,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gerait-Shoron",
+    "gn:country_code":"KG",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528327,
+    "gn:latitude":40.29267,
+    "gn:longitude":72.22685,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Gerait-Shoron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0413\u0435\u0440\u0435\u0439-\u0428\u043e\u0440\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0435\u0439-\u0428\u043e\u0440\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gerayt",
+        "Gerait",
+        "Gerey-Shoron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528327,
+        "wk:page":"Gerayt"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4060e513171c44d13276d13a3f7eadf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293874273,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293874273,
+    "wof:lastmodified":1537653157,
+    "wof:name":"Gerait-Shoron",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22685,
+    40.29267,
+    72.22685,
+    40.29267
+],
+  "geometry": {"coordinates":[72.22685,40.29267],"type":"Point"}
+}

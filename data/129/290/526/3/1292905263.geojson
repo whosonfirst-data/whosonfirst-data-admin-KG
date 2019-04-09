@@ -1,0 +1,82 @@
+{
+  "id": 1292905263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24253,41.48757,71.24253,41.48757",
+    "geom:latitude":41.48757,
+    "geom:longitude":71.24253,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zimov'ye Sary-Kamysh",
+    "gn:country_code":"KG",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577864,
+    "gn:latitude":41.48757,
+    "gn:longitude":71.24253,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Zimov\u2019ye Sary-Kamysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sar-Qamish Qishloq"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041a\u0430\u043c\u044b\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "Zimov\u2019ye Sary-Kamysh"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0438\u043c\u043e\u0432\u044c\u0435 \u0421\u0430\u0440\u044b-\u041a\u0430\u043c\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Zimov\u2019ye Sary-Kamysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577864
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6a1b59139675fcd24347d07b04430b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1292905263,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1292905263,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Zimov'ye Sary-Kamysh",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24253,
+    41.48757,
+    71.24253,
+    41.48757
+],
+  "geometry": {"coordinates":[71.24253,41.48757],"type":"Point"}
+}

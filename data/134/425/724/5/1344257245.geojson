@@ -1,0 +1,77 @@
+{
+  "id": 1344257245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.05139,41.21667,76.05139,41.21667",
+    "geom:latitude":41.21667,
+    "geom:longitude":76.05139,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Moyun",
+    "gn:cc2":"KG",
+    "gn:country_code":"KG",
+    "gn:dem":2289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540829,
+    "gn:latitude":41.21667,
+    "gn:longitude":76.05139,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ak-Moyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041c\u043e\u044e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043c\u043e\u044e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Akmoyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540829
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7ed677d56e48a6846b9db4254a25ee08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1344257245,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1344257245,
+    "wof:lastmodified":1537653189,
+    "wof:name":"Ak-Moyun",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.05139,
+    41.21667,
+    76.05139,
+    41.21667
+],
+  "geometry": {"coordinates":[76.05139,41.21667],"type":"Point"}
+}

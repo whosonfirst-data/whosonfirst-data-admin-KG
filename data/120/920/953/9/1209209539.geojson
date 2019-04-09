@@ -1,0 +1,70 @@
+{
+  "id": 1209209539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49596,40.25964,71.49596,40.25964",
+    "geom:latitude":40.25964,
+    "geom:longitude":71.49596,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chunkur-Kyshtak",
+    "gn:country_code":"KG",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376182,
+    "gn:latitude":40.25964,
+    "gn:longitude":71.49596,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Chunkur-Kyshtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0443\u043d\u043a\u0443\u0440-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043d\u043a\u0443\u0440-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Chunqur-Qishtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376182
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c43868ca4132b98f3315a4d3d1e9370a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209209539
+        }
+    ],
+    "wof:id":1209209539,
+    "wof:lastmodified":1537653295,
+    "wof:name":"Chunkur-Kyshtak",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49596,
+    40.25964000000001,
+    71.49596,
+    40.25964000000001
+],
+  "geometry": {"coordinates":[71.49596,40.25964000000001],"type":"Point"}
+}

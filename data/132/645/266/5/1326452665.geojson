@@ -1,0 +1,79 @@
+{
+  "id": 1326452665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49305,39.99195,73.49305,39.99195",
+    "geom:latitude":39.99195,
+    "geom:longitude":73.49305,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kel'dyun-Chaty",
+    "gn:country_code":"KG",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8402328,
+    "gn:latitude":39.99195,
+    "gn:longitude":73.49305,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"K\u00ebl\u2019dyun-Chaty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043b\u044c\u0434\u044e\u043d-\u0427\u0430\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "K\u00ebl\u2019dyun-Chaty"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0451\u043b\u044c\u0434\u044e\u043d-\u0427\u0430\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebl\u2019dyun-Chaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8402328
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8fc1be44e9d7cf7a4a099613c9153279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1326452665,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326452665,
+    "wof:lastmodified":1537653310,
+    "wof:name":"Kel'dyun-Chaty",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49305,
+    39.99195,
+    73.49305,
+    39.99195
+],
+  "geometry": {"coordinates":[73.49305,39.99195],"type":"Point"}
+}

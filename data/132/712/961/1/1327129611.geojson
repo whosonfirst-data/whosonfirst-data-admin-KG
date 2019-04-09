@@ -1,0 +1,73 @@
+{
+  "id": 1327129611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.28067,40.35501,74.28067,40.35501",
+    "geom:latitude":40.35501,
+    "geom:longitude":74.28067,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Saz",
+    "gn:country_code":"KG",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406209,
+    "gn:latitude":40.35501,
+    "gn:longitude":74.28067,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kara-Saz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0430\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406209
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d6173efddfd2954cdce6d674ba22723f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1327129611,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327129611,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Kara-Saz",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.28067,
+    40.35501,
+    74.28067,
+    40.35501
+],
+  "geometry": {"coordinates":[74.28067,40.35501],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226155915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.12906,42.77694,75.12906,42.77694",
+    "geom:latitude":42.77694,
+    "geom:longitude":75.12906,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Pervomayskiy",
+    "gn:country_code":"KG",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8539483,
+    "gn:latitude":42.77694,
+    "gn:longitude":75.12906,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Pervomayskiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8539483
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7dcf82abb3df412b5af9c805b26ae0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1226155915,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1226155915,
+    "wof:lastmodified":1537653314,
+    "wof:name":"Pervomayskiy",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.12906,
+    42.77694,
+    75.12906,
+    42.77694
+],
+  "geometry": {"coordinates":[75.12906,42.77694],"type":"Point"}
+}

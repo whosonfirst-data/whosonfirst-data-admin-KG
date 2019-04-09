@@ -1,0 +1,68 @@
+{
+  "id": 1293607375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21671,40.45364,73.21671,40.45364",
+    "geom:latitude":40.45364,
+    "geom:longitude":73.21671,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dzhigdy",
+    "gn:country_code":"KG",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528375,
+    "gn:latitude":40.45364,
+    "gn:longitude":73.21671,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Dzhigdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528375,
+        "wk:page":"Dzhigdy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"192e2e2d2ff17ea8872484fd60a37fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1293607375,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293607375,
+    "wof:lastmodified":1537567190,
+    "wof:name":"Dzhigdy",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21670999999998,
+    40.45364,
+    73.21670999999998,
+    40.45364
+],
+  "geometry": {"coordinates":[73.21670999999998,40.45364],"type":"Point"}
+}

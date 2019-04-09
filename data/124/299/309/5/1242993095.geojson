@@ -1,0 +1,73 @@
+{
+  "id": 1242993095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65133,40.16292,72.65133,40.16292",
+    "geom:latitude":40.16292,
+    "geom:longitude":72.65133,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Oy",
+    "gn:country_code":"KG",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139541,
+    "gn:latitude":40.16292,
+    "gn:longitude":72.65133,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kara-Oy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139541
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9cec172f933d0529c9dd70207228289f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1242993095,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242993095,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Kara-Oy",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65133,
+    40.16292,
+    72.65133,
+    40.16292
+],
+  "geometry": {"coordinates":[72.65133,40.16292],"type":"Point"}
+}

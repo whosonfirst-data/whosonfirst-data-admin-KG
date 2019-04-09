@@ -1,0 +1,77 @@
+{
+  "id": 1293892311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.73683,42.86864,74.73683,42.86864",
+    "geom:latitude":42.86864,
+    "geom:longitude":74.73683,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novopokrovka",
+    "gn:country_code":"KG",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527573,
+    "gn:latitude":42.86864,
+    "gn:longitude":74.73683,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Novopokrovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Novopokrovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novoye Pokrovskoye",
+        "Novopokrovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527573
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bfeccfa63a85c28beb2f8db34fb27962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1293892311,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293892311,
+    "wof:lastmodified":1537653127,
+    "wof:name":"Novopokrovka",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.73683,
+    42.86864,
+    74.73683,
+    42.86864
+],
+  "geometry": {"coordinates":[74.73683,42.86864],"type":"Point"}
+}

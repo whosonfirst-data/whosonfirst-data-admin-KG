@@ -1,0 +1,79 @@
+{
+  "id": 1360206737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78612,42.70129,71.78612,42.70129",
+    "geom:latitude":42.70129,
+    "geom:longitude":71.78612,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Chech-Tebe",
+    "gn:country_code":"KG",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247738,
+    "gn:latitude":42.70129,
+    "gn:longitude":71.78612,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Chech-T\u00ebb\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0447-\u0422\u04e9\u0431\u04e9"
+    ],
+    "name:rus_x_preferred":[
+        "Chech-T\u00ebb\u00eb"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u0447-\u0422\u0451\u0431\u0451"
+    ],
+    "name:und_x_variant":[
+        "Chech-T\u00ebb\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247738
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ee7d5924079ad6d2b31c43f7b4302020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690313,
+            "locality_id":1360206737,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1360206737,
+    "wof:lastmodified":1537653279,
+    "wof:name":"Chech-Tebe",
+    "wof:parent_id":1091690313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78612,
+    42.70129,
+    71.78612,
+    42.70129
+],
+  "geometry": {"coordinates":[71.78612,42.70129],"type":"Point"}
+}

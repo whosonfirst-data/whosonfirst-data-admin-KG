@@ -1,0 +1,73 @@
+{
+  "id": 1226143567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.26601,41.21758,76.26601,41.21758",
+    "geom:latitude":41.21758,
+    "geom:longitude":76.26601,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uchorme",
+    "gn:country_code":"KG",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066300,
+    "gn:latitude":41.21758,
+    "gn:longitude":76.26601,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Uchorme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04ae\u0447\u04af\u0440\u043c\u04e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u043e\u0440\u043c\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066300
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0cf6c58469d486b7d5bb745c1aafe130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1226143567,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226143567,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Uchorme",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.26601,
+    41.21758,
+    76.26601,
+    41.21758
+],
+  "geometry": {"coordinates":[76.26600999999999,41.21758],"type":"Point"}
+}

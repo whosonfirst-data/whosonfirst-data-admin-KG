@@ -1,0 +1,79 @@
+{
+  "id": 1193143115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03606,41.54727,75.03606,41.54727",
+    "geom:latitude":41.54727,
+    "geom:longitude":75.03606,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kol'kain",
+    "gn:country_code":"KG",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141049,
+    "gn:latitude":41.54727,
+    "gn:longitude":75.03606,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Kol\u2019kain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043b-\u041a\u0430\u0439\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Kol\u2019kain"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043b\u044c\u043a\u0430\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kol\u2019kain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141049
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a68053e4454fedefa7c2f79ac6c8a19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1193143115,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1193143115,
+    "wof:lastmodified":1537653229,
+    "wof:name":"Kol'kain",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03605999999998,
+    41.54727000000001,
+    75.03605999999998,
+    41.54727000000001
+],
+  "geometry": {"coordinates":[75.03605999999998,41.54727000000001],"type":"Point"}
+}

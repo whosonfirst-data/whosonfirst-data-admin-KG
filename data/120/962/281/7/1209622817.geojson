@@ -1,0 +1,67 @@
+{
+  "id": 1209622817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36838,41.14961,73.36838,41.14961",
+    "geom:latitude":41.14961,
+    "geom:longitude":73.36838,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Saty",
+    "gn:country_code":"KG",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178309,
+    "gn:latitude":41.14961,
+    "gn:longitude":73.36838,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Saty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178309
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8ef7af8b0cc3373f52a6116f28603a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209622817
+        }
+    ],
+    "wof:id":1209622817,
+    "wof:lastmodified":1537653253,
+    "wof:name":"Saty",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36838,
+    41.14961,
+    73.36838,
+    41.14961
+],
+  "geometry": {"coordinates":[73.36838,41.14961],"type":"Point"}
+}

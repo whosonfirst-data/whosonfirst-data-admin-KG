@@ -1,0 +1,73 @@
+{
+  "id": 1226344209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19895,41.61315,72.19895,41.61315",
+    "geom:latitude":41.61315,
+    "geom:longitude":72.19895,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzholbarstu",
+    "gn:country_code":"KG",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194338,
+    "gn:latitude":41.61315,
+    "gn:longitude":72.19895,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Dzholbarstu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u043b\u0431\u0430\u0440\u0441\u0442\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043b\u0431\u0430\u0440\u0441\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194338
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"61894281ef3b026d6c227d561651e018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226344209,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226344209,
+    "wof:lastmodified":1537653256,
+    "wof:name":"Dzholbarstu",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19895,
+    41.61315,
+    72.19895,
+    41.61315
+],
+  "geometry": {"coordinates":[72.19895,41.61315],"type":"Point"}
+}

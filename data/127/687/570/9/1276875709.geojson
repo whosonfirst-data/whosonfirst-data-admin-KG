@@ -1,0 +1,73 @@
+{
+  "id": 1276875709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87795,42.93124,73.87795,42.93124",
+    "geom:latitude":42.93124,
+    "geom:longitude":73.87795,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dzhon-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221282,
+    "gn:latitude":42.93124,
+    "gn:longitude":73.87795,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhon-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u043d-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d-\u0410\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221282
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7cbdffafa1ff851f220192a03de3aafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691555,
+            "locality_id":1276875709,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1276875709,
+    "wof:lastmodified":1537653272,
+    "wof:name":"Dzhon-Aryk",
+    "wof:parent_id":1091691555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87795,
+    42.93124,
+    73.87795,
+    42.93124
+],
+  "geometry": {"coordinates":[73.87795,42.93124],"type":"Point"}
+}

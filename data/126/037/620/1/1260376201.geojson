@@ -1,0 +1,73 @@
+{
+  "id": 1260376201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.7633,40.22057,72.7633,40.22057",
+    "geom:latitude":40.22057,
+    "geom:longitude":72.7633,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kotur-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139579,
+    "gn:latitude":40.22057,
+    "gn:longitude":72.7633,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kotur-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0440-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0440-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139579
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"db7700571e71819bebdff8af49425ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1260376201,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260376201,
+    "wof:lastmodified":1537653220,
+    "wof:name":"Kotur-Bulak",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.7633,
+    40.22057,
+    72.7633,
+    40.22057
+],
+  "geometry": {"coordinates":[72.7633,40.22057],"type":"Point"}
+}

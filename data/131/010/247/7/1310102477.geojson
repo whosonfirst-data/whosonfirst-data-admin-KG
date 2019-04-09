@@ -1,0 +1,78 @@
+{
+  "id": 1310102477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.43392,42.74029,78.43392,42.74029",
+    "geom:latitude":42.74029,
+    "geom:longitude":78.43392,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Birlik",
+    "gn:country_code":"KG",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528287,
+    "gn:latitude":42.74029,
+    "gn:longitude":78.43392,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Birlik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0440\u043b\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439 \u0427\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e\u0439 \u041a\u043e\u043c\u0438\u0441\u0441\u0438\u0438"
+    ],
+    "name:und_x_variant":[
+        "Imeni Vecheki",
+        "Imeni Vserossiyskoy Chrezvychaynoy Komissii"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528287,
+        "wk:page":"Imeni_Vecheki"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8f09ad5807ece6c0897788de82fe6370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691407,
+            "locality_id":1310102477,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1310102477,
+    "wof:lastmodified":1537653155,
+    "wof:name":"Birlik",
+    "wof:parent_id":1091691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.43392,
+    42.74029,
+    78.43392,
+    42.74029
+],
+  "geometry": {"coordinates":[78.43392,42.74029],"type":"Point"}
+}

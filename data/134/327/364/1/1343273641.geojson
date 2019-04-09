@@ -1,0 +1,73 @@
+{
+  "id": 1343273641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75181,41.09763,72.75181,41.09763",
+    "geom:latitude":41.09763,
+    "geom:longitude":72.75181,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kengo",
+    "gn:country_code":"KG",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135796,
+    "gn:latitude":41.09763,
+    "gn:longitude":72.75181,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kengo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043d\u0433\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0433\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135796
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e09e338519dd17fdc0763a593f864bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1343273641,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343273641,
+    "wof:lastmodified":1537653211,
+    "wof:name":"Kengo",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75180999999998,
+    41.09763,
+    72.75180999999998,
+    41.09763
+],
+  "geometry": {"coordinates":[72.75180999999998,41.09763],"type":"Point"}
+}

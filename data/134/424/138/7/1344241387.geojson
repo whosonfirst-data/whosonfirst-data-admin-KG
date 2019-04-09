@@ -1,0 +1,74 @@
+{
+  "id": 1344241387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46398,39.76849,69.46398,39.76849",
+    "geom:latitude":39.76849,
+    "geom:longitude":69.46398,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Andarak",
+    "gn:country_code":"KG",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1222708,
+    "gn:latitude":39.76849,
+    "gn:longitude":69.46398,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Andarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043d\u0434\u0430\u0440\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0430\u0440\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222708,
+        "wk:page":"Andarak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3b3cd422355e8e6c9ef5fb70afd26be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1344241387,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1344241387,
+    "wof:lastmodified":1537653100,
+    "wof:name":"Andarak",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46398,
+    39.76849,
+    69.46398,
+    39.76849
+],
+  "geometry": {"coordinates":[69.46398000000001,39.76849],"type":"Point"}
+}

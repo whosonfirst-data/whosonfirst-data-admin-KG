@@ -1,0 +1,73 @@
+{
+  "id": 1326950131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36332,40.59089,73.36332,40.59089",
+    "geom:latitude":40.59089,
+    "geom:longitude":73.36332,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ak-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144419,
+    "gn:latitude":40.59089,
+    "gn:longitude":73.36332,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ak-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0422\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0422\u0435\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144419
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"06dcff19c9c52a2422abcd94bde260d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1326950131,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326950131,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Ak-Terek",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36332,
+    40.59089,
+    73.36332,
+    40.59089
+],
+  "geometry": {"coordinates":[73.36332,40.59089],"type":"Point"}
+}

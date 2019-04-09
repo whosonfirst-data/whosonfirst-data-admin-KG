@@ -1,0 +1,73 @@
+{
+  "id": 1225950413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.31115,40.55103,75.31115,40.55103",
+    "geom:latitude":40.55103,
+    "geom:longitude":75.31115,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Torugart",
+    "gn:country_code":"KG",
+    "gn:dem":3539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065804,
+    "gn:latitude":40.55103,
+    "gn:longitude":75.31115,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Torugart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Torugart"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0443\u0433\u0430\u0440\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065804
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fd92b82eae637529ebb9b32c31cdaf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1225950413,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1225950413,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Torugart",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.31115,
+    40.55103,
+    75.31115,
+    40.55103
+],
+  "geometry": {"coordinates":[75.31115,40.55103],"type":"Point"}
+}

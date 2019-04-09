@@ -1,0 +1,73 @@
+{
+  "id": 1226631737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86029,40.337,72.86029,40.337",
+    "geom:latitude":40.337,
+    "geom:longitude":72.86029,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ata-Merek",
+    "gn:country_code":"KG",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139760,
+    "gn:latitude":40.337,
+    "gn:longitude":72.86029,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ata-Merek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0442\u0430-\u041c\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430-\u041c\u0435\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139760
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a06ed7c728597e5b35bd4057c05d7995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1226631737,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226631737,
+    "wof:lastmodified":1537653222,
+    "wof:name":"Ata-Merek",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86029,
+    40.337,
+    72.86029,
+    40.337
+],
+  "geometry": {"coordinates":[72.86029000000001,40.337],"type":"Point"}
+}

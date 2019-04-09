@@ -1,0 +1,76 @@
+{
+  "id": 1360076757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.93331,42.15462,76.93331,42.15462",
+    "geom:latitude":42.15462,
+    "geom:longitude":76.93331,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ak-Saich",
+    "gn:country_code":"KG",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8331907,
+    "gn:latitude":42.15462,
+    "gn:longitude":76.93331,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-Saich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0421\u0430\u0439\u0447"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0421\u0430\u0439\u0447"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Aksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331907
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"efef8b9d0088c04800603d5608223914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1360076757,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1360076757,
+    "wof:lastmodified":1537653287,
+    "wof:name":"Ak-Saich",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.93330999999998,
+    42.15462,
+    76.93330999999998,
+    42.15462
+],
+  "geometry": {"coordinates":[76.93330999999998,42.15462],"type":"Point"}
+}

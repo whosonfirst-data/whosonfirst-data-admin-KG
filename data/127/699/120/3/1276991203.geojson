@@ -1,0 +1,68 @@
+{
+  "id": 1276991203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.76667,42.18333,75.76667,42.18333",
+    "geom:latitude":42.18333,
+    "geom:longitude":75.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Toguz-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527202,
+    "gn:latitude":42.18333,
+    "gn:longitude":75.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Toguz-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527202,
+        "wk:page":"Toguz-Bulak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a6d413e0271a9d2890cd52ace6bebf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1276991203,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276991203,
+    "wof:lastmodified":1537567179,
+    "wof:name":"Toguz-Bulak",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.76666999999998,
+    42.18333,
+    75.76666999999998,
+    42.18333
+],
+  "geometry": {"coordinates":[75.76666999999998,42.18333],"type":"Point"}
+}

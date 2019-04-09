@@ -1,0 +1,73 @@
+{
+  "id": 1277072139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.81048,42.51459,72.81048,42.51459",
+    "geom:latitude":42.51459,
+    "geom:longitude":72.81048,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dhzangyturmush",
+    "gn:country_code":"KG",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272596,
+    "gn:latitude":42.51459,
+    "gn:longitude":72.81048,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dhzangyturmush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0422\u0443\u0440\u043c\u0443\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0433\u044b\u0442\u0443\u0440\u043c\u0443\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272596
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6327412aba8c9b4eb18937463e27a6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1277072139,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1277072139,
+    "wof:lastmodified":1537653282,
+    "wof:name":"Dhzangyturmush",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.81048,
+    42.51459000000001,
+    72.81048,
+    42.51459000000001
+],
+  "geometry": {"coordinates":[72.81048,42.51459000000001],"type":"Point"}
+}

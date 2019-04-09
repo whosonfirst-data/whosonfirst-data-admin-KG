@@ -1,0 +1,76 @@
+{
+  "id": 1293095605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.43803,42.57562,78.43803,42.57562",
+    "geom:latitude":42.57562,
+    "geom:longitude":78.43803,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karadzhal",
+    "gn:country_code":"KG",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528162,
+    "gn:latitude":42.57562,
+    "gn:longitude":78.43803,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Karadzhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0416\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Kara-Dzhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528162
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8b5eb9cd7ceb955dbc694336bf9a8c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691455,
+            "locality_id":1293095605,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1293095605,
+    "wof:lastmodified":1537653152,
+    "wof:name":"Karadzhal",
+    "wof:parent_id":1091691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.43803,
+    42.57562,
+    78.43803,
+    42.57562
+],
+  "geometry": {"coordinates":[78.43803,42.57562],"type":"Point"}
+}

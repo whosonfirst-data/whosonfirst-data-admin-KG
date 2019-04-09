@@ -1,0 +1,73 @@
+{
+  "id": 1226651929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.13263,41.43868,76.13263,41.43868",
+    "geom:latitude":41.43868,
+    "geom:longitude":76.13263,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kenesh Vtoroy",
+    "gn:country_code":"KG",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066506,
+    "gn:latitude":41.43868,
+    "gn:longitude":76.13263,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kenesh Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0448 \u042d\u043a\u0438\u043d\u0447\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0435\u0448 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066506
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f0c7e706599e9f0c68997692c45c7ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1226651929,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226651929,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Kenesh Vtoroy",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.13263,
+    41.43868,
+    76.13263,
+    41.43868
+],
+  "geometry": {"coordinates":[76.13263000000001,41.43868],"type":"Point"}
+}

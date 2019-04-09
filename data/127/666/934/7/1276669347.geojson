@@ -1,0 +1,76 @@
+{
+  "id": 1276669347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62317,41.00204,72.62317,41.00204",
+    "geom:latitude":41.00204,
+    "geom:longitude":72.62317,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chartak-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137721,
+    "gn:latitude":41.00204,
+    "gn:longitude":72.62317,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Chartak-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u0440\u0442\u0430\u043a-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0440\u0442\u0430\u043a-\u0422\u0430\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Chortoq-Tosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137721
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8c7535101ef3beb07d9e74942dc4cb2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1276669347,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276669347,
+    "wof:lastmodified":1537653214,
+    "wof:name":"Chartak-Tash",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62317,
+    41.00204,
+    72.62317,
+    41.00204
+],
+  "geometry": {"coordinates":[72.62317,41.00204],"type":"Point"}
+}

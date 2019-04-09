@@ -1,0 +1,76 @@
+{
+  "id": 1327020551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.49077,40.54467,72.49077,40.54467",
+    "geom:latitude":40.54467,
+    "geom:longitude":72.49077,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sasyk-Unkyur",
+    "gn:country_code":"KG",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140031,
+    "gn:latitude":40.54467,
+    "gn:longitude":72.49077,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Sasyk-Unkyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a-\u0423\u043d\u043a\u04af\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a-\u0423\u043d\u043a\u044e\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Sasiq-Unkyur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140031
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e70169a196569f47c785ac4dcec1292a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690603,
+            "locality_id":1327020551,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327020551,
+    "wof:lastmodified":1537653228,
+    "wof:name":"Sasyk-Unkyur",
+    "wof:parent_id":1091690603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.49077,
+    40.54467,
+    72.49077,
+    40.54467
+],
+  "geometry": {"coordinates":[72.49077,40.54467],"type":"Point"}
+}

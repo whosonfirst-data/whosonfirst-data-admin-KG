@@ -1,0 +1,79 @@
+{
+  "id": 1259480109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.69332,42.20532,77.69332,42.20532",
+    "geom:latitude":42.20532,
+    "geom:longitude":77.69332,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kichi-Dzhargylchak",
+    "gn:country_code":"KG",
+    "gn:dem":1666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527937,
+    "gn:latitude":42.20532,
+    "gn:longitude":77.69332,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kichi-Dzhargylchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kichi-Jargylchak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0447\u0438-\u0414\u0436\u0430\u0440\u0433\u044b\u043b\u0447\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhergel\u2019char",
+        "Kichi-Dzhergylchak",
+        "Dzhergel\u2019chak",
+        "Kichi-Dzhargylchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527937
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c80c9f4fd0002406dd3f42ccdb13ea7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1259480109,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1259480109,
+    "wof:lastmodified":1537653143,
+    "wof:name":"Kichi-Dzhargylchak",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.69332,
+    42.20532,
+    77.69332,
+    42.20532
+],
+  "geometry": {"coordinates":[77.69332,42.20532],"type":"Point"}
+}

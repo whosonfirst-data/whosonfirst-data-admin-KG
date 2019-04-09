@@ -1,0 +1,79 @@
+{
+  "id": 1260088841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.47111,42.94616,74.47111,42.94616",
+    "geom:latitude":42.94616,
+    "geom:longitude":74.47111,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Komsomol'skoye",
+    "gn:country_code":"KG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540651,
+    "gn:latitude":42.94616,
+    "gn:longitude":74.47111,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Komsomol\u2019skoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "Komsomol\u2019skoye"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Komsomol\u2019skoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540651
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9d9ec7b9911aaf37a7d2cb851c9e4242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1260088841,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1260088841,
+    "wof:lastmodified":1537653186,
+    "wof:name":"Komsomol'skoye",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.47111,
+    42.94616,
+    74.47111,
+    42.94616
+],
+  "geometry": {"coordinates":[74.47111,42.94616],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1260081905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26345,41.91698,73.26345,41.91698",
+    "geom:latitude":41.91698,
+    "geom:longitude":73.26345,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sary-Gogot",
+    "gn:country_code":"KG",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527433,
+    "gn:latitude":41.91698,
+    "gn:longitude":73.26345,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Sary-G\u00f6g\u00f6t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0421\u04e9\u0433\u04e9\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "Sary-S\u00ebg\u00ebt"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u0440\u044b-\u0421\u0451\u0433\u0451\u0442"
+    ],
+    "name:und_x_variant":[
+        "Sarsagut",
+        "Sarysogot",
+        "Sarysogat",
+        "Sary-G\u00f6g\u00f6t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527433,
+        "wk:page":"Sarysogat"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9f11eb9f7c81f43b1603530fc0342794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1260081905,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260081905,
+    "wof:lastmodified":1537653119,
+    "wof:name":"Sary-Gogot",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26345,
+    41.91698,
+    73.26345,
+    41.91698
+],
+  "geometry": {"coordinates":[73.26345000000001,41.91698],"type":"Point"}
+}

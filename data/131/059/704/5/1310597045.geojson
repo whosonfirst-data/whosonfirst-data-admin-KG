@@ -1,0 +1,73 @@
+{
+  "id": 1310597045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73609,40.22266,72.73609,40.22266",
+    "geom:latitude":40.22266,
+    "geom:longitude":72.73609,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arbyn",
+    "gn:country_code":"KG",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139576,
+    "gn:latitude":40.22266,
+    "gn:longitude":72.73609,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Arbyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u0431\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0431\u044b\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139576
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3b47c4c6fd46b4e8ffaa1e37e4b36c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1310597045,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310597045,
+    "wof:lastmodified":1537653219,
+    "wof:name":"Arbyn",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73609,
+    40.22266,
+    72.73609,
+    40.22266
+],
+  "geometry": {"coordinates":[72.73609,40.22266],"type":"Point"}
+}

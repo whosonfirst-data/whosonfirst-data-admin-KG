@@ -1,0 +1,73 @@
+{
+  "id": 1209723235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47375,41.35827,71.47375,41.35827",
+    "geom:latitude":41.35827,
+    "geom:longitude":71.47375,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarcha",
+    "gn:country_code":"KG",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580864,
+    "gn:latitude":41.35827,
+    "gn:longitude":71.47375,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Sarcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u0447\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580864
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bdc8ed8b2039318e93b97b21f93ceeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1209723235,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209723235,
+    "wof:lastmodified":1537653195,
+    "wof:name":"Sarcha",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47375,
+    41.35827000000001,
+    71.47375,
+    41.35827000000001
+],
+  "geometry": {"coordinates":[71.47375,41.35827000000001],"type":"Point"}
+}

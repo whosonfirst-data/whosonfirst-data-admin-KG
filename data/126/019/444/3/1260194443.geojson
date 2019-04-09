@@ -1,0 +1,74 @@
+{
+  "id": 1260194443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.58106,41.97247,72.58106,41.97247",
+    "geom:latitude":41.97247,
+    "geom:longitude":72.58106,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Balykty",
+    "gn:country_code":"KG",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528752,
+    "gn:latitude":41.97247,
+    "gn:longitude":72.58106,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Balykty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0442\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0442\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528752,
+        "wk:page":"Balykty"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"69eb625d6db6d3cd7f7723bce411085c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1260194443,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260194443,
+    "wof:lastmodified":1537653176,
+    "wof:name":"Balykty",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.58106,
+    41.97247,
+    72.58106,
+    41.97247
+],
+  "geometry": {"coordinates":[72.58105999999999,41.97247],"type":"Point"}
+}

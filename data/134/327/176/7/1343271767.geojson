@@ -1,0 +1,67 @@
+{
+  "id": 1343271767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93333,41.38333,73.93333,41.38333",
+    "geom:latitude":41.38333,
+    "geom:longitude":73.93333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kugart",
+    "gn:country_code":"KG",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527815,
+    "gn:latitude":41.38333,
+    "gn:longitude":73.93333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Kugart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527815
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f7b6b22a19e3662be97a30bd79c4430a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1343271767,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343271767,
+    "wof:lastmodified":1537017765,
+    "wof:name":"Kugart",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93333,
+    41.38333,
+    73.93333,
+    41.38333
+],
+  "geometry": {"coordinates":[73.93333,41.38333],"type":"Point"}
+}

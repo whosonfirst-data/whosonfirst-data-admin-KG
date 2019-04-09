@@ -1,0 +1,79 @@
+{
+  "id": 1293013583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72237,42.90413,73.72237,42.90413",
+    "geom:latitude":42.90413,
+    "geom:longitude":73.72237,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kara-Tebe",
+    "gn:country_code":"KG",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221268,
+    "gn:latitude":42.90413,
+    "gn:longitude":73.72237,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kara-T\u00ebb\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0414\u04e9\u0431\u04e9"
+    ],
+    "name:rus_x_preferred":[
+        "Kara-T\u00ebb\u00eb"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430-\u0422\u0451\u0431\u0451"
+    ],
+    "name:und_x_variant":[
+        "Kara-T\u00ebb\u00eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221268
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"08fb94b44d954f811bc4cba52868a6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691555,
+            "locality_id":1293013583,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293013583,
+    "wof:lastmodified":1537653272,
+    "wof:name":"Kara-Tebe",
+    "wof:parent_id":1091691555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72237,
+    42.90413,
+    73.72237,
+    42.90413
+],
+  "geometry": {"coordinates":[73.72237,42.90413],"type":"Point"}
+}

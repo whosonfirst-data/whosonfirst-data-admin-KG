@@ -1,0 +1,73 @@
+{
+  "id": 1226054395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83904,41.36962,71.83904,41.36962",
+    "geom:latitude":41.36962,
+    "geom:longitude":71.83904,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Baykishlak",
+    "gn:country_code":"KG",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579748,
+    "gn:latitude":41.36962,
+    "gn:longitude":71.83904,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Baykishlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boyqishloq"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043a\u0438\u0448\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579748
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fd8c15daa25ea14093b4748ffe31f837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226054395,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226054395,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Baykishlak",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83904,
+    41.36962,
+    71.83904,
+    41.36962
+],
+  "geometry": {"coordinates":[71.83904,41.36962],"type":"Point"}
+}

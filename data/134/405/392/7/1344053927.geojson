@@ -1,0 +1,77 @@
+{
+  "id": 1344053927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.70849,42.24374,76.70849,42.24374",
+    "geom:latitude":42.24374,
+    "geom:longitude":76.70849,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Akterek",
+    "gn:country_code":"KG",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528889,
+    "gn:latitude":42.24374,
+    "gn:longitude":76.70849,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Akterek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Aktersk",
+        "Akterek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528889
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"43bdf7800911f31207a4a684f92ef06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1344053927,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1344053927,
+    "wof:lastmodified":1537653180,
+    "wof:name":"Akterek",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.70849,
+    42.24374,
+    76.70849,
+    42.24374
+],
+  "geometry": {"coordinates":[76.70849,42.24374],"type":"Point"}
+}

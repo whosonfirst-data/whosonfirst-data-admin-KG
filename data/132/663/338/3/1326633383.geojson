@@ -1,0 +1,73 @@
+{
+  "id": 1326633383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.348,42.80423,74.348,42.80423",
+    "geom:latitude":42.80423,
+    "geom:longitude":74.348,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Novov",
+    "gn:country_code":"KG",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217154,
+    "gn:latitude":42.80423,
+    "gn:longitude":74.348,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Novov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0432"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217154
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"19d0164665cfe9ff10e996de6c8decb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1326633383,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1326633383,
+    "wof:lastmodified":1537653262,
+    "wof:name":"Novov",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.348,
+    42.80423,
+    74.348,
+    42.80423
+],
+  "geometry": {"coordinates":[74.348,42.80423],"type":"Point"}
+}

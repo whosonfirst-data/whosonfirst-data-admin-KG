@@ -1,0 +1,70 @@
+{
+  "id": 1209608423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00813,40.758,73.00813,40.758",
+    "geom:latitude":40.758,
+    "geom:longitude":73.00813,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yntymak",
+    "gn:country_code":"KG",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8172759,
+    "gn:latitude":40.758,
+    "gn:longitude":73.00813,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Yntymak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0432\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Prisavay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8172759
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b4a8563804a308e7c4a0e15141e2bcd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209608423
+        }
+    ],
+    "wof:id":1209608423,
+    "wof:lastmodified":1537653242,
+    "wof:name":"Yntymak",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00813000000002,
+    40.758,
+    73.00813000000002,
+    40.758
+],
+  "geometry": {"coordinates":[73.00813000000002,40.758],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259568815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21519,40.42513,74.21519,40.42513",
+    "geom:latitude":40.42513,
+    "geom:longitude":74.21519,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jaman-Tal",
+    "gn:country_code":"KG",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406006,
+    "gn:latitude":40.42513,
+    "gn:longitude":74.21519,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Jaman-Tal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u043c\u0430\u043d-\u0422\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0430\u043d\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dzhamantal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406006
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"21915b27858406a1ba2fe91e129bc827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1259568815,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259568815,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Jaman-Tal",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21519,
+    40.42513,
+    74.21519,
+    40.42513
+],
+  "geometry": {"coordinates":[74.21519000000001,40.42513],"type":"Point"}
+}

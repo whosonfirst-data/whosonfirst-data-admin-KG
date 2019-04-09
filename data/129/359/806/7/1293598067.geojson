@@ -1,0 +1,73 @@
+{
+  "id": 1293598067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48828,42.76242,74.48828,42.76242",
+    "geom:latitude":42.76242,
+    "geom:longitude":74.48828,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sarban",
+    "gn:country_code":"KG",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8217080,
+    "gn:latitude":42.76242,
+    "gn:longitude":74.48828,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Sarban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u0431\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0431\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8217080
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"77c399f15d99373e91277decd9dd214f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1293598067,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293598067,
+    "wof:lastmodified":1537653262,
+    "wof:name":"Sarban",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48828,
+    42.76242,
+    74.48828,
+    42.76242
+],
+  "geometry": {"coordinates":[74.48828,42.76242],"type":"Point"}
+}

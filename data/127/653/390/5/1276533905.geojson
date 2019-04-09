@@ -1,0 +1,73 @@
+{
+  "id": 1276533905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80292,39.95191,72.80292,39.95191",
+    "geom:latitude":39.95191,
+    "geom:longitude":72.80292,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Chara",
+    "gn:country_code":"KG",
+    "gn:dem":2381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392991,
+    "gn:latitude":39.95191,
+    "gn:longitude":72.80292,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kyzyl-Chara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0427\u0430\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0427\u0430\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392991
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1f2b0bf69cf30d63fe95cafcd587b0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1276533905,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276533905,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Kyzyl-Chara",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80292,
+    39.95191,
+    72.80292,
+    39.95191
+],
+  "geometry": {"coordinates":[72.80292,39.95191],"type":"Point"}
+}

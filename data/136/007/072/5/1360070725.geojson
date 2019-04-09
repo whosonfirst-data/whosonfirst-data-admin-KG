@@ -1,0 +1,76 @@
+{
+  "id": 1360070725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49334,40.57289,73.49334,40.57289",
+    "geom:latitude":40.57289,
+    "geom:longitude":73.49334,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhetim-Debe",
+    "gn:country_code":"KG",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144408,
+    "gn:latitude":40.57289,
+    "gn:longitude":73.49334,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhetim-D\u00ebb\u00eb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0435\u0442\u0438\u043c-\u0414\u04e9\u0431\u04e9"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhetim-D\u00ebb\u00eb"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0435\u0442\u0438\u043c-\u0414\u0451\u0431\u0451"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144408
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"82e7419ba2826297bb77ac078a3cf4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1360070725,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1360070725,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Dzhetim-Debe",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49334,
+    40.57289,
+    73.49334,
+    40.57289
+],
+  "geometry": {"coordinates":[73.49334,40.57289],"type":"Point"}
+}

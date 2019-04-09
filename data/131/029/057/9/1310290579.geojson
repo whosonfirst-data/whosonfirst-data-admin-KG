@@ -1,0 +1,77 @@
+{
+  "id": 1310290579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34536,40.55921,73.34536,40.55921",
+    "geom:latitude":40.55921,
+    "geom:longitude":73.34536,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tuz-Bel'",
+    "gn:country_code":"KG",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527135,
+    "gn:latitude":40.55921,
+    "gn:longitude":73.34536,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Tuz-Bel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0443\u0437-\u0411\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Tuz-Bel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0437-\u0411\u0435\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527135,
+        "wk:page":"Tuzbel%27"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"923d7c34c558014d51df9f5d7018e7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1310290579,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310290579,
+    "wof:lastmodified":1537653108,
+    "wof:name":"Tuz-Bel'",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34536,
+    40.55921,
+    73.34536,
+    40.55921
+],
+  "geometry": {"coordinates":[73.34536,40.55921],"type":"Point"}
+}

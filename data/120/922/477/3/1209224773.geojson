@@ -1,0 +1,65 @@
+{
+  "id": 1209224773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94132,41.21711,72.94132,41.21711",
+    "geom:latitude":41.21711,
+    "geom:longitude":72.94132,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kara-Oy",
+    "gn:country_code":"KG",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528690,
+    "gn:latitude":41.21711,
+    "gn:longitude":72.94132,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kara-Oy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528690,
+        "wk:page":"Beshbadom"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"20881ab679e6a64ac86ecf4fcf7acf64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209224773
+        }
+    ],
+    "wof:id":1209224773,
+    "wof:lastmodified":1537653173,
+    "wof:name":"Kara-Oy",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94131999999998,
+    41.21711,
+    72.94131999999998,
+    41.21711
+],
+  "geometry": {"coordinates":[72.94131999999998,41.21711],"type":"Point"}
+}

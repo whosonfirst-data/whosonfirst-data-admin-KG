@@ -1,0 +1,70 @@
+{
+  "id": 1209011857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54027,41.04404,72.54027,41.04404",
+    "geom:latitude":41.04404,
+    "geom:longitude":72.54027,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rakhmandzhan",
+    "gn:country_code":"KG",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135702,
+    "gn:latitude":41.04404,
+    "gn:longitude":72.54027,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Rakhmandzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0420\u0430\u0445\u043c\u0430\u043d\u0436\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0445\u043c\u0430\u043d\u0434\u0436\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Rahmonjon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135702
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"53674f7c83014eb2667bdffc43149168",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209011857
+        }
+    ],
+    "wof:id":1209011857,
+    "wof:lastmodified":1537653209,
+    "wof:name":"Rakhmandzhan",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54026999999998,
+    41.04404,
+    72.54026999999998,
+    41.04404
+],
+  "geometry": {"coordinates":[72.54026999999998,41.04404],"type":"Point"}
+}

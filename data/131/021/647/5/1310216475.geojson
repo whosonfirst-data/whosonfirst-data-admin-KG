@@ -1,0 +1,73 @@
+{
+  "id": 1310216475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39136,41.04282,72.39136,41.04282",
+    "geom:latitude":41.04282,
+    "geom:longitude":72.39136,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhazgak",
+    "gn:country_code":"KG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135698,
+    "gn:latitude":41.04282,
+    "gn:longitude":72.39136,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhazgak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0437\u0433\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0437\u0433\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135698
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"cd4b452b912ce5e32a8e66543e22fb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1310216475,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310216475,
+    "wof:lastmodified":1537653209,
+    "wof:name":"Dzhazgak",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39135999999998,
+    41.04282,
+    72.39135999999998,
+    41.04282
+],
+  "geometry": {"coordinates":[72.39135999999998,41.04282],"type":"Point"}
+}

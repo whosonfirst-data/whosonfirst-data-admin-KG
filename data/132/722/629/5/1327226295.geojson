@@ -1,0 +1,73 @@
+{
+  "id": 1327226295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62629,42.75718,71.62629,42.75718",
+    "geom:latitude":42.75718,
+    "geom:longitude":71.62629,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dzhayylgan",
+    "gn:country_code":"KG",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247729,
+    "gn:latitude":42.75718,
+    "gn:longitude":71.62629,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Dzhayylgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0439\u044b\u043b\u0433\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0439\u044b\u043b\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247729
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"521b3142f1461d3e4243353584e00c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690313,
+            "locality_id":1327226295,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1327226295,
+    "wof:lastmodified":1537653279,
+    "wof:name":"Dzhayylgan",
+    "wof:parent_id":1091690313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62629,
+    42.75718,
+    71.62629,
+    42.75718
+],
+  "geometry": {"coordinates":[71.62629,42.75718],"type":"Point"}
+}

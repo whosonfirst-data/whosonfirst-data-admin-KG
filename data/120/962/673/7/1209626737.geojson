@@ -1,0 +1,67 @@
+{
+  "id": 1209626737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02803,41.42212,74.02803,41.42212",
+    "geom:latitude":41.42212,
+    "geom:longitude":74.02803,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chaldavar",
+    "gn:country_code":"KG",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197798,
+    "gn:latitude":41.42212,
+    "gn:longitude":74.02803,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chaldavar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043b\u0434\u0430\u0432\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043b\u0434\u0430\u0432\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197798
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"882cf40d5f70ee35e3b6aa80b7181b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209626737
+        }
+    ],
+    "wof:id":1209626737,
+    "wof:lastmodified":1537653259,
+    "wof:name":"Chaldavar",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02803,
+    41.42212,
+    74.02803,
+    41.42212
+],
+  "geometry": {"coordinates":[74.02803,41.42212],"type":"Point"}
+}

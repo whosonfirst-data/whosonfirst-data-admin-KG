@@ -1,0 +1,73 @@
+{
+  "id": 1226030235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66959,40.33651,73.66959,40.33651",
+    "geom:latitude":40.33651,
+    "geom:longitude":73.66959,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ayuu-Talan",
+    "gn:country_code":"KG",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142748,
+    "gn:latitude":40.33651,
+    "gn:longitude":73.66959,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ayuu-Talan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u044e\u0443-\u0422\u0430\u043b\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044e\u0443-\u0422\u0430\u043b\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142748
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b5f1ab05de75e4e469a125cc3cd80242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1226030235,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226030235,
+    "wof:lastmodified":1537653233,
+    "wof:name":"Ayuu-Talan",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66959,
+    40.33651,
+    73.66959,
+    40.33651
+],
+  "geometry": {"coordinates":[73.66959,40.33651],"type":"Point"}
+}

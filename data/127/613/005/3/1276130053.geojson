@@ -1,0 +1,77 @@
+{
+  "id": 1276130053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88744,41.15626,72.88744,41.15626",
+    "geom:latitude":41.15626,
+    "geom:longitude":72.88744,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kirgiz-Gava",
+    "gn:country_code":"KG",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527921,
+    "gn:latitude":41.15626,
+    "gn:longitude":72.88744,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Kirgiz-Gava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437-\u0413\u0430\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0433\u0438\u0437-\u0413\u0430\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kyrgyz-Gava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527921,
+        "wk:page":"Kirgizgava"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6271ddde3543284ff83332116647f673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1276130053,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276130053,
+    "wof:lastmodified":1537653142,
+    "wof:name":"Kirgiz-Gava",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88744,
+    41.15626,
+    72.88744,
+    41.15626
+],
+  "geometry": {"coordinates":[72.88744,41.15626],"type":"Point"}
+}

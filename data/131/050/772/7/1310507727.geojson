@@ -1,0 +1,77 @@
+{
+  "id": 1310507727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.77272,42.18123,75.77272,42.18123",
+    "geom:latitude":42.18123,
+    "geom:longitude":75.77272,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ukok",
+    "gn:country_code":"KG",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527092,
+    "gn:latitude":42.18123,
+    "gn:longitude":75.77272,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Ukok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u0441\u0430\u043a\u0435\u0435\u0432"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043a\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527092,
+        "wk:page":"Ukok"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0201281d835b56cdd53e24c292a4e0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1310507727,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1310507727,
+    "wof:lastmodified":1537653107,
+    "wof:name":"Ukok",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.77271999999998,
+    42.18123,
+    75.77271999999998,
+    42.18123
+],
+  "geometry": {"coordinates":[75.77271999999998,42.18123],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209326189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.05157,41.7107,72.05157,41.7107",
+    "geom:latitude":41.7107,
+    "geom:longitude":72.05157,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chaldybar",
+    "gn:country_code":"KG",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528589,
+    "gn:latitude":41.7107,
+    "gn:longitude":72.05157,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Chaldybar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043b\u0434\u044b\u0431\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043b\u0434\u044b\u0431\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chaldyrar",
+        "Chald\u00f6var",
+        "Chaldyvar",
+        "Chaldavar",
+        "Chaldybar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528589,
+        "wk:page":"Chaldavar"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c6dca513fcf29833ffe4e1353f6f91b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209326189
+        }
+    ],
+    "wof:id":1209326189,
+    "wof:lastmodified":1537653170,
+    "wof:name":"Chaldybar",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.05157,
+    41.7107,
+    72.05157,
+    41.7107
+],
+  "geometry": {"coordinates":[72.05157,41.7107],"type":"Point"}
+}

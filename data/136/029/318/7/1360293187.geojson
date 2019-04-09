@@ -1,0 +1,73 @@
+{
+  "id": 1360293187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07031,40.96196,73.07031,40.96196",
+    "geom:latitude":40.96196,
+    "geom:longitude":73.07031,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eshme",
+    "gn:country_code":"KG",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174151,
+    "gn:latitude":40.96196,
+    "gn:longitude":73.07031,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Eshme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042d\u0448\u043c\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0448\u043c\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174151
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"83ff5af89f01c35ffe02330904dbd6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1360293187,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360293187,
+    "wof:lastmodified":1537653249,
+    "wof:name":"Eshme",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07030999999998,
+    40.96196,
+    73.07030999999998,
+    40.96196
+],
+  "geometry": {"coordinates":[73.07030999999998,40.96196],"type":"Point"}
+}

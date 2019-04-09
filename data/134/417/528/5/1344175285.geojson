@@ -1,0 +1,68 @@
+{
+  "id": 1344175285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28333,40.41667,73.28333,40.41667",
+    "geom:latitude":40.41667,
+    "geom:longitude":73.28333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaytmas",
+    "gn:country_code":"KG",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1528007,
+    "gn:latitude":40.41667,
+    "gn:longitude":73.28333,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kaytmas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528007,
+        "wk:page":"Kaytmas"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9ee0f85e030018e187377c3fae70fbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1344175285,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1344175285,
+    "wof:lastmodified":1537567187,
+    "wof:name":"Kaytmas",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28333,
+    40.41667,
+    73.28333,
+    40.41667
+],
+  "geometry": {"coordinates":[73.28333000000001,40.41667],"type":"Point"}
+}

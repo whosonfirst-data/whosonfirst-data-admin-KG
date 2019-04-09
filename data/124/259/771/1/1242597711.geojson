@@ -1,0 +1,73 @@
+{
+  "id": 1242597711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82733,40.53263,73.82733,40.53263",
+    "geom:latitude":40.53263,
+    "geom:longitude":73.82733,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Terek-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142468,
+    "gn:latitude":40.53263,
+    "gn:longitude":73.82733,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Terek-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043a-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043a-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142468
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"90b4f9b391a20f8f2fca705322bc8812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1242597711,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242597711,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Terek-Suu",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82733,
+    40.53263,
+    73.82733,
+    40.53263
+],
+  "geometry": {"coordinates":[73.82733,40.53263],"type":"Point"}
+}

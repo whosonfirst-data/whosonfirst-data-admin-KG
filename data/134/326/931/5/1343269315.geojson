@@ -1,0 +1,73 @@
+{
+  "id": 1343269315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16118,41.21742,73.16118,41.21742",
+    "geom:latitude":41.21742,
+    "geom:longitude":73.16118,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178383,
+    "gn:latitude":41.21742,
+    "gn:longitude":73.16118,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ak-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178383
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f7d06a6ccb8c6695a39515d7423a25eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1343269315,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343269315,
+    "wof:lastmodified":1537653254,
+    "wof:name":"Ak-Bulak",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16118,
+    41.21742,
+    73.16118,
+    41.21742
+],
+  "geometry": {"coordinates":[73.16118,41.21742],"type":"Point"}
+}

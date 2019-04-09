@@ -1,0 +1,77 @@
+{
+  "id": 1276986673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.28687,41.6738,74.28687,41.6738",
+    "geom:latitude":41.6738,
+    "geom:longitude":74.28687,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Kul'",
+    "gn:country_code":"KG",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528935,
+    "gn:latitude":41.6738,
+    "gn:longitude":74.28687,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-Kul\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u041a\u0443\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Ak-Kul\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528935,
+        "wk:page":"Ak-Kul%27"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7d95c5460db66582aecc001949b904fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1276986673,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276986673,
+    "wof:lastmodified":1537653182,
+    "wof:name":"Ak-Kul'",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.28687,
+    41.6738,
+    74.28687,
+    41.6738
+],
+  "geometry": {"coordinates":[74.28686999999999,41.6738],"type":"Point"}
+}

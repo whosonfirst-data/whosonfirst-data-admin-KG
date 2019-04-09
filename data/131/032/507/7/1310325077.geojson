@@ -1,0 +1,76 @@
+{
+  "id": 1310325077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49284,40.52201,73.49284,40.52201",
+    "geom:latitude":40.52201,
+    "geom:longitude":73.49284,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Altyn-Kyurek",
+    "gn:country_code":"KG",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144409,
+    "gn:latitude":40.52201,
+    "gn:longitude":73.49284,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Altyn-Kyur\u00ebk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d-\u041a\u044e\u0440\u0451\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Altyn-Kyur\u00ebk"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0442\u044b\u043d-\u041a\u044e\u0440\u0451\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144409
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"049fae998d6b7c253610650f121a9718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1310325077,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310325077,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Altyn-Kyurek",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49284,
+    40.52201,
+    73.49284,
+    40.52201
+],
+  "geometry": {"coordinates":[73.49284,40.52201],"type":"Point"}
+}

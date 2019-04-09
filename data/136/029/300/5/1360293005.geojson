@@ -1,0 +1,73 @@
+{
+  "id": 1360293005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58415,41.33933,71.58415,41.33933",
+    "geom:latitude":41.33933,
+    "geom:longitude":71.58415,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madaniyat",
+    "gn:country_code":"KG",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580826,
+    "gn:latitude":41.33933,
+    "gn:longitude":71.58415,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Madaniyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u043d\u0438\u044f\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u043d\u0438\u044f\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580826
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"358234d5b461327c5441c06df409eef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1360293005,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360293005,
+    "wof:lastmodified":1537653193,
+    "wof:name":"Madaniyat",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58415,
+    41.33933,
+    71.58415,
+    41.33933
+],
+  "geometry": {"coordinates":[71.58414999999999,41.33933],"type":"Point"}
+}

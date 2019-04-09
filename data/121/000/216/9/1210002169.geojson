@@ -1,0 +1,76 @@
+{
+  "id": 1210002169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31786,40.26654,74.31786,40.26654",
+    "geom:latitude":40.26654,
+    "geom:longitude":74.31786,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tashkyya",
+    "gn:country_code":"KG",
+    "gn:dem":2291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406252,
+    "gn:latitude":40.26654,
+    "gn:longitude":74.31786,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Tashkyya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448-\u041a\u044b\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u044b\u044f"
+    ],
+    "name:und_x_variant":[
+        "Parts\u2019\u2019ezd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406252
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c20620aa5715cc979158e84486556cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1210002169,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1210002169,
+    "wof:lastmodified":1537653313,
+    "wof:name":"Tashkyya",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31786,
+    40.26654,
+    74.31786,
+    40.26654
+],
+  "geometry": {"coordinates":[74.31786,40.26654],"type":"Point"}
+}

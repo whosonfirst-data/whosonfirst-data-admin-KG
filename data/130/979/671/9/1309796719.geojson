@@ -1,0 +1,77 @@
+{
+  "id": 1309796719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78687,40.51598,72.78687,40.51598",
+    "geom:latitude":40.51598,
+    "geom:longitude":72.78687,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dyykan-Kyshtak",
+    "gn:country_code":"KG",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538117,
+    "gn:latitude":40.51598,
+    "gn:longitude":72.78687,
+    "gn:modification_date":"2017-10-27",
+    "gn:name":"Dyykan-Kyshtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u044b\u0439\u043a\u0430\u043d-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u0439\u043a\u0430\u043d-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Diykan-Qishtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538117,
+        "wk:page":"Dyykan-Kyshtak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6867dda32e81012f497d1e1f158745a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1309796719,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309796719,
+    "wof:lastmodified":1537653185,
+    "wof:name":"Dyykan-Kyshtak",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78687,
+    40.51598,
+    72.78687,
+    40.51598
+],
+  "geometry": {"coordinates":[72.78686999999999,40.51598],"type":"Point"}
+}

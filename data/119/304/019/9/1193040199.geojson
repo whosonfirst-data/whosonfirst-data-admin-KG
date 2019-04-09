@@ -1,0 +1,79 @@
+{
+  "id": 1193040199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42517,42.49748,72.42517,42.49748",
+    "geom:latitude":42.49748,
+    "geom:longitude":72.42517,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kekkashat",
+    "gn:country_code":"KG",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272582,
+    "gn:latitude":42.49748,
+    "gn:longitude":72.42517,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"K\u00ebkkashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043a-\u041a\u0430\u0448\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "K\u00ebkkashat"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0451\u043a\u043a\u0430\u0448\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebkkashat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272582
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"adee13ba7fb7dae46a57c2818856fdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1193040199,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1193040199,
+    "wof:lastmodified":1537653281,
+    "wof:name":"Kekkashat",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42517,
+    42.49748,
+    72.42517,
+    42.49748
+],
+  "geometry": {"coordinates":[72.42516999999999,42.49748],"type":"Point"}
+}

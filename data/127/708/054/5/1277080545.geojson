@@ -1,0 +1,73 @@
+{
+  "id": 1277080545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.32192,41.93502,76.32192,41.93502",
+    "geom:latitude":41.93502,
+    "geom:longitude":76.32192,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dergochko",
+    "gn:country_code":"KG",
+    "gn:dem":2845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065101,
+    "gn:latitude":41.93502,
+    "gn:longitude":76.32192,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dergochko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jer-K\u00f6chk\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0433\u043e\u0447\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065101
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"254e8e49946ab15a8cacb9c584b671cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1277080545,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1277080545,
+    "wof:lastmodified":1537653202,
+    "wof:name":"Dergochko",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.32191999999998,
+    41.93502,
+    76.32191999999998,
+    41.93502
+],
+  "geometry": {"coordinates":[76.32191999999998,41.93502],"type":"Point"}
+}

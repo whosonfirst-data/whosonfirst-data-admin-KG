@@ -1,0 +1,74 @@
+{
+  "id": 1310107613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.55165,41.01628,72.55165,41.01628",
+    "geom:latitude":41.01628,
+    "geom:longitude":72.55165,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arimdzhan",
+    "gn:country_code":"KG",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528825,
+    "gn:latitude":41.01628,
+    "gn:longitude":72.55165,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Arimdzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0438\u043c\u0434\u0436\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Arimjon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528825,
+        "wk:page":"Arimdzhan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b97732c4ae821eca39777b900b1419f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1310107613,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310107613,
+    "wof:lastmodified":1537653178,
+    "wof:name":"Arimdzhan",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.55165,
+    41.01628,
+    72.55165,
+    41.01628
+],
+  "geometry": {"coordinates":[72.55165,41.01628],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226054055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78915,41.29685,72.78915,41.29685",
+    "geom:latitude":41.29685,
+    "geom:longitude":72.78915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shaydan",
+    "gn:country_code":"KG",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527382,
+    "gn:latitude":41.29685,
+    "gn:longitude":72.78915,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Shaydan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kol\u2019me",
+        "Shaydan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527382,
+        "wk:page":"Shaydan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c8892b040501586e11819d8c16a424aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1226054055,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226054055,
+    "wof:lastmodified":1537653117,
+    "wof:name":"Shaydan",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78915,
+    41.29685,
+    72.78915,
+    41.29685
+],
+  "geometry": {"coordinates":[72.78915000000001,41.29685],"type":"Point"}
+}

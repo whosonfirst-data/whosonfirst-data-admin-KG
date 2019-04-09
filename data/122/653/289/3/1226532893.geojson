@@ -1,0 +1,73 @@
+{
+  "id": 1226532893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51559,40.52598,73.51559,40.52598",
+    "geom:latitude":40.52598,
+    "geom:longitude":73.51559,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arpatekter",
+    "gn:country_code":"KG",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142562,
+    "gn:latitude":40.52598,
+    "gn:longitude":73.51559,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Arpatekter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u043f\u0430\u0442\u0435\u043a\u0442\u0435\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043f\u0430\u0442\u0435\u043a\u0442\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142562
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d1510ef856b2d8831d8d32762baca03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226532893,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226532893,
+    "wof:lastmodified":1537653232,
+    "wof:name":"Arpatekter",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51559,
+    40.52598,
+    73.51559,
+    40.52598
+],
+  "geometry": {"coordinates":[73.51559,40.52598],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276665091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90746,41.20421,70.90746,41.20421",
+    "geom:latitude":41.20421,
+    "geom:longitude":70.90746,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chon-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578051,
+    "gn:latitude":41.20421,
+    "gn:longitude":70.90746,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Chon-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chon-Soy"
+    ],
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u043d-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043d-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578051
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fd375700cab52fea7deb45047982d2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276665091,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276665091,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Chon-Say",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90746,
+    41.20421,
+    70.90746,
+    41.20421
+],
+  "geometry": {"coordinates":[70.90746,41.20421],"type":"Point"}
+}

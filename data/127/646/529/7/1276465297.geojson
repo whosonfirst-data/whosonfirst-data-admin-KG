@@ -1,0 +1,78 @@
+{
+  "id": 1276465297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.02101,42.34226,76.02101,42.34226",
+    "geom:latitude":42.34226,
+    "geom:longitude":76.02101,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Orto-Tokoy",
+    "gn:country_code":"KG",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527537,
+    "gn:latitude":42.34226,
+    "gn:longitude":76.02101,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Orto-Tokoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0422\u043e\u043a\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0422\u043e\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Orto-Tokay",
+        "Orto-Tokoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527537,
+        "wk:page":"Orto-Tokoy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"890163aabcca25ec15946273322b3be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1276465297,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1276465297,
+    "wof:lastmodified":1537653125,
+    "wof:name":"Orto-Tokoy",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.02101,
+    42.34226,
+    76.02101,
+    42.34226
+],
+  "geometry": {"coordinates":[76.02101,42.34226],"type":"Point"}
+}

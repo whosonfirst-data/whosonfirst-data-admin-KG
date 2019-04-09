@@ -1,0 +1,79 @@
+{
+  "id": 1226560881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3703,39.96877,69.3703,39.96877",
+    "geom:latitude":39.96877,
+    "geom:longitude":69.3703,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Choyunchu",
+    "gn:country_code":"KG",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222677,
+    "gn:latitude":39.96877,
+    "gn:longitude":69.3703,
+    "gn:modification_date":"2015-05-22",
+    "gn:name":"Choyunchu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0447\u043e\u044e\u043d\u0447\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Jar",
+        "Dzhar",
+        "Alga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222677,
+        "wk:page":"Dzhar"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"047d99a7ec84fd0805dfa08481a8c898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1226560881,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1226560881,
+    "wof:lastmodified":1537653098,
+    "wof:name":"Choyunchu",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3703,
+    39.96877,
+    69.3703,
+    39.96877
+],
+  "geometry": {"coordinates":[69.3703,39.96877],"type":"Point"}
+}

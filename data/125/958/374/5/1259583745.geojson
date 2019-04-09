@@ -1,0 +1,76 @@
+{
+  "id": 1259583745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.93601,41.30493,74.93601,41.30493",
+    "geom:latitude":41.30493,
+    "geom:longitude":74.93601,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ichkesu",
+    "gn:country_code":"KG",
+    "gn:dem":1857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528309,
+    "gn:latitude":41.30493,
+    "gn:longitude":74.93601,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ichkesu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u0447\u043a\u0435\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0447\u043a\u0435\u0441\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kayyngdy-Bulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528309
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1e0b91a875fc971b5f0ec443ae9aec71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1259583745,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259583745,
+    "wof:lastmodified":1537653156,
+    "wof:name":"Ichkesu",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.93601,
+    41.30493,
+    74.93601,
+    41.30493
+],
+  "geometry": {"coordinates":[74.93601,41.30493],"type":"Point"}
+}

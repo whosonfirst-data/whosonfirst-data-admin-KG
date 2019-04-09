@@ -1,0 +1,76 @@
+{
+  "id": 1310620911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04508,39.50954,72.04508,39.50954",
+    "geom:latitude":39.50954,
+    "geom:longitude":72.04508,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kulchu",
+    "gn:country_code":"KG",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392496,
+    "gn:latitude":39.50954,
+    "gn:longitude":72.04508,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Kulchu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0447\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0447\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kalchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392496
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"35231f44c2ea198ff8c2effb12d0e87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":1310620911,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310620911,
+    "wof:lastmodified":1537653308,
+    "wof:name":"Kulchu",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04508,
+    39.50954,
+    72.04508,
+    39.50954
+],
+  "geometry": {"coordinates":[72.04508,39.50954],"type":"Point"}
+}

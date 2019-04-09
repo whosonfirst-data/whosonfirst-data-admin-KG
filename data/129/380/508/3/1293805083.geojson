@@ -1,0 +1,77 @@
+{
+  "id": 1293805083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.65828,42.58944,78.65828,42.58944",
+    "geom:latitude":42.58944,
+    "geom:longitude":78.65828,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Otradnoye",
+    "gn:country_code":"KG",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527530,
+    "gn:latitude":42.58944,
+    "gn:longitude":78.65828,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Otradnoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0440\u0430\u0434\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Otradnoe",
+        "Otradnoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527530
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6a4d44a093d1af8b00b92fd38b49b72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691455,
+            "locality_id":1293805083,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1293805083,
+    "wof:lastmodified":1537653125,
+    "wof:name":"Otradnoye",
+    "wof:parent_id":1091691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.65828,
+    42.58944,
+    78.65828,
+    42.58944
+],
+  "geometry": {"coordinates":[78.65828,42.58944],"type":"Point"}
+}

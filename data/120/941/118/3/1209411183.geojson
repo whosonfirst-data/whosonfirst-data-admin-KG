@@ -1,0 +1,71 @@
+{
+  "id": 1209411183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.73336,40.14475,71.73336,40.14475",
+    "geom:latitude":40.14475,
+    "geom:longitude":71.73336,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"1222671",
+    "gn:asciiname":"Chal Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376211,
+    "gn:latitude":40.14475,
+    "gn:longitude":71.73336,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Chal Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043b \u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043b \u0422\u0430\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Chil-Tosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376211
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8837b2eb32a82509f3950cde566399d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209411183
+        }
+    ],
+    "wof:id":1209411183,
+    "wof:lastmodified":1537653296,
+    "wof:name":"Chal Tash",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.73336,
+    40.14475,
+    71.73336,
+    40.14475
+],
+  "geometry": {"coordinates":[71.73336,40.14475],"type":"Point"}
+}

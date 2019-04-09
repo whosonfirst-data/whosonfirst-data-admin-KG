@@ -1,0 +1,68 @@
+{
+  "id": 1310219845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.85,40.43333,73.85,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":73.85,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kara-Gonush",
+    "gn:country_code":"KG",
+    "gn:dem":3275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528146,
+    "gn:latitude":40.43333,
+    "gn:longitude":73.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kara-Gonush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528146,
+        "wk:page":"Kara-Gonush"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a8c4573d604bd38afb04bca67c5ae03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1310219845,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310219845,
+    "wof:lastmodified":1537567188,
+    "wof:name":"Kara-Gonush",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.85,
+    40.43333,
+    73.85,
+    40.43333
+],
+  "geometry": {"coordinates":[73.84999999999999,40.43333],"type":"Point"}
+}

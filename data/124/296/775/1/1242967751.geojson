@@ -1,0 +1,75 @@
+{
+  "id": 1242967751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.29991,42.66766,77.29991,42.66766",
+    "geom:latitude":42.66766,
+    "geom:longitude":77.29991,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bulan-Segettu",
+    "gn:country_code":"KG",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238859,
+    "gn:latitude":42.66766,
+    "gn:longitude":77.29991,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Bulan-Segettu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u043d-\u0421\u0435\u0433\u0435\u0442\u0442\u0443"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Komsomol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238859
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"462bee1f9114080fb754c329ca437fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242967751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242967751,
+    "wof:lastmodified":1537653276,
+    "wof:name":"Bulan-Segettu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.29991,
+    42.66766,
+    77.29991,
+    42.66766
+],
+  "geometry": {"coordinates":[77.29991,42.66766],"type":"Point"}
+}

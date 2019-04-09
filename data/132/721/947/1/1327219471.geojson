@@ -1,0 +1,76 @@
+{
+  "id": 1327219471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04341,40.64838,73.04341,40.64838",
+    "geom:latitude":40.64838,
+    "geom:longitude":73.04341,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhar-Ooz",
+    "gn:country_code":"KG",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145331,
+    "gn:latitude":40.64838,
+    "gn:longitude":73.04341,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Dzhar-Ooz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0440-\u041e\u043e\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440-\u041e\u043e\u0437"
+    ],
+    "name:uzb_x_preferred":[
+        "Jar-Ooz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145331
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b59b79e5cdf482605288fba53aeb61da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1327219471,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327219471,
+    "wof:lastmodified":1537653241,
+    "wof:name":"Dzhar-Ooz",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04341,
+    40.64838,
+    73.04341,
+    40.64838
+],
+  "geometry": {"coordinates":[73.04340999999999,40.64838],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1310400237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.62109,42.10227,76.62109,42.10227",
+    "geom:latitude":42.10227,
+    "geom:longitude":76.62109,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kongur-Olon",
+    "gn:country_code":"KG",
+    "gn:dem":1985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527853,
+    "gn:latitude":42.10227,
+    "gn:longitude":76.62109,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kongur-\u00d6l\u00f6n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u04a3\u0443\u0440-\u04e8\u043b\u04e9\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Kongurl\u00ebng"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043d\u0433\u0443\u0440\u043b\u0451\u043d\u0433"
+    ],
+    "name:und_x_variant":[
+        "Konur-Ulen",
+        "Kongurol\u00ebng",
+        "Konur-Ol\u00ebn",
+        "Kongur-\u00d6l\u00f6n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527853,
+        "wk:page":"Kongurol%C3%ABng"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b61908f90aad0ff2e4d54b40171564e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1310400237,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1310400237,
+    "wof:lastmodified":1537653139,
+    "wof:name":"Kongur-Olon",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.62109,
+    42.10227,
+    76.62109,
+    42.10227
+],
+  "geometry": {"coordinates":[76.62109,42.10227],"type":"Point"}
+}

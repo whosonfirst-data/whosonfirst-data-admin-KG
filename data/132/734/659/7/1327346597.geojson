@@ -1,0 +1,75 @@
+{
+  "id": 1327346597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.63651,42.90646,74.63651,42.90646",
+    "geom:latitude":42.90646,
+    "geom:longitude":74.63651,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Alamedin",
+    "gn:country_code":"KG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528869,
+    "gn:latitude":42.90646,
+    "gn:longitude":74.63651,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Alamedin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u0435\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Alam\u00fcd\u00fcn",
+        "Voroshilovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528869,
+        "wk:page":"Alamudun"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a7af25e2d8834cf6b2b1977033a0751e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1327346597,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1327346597,
+    "wof:lastmodified":1537653179,
+    "wof:name":"Alamedin",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.63651,
+    42.90646,
+    74.63651,
+    42.90646
+],
+  "geometry": {"coordinates":[74.63651,42.90646],"type":"Point"}
+}

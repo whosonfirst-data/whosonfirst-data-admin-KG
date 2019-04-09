@@ -1,0 +1,73 @@
+{
+  "id": 1226048637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.67557,41.08675,75.67557,41.08675",
+    "geom:latitude":41.08675,
+    "geom:longitude":75.67557,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aktala",
+    "gn:country_code":"KG",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528902,
+    "gn:latitude":41.08675,
+    "gn:longitude":75.67557,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Aktala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528902
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"393e84a5abc0ad3c3ff7221f8f56631b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1226048637,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226048637,
+    "wof:lastmodified":1537653181,
+    "wof:name":"Aktala",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.67557,
+    41.08675,
+    75.67557,
+    41.08675
+],
+  "geometry": {"coordinates":[75.67556999999999,41.08675],"type":"Point"}
+}

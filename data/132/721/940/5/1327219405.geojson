@@ -1,0 +1,73 @@
+{
+  "id": 1327219405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46728,40.84182,73.46728,40.84182",
+    "geom:latitude":40.84182,
+    "geom:longitude":73.46728,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kuragak-Demik",
+    "gn:country_code":"KG",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174050,
+    "gn:latitude":40.84182,
+    "gn:longitude":73.46728,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kuragak-Demik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0433\u0430\u043a-\u0414\u0435\u043c\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0433\u0430\u043a-\u0414\u0435\u043c\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174050
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c828bc0d4c67f15850e7f01d0dee37ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1327219405,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327219405,
+    "wof:lastmodified":1537653246,
+    "wof:name":"Kuragak-Demik",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46728,
+    40.84182,
+    73.46728,
+    40.84182
+],
+  "geometry": {"coordinates":[73.46728,40.84182],"type":"Point"}
+}

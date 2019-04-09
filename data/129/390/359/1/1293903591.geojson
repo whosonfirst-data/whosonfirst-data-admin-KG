@@ -1,0 +1,76 @@
+{
+  "id": 1293903591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.25057,40.31827,72.25057,40.31827",
+    "geom:latitude":40.31827,
+    "geom:longitude":72.25057,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ay-Tamga",
+    "gn:country_code":"KG",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139697,
+    "gn:latitude":40.31827,
+    "gn:longitude":72.25057,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Ay-Tamga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0439-\u0422\u0430\u043c\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439-\u0422\u0430\u043c\u0433\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Ay-Tamg\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139697
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e124f8d65cbfb36b1afd2415f18b3187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293903591,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293903591,
+    "wof:lastmodified":1537653222,
+    "wof:name":"Ay-Tamga",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.25057,
+    40.31827,
+    72.25057,
+    40.31827
+],
+  "geometry": {"coordinates":[72.25057,40.31827],"type":"Point"}
+}

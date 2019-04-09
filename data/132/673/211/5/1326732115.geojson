@@ -1,0 +1,76 @@
+{
+  "id": 1326732115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94562,40.85847,72.94562,40.85847",
+    "geom:latitude":40.85847,
+    "geom:longitude":72.94562,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uzbek-Abad",
+    "gn:country_code":"KG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137697,
+    "gn:latitude":40.85847,
+    "gn:longitude":72.94562,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Uzbek-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04e8\u0437\u0431\u0435\u043a-\u0410\u0431\u0430\u0434"
+    ],
+    "name:kir_x_variant":[
+        "\u0423\u0437\u0431\u0435\u043a-\u0410\u0432\u0430\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0431\u0435\u043a-\u0410\u0432\u0430\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137697
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d94e74c08a862c7d41c00f3f2a7c276f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1326732115,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1326732115,
+    "wof:lastmodified":1537653213,
+    "wof:name":"Uzbek-Abad",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94561999999998,
+    40.85847,
+    72.94561999999998,
+    40.85847
+],
+  "geometry": {"coordinates":[72.94561999999998,40.85847],"type":"Point"}
+}

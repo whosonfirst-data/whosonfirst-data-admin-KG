@@ -1,0 +1,85 @@
+{
+  "id": 1226547293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54853,41.36558,71.54853,41.36558",
+    "geom:latitude":41.36558,
+    "geom:longitude":71.54853,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kalta",
+    "gn:country_code":"KG",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580825,
+    "gn:latitude":41.36558,
+    "gn:longitude":71.54853,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kalta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalta"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0442\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0442\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Kal\u2019takara"
+    ],
+    "name:und_x_variant":[
+        "Kal\u2019takara"
+    ],
+    "name:uzb_x_preferred":[
+        "Kelta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580825
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"584c7d6cbede7b7d71a7ce65bd7f586d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1226547293,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226547293,
+    "wof:lastmodified":1537653193,
+    "wof:name":"Kalta",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54853,
+    41.36558,
+    71.54853,
+    41.36558
+],
+  "geometry": {"coordinates":[71.54853,41.36558],"type":"Point"}
+}

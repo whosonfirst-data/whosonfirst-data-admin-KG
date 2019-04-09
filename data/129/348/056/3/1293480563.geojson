@@ -1,0 +1,73 @@
+{
+  "id": 1293480563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60663,40.70939,73.60663,40.70939",
+    "geom:latitude":40.70939,
+    "geom:longitude":73.60663,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sasyk-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538761,
+    "gn:latitude":40.70939,
+    "gn:longitude":73.60663,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Sasyk-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0441\u044b\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538761
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"de516b139c8b4433490ed615248c9f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1293480563,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293480563,
+    "wof:lastmodified":1537653314,
+    "wof:name":"Sasyk-Bulak",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60663000000002,
+    40.70939,
+    73.60663000000002,
+    40.70939
+],
+  "geometry": {"coordinates":[73.60663000000002,40.70939],"type":"Point"}
+}

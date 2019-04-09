@@ -1,0 +1,71 @@
+{
+  "id": 1209725549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92162,40.02492,72.92162,40.02492",
+    "geom:latitude":40.02492,
+    "geom:longitude":72.92162,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kichik-Alay",
+    "gn:country_code":"KG",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527936,
+    "gn:latitude":40.02492,
+    "gn:longitude":72.92162,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Kichik-Alay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0438\u0447\u0438\u043a-\u0410\u043b\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527936,
+        "wk:page":"Kichik-Alay"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"86d397460174adffbb2c5eca721131d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1209725549,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1209725549,
+    "wof:lastmodified":1537653142,
+    "wof:name":"Kichik-Alay",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92161999999998,
+    40.02492,
+    72.92161999999998,
+    40.02492
+],
+  "geometry": {"coordinates":[72.92161999999998,40.02492],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293391967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.98628,41.16884,73.98628,41.16884",
+    "geom:latitude":41.16884,
+    "geom:longitude":73.98628,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Makmal",
+    "gn:country_code":"KG",
+    "gn:dem":2495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134224,
+    "gn:latitude":41.16884,
+    "gn:longitude":73.98628,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Makmal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043a\u043c\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134224
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dcd18aad76963741faf729568bdb1a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1293391967,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293391967,
+    "wof:lastmodified":1537653207,
+    "wof:name":"Makmal",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.98628000000002,
+    41.16884,
+    73.98628000000002,
+    41.16884
+],
+  "geometry": {"coordinates":[73.98628000000002,41.16884],"type":"Point"}
+}

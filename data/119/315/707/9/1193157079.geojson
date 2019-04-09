@@ -1,0 +1,73 @@
+{
+  "id": 1193157079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47037,40.6265,73.47037,40.6265",
+    "geom:latitude":40.6265,
+    "geom:longitude":73.47037,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhany-Talaa",
+    "gn:country_code":"KG",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142407,
+    "gn:latitude":40.6265,
+    "gn:longitude":73.47037,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dzhany-Talaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jangy-Talaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142407
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f3c8eecfa7e82dbce1603381cb1b7cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1193157079,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1193157079,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Dzhany-Talaa",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47036999999997,
+    40.6265,
+    73.47036999999997,
+    40.6265
+],
+  "geometry": {"coordinates":[73.47036999999997,40.6265],"type":"Point"}
+}

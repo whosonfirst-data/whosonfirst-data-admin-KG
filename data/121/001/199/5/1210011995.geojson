@@ -1,0 +1,81 @@
+{
+  "id": 1210011995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47492,40.2718,72.47492,40.2718",
+    "geom:latitude":40.2718,
+    "geom:longitude":72.47492,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bel",
+    "gn:country_code":"KG",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528700,
+    "gn:latitude":40.2718,
+    "gn:longitude":72.47492,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Bel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Bel"
+    ],
+    "name:rus_x_preferred":[
+        "Bel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bel\u2019",
+        "Bel\u2019uryuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528700,
+        "wk:page":"Bel%27uryuk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"db9859cb4a2e5e70fd809291b4812585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1210011995,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1210011995,
+    "wof:lastmodified":1537653174,
+    "wof:name":"Bel",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47492,
+    40.2718,
+    72.47492,
+    40.2718
+],
+  "geometry": {"coordinates":[72.47492,40.2718],"type":"Point"}
+}

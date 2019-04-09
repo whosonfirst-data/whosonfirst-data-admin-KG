@@ -1,0 +1,80 @@
+{
+  "id": 1259503447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78697,40.62917,72.78697,40.62917",
+    "geom:latitude":40.62917,
+    "geom:longitude":72.78697,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Monok",
+    "gn:country_code":"KG",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139901,
+    "gn:latitude":40.62917,
+    "gn:longitude":72.78697,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Monok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u043e\u043d\u043e\u043a"
+    ],
+    "name:rus_x_historical":[
+        "Vosemnadtsatyy Parts\u201dezd",
+        "\u0412\u043e\u0441\u0435\u043c\u043d\u0430\u0434\u0446\u0430\u0442\u044b\u0439 \u041f\u0430\u0440\u0442\u0441\u044a\u0435\u0437\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "Vosemnadtsatyy Parts\u201dezd"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u0441\u0435\u043c\u043d\u0430\u0434\u0446\u0430\u0442\u044b\u0439 \u041f\u0430\u0440\u0442\u0441\u044a\u0435\u0437\u0434"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139901
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dcc5a63dc1641842c71259cbd576ca86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1259503447,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259503447,
+    "wof:lastmodified":1537653226,
+    "wof:name":"Monok",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78697,
+    40.62917,
+    72.78697,
+    40.62917
+],
+  "geometry": {"coordinates":[72.78697,40.62917],"type":"Point"}
+}

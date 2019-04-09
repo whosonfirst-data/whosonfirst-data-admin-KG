@@ -1,0 +1,79 @@
+{
+  "id": 1309720875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75458,42.70198,73.75458,42.70198",
+    "geom:latitude":42.70198,
+    "geom:longitude":73.75458,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tel'man Atyndagy",
+    "gn:country_code":"KG",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064018,
+    "gn:latitude":42.70198,
+    "gn:longitude":73.75458,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Tel\u2019man Atyndagy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Tel\u2019mana"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u043b\u044c\u043c\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tel\u2019man Atyndagy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064018
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9e1bdf88fdec57763f3514f44d9407d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691511,
+            "locality_id":1309720875,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1309720875,
+    "wof:lastmodified":1537653198,
+    "wof:name":"Tel'man Atyndagy",
+    "wof:parent_id":1091691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75458,
+    42.70198,
+    73.75458,
+    42.70198
+],
+  "geometry": {"coordinates":[73.75458,42.70198],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1327146239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16206,41.33471,71.16206,41.33471",
+    "geom:latitude":41.33471,
+    "geom:longitude":71.16206,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ak-Bashat",
+    "gn:country_code":"KG",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577855,
+    "gn:latitude":41.33471,
+    "gn:longitude":71.16206,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ak-Bashat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Oq-Bashat"
+    ],
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0430\u0448\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043c\u0430\u0448\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Akmashat"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Bashat"
+    ],
+    "name:uzb_x_variant":[
+        "Oq-Mashat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577855
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f72793ec2b29c7937c3e364847c4502c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1327146239,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327146239,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Ak-Bashat",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16206,
+    41.33471,
+    71.16206,
+    41.33471
+],
+  "geometry": {"coordinates":[71.16206,41.33471],"type":"Point"}
+}

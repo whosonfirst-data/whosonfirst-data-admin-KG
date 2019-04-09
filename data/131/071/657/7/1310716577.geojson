@@ -1,0 +1,71 @@
+{
+  "id": 1310716577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53333,40.2,73.53333,40.2",
+    "geom:latitude":40.2,
+    "geom:longitude":73.53333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Imeni Fedorova",
+    "gn:country_code":"KG",
+    "gn:dem":2608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528300,
+    "gn:latitude":40.2,
+    "gn:longitude":73.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Imeni F\u00ebdorova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeni F\u00ebdorova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528300,
+        "wk:page":"Imeni_Fedorova"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8cf22dcc9427e32ff91f64a73e5f9780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1310716577,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310716577,
+    "wof:lastmodified":1537653156,
+    "wof:name":"Imeni Fedorova",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53333,
+    40.2,
+    73.53333,
+    40.2
+],
+  "geometry": {"coordinates":[73.53333000000001,40.2],"type":"Point"}
+}

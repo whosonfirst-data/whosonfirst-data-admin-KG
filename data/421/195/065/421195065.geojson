@@ -1,0 +1,127 @@
+{
+  "id": 421195065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24836,39.72883,73.24836,39.72883",
+    "geom:latitude":39.72883,
+    "geom:longitude":73.24836,
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Sarytasch"
+    ],
+    "name:dut_x_preferred":[
+        "Sary-Tash"
+    ],
+    "name:eng_x_preferred":[
+        "Sary-Tash"
+    ],
+    "name:ger_x_preferred":[
+        "Sarytasch"
+    ],
+    "name:ita_x_preferred":[
+        "Sary Ta\u0161"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\uff1d\u30bf\u30b7\u30e5"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0442\u0430\u0448 \u0448\u0430\u0430\u0440\u0447\u0430\u0441\u044b"
+    ],
+    "name:kir_x_variant":[
+        "Sary-Tash"
+    ],
+    "name:lit_x_preferred":[
+        "Sary Ta\u0161as"
+    ],
+    "name:nds_x_preferred":[
+        "Sary-Tasch"
+    ],
+    "name:rup_x_preferred":[
+        "Sary-Tash"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0422\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Sary-Tash"
+    ],
+    "name:tur_x_preferred":[
+        "Sar\u0131ta\u015f"
+    ],
+    "name:unk_x_variant":[
+        "Saritash"
+    ],
+    "name:uzb_x_preferred":[
+        "Sariq-Tosh"
+    ],
+    "qs:gn_country":"KG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1222576,
+    "qs:gn_pop":0,
+    "qs:name":"Sary-Tash",
+    "qs:name_adm0":"Kyrgyzstan",
+    "qs:name_adm1":"Osh",
+    "qs:photos":147,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":147,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":233044,
+    "qs:woe_adm0":23424864,
+    "qs:woe_id":1969950,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":221,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222576,
+        "gp:id":1969950,
+        "qs:id":233044,
+        "wd:id":"Q2556780",
+        "wk:page":"Sary-Tash"
+    },
+    "wof:country":"KG",
+    "wof:created":1459009830,
+    "wof:geomhash":"f317e7544dbb4dd3450ac14c1af30281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":421195065,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":421195065,
+    "wof:lastmodified":1553816383,
+    "wof:name":"Sary-Tash",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24836,
+    39.72883,
+    73.24836,
+    39.72883
+],
+  "geometry": {"coordinates":[73.24836000000001,39.72883],"type":"Point"}
+}

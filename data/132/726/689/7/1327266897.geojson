@@ -1,0 +1,73 @@
+{
+  "id": 1327266897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.05034,41.5495,76.05034,41.5495",
+    "geom:latitude":41.5495,
+    "geom:longitude":76.05034,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uchchat",
+    "gn:country_code":"KG",
+    "gn:dem":2613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066518,
+    "gn:latitude":41.5495,
+    "gn:longitude":76.05034,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Uchchat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0447\u0447\u0430\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u0447\u0430\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066518
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a65ef1fb441cd52374d16c6399977796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1327266897,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1327266897,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Uchchat",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.05034,
+    41.5495,
+    76.05034,
+    41.5495
+],
+  "geometry": {"coordinates":[76.05034000000001,41.5495],"type":"Point"}
+}

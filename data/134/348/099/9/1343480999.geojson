@@ -1,0 +1,76 @@
+{
+  "id": 1343480999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99587,40.28336,72.99587,40.28336",
+    "geom:latitude":40.28336,
+    "geom:longitude":72.99587,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mazar-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139534,
+    "gn:latitude":40.28336,
+    "gn:longitude":72.99587,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Mazar-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440-\u0422\u0435\u0440\u0435\u043a"
+    ],
+    "name:kir_x_variant":[
+        "\u041c\u0430\u0437\u0430\u0440-\u0422\u0435\u043a\u0442\u0438\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440-\u0422\u0435\u043a\u0442\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139534
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"319c090252725e797d389fc8d2a06612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1343480999,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343480999,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Mazar-Terek",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99587,
+    40.28336,
+    72.99587,
+    40.28336
+],
+  "geometry": {"coordinates":[72.99587,40.28336],"type":"Point"}
+}

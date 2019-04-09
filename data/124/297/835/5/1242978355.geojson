@@ -1,0 +1,76 @@
+{
+  "id": 1242978355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.80658,41.58236,71.80658,41.58236",
+    "geom:latitude":41.58236,
+    "geom:longitude":71.80658,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jerge-Tal",
+    "gn:country_code":"KG",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379594,
+    "gn:latitude":41.58236,
+    "gn:longitude":71.80658,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Jerge-Tal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0435\u0440\u0433\u0435-\u0422\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0433\u0435\u0442\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dzhergetal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379594
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"60746f9bf282a6887187a41cfbd047e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1242978355,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1242978355,
+    "wof:lastmodified":1537653304,
+    "wof:name":"Jerge-Tal",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.80658000000003,
+    41.58236,
+    71.80658000000003,
+    41.58236
+],
+  "geometry": {"coordinates":[71.80658000000003,41.58236],"type":"Point"}
+}

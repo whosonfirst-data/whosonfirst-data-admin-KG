@@ -1,0 +1,74 @@
+{
+  "id": 1360086643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.05521,41.61635,72.05521,41.61635",
+    "geom:latitude":41.61635,
+    "geom:longitude":72.05521,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Syny",
+    "gn:country_code":"KG",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527312,
+    "gn:latitude":41.61635,
+    "gn:longitude":72.05521,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Syny",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Syny"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u043d\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527312,
+        "wk:page":"Syny"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6749af32e267574a786eb8ee9c6eed9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1360086643,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360086643,
+    "wof:lastmodified":1537653114,
+    "wof:name":"Syny",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.05521,
+    41.61635,
+    72.05521,
+    41.61635
+],
+  "geometry": {"coordinates":[72.05521,41.61635],"type":"Point"}
+}

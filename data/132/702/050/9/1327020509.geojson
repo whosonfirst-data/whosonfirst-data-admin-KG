@@ -1,0 +1,79 @@
+{
+  "id": 1327020509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97159,40.33962,72.97159,40.33962",
+    "geom:latitude":40.33962,
+    "geom:longitude":72.97159,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Beryu",
+    "gn:country_code":"KG",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538128,
+    "gn:latitude":40.33962,
+    "gn:longitude":72.97159,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Beryu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u04e9\u0440\u04af"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u044e"
+    ],
+    "name:und_x_variant":[
+        "B\u00ebryu",
+        "B\u00f6r\u00fc",
+        "Beryu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538128,
+        "wk:page":"Beryu"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5523b64067ed1a04bc0b5038223b3b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1327020509,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327020509,
+    "wof:lastmodified":1537653185,
+    "wof:name":"Beryu",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97159,
+    40.33962,
+    72.97159,
+    40.33962
+],
+  "geometry": {"coordinates":[72.97159000000001,40.33962],"type":"Point"}
+}

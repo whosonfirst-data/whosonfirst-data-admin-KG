@@ -1,0 +1,67 @@
+{
+  "id": 1209311359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22091,40.39747,74.22091,40.39747",
+    "geom:latitude":40.39747,
+    "geom:longitude":74.22091,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bura",
+    "gn:country_code":"KG",
+    "gn:dem":2334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406175,
+    "gn:latitude":40.39747,
+    "gn:longitude":74.22091,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Bura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0443\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406175
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"89586d423887960e68b5faf723201d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209311359
+        }
+    ],
+    "wof:id":1209311359,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Bura",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22091,
+    40.39747,
+    74.22091,
+    40.39747
+],
+  "geometry": {"coordinates":[74.22091,40.39747],"type":"Point"}
+}

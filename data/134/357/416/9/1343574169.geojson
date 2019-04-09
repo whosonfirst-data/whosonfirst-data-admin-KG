@@ -1,0 +1,78 @@
+{
+  "id": 1343574169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.35208,42.86718,74.35208,42.86718",
+    "geom:latitude":42.86718,
+    "geom:longitude":74.35208,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gavrilovka",
+    "gn:country_code":"KG",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527336,
+    "gn:latitude":42.86718,
+    "gn:longitude":74.35208,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Gavrilovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stavropol\u2019skiy",
+        "Gavrilovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527336,
+        "wk:page":"Stavropol%27skiy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"15fbf637678f8af7154aa5b50b6ba23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1343574169,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1343574169,
+    "wof:lastmodified":1537653115,
+    "wof:name":"Gavrilovka",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.35208,
+    42.86718,
+    74.35208,
+    42.86718
+],
+  "geometry": {"coordinates":[74.35208,42.86718],"type":"Point"}
+}

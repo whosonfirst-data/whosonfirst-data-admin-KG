@@ -1,0 +1,77 @@
+{
+  "id": 1309896493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96708,40.51251,72.96708,40.51251",
+    "geom:latitude":40.51251,
+    "geom:longitude":72.96708,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bash-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538120,
+    "gn:latitude":40.51251,
+    "gn:longitude":72.96708,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Bash-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Bosh-Buloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538120,
+        "wk:page":"Bash-Bulak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8e5e38b90600dc861f3e4344257dd18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1309896493,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309896493,
+    "wof:lastmodified":1537653185,
+    "wof:name":"Bash-Bulak",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96708000000002,
+    40.51251,
+    72.96708000000002,
+    40.51251
+],
+  "geometry": {"coordinates":[72.96708000000002,40.51251],"type":"Point"}
+}

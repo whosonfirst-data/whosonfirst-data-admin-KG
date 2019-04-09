@@ -1,0 +1,73 @@
+{
+  "id": 1293305533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.78628,42.81873,73.78628,42.81873",
+    "geom:latitude":42.81873,
+    "geom:longitude":73.78628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Voznesenovka",
+    "gn:country_code":"KG",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221036,
+    "gn:latitude":42.81873,
+    "gn:longitude":73.78628,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Voznesenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221036
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a177f4a699ae410652ed9e3726b510b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691511,
+            "locality_id":1293305533,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1293305533,
+    "wof:lastmodified":1537653271,
+    "wof:name":"Voznesenovka",
+    "wof:parent_id":1091691511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.78628,
+    42.81873,
+    73.78628,
+    42.81873
+],
+  "geometry": {"coordinates":[73.78628,42.81873],"type":"Point"}
+}

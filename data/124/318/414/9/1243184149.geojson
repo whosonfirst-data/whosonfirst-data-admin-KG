@@ -1,0 +1,73 @@
+{
+  "id": 1243184149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.31547,41.22513,71.31547,41.22513",
+    "geom:latitude":41.22513,
+    "geom:longitude":71.31547,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Olma-Bel",
+    "gn:country_code":"KG",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580836,
+    "gn:latitude":41.22513,
+    "gn:longitude":71.31547,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Olma-Bel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olma-Bel"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u043b\u043c\u0430-\u0411\u0435\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580836
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dd57641a425b1458f34ae46db40ac513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1243184149,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243184149,
+    "wof:lastmodified":1537653194,
+    "wof:name":"Olma-Bel",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.31546999999998,
+    41.22513,
+    71.31546999999998,
+    41.22513
+],
+  "geometry": {"coordinates":[71.31546999999998,41.22513],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277162713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36083,40.93749,73.36083,40.93749",
+    "geom:latitude":40.93749,
+    "geom:longitude":73.36083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyrgyzstan",
+    "gn:country_code":"KG",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174058,
+    "gn:latitude":40.93749,
+    "gn:longitude":73.36083,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyrgyzstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174058
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"79bf5e86494060f407421e6e0807903f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1277162713,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1277162713,
+    "wof:lastmodified":1537653247,
+    "wof:name":"Kyrgyzstan",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36083,
+    40.93749,
+    73.36083,
+    40.93749
+],
+  "geometry": {"coordinates":[73.36083000000001,40.93749],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209507653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33569,42.5085,72.33569,42.5085",
+    "geom:latitude":42.5085,
+    "geom:longitude":72.33569,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jon-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528453,
+    "gn:latitude":42.5085,
+    "gn:longitude":72.33569,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Jon-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jon-Aryk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0433\u044b\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dolona",
+        "Dzhangyaryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528453
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3ab9958764c72360be140e922af8a99f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209507653
+        }
+    ],
+    "wof:id":1209507653,
+    "wof:lastmodified":1537653164,
+    "wof:name":"Jon-Aryk",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33569,
+    42.5085,
+    72.33569,
+    42.5085
+],
+  "geometry": {"coordinates":[72.33569,42.5085],"type":"Point"}
+}

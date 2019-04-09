@@ -1,0 +1,73 @@
+{
+  "id": 1327243261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08438,41.67254,72.08438,41.67254",
+    "geom:latitude":41.67254,
+    "geom:longitude":72.08438,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhyuzyumdzhan",
+    "gn:country_code":"KG",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194331,
+    "gn:latitude":41.67254,
+    "gn:longitude":72.08438,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Dzhyuzyumdzhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u044e\u0437\u044e\u043c\u0436\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u044e\u0437\u044e\u043c\u0434\u0436\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194331
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"31c3cb5fae1b4872f1a0a0d0f30297aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1327243261,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327243261,
+    "wof:lastmodified":1537653256,
+    "wof:name":"Dzhyuzyumdzhan",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08438000000002,
+    41.67254000000001,
+    72.08438000000002,
+    41.67254000000001
+],
+  "geometry": {"coordinates":[72.08438000000002,41.67254000000001],"type":"Point"}
+}

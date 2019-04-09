@@ -1,0 +1,76 @@
+{
+  "id": 1243460613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.7618,41.96492,75.7618,41.96492",
+    "geom:latitude":41.96492,
+    "geom:longitude":75.7618,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sary-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":2272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527458,
+    "gn:latitude":41.96492,
+    "gn:longitude":75.7618,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Sary-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Sarybulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527458
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2265809a588be8f141f7ac894d4b3505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1243460613,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1243460613,
+    "wof:lastmodified":1537653121,
+    "wof:name":"Sary-Bulak",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.7618,
+    41.96492,
+    75.7618,
+    41.96492
+],
+  "geometry": {"coordinates":[75.76179999999999,41.96492],"type":"Point"}
+}

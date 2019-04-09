@@ -1,0 +1,73 @@
+{
+  "id": 1344142371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22205,40.72454,73.22205,40.72454",
+    "geom:latitude":40.72454,
+    "geom:longitude":73.22205,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Myrza-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8173869,
+    "gn:latitude":40.72454,
+    "gn:longitude":73.22205,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Myrza-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u044b\u0440\u0437\u0430-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u0440\u0437\u0430-\u0410\u0440\u044b\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8173869
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"000793a1caba2446846230d18a51cc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1344142371,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1344142371,
+    "wof:lastmodified":1537653243,
+    "wof:name":"Myrza-Aryk",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22205,
+    40.72454000000001,
+    73.22205,
+    40.72454000000001
+],
+  "geometry": {"coordinates":[73.22205,40.72454000000001],"type":"Point"}
+}

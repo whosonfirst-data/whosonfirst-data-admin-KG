@@ -1,0 +1,74 @@
+{
+  "id": 1343470315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02097,40.95611,73.02097,40.95611",
+    "geom:latitude":40.95611,
+    "geom:longitude":73.02097,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tash-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134202,
+    "gn:latitude":40.95611,
+    "gn:longitude":73.02097,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Tash-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134202,
+        "wk:page":"Tash-Bulak%2C_Jalal-Abad"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a2e0baa1b24391188930b1c2485a08e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1343470315,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343470315,
+    "wof:lastmodified":1537653206,
+    "wof:name":"Tash-Bulak",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02096999999998,
+    40.95611,
+    73.02096999999998,
+    40.95611
+],
+  "geometry": {"coordinates":[73.02096999999998,40.95611],"type":"Point"}
+}

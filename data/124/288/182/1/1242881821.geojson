@@ -1,0 +1,73 @@
+{
+  "id": 1242881821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08495,41.85578,73.08495,41.85578",
+    "geom:latitude":41.85578,
+    "geom:longitude":73.08495,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kotormo",
+    "gn:country_code":"KG",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208339,
+    "gn:latitude":41.85578,
+    "gn:longitude":73.08495,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kotormo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u0442\u04e9\u0440\u043c\u04e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u0442\u0451\u0440\u043c\u0451"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208339
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"61abf476aa9ef340aab4a894e3fd7744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1242881821,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1242881821,
+    "wof:lastmodified":1537653261,
+    "wof:name":"Kotormo",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08495,
+    41.85578,
+    73.08495,
+    41.85578
+],
+  "geometry": {"coordinates":[73.08495000000001,41.85578],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293878075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64861,39.92224,69.64861,39.92224",
+    "geom:latitude":39.92224,
+    "geom:longitude":69.64861,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Koshbulak",
+    "gn:country_code":"KG",
+    "gn:dem":1534,
+    "gn:elevation":"1909.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222529,
+    "gn:latitude":39.92224,
+    "gn:longitude":69.64861,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Koshbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vostochnyy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222529,
+        "wk:page":"Koshbulak,_Sulukta"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a8c68021821f814ac6076d8aa1cc52bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1293878075,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1293878075,
+    "wof:lastmodified":1537653096,
+    "wof:name":"Koshbulak",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64860999999999,
+    39.92224,
+    69.64860999999999,
+    39.92224
+],
+  "geometry": {"coordinates":[69.64860999999999,39.92224],"type":"Point"}
+}

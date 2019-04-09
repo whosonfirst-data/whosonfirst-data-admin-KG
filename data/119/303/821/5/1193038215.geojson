@@ -1,0 +1,70 @@
+{
+  "id": 1193038215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71399,40.88169,73.71399,40.88169",
+    "geom:latitude":40.88169,
+    "geom:longitude":73.71399,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kosh-Eter",
+    "gn:country_code":"KG",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174883,
+    "gn:latitude":40.88169,
+    "gn:longitude":73.71399,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kosh-Eter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448-\u042d\u0442\u0435\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174883
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f50761380a37bbe7d0cf82251e2fd5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1193038215,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1193038215,
+    "wof:lastmodified":1537653250,
+    "wof:name":"Kosh-Eter",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71399,
+    40.88169,
+    73.71399,
+    40.88169
+],
+  "geometry": {"coordinates":[73.71399,40.88169],"type":"Point"}
+}

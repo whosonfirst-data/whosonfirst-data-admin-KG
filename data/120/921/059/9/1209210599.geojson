@@ -1,0 +1,67 @@
+{
+  "id": 1209210599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36362,40.55317,73.36362,40.55317",
+    "geom:latitude":40.55317,
+    "geom:longitude":73.36362,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uchkaptal",
+    "gn:country_code":"KG",
+    "gn:dem":1979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144412,
+    "gn:latitude":40.55317,
+    "gn:longitude":73.36362,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Uchkaptal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0447-\u041a\u0430\u043f\u0442\u0430\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u043a\u0430\u043f\u0442\u0430\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144412
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f23961a364fe2750ea5d3571a3f042a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209210599
+        }
+    ],
+    "wof:id":1209210599,
+    "wof:lastmodified":1537653237,
+    "wof:name":"Uchkaptal",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36362,
+    40.55317,
+    73.36362,
+    40.55317
+],
+  "geometry": {"coordinates":[73.36362,40.55317],"type":"Point"}
+}

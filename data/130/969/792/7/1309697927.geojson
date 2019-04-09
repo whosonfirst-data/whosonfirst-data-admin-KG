@@ -1,0 +1,73 @@
+{
+  "id": 1309697927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94544,40.53807,72.94544,40.53807",
+    "geom:latitude":40.53807,
+    "geom:longitude":72.94544,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mady",
+    "gn:country_code":"KG",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527677,
+    "gn:latitude":40.53807,
+    "gn:longitude":72.94544,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Mady",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527677
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4e22692e67f0639d5dff994ca2e0375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1309697927,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309697927,
+    "wof:lastmodified":1537653131,
+    "wof:name":"Mady",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94544,
+    40.53807000000001,
+    72.94544,
+    40.53807000000001
+],
+  "geometry": {"coordinates":[72.94544,40.53807000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293509805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73994,40.48772,72.73994,40.48772",
+    "geom:latitude":40.48772,
+    "geom:longitude":72.73994,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arek",
+    "gn:country_code":"KG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538124,
+    "gn:latitude":40.48772,
+    "gn:longitude":72.73994,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Arek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538124
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"01d57592b2958572e3a252871088ae34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1293509805,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293509805,
+    "wof:lastmodified":1537653185,
+    "wof:name":"Arek",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73994,
+    40.48772,
+    72.73994,
+    40.48772
+],
+  "geometry": {"coordinates":[72.73994,40.48772],"type":"Point"}
+}

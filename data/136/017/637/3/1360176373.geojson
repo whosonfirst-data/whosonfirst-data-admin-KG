@@ -1,0 +1,82 @@
+{
+  "id": 1360176373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.58443,42.12628,76.58443,42.12628",
+    "geom:latitude":42.12628,
+    "geom:longitude":76.58443,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dengtala",
+    "gn:country_code":"KG",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528461,
+    "gn:latitude":42.12628,
+    "gn:longitude":76.58443,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"D\u00ebngtala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u04e9\u04a3-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "D\u00ebn-Talaa"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0451\u043d\u0433\u0442\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "D\u00f6ng-Talaa",
+        "Don-Tala",
+        "D\u00ebngtala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528461,
+        "wk:page":"Den-Talaa"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a111fe032ed6d33a18fc4593617f92dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1360176373,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1360176373,
+    "wof:lastmodified":1537653165,
+    "wof:name":"Dengtala",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.58443,
+    42.12628,
+    76.58443,
+    42.12628
+],
+  "geometry": {"coordinates":[76.58443,42.12628],"type":"Point"}
+}

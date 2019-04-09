@@ -1,0 +1,76 @@
+{
+  "id": 1242668209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.09691,40.42178,73.09691,40.42178",
+    "geom:latitude":40.42178,
+    "geom:longitude":73.09691,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Top-Terek",
+    "gn:country_code":"KG",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144348,
+    "gn:latitude":40.42178,
+    "gn:longitude":73.09691,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Top-Terek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043f-\u0422\u0435\u0440\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f-\u0422\u0435\u0440\u0435\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "To\u2018p-Terak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144348
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d804c22246b1fe0a914413f440d47e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1242668209,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242668209,
+    "wof:lastmodified":1537653236,
+    "wof:name":"Top-Terek",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.09691,
+    40.42178,
+    73.09691,
+    40.42178
+],
+  "geometry": {"coordinates":[73.09690999999999,40.42178],"type":"Point"}
+}

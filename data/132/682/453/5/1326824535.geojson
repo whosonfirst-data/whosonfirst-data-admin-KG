@@ -1,0 +1,76 @@
+{
+  "id": 1326824535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.20249,42.42384,78.20249,42.42384",
+    "geom:latitude":42.42384,
+    "geom:longitude":78.20249,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Akkochkar",
+    "gn:country_code":"KG",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528938,
+    "gn:latitude":42.42384,
+    "gn:longitude":78.20249,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Akkochkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u041a\u043e\u0447\u043a\u043e\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043a\u043e\u0447\u043a\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Ak-Kochkor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528938
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b51151c5b47b19282b1b7d8ca2194e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1326824535,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1326824535,
+    "wof:lastmodified":1537653182,
+    "wof:name":"Akkochkar",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.20249,
+    42.42384000000001,
+    78.20249,
+    42.42384000000001
+],
+  "geometry": {"coordinates":[78.20249,42.42384000000001],"type":"Point"}
+}

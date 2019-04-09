@@ -1,0 +1,73 @@
+{
+  "id": 1226427879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46399,40.27618,74.46399,40.27618",
+    "geom:latitude":40.27618,
+    "geom:longitude":74.46399,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imeni Sidorova",
+    "gn:country_code":"KG",
+    "gn:dem":2518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406263,
+    "gn:latitude":40.27618,
+    "gn:longitude":74.46399,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Imeni Sidorova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0421\u0438\u0434\u043e\u0440\u043e\u0432\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u0421\u0438\u0434\u043e\u0440\u043e\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406263
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8b554e8af5f31523bfc18368eca5fdaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226427879,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226427879,
+    "wof:lastmodified":1537653313,
+    "wof:name":"Imeni Sidorova",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46399,
+    40.27618,
+    74.46399,
+    40.27618
+],
+  "geometry": {"coordinates":[74.46399,40.27618],"type":"Point"}
+}

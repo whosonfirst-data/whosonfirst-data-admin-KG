@@ -1,0 +1,76 @@
+{
+  "id": 1242773629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.95401,39.7316,70.95401,39.7316",
+    "geom:latitude":39.7316,
+    "geom:longitude":70.95401,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Korgon-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8382863,
+    "gn:latitude":39.7316,
+    "gn:longitude":70.95401,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Korgon-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tashty-Kalan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u0442\u044b-\u041a\u0430\u043b\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0440\u0433\u043e\u043d-\u0422\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8382863
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4480d859c1b0f83e5fb38d486c624087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690427,
+            "locality_id":1242773629,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1242773629,
+    "wof:lastmodified":1537653304,
+    "wof:name":"Korgon-Tash",
+    "wof:parent_id":1091690427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.95401,
+    39.7316,
+    70.95401,
+    39.7316
+],
+  "geometry": {"coordinates":[70.95401,39.7316],"type":"Point"}
+}

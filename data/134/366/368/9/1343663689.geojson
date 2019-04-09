@@ -1,0 +1,76 @@
+{
+  "id": 1343663689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70394,41.28427,72.70394,41.28427",
+    "geom:latitude":41.28427,
+    "geom:longitude":72.70394,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Razvaliny Kazaly-Mazar",
+    "gn:country_code":"KG",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8135780,
+    "gn:latitude":41.28427,
+    "gn:longitude":72.70394,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Razvaliny Kazaly-Mazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043b\u044b-\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u041a\u0430\u0437\u0430\u043b\u044b-\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kazaly-Mazor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135780
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c1d9719d94ee370d054567499fabf44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1343663689,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343663689,
+    "wof:lastmodified":1537653210,
+    "wof:name":"Razvaliny Kazaly-Mazar",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70394,
+    41.28427,
+    72.70394,
+    41.28427
+],
+  "geometry": {"coordinates":[72.70394,41.28427],"type":"Point"}
+}

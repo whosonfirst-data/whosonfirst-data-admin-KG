@@ -1,0 +1,78 @@
+{
+  "id": 1259415781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.66259,41.41853,75.66259,41.41853",
+    "geom:latitude":41.41853,
+    "geom:longitude":75.66259,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Talaa",
+    "gn:country_code":"KG",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065769,
+    "gn:latitude":41.41853,
+    "gn:longitude":75.66259,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ak-Talaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ak-Talaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0442\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aktala",
+        "Ak-Talaa",
+        "\u0425\u0443\u0442\u043e\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065769
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1a099a5c2fe57b129c4ffb11833e97cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1259415781,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259415781,
+    "wof:lastmodified":1537653202,
+    "wof:name":"Ak-Talaa",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.66259000000002,
+    41.41853,
+    75.66259000000002,
+    41.41853
+],
+  "geometry": {"coordinates":[75.66259000000002,41.41853],"type":"Point"}
+}

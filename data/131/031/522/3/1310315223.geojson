@@ -1,0 +1,71 @@
+{
+  "id": 1310315223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61667,40.83333,73.61667,40.83333",
+    "geom:latitude":40.83333,
+    "geom:longitude":73.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kok-Tundy",
+    "gn:country_code":"KG",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527876,
+    "gn:latitude":40.83333,
+    "gn:longitude":73.61667,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Kok-Tundy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043a-\u0422\u0443\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527876,
+        "wk:page":"Kok-Tundy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3080cf9382241a761e4733a4f72b39b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1310315223,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310315223,
+    "wof:lastmodified":1537653140,
+    "wof:name":"Kok-Tundy",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61667,
+    40.83333,
+    73.61667,
+    40.83333
+],
+  "geometry": {"coordinates":[73.61667,40.83333],"type":"Point"}
+}

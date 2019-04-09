@@ -1,0 +1,138 @@
+{
+  "id": 421167475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86666,40.7046,72.86666,40.7046",
+    "geom:latitude":40.7046,
+    "geom:longitude":72.86666,
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ckb_x_preferred":[
+        "\u0642\u0627\u0631\u0627-\u0633\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Karasuu"
+    ],
+    "name:est_x_preferred":[
+        "Karasuu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0633\u0648\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kara-Suu"
+    ],
+    "name:ita_x_preferred":[
+        "Kara-Suu"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443 \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:kir_x_variant":[
+        "Kara-Suu"
+    ],
+    "name:lit_x_preferred":[
+        "Kara Su"
+    ],
+    "name:pol_x_preferred":[
+        "Karasuu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430 \u0421\u0443\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Kara-Suu"
+    ],
+    "name:tur_x_preferred":[
+        "Kara-Su"
+    ],
+    "name:unk_x_variant":[
+        "Kara Suu"
+    ],
+    "name:uzb_x_preferred":[
+        "Qorasuv"
+    ],
+    "name:uzb_x_variant":[
+        "Qora-Suu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u8607"
+    ],
+    "qs:gn_country":"KG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1528091,
+    "qs:gn_pop":17800,
+    "qs:name":"Kara-Su",
+    "qs:name_adm0":"Kyrgyzstan",
+    "qs:name_adm1":"Osh",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":133434,
+    "qs:woe_adm0":23424864,
+    "qs:woe_id":1969333,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":40.7,
+    "wd:longitude":72.883333,
+    "wd:wordcount":281,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528091,
+        "gp:id":1969333,
+        "qs:id":133434,
+        "wd:id":"Q1023290",
+        "wk:page":"Kara-Suu"
+    },
+    "wof:country":"KG",
+    "wof:created":1459008732,
+    "wof:geomhash":"84d84b9af81e5bf90099f66ac2452a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":421167475,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":421167475,
+    "wof:lastmodified":1527716159,
+    "wof:name":"Kara-Su",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:population":17800,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86666,
+    40.7046,
+    72.86666,
+    40.7046
+],
+  "geometry": {"coordinates":[72.86666,40.7046],"type":"Point"}
+}

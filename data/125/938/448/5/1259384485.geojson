@@ -1,0 +1,81 @@
+{
+  "id": 1259384485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33754,41.46441,74.33754,41.46441",
+    "geom:latitude":41.46441,
+    "geom:longitude":74.33754,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dodomol",
+    "gn:country_code":"KG",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528436,
+    "gn:latitude":41.46441,
+    "gn:longitude":74.33754,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"D\u00f6d\u00f6m\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u04e9\u0434\u04e9\u043c\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Dyudomel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u044e\u0434\u043e\u043c\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "D\u00f6d\u00f6m\u00f6l",
+        "Dyudyumel\u2019",
+        "D\u00ebd\u00ebm\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528436
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7d19c0d83117fc666d5692f0d556ab81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1259384485,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259384485,
+    "wof:lastmodified":1537653163,
+    "wof:name":"Dodomol",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33754,
+    41.46441,
+    74.33754,
+    41.46441
+],
+  "geometry": {"coordinates":[74.33754,41.46441],"type":"Point"}
+}

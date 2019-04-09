@@ -1,0 +1,73 @@
+{
+  "id": 1327031535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07841,41.70753,72.07841,41.70753",
+    "geom:latitude":41.70753,
+    "geom:longitude":72.07841,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzart",
+    "gn:country_code":"KG",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194328,
+    "gn:latitude":41.70753,
+    "gn:longitude":72.07841,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u0430\u0440\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u0430\u0440\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194328
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a6b18f9a195acc7a923c2cca74439d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1327031535,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327031535,
+    "wof:lastmodified":1537653256,
+    "wof:name":"Kyzart",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07840999999998,
+    41.70753,
+    72.07840999999998,
+    41.70753
+],
+  "geometry": {"coordinates":[72.07840999999998,41.70753],"type":"Point"}
+}

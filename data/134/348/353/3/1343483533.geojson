@@ -1,0 +1,73 @@
+{
+  "id": 1343483533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26271,40.33708,74.26271,40.33708",
+    "geom:latitude":40.33708,
+    "geom:longitude":74.26271,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kup-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406211,
+    "gn:latitude":40.33708,
+    "gn:longitude":74.26271,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kup-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u043b-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b-\u0422\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406211
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d3b4212d2945dd33e218deb1d09f8967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1343483533,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343483533,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Kup-Tash",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26271,
+    40.33708,
+    74.26271,
+    40.33708
+],
+  "geometry": {"coordinates":[74.26271,40.33708],"type":"Point"}
+}

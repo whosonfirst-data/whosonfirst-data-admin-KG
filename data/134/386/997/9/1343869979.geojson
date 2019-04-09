@@ -1,0 +1,76 @@
+{
+  "id": 1343869979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.55638,40.97425,72.55638,40.97425",
+    "geom:latitude":40.97425,
+    "geom:longitude":72.55638,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Kyrgyzstan",
+    "gn:country_code":"KG",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137726,
+    "gn:latitude":40.97425,
+    "gn:longitude":72.55638,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kyzyl-Kyrgyzstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil-Qirg\u2018izston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137726
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"246243f3ef1f53168e40560e89913ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1343869979,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343869979,
+    "wof:lastmodified":1537653214,
+    "wof:name":"Kyzyl-Kyrgyzstan",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.55638,
+    40.97425,
+    72.55638,
+    40.97425
+],
+  "geometry": {"coordinates":[72.55638,40.97425],"type":"Point"}
+}

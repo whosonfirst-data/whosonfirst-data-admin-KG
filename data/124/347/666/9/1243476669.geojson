@@ -1,0 +1,73 @@
+{
+  "id": 1243476669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96819,40.20323,72.96819,40.20323",
+    "geom:latitude":40.20323,
+    "geom:longitude":72.96819,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kuyukteke",
+    "gn:country_code":"KG",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139529,
+    "gn:latitude":40.20323,
+    "gn:longitude":72.96819,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kuyukteke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u044e\u043a\u0442\u0435\u043a\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u044e\u043a\u0442\u0435\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139529
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2f90d90fbc387d6a5f900ec92061c103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1243476669,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243476669,
+    "wof:lastmodified":1537653217,
+    "wof:name":"Kuyukteke",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96819,
+    40.20323,
+    72.96819,
+    40.20323
+],
+  "geometry": {"coordinates":[72.96819000000001,40.20323],"type":"Point"}
+}

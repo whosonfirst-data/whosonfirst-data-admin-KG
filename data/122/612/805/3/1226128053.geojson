@@ -1,0 +1,77 @@
+{
+  "id": 1226128053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41527,40.75294,73.41527,40.75294",
+    "geom:latitude":40.75294,
+    "geom:longitude":73.41527,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mirza-Ake",
+    "gn:country_code":"KG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527620,
+    "gn:latitude":40.75294,
+    "gn:longitude":73.41527,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Mirza-Ake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Myrza-Ake"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0437\u0430-\u0410\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Mirza-Aki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527620,
+        "wk:page":"Mirza-Aki"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"afa1a760c3dab08991a6915e6e550a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1226128053,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226128053,
+    "wof:lastmodified":1537653129,
+    "wof:name":"Mirza-Ake",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41526999999998,
+    40.75294,
+    73.41526999999998,
+    40.75294
+],
+  "geometry": {"coordinates":[73.41526999999998,40.75294],"type":"Point"}
+}

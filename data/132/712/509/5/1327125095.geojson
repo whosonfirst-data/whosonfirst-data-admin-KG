@@ -1,0 +1,76 @@
+{
+  "id": 1327125095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38329,40.45386,74.38329,40.45386",
+    "geom:latitude":40.45386,
+    "geom:longitude":74.38329,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uzun-Ayryk",
+    "gn:country_code":"KG",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8403652,
+    "gn:latitude":40.45386,
+    "gn:longitude":74.38329,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Uzun-Ayryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u0423\u0437\u0443\u043d-\u0410\u0439\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0443\u043d-\u0410\u0439\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Letnik Uzun-Ayryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403652
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"25c314250296324dd77fc8fa2b1c0e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1327125095,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327125095,
+    "wof:lastmodified":1537653311,
+    "wof:name":"Uzun-Ayryk",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38329,
+    40.45386,
+    74.38329,
+    40.45386
+],
+  "geometry": {"coordinates":[74.38329,40.45386],"type":"Point"}
+}

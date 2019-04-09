@@ -1,0 +1,76 @@
+{
+  "id": 1259767617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6402,40.22187,71.6402,40.22187",
+    "geom:latitude":40.22187,
+    "geom:longitude":71.6402,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tash-Dobo",
+    "gn:country_code":"KG",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376115,
+    "gn:latitude":40.22187,
+    "gn:longitude":71.6402,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Tash-Dobo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Uzbek-Maala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448-\u0414\u043e\u0431\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "O\u2018zbek Maola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376115
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"34cfda0b57b98b8490d64f19cfa30053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1259767617,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1259767617,
+    "wof:lastmodified":1537653293,
+    "wof:name":"Tash-Dobo",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6402,
+    40.22187,
+    71.6402,
+    40.22187
+],
+  "geometry": {"coordinates":[71.64019999999999,40.22187],"type":"Point"}
+}

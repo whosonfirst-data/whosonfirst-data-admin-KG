@@ -1,0 +1,73 @@
+{
+  "id": 1310113213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.58628,41.62008,72.58628,41.62008",
+    "geom:latitude":41.62008,
+    "geom:longitude":72.58628,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarychalga",
+    "gn:country_code":"KG",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194822,
+    "gn:latitude":41.62008,
+    "gn:longitude":72.58628,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sarychalga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0447\u0430\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0447\u0430\u043b\u0433\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194822
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9e7d542cddcac09b408e382443d558fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1310113213,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310113213,
+    "wof:lastmodified":1537653258,
+    "wof:name":"Sarychalga",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.58628,
+    41.62008,
+    72.58628,
+    41.62008
+],
+  "geometry": {"coordinates":[72.58628,41.62008],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327233473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37949,41.41537,71.37949,41.41537",
+    "geom:latitude":41.41537,
+    "geom:longitude":71.37949,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kuygumen",
+    "gn:country_code":"KG",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580841,
+    "gn:latitude":41.41537,
+    "gn:longitude":71.37949,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kuygumen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kuygumen"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0439\u0433\u0443\u043c\u0435\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0439\u0433\u0443\u043c\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580841
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"019dc28b038b746411e48fac4afc2309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1327233473,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327233473,
+    "wof:lastmodified":1537653194,
+    "wof:name":"Kuygumen",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37949,
+    41.41537,
+    71.37949,
+    41.41537
+],
+  "geometry": {"coordinates":[71.37949,41.41537],"type":"Point"}
+}

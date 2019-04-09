@@ -1,0 +1,79 @@
+{
+  "id": 1343572655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0714,41.36306,73.0714,41.36306",
+    "geom:latitude":41.36306,
+    "geom:longitude":73.0714,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Unkyur",
+    "gn:country_code":"KG",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527699,
+    "gn:latitude":41.36306,
+    "gn:longitude":73.0714,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kyzyl-Unkyur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u04ae\u043d\u043a\u04af\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0423\u043d\u043a\u044e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Kyzylungungir",
+        "Kyzyl-Unkyur",
+        "Kyzyl-\u00dcnk\u00fcr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527699,
+        "wk:page":"Kyzylunkyur"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e086c10bbfbf372cebac62ef66b367f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1343572655,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343572655,
+    "wof:lastmodified":1537653133,
+    "wof:name":"Kyzyl-Unkyur",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0714,
+    41.36306,
+    73.0714,
+    41.36306
+],
+  "geometry": {"coordinates":[73.0714,41.36306],"type":"Point"}
+}

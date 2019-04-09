@@ -1,0 +1,70 @@
+{
+  "id": 1343381071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86518,40.65658,72.86518,40.65658",
+    "geom:latitude":40.65658,
+    "geom:longitude":72.86518,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tarykchi",
+    "gn:country_code":"KG",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11139896,
+    "gn:latitude":40.65658,
+    "gn:longitude":72.86518,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Tarykchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u044b\u043a\u0447\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139896
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"550af5d2da0db531c213d2a018b65dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1343381071,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343381071,
+    "wof:lastmodified":1537653316,
+    "wof:name":"Tarykchi",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86518000000002,
+    40.65658,
+    72.86518000000002,
+    40.65658
+],
+  "geometry": {"coordinates":[72.86518000000002,40.65658],"type":"Point"}
+}

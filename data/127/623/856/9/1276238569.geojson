@@ -1,0 +1,71 @@
+{
+  "id": 1276238569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21258,40.20159,72.21258,40.20159",
+    "geom:latitude":40.20159,
+    "geom:longitude":72.21258,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Auliye",
+    "gn:country_code":"KG",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528784,
+    "gn:latitude":40.20159,
+    "gn:longitude":72.21258,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Auliye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u044b\u043a-\u0411\u043e\u044e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528784,
+        "wk:page":"Auliye"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"01d989dca5b48ed68b46aff9051712a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1276238569,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276238569,
+    "wof:lastmodified":1537653177,
+    "wof:name":"Auliye",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21258,
+    40.20159,
+    72.21258,
+    40.20159
+],
+  "geometry": {"coordinates":[72.21258,40.20159],"type":"Point"}
+}

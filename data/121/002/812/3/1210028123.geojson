@@ -1,0 +1,73 @@
+{
+  "id": 1210028123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.25369,41.39914,72.25369,41.39914",
+    "geom:latitude":41.39914,
+    "geom:longitude":72.25369,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aksu",
+    "gn:country_code":"KG",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194433,
+    "gn:latitude":41.39914,
+    "gn:longitude":72.25369,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Aksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194433
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"69e6948d49786107bfbdba1f45c2c166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1210028123,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1210028123,
+    "wof:lastmodified":1537653257,
+    "wof:name":"Aksu",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.25369,
+    41.39914,
+    72.25369,
+    41.39914
+],
+  "geometry": {"coordinates":[72.25369000000001,41.39914],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226433163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64954,40.58759,73.64954,40.58759",
+    "geom:latitude":40.58759,
+    "geom:longitude":73.64954,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Say",
+    "gn:country_code":"KG",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142410,
+    "gn:latitude":40.58759,
+    "gn:longitude":73.64954,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142410
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b80bd682478b2dade85a4d89286f3f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1226433163,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226433163,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Say",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64954,
+    40.58759000000001,
+    73.64954,
+    40.58759000000001
+],
+  "geometry": {"coordinates":[73.64954,40.58759000000001],"type":"Point"}
+}

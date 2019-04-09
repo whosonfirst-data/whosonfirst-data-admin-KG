@@ -1,0 +1,71 @@
+{
+  "id": 1293502109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13333,40.56667,73.13333,40.56667",
+    "geom:latitude":40.56667,
+    "geom:longitude":73.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guzar",
+    "gn:country_code":"KG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528314,
+    "gn:latitude":40.56667,
+    "gn:longitude":73.13333,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Guzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0413\u0443\u0437\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528314,
+        "wk:page":"Guzar"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"270d546468f50db476aa9b68b33b7165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1293502109,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293502109,
+    "wof:lastmodified":1537653157,
+    "wof:name":"Guzar",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13333,
+    40.56667,
+    73.13333,
+    40.56667
+],
+  "geometry": {"coordinates":[73.13333,40.56667],"type":"Point"}
+}

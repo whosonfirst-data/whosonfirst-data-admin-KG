@@ -1,0 +1,76 @@
+{
+  "id": 1360287379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08158,41.1328,72.08158,41.1328",
+    "geom:latitude":41.1328,
+    "geom:longitude":72.08158,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naryn",
+    "gn:country_code":"KG",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134451,
+    "gn:latitude":41.1328,
+    "gn:longitude":72.08158,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naryn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Norin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134451
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d2558aa415b582bb12264fff1c95b938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1360287379,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360287379,
+    "wof:lastmodified":1537653208,
+    "wof:name":"Naryn",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08158,
+    41.1328,
+    72.08158,
+    41.1328
+],
+  "geometry": {"coordinates":[72.08158,41.1328],"type":"Point"}
+}

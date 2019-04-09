@@ -1,0 +1,77 @@
+{
+  "id": 1260277889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00634,40.00415,70.00634,40.00415",
+    "geom:latitude":40.00415,
+    "geom:longitude":70.00634,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Birinchi Maya",
+    "gn:country_code":"KG",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375153,
+    "gn:latitude":40.00415,
+    "gn:longitude":70.00634,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Birinchi Maya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0440\u0438\u043d\u0447\u0438-\u041c\u0430\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u0435 \u041c\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Pervoye Maya",
+        "Largaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375153
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bd1bce50163f18d3823127769ce23a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1260277889,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1260277889,
+    "wof:lastmodified":1537653291,
+    "wof:name":"Birinchi Maya",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00634000000001,
+    40.00415,
+    70.00634000000001,
+    40.00415
+],
+  "geometry": {"coordinates":[70.00634000000001,40.00415],"type":"Point"}
+}

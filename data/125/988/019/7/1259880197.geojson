@@ -1,0 +1,79 @@
+{
+  "id": 1259880197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.33282,41.45251,76.33282,41.45251",
+    "geom:latitude":41.45251,
+    "geom:longitude":76.33282,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vos'moe Marta",
+    "gn:country_code":"KG",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8066538,
+    "gn:latitude":41.45251,
+    "gn:longitude":76.33282,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Vos\u2019moe Marta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0412\u043e\u0441\u044c\u043c\u043e\u0435 \u041c\u0430\u0440\u0442\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "Vos\u2019moe Marta"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u043e\u0441\u044c\u043c\u043e\u0435 \u041c\u0430\u0440\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vos\u2019moe Marta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066538
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"dc35402a07997347b392cf2d12bc0de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1259880197,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259880197,
+    "wof:lastmodified":1537653204,
+    "wof:name":"Vos'moe Marta",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.33282,
+    41.45251,
+    76.33282,
+    41.45251
+],
+  "geometry": {"coordinates":[76.33282,41.45251],"type":"Point"}
+}

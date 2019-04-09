@@ -1,0 +1,76 @@
+{
+  "id": 1343869973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52245,41.10885,73.52245,41.10885",
+    "geom:latitude":41.10885,
+    "geom:longitude":73.52245,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Orto-Kandjyga",
+    "gn:country_code":"KG",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8175145,
+    "gn:latitude":41.10885,
+    "gn:longitude":73.52245,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Orto-Kandjyga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u041a\u0430\u043d\u0436\u044b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u041a\u0430\u043d\u0434\u0436\u044b\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Orto-Kandzhyga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8175145
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"46bceab77213c19fe2bf6d70b1977661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1343869973,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343869973,
+    "wof:lastmodified":1537653251,
+    "wof:name":"Orto-Kandjyga",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52245,
+    41.10885,
+    73.52245,
+    41.10885
+],
+  "geometry": {"coordinates":[73.52245000000001,41.10885],"type":"Point"}
+}

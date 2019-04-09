@@ -1,0 +1,67 @@
+{
+  "id": 1209409559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.71807,41.8131,78.71807,41.8131",
+    "geom:latitude":41.8131,
+    "geom:longitude":78.71807,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ak-Shyyrak",
+    "gn:country_code":"KG",
+    "gn:dem":2808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528918,
+    "gn:latitude":41.8131,
+    "gn:longitude":78.71807,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-Shyyrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0428\u044b\u0439\u0440\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Akshiyrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528918
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0061c1d5fe8ab93585cdc6ac4e20e578",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209409559
+        }
+    ],
+    "wof:id":1209409559,
+    "wof:lastmodified":1537653182,
+    "wof:name":"Ak-Shyyrak",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.71807,
+    41.8131,
+    78.71807,
+    41.8131
+],
+  "geometry": {"coordinates":[78.71807,41.8131],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209522891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73492,41.81105,72.73492,41.81105",
+    "geom:latitude":41.81105,
+    "geom:longitude":72.73492,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jany-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196138,
+    "gn:latitude":41.81105,
+    "gn:longitude":72.73492,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Jany-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Dzhanyaryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196138
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3b4d2ce9c1ec2c9ecaac88e62a01f164",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209522891
+        }
+    ],
+    "wof:id":1209522891,
+    "wof:lastmodified":1537653259,
+    "wof:name":"Jany-Aryk",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73491999999997,
+    41.81105,
+    72.73491999999997,
+    41.81105
+],
+  "geometry": {"coordinates":[72.73491999999997,41.81105],"type":"Point"}
+}

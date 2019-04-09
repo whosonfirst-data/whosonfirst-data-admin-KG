@@ -1,0 +1,70 @@
+{
+  "id": 1343864199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.82005,41.98916,74.82005,41.98916",
+    "geom:latitude":41.98916,
+    "geom:longitude":74.82005,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kuyruchuk",
+    "gn:country_code":"KG",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064063,
+    "gn:latitude":41.98916,
+    "gn:longitude":74.82005,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kuyruchuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0439\u0440\u0443\u0447\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064063
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fee6c60d8b95d08567c2c7f491bb2a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1343864199,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343864199,
+    "wof:lastmodified":1537653201,
+    "wof:name":"Kuyruchuk",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.82005,
+    41.98916,
+    74.82005,
+    41.98916
+],
+  "geometry": {"coordinates":[74.82004999999999,41.98916],"type":"Point"}
+}

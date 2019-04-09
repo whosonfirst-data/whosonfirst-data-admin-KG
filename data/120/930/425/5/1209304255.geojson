@@ -1,0 +1,70 @@
+{
+  "id": 1209304255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.7092,40.07328,69.7092,40.07328",
+    "geom:latitude":40.07328,
+    "geom:longitude":69.7092,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Eski-Oochu",
+    "gn:country_code":"KG",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377526,
+    "gn:latitude":40.07328,
+    "gn:longitude":69.7092,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Eski-Oochu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042d\u0441\u043a\u0438-\u041e\u043e\u0447\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043a\u0438-\u041e\u0432\u0447\u0438"
+    ],
+    "name:und_x_variant":[
+        "Eski-Ovchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377526
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1d65f0dd2309fb0b215b9d12fbb7876f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209304255
+        }
+    ],
+    "wof:id":1209304255,
+    "wof:lastmodified":1537653300,
+    "wof:name":"Eski-Oochu",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.7092,
+    40.07328,
+    69.7092,
+    40.07328
+],
+  "geometry": {"coordinates":[69.7092,40.07328],"type":"Point"}
+}

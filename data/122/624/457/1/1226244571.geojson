@@ -1,0 +1,78 @@
+{
+  "id": 1226244571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02135,41.26619,73.02135,41.26619",
+    "geom:latitude":41.26619,
+    "geom:longitude":73.02135,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Oogon-Talaa",
+    "gn:country_code":"KG",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528780,
+    "gn:latitude":41.26619,
+    "gn:longitude":73.02135,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Oogon-Talaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Oogon-Talaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043e\u0433\u043e\u043d-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:und_x_variant":[
+        "Achi",
+        "Avgandala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528780,
+        "wk:page":"Avgandala"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"459e76958d61f5d24b2c4d198158ea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1226244571,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226244571,
+    "wof:lastmodified":1537653177,
+    "wof:name":"Oogon-Talaa",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02135,
+    41.26619,
+    73.02135,
+    41.26619
+],
+  "geometry": {"coordinates":[73.02135,41.26619],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242662983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66498,40.18336,72.66498,40.18336",
+    "geom:latitude":40.18336,
+    "geom:longitude":72.66498,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhaztokoy",
+    "gn:country_code":"KG",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139542,
+    "gn:latitude":40.18336,
+    "gn:longitude":72.66498,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Dzhaztokoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0437\u0442\u043e\u043a\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0437\u0442\u043e\u043a\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139542
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a3be71cbc40c4403abec3b3d6f37eb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1242662983,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242662983,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Dzhaztokoy",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66498,
+    40.18336,
+    72.66498,
+    40.18336
+],
+  "geometry": {"coordinates":[72.66498,40.18336],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293591205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92836,41.15995,72.92836,41.15995",
+    "geom:latitude":41.15995,
+    "geom:longitude":72.92836,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tash-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527264,
+    "gn:latitude":41.15995,
+    "gn:longitude":72.92836,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tash-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527264
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3f7f571733581341316627efa8163be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1293591205,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293591205,
+    "wof:lastmodified":1537653112,
+    "wof:name":"Tash-Bulak",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92836,
+    41.15995,
+    72.92836,
+    41.15995
+],
+  "geometry": {"coordinates":[72.92836,41.15995],"type":"Point"}
+}

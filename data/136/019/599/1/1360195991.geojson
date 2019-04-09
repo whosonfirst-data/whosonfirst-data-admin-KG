@@ -1,0 +1,73 @@
+{
+  "id": 1360195991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.49156,41.31755,72.49156,41.31755",
+    "geom:latitude":41.31755,
+    "geom:longitude":72.49156,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maili-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135720,
+    "gn:latitude":41.31755,
+    "gn:longitude":72.49156,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Maili-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0439\u043b\u044b-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0438\u043b\u0438-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091692051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135720
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"36304edc436c4e4579a83303320b3d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091692051,
+            "locality_id":1360195991,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360195991,
+    "wof:lastmodified":1537653209,
+    "wof:name":"Maili-Say",
+    "wof:parent_id":1091692051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.49155999999998,
+    41.31755,
+    72.49155999999998,
+    41.31755
+],
+  "geometry": {"coordinates":[72.49155999999998,41.31755],"type":"Point"}
+}

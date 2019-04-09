@@ -1,0 +1,73 @@
+{
+  "id": 1242673105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26903,40.34618,74.26903,40.34618",
+    "geom:latitude":40.34618,
+    "geom:longitude":74.26903,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aydin-Kol",
+    "gn:country_code":"KG",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406210,
+    "gn:latitude":40.34618,
+    "gn:longitude":74.26903,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Aydin-Kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0439\u0434\u0438\u043d-\u041a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0438\u043d-\u041a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406210
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"434e1679b77e7ac69431bb442997eef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1242673105,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242673105,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Aydin-Kol",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26903,
+    40.34618,
+    74.26903,
+    40.34618
+],
+  "geometry": {"coordinates":[74.26903,40.34618],"type":"Point"}
+}

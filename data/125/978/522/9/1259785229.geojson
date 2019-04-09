@@ -1,0 +1,74 @@
+{
+  "id": 1259785229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7629,41.59455,71.7629,41.59455",
+    "geom:latitude":41.59455,
+    "geom:longitude":71.7629,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cherik",
+    "gn:country_code":"KG",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528553,
+    "gn:latitude":41.59455,
+    "gn:longitude":71.7629,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Cherik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0440\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528553,
+        "wk:page":"Cherik"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fbf7f460056bf3f92b4860a49ba00a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1259785229,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259785229,
+    "wof:lastmodified":1537653168,
+    "wof:name":"Cherik",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7629,
+    41.59455,
+    71.7629,
+    41.59455
+],
+  "geometry": {"coordinates":[71.7629,41.59455],"type":"Point"}
+}

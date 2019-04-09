@@ -1,0 +1,70 @@
+{
+  "id": 1309730333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.16667,41.6,76.16667,41.6",
+    "geom:latitude":41.6,
+    "geom:longitude":76.16667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mazar",
+    "gn:country_code":"KG",
+    "gn:dem":3661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527642,
+    "gn:latitude":41.6,
+    "gn:longitude":76.16667,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Mazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527642
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9f03c259113a248200e67487771ae797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1309730333,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1309730333,
+    "wof:lastmodified":1537653130,
+    "wof:name":"Mazar",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.16667,
+    41.6,
+    76.16667,
+    41.6
+],
+  "geometry": {"coordinates":[76.16667,41.6],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1193263873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66239,39.63785,72.66239,39.63785",
+    "geom:latitude":39.63785,
+    "geom:longitude":72.66239,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":2809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393193,
+    "gn:latitude":39.63785,
+    "gn:longitude":72.66239,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kara-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "name:kir_x_variant":[
+        "Kashka-Suu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "name:und_x_variant":[
+        "Kashka-Su"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393193
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fbaa348a4fc7cab3fb9419bcca501af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":1193263873,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1193263873,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Kara-Suu",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66239,
+    39.63785,
+    72.66239,
+    39.63785
+],
+  "geometry": {"coordinates":[72.66239,39.63785],"type":"Point"}
+}

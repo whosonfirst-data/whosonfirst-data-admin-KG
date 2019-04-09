@@ -1,0 +1,68 @@
+{
+  "id": 1226357263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13333,40.78333,73.13333,40.78333",
+    "geom:latitude":40.78333,
+    "geom:longitude":73.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kampyr-Ravat",
+    "gn:country_code":"KG",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528198,
+    "gn:latitude":40.78333,
+    "gn:longitude":73.13333,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kampyr-Ravat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528198,
+        "wk:page":"Kampyr-Ravat"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"08bc11c29ec3d65368adad418d2b97e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1226357263,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226357263,
+    "wof:lastmodified":1537567188,
+    "wof:name":"Kampyr-Ravat",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13333,
+    40.78333,
+    73.13333,
+    40.78333
+],
+  "geometry": {"coordinates":[73.13333,40.78333],"type":"Point"}
+}

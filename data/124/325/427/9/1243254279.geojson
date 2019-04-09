@@ -1,0 +1,73 @@
+{
+  "id": 1243254279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67403,39.64949,72.67403,39.64949",
+    "geom:latitude":39.64949,
+    "geom:longitude":72.67403,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bortumshuk",
+    "gn:country_code":"KG",
+    "gn:dem":2827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393192,
+    "gn:latitude":39.64949,
+    "gn:longitude":72.67403,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Bortumshuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0440\u0442\u0443\u043c\u0448\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0442\u0443\u043c\u0448\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393192
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"739c19d2a544b2eb31f69f1315d1475d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":1243254279,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243254279,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Bortumshuk",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67403,
+    39.64949,
+    72.67403,
+    39.64949
+],
+  "geometry": {"coordinates":[72.67403,39.64949],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242800065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25176,40.39133,74.25176,40.39133",
+    "geom:latitude":40.39133,
+    "geom:longitude":74.25176,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhonbulak",
+    "gn:country_code":"KG",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8406176,
+    "gn:latitude":40.39133,
+    "gn:longitude":74.25176,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Dzhonbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u043e\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8406176
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e7d85755784a2c288139d5fcf5b3b5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1242800065,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242800065,
+    "wof:lastmodified":1537653312,
+    "wof:name":"Dzhonbulak",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25176,
+    40.39133,
+    74.25176,
+    40.39133
+],
+  "geometry": {"coordinates":[74.25176,40.39133],"type":"Point"}
+}

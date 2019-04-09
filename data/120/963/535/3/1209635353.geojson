@@ -1,0 +1,67 @@
+{
+  "id": 1209635353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.77144,40.54649,72.77144,40.54649",
+    "geom:latitude":40.54649,
+    "geom:longitude":72.77144,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Besh-Kala",
+    "gn:country_code":"KG",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139855,
+    "gn:latitude":40.54649,
+    "gn:longitude":72.77144,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Besh-Kala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0448-\u041a\u0430\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448-\u041a\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139855
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"217805520e6c3712a36f464c1e70e53a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209635353
+        }
+    ],
+    "wof:id":1209635353,
+    "wof:lastmodified":1537653224,
+    "wof:name":"Besh-Kala",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.77144,
+    40.54649000000001,
+    72.77144,
+    40.54649000000001
+],
+  "geometry": {"coordinates":[72.77144,40.54649000000001],"type":"Point"}
+}

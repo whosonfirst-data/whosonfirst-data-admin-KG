@@ -1,0 +1,76 @@
+{
+  "id": 1226328009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75966,40.56356,72.75966,40.56356",
+    "geom:latitude":40.56356,
+    "geom:longitude":72.75966,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Kyshtak",
+    "gn:country_code":"KG",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139854,
+    "gn:latitude":40.56356,
+    "gn:longitude":72.75966,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyl-Kyshtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Andizhanskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139854
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6857a29fecbfe6cf2222703ac71b1b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1226328009,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226328009,
+    "wof:lastmodified":1537653224,
+    "wof:name":"Kyzyl-Kyshtak",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75966,
+    40.56356,
+    72.75966,
+    40.56356
+],
+  "geometry": {"coordinates":[72.75966,40.56356],"type":"Point"}
+}

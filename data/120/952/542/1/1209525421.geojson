@@ -1,0 +1,67 @@
+{
+  "id": 1209525421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.3261,41.40702,71.3261,41.40702",
+    "geom:latitude":41.40702,
+    "geom:longitude":71.3261,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"kyzyl-Toqoy",
+    "gn:country_code":"KG",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580840,
+    "gn:latitude":41.40702,
+    "gn:longitude":71.3261,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"kyzyl-Toqoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qizil-Toqoy"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u043e\u043a\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580840
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9f2efc845c6ca0dffda5345298b3dc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209525421
+        }
+    ],
+    "wof:id":1209525421,
+    "wof:lastmodified":1537653194,
+    "wof:name":"kyzyl-Toqoy",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.3261,
+    41.40702,
+    71.3261,
+    41.40702
+],
+  "geometry": {"coordinates":[71.3261,41.40702],"type":"Point"}
+}

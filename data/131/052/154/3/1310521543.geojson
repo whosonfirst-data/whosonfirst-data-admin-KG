@@ -1,0 +1,73 @@
+{
+  "id": 1310521543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94385,39.94623,72.94385,39.94623",
+    "geom:latitude":39.94623,
+    "geom:longitude":72.94385,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mazar-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393157,
+    "gn:latitude":39.94623,
+    "gn:longitude":72.94385,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Mazar-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393157
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ed3ef1ee83596ccada76cab63d792c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1310521543,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310521543,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Mazar-Suu",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94385,
+    39.94623,
+    72.94385,
+    39.94623
+],
+  "geometry": {"coordinates":[72.94385,39.94623],"type":"Point"}
+}

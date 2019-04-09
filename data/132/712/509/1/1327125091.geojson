@@ -1,0 +1,76 @@
+{
+  "id": 1327125091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10829,39.53769,72.10829,39.53769",
+    "geom:latitude":39.53769,
+    "geom:longitude":72.10829,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jash-Tilek",
+    "gn:country_code":"KG",
+    "gn:dem":2438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1222694,
+    "gn:latitude":39.53769,
+    "gn:longitude":72.10829,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Jash-Tilek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0448-\u0422\u0438\u043b\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Chak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222694
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f6aeb89de409f2a06596c378d5878df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":1327125091,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327125091,
+    "wof:lastmodified":1537653099,
+    "wof:name":"Jash-Tilek",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10829,
+    39.53769000000001,
+    72.10829,
+    39.53769000000001
+],
+  "geometry": {"coordinates":[72.10829,39.53769000000001],"type":"Point"}
+}

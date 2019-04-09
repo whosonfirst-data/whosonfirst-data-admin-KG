@@ -1,0 +1,73 @@
+{
+  "id": 1293277741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20476,40.33053,73.20476,40.33053",
+    "geom:latitude":40.33053,
+    "geom:longitude":73.20476,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alga-Bas",
+    "gn:country_code":"KG",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143726,
+    "gn:latitude":40.33053,
+    "gn:longitude":73.20476,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Alga-Bas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0433\u0430-\u0411\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u0430-\u0411\u0430\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143726
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"92acabb62c432bab1a1e12f7eef47a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1293277741,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293277741,
+    "wof:lastmodified":1537653235,
+    "wof:name":"Alga-Bas",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20476,
+    40.33053,
+    73.20476,
+    40.33053
+],
+  "geometry": {"coordinates":[73.20475999999999,40.33053],"type":"Point"}
+}

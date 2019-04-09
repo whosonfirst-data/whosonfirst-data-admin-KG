@@ -1,0 +1,73 @@
+{
+  "id": 1242894995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.94702,42.61216,76.94702,42.61216",
+    "geom:latitude":42.61216,
+    "geom:longitude":76.94702,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kurskoye",
+    "gn:country_code":"KG",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331852,
+    "gn:latitude":42.61216,
+    "gn:longitude":76.94702,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kurskoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0441\u043a\u043e\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331852
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0e30600a7f9da5af8456745cc13415a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691273,
+            "locality_id":1242894995,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1242894995,
+    "wof:lastmodified":1537653287,
+    "wof:name":"Kurskoye",
+    "wof:parent_id":1091691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.94702,
+    42.61216,
+    76.94702,
+    42.61216
+],
+  "geometry": {"coordinates":[76.94701999999999,42.61216],"type":"Point"}
+}

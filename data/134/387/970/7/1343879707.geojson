@@ -1,0 +1,73 @@
+{
+  "id": 1343879707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"78.70481,41.82473,78.70481,41.82473",
+    "geom:latitude":41.82473,
+    "geom:longitude":78.70481,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Uch-Koshkon",
+    "gn:country_code":"KG",
+    "gn:dem":2943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045921,
+    "gn:latitude":41.82473,
+    "gn:longitude":78.70481,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u00dcch-Koshkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04ae\u0447-\u041a\u043e\u0448\u043a\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u00dcch-Koshkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045921
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"767a12560758be4e7f10cf5cfe52f984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1343879707,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1343879707,
+    "wof:lastmodified":1537653196,
+    "wof:name":"Uch-Koshkon",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    78.70481,
+    41.82473,
+    78.70481,
+    41.82473
+],
+  "geometry": {"coordinates":[78.70480999999999,41.82473],"type":"Point"}
+}

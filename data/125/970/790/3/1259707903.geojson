@@ -1,0 +1,73 @@
+{
+  "id": 1259707903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.57647,42.10861,75.57647,42.10861",
+    "geom:latitude":42.10861,
+    "geom:longitude":75.57647,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Choloy",
+    "gn:country_code":"KG",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328333,
+    "gn:latitude":42.10861,
+    "gn:longitude":75.57647,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Choloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u043b\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043b\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328333
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a908e9b342c123eacad3438c90f9951c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1259707903,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259707903,
+    "wof:lastmodified":1537653286,
+    "wof:name":"Choloy",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.57647,
+    42.10861,
+    75.57647,
+    42.10861
+],
+  "geometry": {"coordinates":[75.57647,42.10861],"type":"Point"}
+}

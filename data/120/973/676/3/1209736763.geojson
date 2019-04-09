@@ -1,0 +1,76 @@
+{
+  "id": 1209736763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.31604,42.33545,79.31604,42.33545",
+    "geom:latitude":42.33545,
+    "geom:longitude":79.31604,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Echkili-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":2903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341795,
+    "gn:latitude":42.33545,
+    "gn:longitude":79.31604,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Echkili-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042d\u0447\u043a\u0438\u043b\u0438-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "Kul\u2019ttsentr Echkilitash"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u043b\u044c\u0442\u0446\u0435\u043d\u0442\u0440 \u042d\u0447\u043a\u0438\u043b\u0438\u0442\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341795
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f58a98e37afa2ac9220e359ef5458118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691455,
+            "locality_id":1209736763,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1209736763,
+    "wof:lastmodified":1537653289,
+    "wof:name":"Echkili-Tash",
+    "wof:parent_id":1091691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.31604,
+    42.33545,
+    79.31604,
+    42.33545
+],
+  "geometry": {"coordinates":[79.31604,42.33545],"type":"Point"}
+}

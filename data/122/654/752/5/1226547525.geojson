@@ -1,0 +1,76 @@
+{
+  "id": 1226547525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85056,41.36831,71.85056,41.36831",
+    "geom:latitude":41.36831,
+    "geom:longitude":71.85056,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Atana",
+    "gn:country_code":"KG",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514531,
+    "gn:latitude":41.36831,
+    "gn:longitude":71.85056,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Atana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Atana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Renzhit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514531
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bcb8e2256f2cdb7487cbcef30af6468e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226547525,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226547525,
+    "wof:lastmodified":1537653101,
+    "wof:name":"Atana",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85056,
+    41.36831,
+    71.85056,
+    41.36831
+],
+  "geometry": {"coordinates":[71.85056,41.36831],"type":"Point"}
+}

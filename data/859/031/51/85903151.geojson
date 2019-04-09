@@ -1,0 +1,104 @@
+{
+  "id": 85903151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3807118.296529,
+    "geom:bbox":"74.553223,42.894077,74.553223,42.894077",
+    "geom:latitude":42.894077,
+    "geom:longitude":74.553223,
+    "iso:country":"KG",
+    "lbl:latitude":42.894077,
+    "lbl:longitude":74.553223,
+    "mps:latitude":42.894076,
+    "mps:longitude":74.553223,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Kyzyl-Asker"
+    ],
+    "name:unk_x_variant":[
+        "Kyzyl-Asker"
+    ],
+    "qs:gn_adm0_cc":"KG",
+    "qs:gn_id":0,
+    "qs:gn_local":1528675,
+    "qs:gn_nam_loc":"Bishkek, Bishkek, KG",
+    "qs:gn_namadm1":"01",
+    "qs:id":0,
+    "qs:local_max":60,
+    "qs:local_sum":62,
+    "qs:localhoods":2,
+    "qs:name":"Kyzyl-Asker",
+    "qs:name_adm0":"Kyrgyzstan",
+    "qs:name_adm1":"Chuy",
+    "qs:name_local":"Bishkek",
+    "qs:photo_max":1,
+    "qs:photo_sum":2,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424864,
+    "qs:woe_adm1":20070195,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1969888,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        1091692295,
+        85672975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1969510,
+        "wd:id":"Q6452904"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b159c0d000c0f0d7bb1a89a3157a1d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091692295,
+            "locality_id":-1,
+            "neighbourhood_id":85903151,
+            "region_id":85672975
+        }
+    ],
+    "wof:id":85903151,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936021,
+    "wof:name":"Kyzyl-Asker",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.553223,
+    42.894077,
+    74.553223,
+    42.894077
+],
+  "geometry": {"coordinates":[74.553223,42.894077],"type":"Point"}
+}

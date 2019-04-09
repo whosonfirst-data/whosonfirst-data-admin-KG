@@ -1,0 +1,79 @@
+{
+  "id": 1310521593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30448,40.62589,73.30448,40.62589",
+    "geom:latitude":40.62589,
+    "geom:longitude":73.30448,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Seget",
+    "gn:country_code":"KG",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145278,
+    "gn:latitude":40.62589,
+    "gn:longitude":73.30448,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"S\u00ebg\u00ebt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u04e9\u0433\u04e9\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "S\u00ebg\u00ebt"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0451\u0433\u0451\u0442"
+    ],
+    "name:und_x_variant":[
+        "S\u00ebg\u00ebt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145278
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"64c69335593aa5ed12b369cfaf5d25c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1310521593,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310521593,
+    "wof:lastmodified":1537653239,
+    "wof:name":"Seget",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30448,
+    40.62589000000001,
+    73.30448,
+    40.62589000000001
+],
+  "geometry": {"coordinates":[73.30448,40.62589000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242763241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13695,40.69527,73.13695,40.69527",
+    "geom:latitude":40.69527,
+    "geom:longitude":73.13695,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alga",
+    "gn:country_code":"KG",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8173445,
+    "gn:latitude":40.69527,
+    "gn:longitude":73.13695,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Alga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0433\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Olg\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8173445
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d8c15d8e463bd44165629047d74d929e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1242763241,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242763241,
+    "wof:lastmodified":1537653242,
+    "wof:name":"Alga",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13695,
+    40.69527,
+    73.13695,
+    40.69527
+],
+  "geometry": {"coordinates":[73.13695,40.69527],"type":"Point"}
+}

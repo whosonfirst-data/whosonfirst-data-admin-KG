@@ -1,0 +1,76 @@
+{
+  "id": 1310310995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.07924,40.57618,75.07924,40.57618",
+    "geom:latitude":40.57618,
+    "geom:longitude":75.07924,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tuzbel'",
+    "gn:country_code":"KG",
+    "gn:dem":3486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8415278,
+    "gn:latitude":40.57618,
+    "gn:longitude":75.07924,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Tuzbel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u04af\u0437\u0431\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Tuzbel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0437\u0431\u0435\u043b\u044c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8415278
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3d9333f5bb57c1bb3797eb5fb1f2b685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1310310995,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1310310995,
+    "wof:lastmodified":1537653313,
+    "wof:name":"Tuzbel'",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.07924,
+    40.57618,
+    75.07924,
+    40.57618
+],
+  "geometry": {"coordinates":[75.07924,40.57618],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209517205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23536,41.21128,71.23536,41.21128",
+    "geom:latitude":41.21128,
+    "geom:longitude":71.23536,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tengi",
+    "gn:country_code":"KG",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577841,
+    "gn:latitude":41.21128,
+    "gn:longitude":71.23536,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Tengi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u043d\u0433\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "Ten\u2019gi"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u043d\u044c\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577841
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b3a1f10a382625912dda5fece9caa006",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209517205
+        }
+    ],
+    "wof:id":1209517205,
+    "wof:lastmodified":1537653190,
+    "wof:name":"Tengi",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23536,
+    41.21128,
+    71.23536,
+    41.21128
+],
+  "geometry": {"coordinates":[71.23536,41.21128],"type":"Point"}
+}

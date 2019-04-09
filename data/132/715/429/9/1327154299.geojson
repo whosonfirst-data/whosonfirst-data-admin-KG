@@ -1,0 +1,76 @@
+{
+  "id": 1327154299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28093,40.75243,73.28093,40.75243",
+    "geom:latitude":40.75243,
+    "geom:longitude":73.28093,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sheraly",
+    "gn:country_code":"KG",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527372,
+    "gn:latitude":40.75243,
+    "gn:longitude":73.28093,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sheraly",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0428\u0435\u0440\u0430\u043b\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0440\u0430\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Shirali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527372
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4a2c110df7a94a1bba77ea663a951198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1327154299,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327154299,
+    "wof:lastmodified":1537653117,
+    "wof:name":"Sheraly",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28093,
+    40.75243,
+    73.28093,
+    40.75243
+],
+  "geometry": {"coordinates":[73.28093,40.75243],"type":"Point"}
+}

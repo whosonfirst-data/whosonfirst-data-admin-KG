@@ -1,0 +1,79 @@
+{
+  "id": 1242668255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9363,40.5824,72.9363,40.5824",
+    "geom:latitude":40.5824,
+    "geom:longitude":72.9363,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chechen-Makhalla",
+    "gn:country_code":"KG",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139877,
+    "gn:latitude":40.5824,
+    "gn:longitude":72.9363,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Chechen-Makhalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0447\u0435\u043d-\u041c\u0430\u0445\u0430\u043b\u043b\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0447\u0435\u043d-\u041c\u0430\u0445\u0430\u043b\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0442\u043a\u043e\u0440\u043c\u0441\u043e\u0432\u0445\u043e\u0437"
+    ],
+    "name:und_x_variant":[
+        "Otkormsovkhoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139877
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"975e61e67d0180a261c85f3c8ca2ab83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1242668255,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1242668255,
+    "wof:lastmodified":1537653225,
+    "wof:name":"Chechen-Makhalla",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9363,
+    40.5824,
+    72.9363,
+    40.5824
+],
+  "geometry": {"coordinates":[72.9363,40.5824],"type":"Point"}
+}

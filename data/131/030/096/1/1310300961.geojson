@@ -1,0 +1,79 @@
+{
+  "id": 1310300961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.2757,40.79643,73.2757,40.79643",
+    "geom:latitude":40.79643,
+    "geom:longitude":73.2757,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ozgeryush",
+    "gn:country_code":"KG",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174037,
+    "gn:latitude":40.79643,
+    "gn:longitude":73.2757,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Ozg\u00ebryush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04e8\u0437\u0433\u04e9\u0440\u04af\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "Ozg\u00ebryush"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0437\u0433\u0451\u0440\u044e\u0448"
+    ],
+    "name:und_x_variant":[
+        "Ozg\u00ebryush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174037
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1d8c41e06075c72f03c9514af275134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1310300961,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310300961,
+    "wof:lastmodified":1537653246,
+    "wof:name":"Ozgeryush",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.2757,
+    40.79643,
+    73.2757,
+    40.79643
+],
+  "geometry": {"coordinates":[73.2757,40.79643],"type":"Point"}
+}

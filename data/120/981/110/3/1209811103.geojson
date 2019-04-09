@@ -1,0 +1,79 @@
+{
+  "id": 1209811103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89866,40.57697,72.89866,40.57697",
+    "geom:latitude":40.57697,
+    "geom:longitude":72.89866,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kaarman",
+    "gn:country_code":"KG",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139881,
+    "gn:latitude":40.57697,
+    "gn:longitude":72.89866,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kaarman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u0430\u0445\u0440\u0430\u043c\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kyzyl-Kakhramon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139881
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"79c7e60e02f1afeba5467dcf59dba2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1209811103,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1209811103,
+    "wof:lastmodified":1537653225,
+    "wof:name":"Kaarman",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89865999999998,
+    40.57697,
+    72.89865999999998,
+    40.57697
+],
+  "geometry": {"coordinates":[72.89865999999998,40.57697],"type":"Point"}
+}

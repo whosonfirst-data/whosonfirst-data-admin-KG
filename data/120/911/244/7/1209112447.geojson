@@ -1,0 +1,72 @@
+{
+  "id": 1209112447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.13605,41.24922,76.13605,41.24922",
+    "geom:latitude":41.24922,
+    "geom:longitude":76.13605,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ak-Muz",
+    "gn:country_code":"KG",
+    "gn:dem":2396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528927,
+    "gn:latitude":41.24922,
+    "gn:longitude":76.13605,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Ak-Muz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ak-Muz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u043c\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Akkzu",
+        "Akmuz",
+        "Ak-Muz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528927
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7cff7e7126d64af1dea7d714d0cfa47d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209112447
+        }
+    ],
+    "wof:id":1209112447,
+    "wof:lastmodified":1537653182,
+    "wof:name":"Ak-Muz",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.13605,
+    41.24922,
+    76.13605,
+    41.24922
+],
+  "geometry": {"coordinates":[76.13605,41.24922],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243258561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.68949,40.21449,71.68949,40.21449",
+    "geom:latitude":40.21449,
+    "geom:longitude":71.68949,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chekelik",
+    "gn:country_code":"KG",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376109,
+    "gn:latitude":40.21449,
+    "gn:longitude":71.68949,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Chekelik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u043a\u0435\u043b\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043a\u0435\u043b\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0435\u043a\u0435\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Chekeli",
+        "Chekelik"
+    ],
+    "name:uzb_x_preferred":[
+        "Chaqalik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376109
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bbc9cf01de0945246b25b33033ed5b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1243258561,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1243258561,
+    "wof:lastmodified":1537653293,
+    "wof:name":"Chekelik",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.68949,
+    40.21449000000001,
+    71.68949,
+    40.21449000000001
+],
+  "geometry": {"coordinates":[71.68949000000001,40.21449000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225852361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30934,41.17697,73.30934,41.17697",
+    "geom:latitude":41.17697,
+    "geom:longitude":73.30934,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Katranke",
+    "gn:country_code":"KG",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528021,
+    "gn:latitude":41.17697,
+    "gn:longitude":73.30934,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Katranke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0430\u043d\u043a\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0440\u0430\u043d\u043a\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528021
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2cd3fe20a89c8f76b55a163de7b273ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1225852361,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1225852361,
+    "wof:lastmodified":1537653147,
+    "wof:name":"Katranke",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30934,
+    41.17697,
+    73.30934,
+    41.17697
+],
+  "geometry": {"coordinates":[73.30934000000001,41.17697],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327126091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.48191,42.11225,76.48191,42.11225",
+    "geom:latitude":42.11225,
+    "geom:longitude":76.48191,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ala-Bash",
+    "gn:country_code":"KG",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528878,
+    "gn:latitude":42.11225,
+    "gn:longitude":76.48191,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Ala-Bash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0430-\u0411\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0431\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Alabash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528878,
+        "wk:page":"Ala-Bash"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"73f69bf3b37adfe0bfb46a0deb8e73b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1327126091,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1327126091,
+    "wof:lastmodified":1537653180,
+    "wof:name":"Ala-Bash",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.48191,
+    42.11225,
+    76.48191,
+    42.11225
+],
+  "geometry": {"coordinates":[76.48191,42.11225],"type":"Point"}
+}

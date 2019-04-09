@@ -1,0 +1,73 @@
+{
+  "id": 1276444049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61477,41.93899,72.61477,41.93899",
+    "geom:latitude":41.93899,
+    "geom:longitude":72.61477,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tashkoro",
+    "gn:country_code":"KG",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196040,
+    "gn:latitude":41.93899,
+    "gn:longitude":72.61477,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Tashkoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448-\u041a\u043e\u0440\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u043e\u0440\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196040
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e2c11372677e9f18a43dabe7126033c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1276444049,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276444049,
+    "wof:lastmodified":1537653258,
+    "wof:name":"Tashkoro",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61477,
+    41.93899,
+    72.61477,
+    41.93899
+],
+  "geometry": {"coordinates":[72.61476999999999,41.93899],"type":"Point"}
+}

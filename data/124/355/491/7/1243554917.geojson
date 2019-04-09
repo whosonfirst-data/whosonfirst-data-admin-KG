@@ -1,0 +1,73 @@
+{
+  "id": 1243554917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.82383,42.17963,75.82383,42.17963",
+    "geom:latitude":42.17963,
+    "geom:longitude":75.82383,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Karoy",
+    "gn:country_code":"KG",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328342,
+    "gn:latitude":42.17963,
+    "gn:longitude":75.82383,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Karoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328342
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"453ae295311f21336643f8cfa3600acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1243554917,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1243554917,
+    "wof:lastmodified":1537653286,
+    "wof:name":"Karoy",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.82383,
+    42.17963,
+    75.82383,
+    42.17963
+],
+  "geometry": {"coordinates":[75.82383,42.17963],"type":"Point"}
+}

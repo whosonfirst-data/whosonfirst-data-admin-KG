@@ -1,0 +1,73 @@
+{
+  "id": 1293385395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42154,40.30804,72.42154,40.30804",
+    "geom:latitude":40.30804,
+    "geom:longitude":72.42154,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhinde",
+    "gn:country_code":"KG",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140059,
+    "gn:latitude":40.30804,
+    "gn:longitude":72.42154,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Dzhinde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0438\u043d\u0434\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0438\u043d\u0434\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140059
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b952bf5497046247ddc4133fd606f85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1293385395,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1293385395,
+    "wof:lastmodified":1537653228,
+    "wof:name":"Dzhinde",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42154000000002,
+    40.30804000000001,
+    72.42154000000002,
+    40.30804000000001
+],
+  "geometry": {"coordinates":[72.42154000000002,40.30804000000001],"type":"Point"}
+}

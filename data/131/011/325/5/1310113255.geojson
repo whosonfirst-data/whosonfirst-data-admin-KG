@@ -1,0 +1,76 @@
+{
+  "id": 1310113255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70887,41.03913,72.70887,41.03913",
+    "geom:latitude":41.03913,
+    "geom:longitude":72.70887,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mogol-Korgon",
+    "gn:country_code":"KG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135803,
+    "gn:latitude":41.03913,
+    "gn:longitude":72.70887,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Mogol-Korgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u043b-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u043b-\u041a\u043e\u0440\u0433\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Mo\u2018g\u2018ol-Qo\u2018rg\u2018on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135803
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"38d74b09fc26b5daef68f2a171e47ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1310113255,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310113255,
+    "wof:lastmodified":1537653211,
+    "wof:name":"Mogol-Korgon",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70886999999998,
+    41.03913,
+    72.70886999999998,
+    41.03913
+],
+  "geometry": {"coordinates":[72.70886999999998,41.03913],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260268457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36171,40.24134,73.36171,40.24134",
+    "geom:latitude":40.24134,
+    "geom:longitude":73.36171,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kel'",
+    "gn:country_code":"KG",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143735,
+    "gn:latitude":40.24134,
+    "gn:longitude":73.36171,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"K\u00ebl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "K\u00ebl\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0451\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "K\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143735
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"aeaff6f900c6ad8a99cecc135893d2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1260268457,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260268457,
+    "wof:lastmodified":1537653235,
+    "wof:name":"Kel'",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36171,
+    40.24134,
+    73.36171,
+    40.24134
+],
+  "geometry": {"coordinates":[73.36171,40.24134],"type":"Point"}
+}

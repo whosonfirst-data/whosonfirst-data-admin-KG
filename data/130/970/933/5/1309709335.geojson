@@ -1,0 +1,76 @@
+{
+  "id": 1309709335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.97429,42.61889,76.97429,42.61889",
+    "geom:latitude":42.61889,
+    "geom:longitude":76.97429,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Baetovka",
+    "gn:country_code":"KG",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046918,
+    "gn:latitude":42.61889,
+    "gn:longitude":76.97429,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Baetovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Baetovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0435\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bayetovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046918
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5755625befff5f839eef9e78e1579594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691273,
+            "locality_id":1309709335,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1309709335,
+    "wof:lastmodified":1537653196,
+    "wof:name":"Baetovka",
+    "wof:parent_id":1091691273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.97429,
+    42.61889,
+    76.97429,
+    42.61889
+],
+  "geometry": {"coordinates":[76.97429,42.61889],"type":"Point"}
+}

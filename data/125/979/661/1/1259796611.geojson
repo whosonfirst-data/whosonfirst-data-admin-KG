@@ -1,0 +1,80 @@
+{
+  "id": 1259796611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13125,43.00968,74.13125,43.00968",
+    "geom:latitude":43.00968,
+    "geom:longitude":74.13125,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ak-Seok",
+    "gn:country_code":"KG",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528913,
+    "gn:latitude":43.00968,
+    "gn:longitude":74.13125,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-S\u00ebok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0421\u04e9\u04e9\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Ak-S\u00ebok"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043a-\u0421\u0451\u043e\u043a"
+    ],
+    "name:und_x_variant":[
+        "Ak-Su"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528913,
+        "wk:page":"Ak-Su"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"79de27569f30fb3e9f6f53d558e44649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691579,
+            "locality_id":1259796611,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1259796611,
+    "wof:lastmodified":1537653181,
+    "wof:name":"Ak-Seok",
+    "wof:parent_id":1091691579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13125,
+    43.00968,
+    74.13125,
+    43.00968
+],
+  "geometry": {"coordinates":[74.13124999999999,43.00968],"type":"Point"}
+}

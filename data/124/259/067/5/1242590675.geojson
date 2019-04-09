@@ -1,0 +1,79 @@
+{
+  "id": 1242590675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.35967,43.03075,74.35967,43.03075",
+    "geom:latitude":43.03075,
+    "geom:longitude":74.35967,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tert-Kel'",
+    "gn:country_code":"KG",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8219886,
+    "gn:latitude":43.03075,
+    "gn:longitude":74.35967,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"T\u00ebrt-K\u00ebl\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u04e9\u0440\u0442-\u041a\u04e9\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "T\u00ebrt-K\u00ebl\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0451\u0440\u0442-\u041a\u0451\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "T\u00ebrt-K\u00ebl\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8219886
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"69ea859b937a765dd78a0c42f9cb0a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1242590675,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1242590675,
+    "wof:lastmodified":1537653269,
+    "wof:name":"Tert-Kel'",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.35967,
+    43.03075,
+    74.35967,
+    43.03075
+],
+  "geometry": {"coordinates":[74.35966999999999,43.03075],"type":"Point"}
+}

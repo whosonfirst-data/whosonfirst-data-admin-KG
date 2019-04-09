@@ -1,0 +1,76 @@
+{
+  "id": 1360196347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13048,40.84502,73.13048,40.84502",
+    "geom:latitude":40.84502,
+    "geom:longitude":73.13048,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tash-Akyr",
+    "gn:country_code":"KG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174133,
+    "gn:latitude":40.84502,
+    "gn:longitude":73.13048,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Tash-Akyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0448-\u0410\u043a\u044b\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448-\u0410\u043a\u044b\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Tosh-Akir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174133
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"015348505e371ec7ad9cd09eeb31fbf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1360196347,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360196347,
+    "wof:lastmodified":1537653248,
+    "wof:name":"Tash-Akyr",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13048,
+    40.84502,
+    73.13048,
+    40.84502
+],
+  "geometry": {"coordinates":[73.13048000000001,40.84502],"type":"Point"}
+}

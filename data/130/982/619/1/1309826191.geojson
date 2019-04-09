@@ -1,0 +1,73 @@
+{
+  "id": 1309826191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73664,40.55918,73.73664,40.55918",
+    "geom:latitude":40.55918,
+    "geom:longitude":73.73664,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tokbay-Talaa",
+    "gn:country_code":"KG",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142463,
+    "gn:latitude":40.55918,
+    "gn:longitude":73.73664,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Tokbay-Talaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043a\u0431\u0430\u0439-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0431\u0430\u0439-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142463
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c18a4328a91ae41d38b622b636bc1c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1309826191,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309826191,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Tokbay-Talaa",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73664000000002,
+    40.55918,
+    73.73664000000002,
+    40.55918
+],
+  "geometry": {"coordinates":[73.73664000000002,40.55918],"type":"Point"}
+}

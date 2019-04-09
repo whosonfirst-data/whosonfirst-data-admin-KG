@@ -1,0 +1,77 @@
+{
+  "id": 1276993921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23902,42.68131,74.23902,42.68131",
+    "geom:latitude":42.68131,
+    "geom:longitude":74.23902,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tosh-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528705,
+    "gn:latitude":42.68131,
+    "gn:longitude":74.23902,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Tosh-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u0448-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Belogorskoye",
+        "Belogorka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528705
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f380eeeac401e0533d4e3695aa031fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691613,
+            "locality_id":1276993921,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1276993921,
+    "wof:lastmodified":1537653174,
+    "wof:name":"Tosh-Bulak",
+    "wof:parent_id":1091691613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23902,
+    42.68131,
+    74.23902,
+    42.68131
+],
+  "geometry": {"coordinates":[74.23902,42.68131],"type":"Point"}
+}

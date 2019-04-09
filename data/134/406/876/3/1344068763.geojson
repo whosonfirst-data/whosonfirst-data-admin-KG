@@ -1,0 +1,74 @@
+{
+  "id": 1344068763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95328,41.64455,71.95328,41.64455",
+    "geom:latitude":41.64455,
+    "geom:longitude":71.95328,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Aflatun",
+    "gn:country_code":"KG",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528975,
+    "gn:latitude":41.64455,
+    "gn:longitude":71.95328,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Aflatun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Avletim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0444\u043b\u0430\u0442\u0443\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528975,
+        "wk:page":"Aflatun"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"35781ec4922efa75332ba6bb808b8993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1344068763,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1344068763,
+    "wof:lastmodified":1537653184,
+    "wof:name":"Aflatun",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95328,
+    41.64455,
+    71.95328,
+    41.64455
+],
+  "geometry": {"coordinates":[71.95328000000001,41.64455],"type":"Point"}
+}

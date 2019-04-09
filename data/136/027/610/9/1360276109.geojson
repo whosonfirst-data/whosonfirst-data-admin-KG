@@ -1,0 +1,77 @@
+{
+  "id": 1360276109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38953,40.35679,73.38953,40.35679",
+    "geom:latitude":40.35679,
+    "geom:longitude":73.38953,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Arpatektir",
+    "gn:country_code":"KG",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143872,
+    "gn:latitude":40.35679,
+    "gn:longitude":73.38953,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Arpatektir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0440\u043f\u0430-\u0422\u0435\u043a\u0442\u0438\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0440\u0443\u043f\u0441\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Imeni Krupskoy",
+        "Krupskaya Atyndagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143872
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fa5b62b038978ead7a386a40abd23feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1360276109,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1360276109,
+    "wof:lastmodified":1537653236,
+    "wof:name":"Arpatektir",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38953000000002,
+    40.35679,
+    73.38953000000002,
+    40.35679
+],
+  "geometry": {"coordinates":[73.38953000000002,40.35679],"type":"Point"}
+}

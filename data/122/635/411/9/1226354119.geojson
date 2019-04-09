@@ -1,0 +1,77 @@
+{
+  "id": 1226354119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17887,41.2006,72.17887,41.2006",
+    "geom:latitude":41.2006,
+    "geom:longitude":72.17887,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shamaldy-Say",
+    "gn:country_code":"KG",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527398,
+    "gn:latitude":41.2006,
+    "gn:longitude":72.17887,
+    "gn:modification_date":"2018-03-27",
+    "gn:name":"Shamaldy-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Shamaldy-Say"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0430\u043b\u0434\u044b-\u0421\u0430\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Shomoldi-Soy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527398,
+        "wk:page":"Shamaldy-Say"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"026544388e7b8ec110c79d04fb2533f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1226354119,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226354119,
+    "wof:lastmodified":1537653118,
+    "wof:name":"Shamaldy-Say",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17886999999997,
+    41.2006,
+    72.17886999999997,
+    41.2006
+],
+  "geometry": {"coordinates":[72.17886999999997,41.2006],"type":"Point"}
+}

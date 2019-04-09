@@ -1,0 +1,70 @@
+{
+  "id": 1209222129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68777,40.99813,72.68777,40.99813",
+    "geom:latitude":40.99813,
+    "geom:longitude":72.68777,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Ay",
+    "gn:country_code":"KG",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137729,
+    "gn:latitude":40.99813,
+    "gn:longitude":72.68777,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kyzyl-Ay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0410\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0410\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil-Oy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137729
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"be3391691014447d0a4a9f359d9ffd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209222129
+        }
+    ],
+    "wof:id":1209222129,
+    "wof:lastmodified":1537653215,
+    "wof:name":"Kyzyl-Ay",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68777,
+    40.99813,
+    72.68777,
+    40.99813
+],
+  "geometry": {"coordinates":[72.68777,40.99813],"type":"Point"}
+}

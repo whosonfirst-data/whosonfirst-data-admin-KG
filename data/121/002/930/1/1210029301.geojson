@@ -1,0 +1,77 @@
+{
+  "id": 1210029301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.90538,42.59607,74.90538,42.59607",
+    "geom:latitude":42.59607,
+    "geom:longitude":74.90538,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ysyk-Ata",
+    "gn:country_code":"KG",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1523737,
+    "gn:latitude":42.59607,
+    "gn:longitude":74.90538,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ysyk-Ata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ysyk-Ata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u043e\u0440\u0442 \u0418\u0441\u0441\u044b\u043a-\u0410\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Issykata",
+        "Kurort Issyk-Ata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1523737
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"617709bc2c03ee2434e95019aa2380d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1210029301,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1210029301,
+    "wof:lastmodified":1537653102,
+    "wof:name":"Ysyk-Ata",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.90538000000002,
+    42.59607000000001,
+    74.90538000000002,
+    42.59607000000001
+],
+  "geometry": {"coordinates":[74.90538000000002,42.59607000000001],"type":"Point"}
+}

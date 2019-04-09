@@ -1,0 +1,81 @@
+{
+  "id": 1293791223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92914,41.33823,72.92914,41.33823",
+    "geom:latitude":41.33823,
+    "geom:longitude":72.92914,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arslanbob",
+    "gn:country_code":"KG",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528817,
+    "gn:latitude":41.33823,
+    "gn:longitude":72.92914,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Arslanbob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Arslanbob"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0441\u043b\u0430\u043d\u0431\u043e\u0431"
+    ],
+    "name:und_x_variant":[
+        "Arslanbab",
+        "Arslanbob",
+        "Kirov",
+        "Aryslanbob",
+        "Kirovskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528817,
+        "wk:page":"Arslanbob"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"72bc9c7830fc0a0a9322077a8e299637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1293791223,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293791223,
+    "wof:lastmodified":1537653178,
+    "wof:name":"Arslanbob",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92914,
+    41.33823,
+    72.92914,
+    41.33823
+],
+  "geometry": {"coordinates":[72.92914,41.33823],"type":"Point"}
+}

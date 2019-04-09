@@ -1,0 +1,74 @@
+{
+  "id": 1243574101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51005,40.26389,72.51005,40.26389",
+    "geom:latitude":40.26389,
+    "geom:longitude":72.51005,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Borbash",
+    "gn:country_code":"KG",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139560,
+    "gn:latitude":40.26389,
+    "gn:longitude":72.51005,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Borbash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u0440\u0431\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0431\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139560,
+        "wk:page":"Borbash"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"339043d5ea8182e44751bb551ba37025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1243574101,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243574101,
+    "wof:lastmodified":1537653218,
+    "wof:name":"Borbash",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51005,
+    40.26389,
+    72.51005,
+    40.26389
+],
+  "geometry": {"coordinates":[72.51005000000001,40.26389],"type":"Point"}
+}

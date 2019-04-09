@@ -1,0 +1,73 @@
+{
+  "id": 1243075273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64462,41.0954,72.64462,41.0954",
+    "geom:latitude":41.0954,
+    "geom:longitude":72.64462,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Apyrtan",
+    "gn:country_code":"KG",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133598,
+    "gn:latitude":41.0954,
+    "gn:longitude":72.64462,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Apyrtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u044b\u0440\u0442\u0430\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Apirtan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133598
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c5c5eadafc2650a6d3b056c73428a67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1243075273,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243075273,
+    "wof:lastmodified":1537653316,
+    "wof:name":"Apyrtan",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64461999999997,
+    41.0954,
+    72.64461999999997,
+    41.0954
+],
+  "geometry": {"coordinates":[72.64461999999997,41.0954],"type":"Point"}
+}

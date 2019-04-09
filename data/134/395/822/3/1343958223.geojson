@@ -1,0 +1,74 @@
+{
+  "id": 1343958223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.50606,41.36237,75.50606,41.36237",
+    "geom:latitude":41.36237,
+    "geom:longitude":75.50606,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kulanak",
+    "gn:country_code":"KG",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527806,
+    "gn:latitude":41.36237,
+    "gn:longitude":75.50606,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Kulanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043d\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u043d\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527806,
+        "wk:page":"Kulanak"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c1e16d86a04061f045a96c6bdae2fec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1343958223,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343958223,
+    "wof:lastmodified":1537653137,
+    "wof:name":"Kulanak",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.50605999999998,
+    41.36237,
+    75.50605999999998,
+    41.36237
+],
+  "geometry": {"coordinates":[75.50605999999998,41.36237],"type":"Point"}
+}

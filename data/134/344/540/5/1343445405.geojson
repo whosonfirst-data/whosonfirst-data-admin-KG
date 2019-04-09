@@ -1,0 +1,73 @@
+{
+  "id": 1343445405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01825,40.2324,72.01825,40.2324",
+    "geom:latitude":40.2324,
+    "geom:longitude":72.01825,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kon",
+    "gn:country_code":"KG",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140090,
+    "gn:latitude":40.2324,
+    "gn:longitude":72.01825,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140090
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4fdf2f5466d4e52fd3930df19b3cdbb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1343445405,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1343445405,
+    "wof:lastmodified":1537653229,
+    "wof:name":"Kon",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01825,
+    40.2324,
+    72.01825,
+    40.2324
+],
+  "geometry": {"coordinates":[72.01824999999999,40.2324],"type":"Point"}
+}

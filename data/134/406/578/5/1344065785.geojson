@@ -1,0 +1,79 @@
+{
+  "id": 1344065785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.80159,42.87869,73.80159,42.87869",
+    "geom:latitude":42.87869,
+    "geom:longitude":73.80159,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bol'shevik",
+    "gn:country_code":"KG",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221264,
+    "gn:latitude":42.87869,
+    "gn:longitude":73.80159,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Bol\u2019shevik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Bol\u2019shevik"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0435\u0432\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bol\u2019shevik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221264
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e4b5f2a5f271845a249e668455e2e41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691555,
+            "locality_id":1344065785,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1344065785,
+    "wof:lastmodified":1537653272,
+    "wof:name":"Bol'shevik",
+    "wof:parent_id":1091691555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.80159,
+    42.87869,
+    73.80159,
+    42.87869
+],
+  "geometry": {"coordinates":[73.80159,42.87869],"type":"Point"}
+}

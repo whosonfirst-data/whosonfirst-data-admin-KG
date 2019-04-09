@@ -1,0 +1,83 @@
+{
+  "id": 1326714755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25532,39.95448,71.25532,39.95448",
+    "geom:latitude":39.95448,
+    "geom:longitude":71.25532,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sur",
+    "gn:country_code":"KG",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8388006,
+    "gn:latitude":39.95448,
+    "gn:longitude":71.25532,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0443\u0440-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sur-Tash",
+        "Sur"
+    ],
+    "name:uzb_x_preferred":[
+        "Sur-Tosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8388006
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8996da3edd101ff0e91e6baf27dc4871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1326714755,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1326714755,
+    "wof:lastmodified":1537653307,
+    "wof:name":"Sur",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25532,
+    39.95448,
+    71.25532,
+    39.95448
+],
+  "geometry": {"coordinates":[71.25532,39.95448],"type":"Point"}
+}

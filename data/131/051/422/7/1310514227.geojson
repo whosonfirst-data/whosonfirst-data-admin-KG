@@ -1,0 +1,80 @@
+{
+  "id": 1310514227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.57682,43.10602,74.57682,43.10602",
+    "geom:latitude":43.10602,
+    "geom:longitude":74.57682,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vasil'evka",
+    "gn:country_code":"KG",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1517489,
+    "gn:latitude":43.10602,
+    "gn:longitude":74.57682,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Vasil\u2019evka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Vasil\u2019evka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Vasil\u2019yevka"
+    ],
+    "name:und_x_variant":[
+        "Vasil\u2019yevskiy",
+        "Vasil\u2019yevskoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1517489
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c3fd2d184d60b6f5feafe4fecfd78500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691655,
+            "locality_id":1310514227,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1310514227,
+    "wof:lastmodified":1537653102,
+    "wof:name":"Vasil'evka",
+    "wof:parent_id":1091691655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.57682,
+    43.10602,
+    74.57682,
+    43.10602
+],
+  "geometry": {"coordinates":[74.57682,43.10602],"type":"Point"}
+}

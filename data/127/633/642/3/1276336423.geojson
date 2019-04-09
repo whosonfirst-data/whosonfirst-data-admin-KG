@@ -1,0 +1,82 @@
+{
+  "id": 1276336423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87435,41.23728,70.87435,41.23728",
+    "geom:latitude":41.23728,
+    "geom:longitude":70.87435,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Besh-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578048,
+    "gn:latitude":41.23728,
+    "gn:longitude":70.87435,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Besh-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beshtosh"
+    ],
+    "name:kir_x_preferred":[
+        "Besh-Tash"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u0442\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Beshtash"
+    ],
+    "name:uzb_x_preferred":[
+        "Beshtosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578048
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"af42913b82eae268b70f2c92d9ee1e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1276336423,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276336423,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Besh-Tash",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87435,
+    41.23728,
+    70.87435,
+    41.23728
+],
+  "geometry": {"coordinates":[70.87435000000001,41.23728],"type":"Point"}
+}

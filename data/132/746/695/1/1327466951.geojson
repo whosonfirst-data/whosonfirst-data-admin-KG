@@ -1,0 +1,73 @@
+{
+  "id": 1327466951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.008,41.75753,74.008,41.75753",
+    "geom:latitude":41.75753,
+    "geom:longitude":74.008,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotyrsu",
+    "gn:country_code":"KG",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198427,
+    "gn:latitude":41.75753,
+    "gn:longitude":74.008,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kotyrsu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0442\u044b\u0440\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u044b\u0440\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198427
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"eff36105e33e8c3dd53f3467fe115ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1327466951,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1327466951,
+    "wof:lastmodified":1537653259,
+    "wof:name":"Kotyrsu",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.008,
+    41.75753,
+    74.008,
+    41.75753
+],
+  "geometry": {"coordinates":[74.008,41.75753],"type":"Point"}
+}

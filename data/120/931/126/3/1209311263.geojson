@@ -1,0 +1,71 @@
+{
+  "id": 1209311263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61448,40.34633,72.61448,40.34633",
+    "geom:latitude":40.34633,
+    "geom:longitude":72.61448,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Koktu",
+    "gn:country_code":"KG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528130,
+    "gn:latitude":40.34633,
+    "gn:longitude":72.61448,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kara-Koktu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u043a\u0442\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u043e\u043a\u0442\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora Ko\u2018ktu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528130,
+        "wk:page":"Kara-Kokty"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4a4f5cc4f282e5ce32f4f661e57ed987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209311263
+        }
+    ],
+    "wof:id":1209311263,
+    "wof:lastmodified":1537653150,
+    "wof:name":"Kara-Koktu",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61448,
+    40.34633,
+    72.61448,
+    40.34633
+],
+  "geometry": {"coordinates":[72.61448,40.34633],"type":"Point"}
+}

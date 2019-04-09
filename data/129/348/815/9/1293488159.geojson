@@ -1,0 +1,78 @@
+{
+  "id": 1293488159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.42201,41.88294,74.42201,41.88294",
+    "geom:latitude":41.88294,
+    "geom:longitude":74.42201,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kekoy",
+    "gn:country_code":"KG",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527984,
+    "gn:latitude":41.88294,
+    "gn:longitude":74.42201,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"K\u00ebkoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "K\u00f6k-Oy"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0451\u043a\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Kagoy",
+        "K\u00ebkoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527984,
+        "wk:page":"K%C3%B6k-Oy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0b43ebb4c0ffcbd7762989fdd4f474fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1293488159,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1293488159,
+    "wof:lastmodified":1537653145,
+    "wof:name":"Kekoy",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.42201,
+    41.88294000000001,
+    74.42201,
+    41.88294000000001
+],
+  "geometry": {"coordinates":[74.42201,41.88294000000001],"type":"Point"}
+}

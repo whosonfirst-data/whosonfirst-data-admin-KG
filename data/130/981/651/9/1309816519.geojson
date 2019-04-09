@@ -1,0 +1,73 @@
+{
+  "id": 1309816519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.9138,42.6572,74.9138,42.6572",
+    "geom:latitude":42.6572,
+    "geom:longitude":74.9138,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Cheteidy",
+    "gn:country_code":"KG",
+    "gn:dem":1718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281558,
+    "gn:latitude":42.6572,
+    "gn:longitude":74.9138,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Cheteidy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0442\u0438\u043d\u0434\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0442\u0435\u0438\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281558
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d15b041d913f1a2a60cfbdb7567ab064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691689,
+            "locality_id":1309816519,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1309816519,
+    "wof:lastmodified":1537653284,
+    "wof:name":"Cheteidy",
+    "wof:parent_id":1091691689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.9138,
+    42.6572,
+    74.9138,
+    42.6572
+],
+  "geometry": {"coordinates":[74.91379999999999,42.6572],"type":"Point"}
+}

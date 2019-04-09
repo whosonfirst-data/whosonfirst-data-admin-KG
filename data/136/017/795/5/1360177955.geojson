@@ -1,0 +1,73 @@
+{
+  "id": 1360177955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.77438,40.32181,72.77438,40.32181",
+    "geom:latitude":40.32181,
+    "geom:longitude":72.77438,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyr-Kol",
+    "gn:country_code":"KG",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139590,
+    "gn:latitude":40.32181,
+    "gn:longitude":72.77438,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyr-Kol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0440-\u041a\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440-\u041a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139590
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fd305eb0ff5d44b76aa4cf725b9cafd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1360177955,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1360177955,
+    "wof:lastmodified":1537653220,
+    "wof:name":"Kyr-Kol",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.77438000000002,
+    40.32181,
+    72.77438000000002,
+    40.32181
+],
+  "geometry": {"coordinates":[72.77438000000002,40.32181],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343263723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4832,41.03709,72.4832,41.03709",
+    "geom:latitude":41.03709,
+    "geom:longitude":72.4832,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kochkor-Ata",
+    "gn:country_code":"KG",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527903,
+    "gn:latitude":41.03709,
+    "gn:longitude":72.4832,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kochkor-Ata",
+    "gn:population":14814,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Kochkor-Ata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u043a\u043e\u0440-\u0410\u0442\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018chqor-Ota"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527903,
+        "wk:page":"Kochkor-Ata"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ba80ddcd18828f5dd00a7df43c26041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1343263723,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343263723,
+    "wof:lastmodified":1537653141,
+    "wof:name":"Kochkor-Ata",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:population":14814,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4832,
+    41.03709,
+    72.4832,
+    41.03709
+],
+  "geometry": {"coordinates":[72.4832,41.03709],"type":"Point"}
+}

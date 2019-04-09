@@ -1,0 +1,73 @@
+{
+  "id": 1209101997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90043,40.12425,70.90043,40.12425",
+    "geom:latitude":40.12425,
+    "geom:longitude":70.90043,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dzhany-Dzher",
+    "gn:country_code":"KG",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375149,
+    "gn:latitude":40.12425,
+    "gn:longitude":70.90043,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Dzhany-Dzher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u04a3\u044b-\u0416\u0435\u0440"
+    ],
+    "name:kir_x_variant":[
+        "Djany-Djer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0414\u0436\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Jangy-Jer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375149
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"146251c05dfc6c0786efcc4ff5cb8daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209101997
+        }
+    ],
+    "wof:id":1209101997,
+    "wof:lastmodified":1537653290,
+    "wof:name":"Dzhany-Dzher",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90043,
+    40.12425,
+    70.90043,
+    40.12425
+],
+  "geometry": {"coordinates":[70.90043,40.12425],"type":"Point"}
+}

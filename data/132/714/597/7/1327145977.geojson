@@ -1,0 +1,73 @@
+{
+  "id": 1327145977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15704,41.41194,74.15704,41.41194",
+    "geom:latitude":41.41194,
+    "geom:longitude":74.15704,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ornok",
+    "gn:country_code":"KG",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134225,
+    "gn:latitude":41.41194,
+    "gn:longitude":74.15704,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"\u00d6rn\u00f6k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u04e8\u0440\u043d\u04e9\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u00d6rn\u00f6k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134225
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"390a8ca4123f339db51dd60066673351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1327145977,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1327145977,
+    "wof:lastmodified":1537653208,
+    "wof:name":"Ornok",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15704000000002,
+    41.41194,
+    74.15704000000002,
+    41.41194
+],
+  "geometry": {"coordinates":[74.15704000000002,41.41194],"type":"Point"}
+}

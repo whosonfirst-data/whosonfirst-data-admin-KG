@@ -1,0 +1,76 @@
+{
+  "id": 1293198379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52597,42.48522,72.52597,42.48522",
+    "geom:latitude":42.48522,
+    "geom:longitude":72.52597,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ak-Say",
+    "gn:country_code":"KG",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8063967,
+    "gn:latitude":42.48522,
+    "gn:longitude":72.52597,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ak-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Ak-Say"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Aksay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063967
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6fb076be08e8b478540797d1d62716d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690143,
+            "locality_id":1293198379,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1293198379,
+    "wof:lastmodified":1537653196,
+    "wof:name":"Ak-Say",
+    "wof:parent_id":1091690143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52597,
+    42.48522,
+    72.52597,
+    42.48522
+],
+  "geometry": {"coordinates":[72.52597,42.48522],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209826831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75941,40.86436,72.75941,40.86436",
+    "geom:latitude":40.86436,
+    "geom:longitude":72.75941,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Changyr-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528580,
+    "gn:latitude":40.86436,
+    "gn:longitude":72.75941,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Changyr-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u04a3\u044b\u0440-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u0433\u044b\u0440-\u0422\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Chang\u00f6rtash",
+        "Changyr-Tash"
+    ],
+    "name:uzb_x_preferred":[
+        "Chang\u2018ir-Tosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528580,
+        "wk:page":"Changyr-Tash"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"574879f6049a7b0c529a8738e2771890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1209826831,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209826831,
+    "wof:lastmodified":1537653169,
+    "wof:name":"Changyr-Tash",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75941,
+    40.86436,
+    72.75941,
+    40.86436
+],
+  "geometry": {"coordinates":[72.75941,40.86436],"type":"Point"}
+}

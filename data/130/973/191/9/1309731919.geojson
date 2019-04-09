@@ -1,0 +1,73 @@
+{
+  "id": 1309731919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53463,39.98514,73.53463,39.98514",
+    "geom:latitude":39.98514,
+    "geom:longitude":73.53463,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kochokzhurt",
+    "gn:country_code":"KG",
+    "gn:dem":2360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8403057,
+    "gn:latitude":39.98514,
+    "gn:longitude":73.53463,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kochokzhurt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "Kachak-Jurt"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u043e\u043a\u0436\u0443\u0440\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403057
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a06848cccc1a8a09e101e7ffca8f3fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1309731919,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309731919,
+    "wof:lastmodified":1537653311,
+    "wof:name":"Kochokzhurt",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53463,
+    39.98514,
+    73.53463,
+    39.98514
+],
+  "geometry": {"coordinates":[73.53463000000001,39.98514],"type":"Point"}
+}

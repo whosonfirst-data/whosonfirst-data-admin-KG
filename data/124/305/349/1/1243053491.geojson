@@ -1,0 +1,80 @@
+{
+  "id": 1243053491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.81245,40.63757,72.81245,40.63757",
+    "geom:latitude":40.63757,
+    "geom:longitude":72.81245,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kenzhekul",
+    "gn:country_code":"KG",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1538122,
+    "gn:latitude":40.63757,
+    "gn:longitude":72.81245,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kenzhekul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u043d\u0436\u0435\u043a\u0443\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043d\u0436\u0435\u043a\u0443\u043b"
+    ],
+    "name:und_x_variant":[
+        "Kenjekul"
+    ],
+    "name:uzb_x_preferred":[
+        "Kenjeko\u2018l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538122,
+        "wk:page":"Kenzhekul"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"980914fb6a8c92a42e0c96e2d279f36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1243053491,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1243053491,
+    "wof:lastmodified":1537653185,
+    "wof:name":"Kenzhekul",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.81245,
+    40.63757,
+    72.81245,
+    40.63757
+],
+  "geometry": {"coordinates":[72.81245,40.63757],"type":"Point"}
+}

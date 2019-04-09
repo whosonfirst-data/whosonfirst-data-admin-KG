@@ -1,0 +1,79 @@
+{
+  "id": 1260092009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.24159,41.36628,74.24159,41.36628",
+    "geom:latitude":41.36628,
+    "geom:longitude":74.24159,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beshkel'",
+    "gn:country_code":"KG",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198314,
+    "gn:latitude":41.36628,
+    "gn:longitude":74.24159,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Beshkel\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0448\u043a\u0435\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Beshkel\u2019"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u0448\u043a\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Beshkel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198314
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fc2afef6757f80777df20feaf0958b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1260092009,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1260092009,
+    "wof:lastmodified":1537653259,
+    "wof:name":"Beshkel'",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.24159,
+    41.36628,
+    74.24159,
+    41.36628
+],
+  "geometry": {"coordinates":[74.24159,41.36628],"type":"Point"}
+}

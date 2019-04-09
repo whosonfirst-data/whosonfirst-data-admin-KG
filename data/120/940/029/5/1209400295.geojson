@@ -1,0 +1,72 @@
+{
+  "id": 1209400295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59752,40.59029,73.59752,40.59029",
+    "geom:latitude":40.59029,
+    "geom:longitude":73.59752,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ylay-Tala",
+    "gn:country_code":"KG",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527691,
+    "gn:latitude":40.59029,
+    "gn:longitude":73.59752,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ylay-Tala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u042b\u043b\u0430\u0439-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u042b\u043b\u0430\u0439-\u0422\u0430\u043b\u0430\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lay-Tala",
+        "Ylay-Talaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527691,
+        "wk:page":"Ylay-Talaa"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"10166591cfa0da2dcd04d990c8b5bfdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209400295
+        }
+    ],
+    "wof:id":1209400295,
+    "wof:lastmodified":1537653132,
+    "wof:name":"Ylay-Tala",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59751999999997,
+    40.59029,
+    73.59751999999997,
+    40.59029
+],
+  "geometry": {"coordinates":[73.59751999999997,40.59029],"type":"Point"}
+}

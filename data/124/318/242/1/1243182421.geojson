@@ -1,0 +1,74 @@
+{
+  "id": 1243182421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.95,41.68333,70.95,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":70.95,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tyz-Ashu",
+    "gn:cc2":"KG",
+    "gn:country_code":"KG",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527110,
+    "gn:latitude":41.68333,
+    "gn:longitude":70.95,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Tyz-Ashu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tysh-Ashu",
+        "Sar",
+        "Tyz-Ashu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527110,
+        "wk:page":"Tyz-Ashu"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"61f311cf3b40112d622325bf95295e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1243182421,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243182421,
+    "wof:lastmodified":1537653108,
+    "wof:name":"Tyz-Ashu",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.95,
+    41.68333,
+    70.95,
+    41.68333
+],
+  "geometry": {"coordinates":[70.95,41.68333],"type":"Point"}
+}

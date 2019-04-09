@@ -1,0 +1,78 @@
+{
+  "id": 1209723297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.40942,41.54448,72.40942,41.54448",
+    "geom:latitude":41.54448,
+    "geom:longitude":72.40942,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzylbiit",
+    "gn:country_code":"KG",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527733,
+    "gn:latitude":41.54448,
+    "gn:longitude":72.40942,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzylbiit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0411\u0438\u0438\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0431\u0438\u0438\u0442"
+    ],
+    "name:und_x_variant":[
+        "Kyzylbeyit",
+        "Kyzylbiit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527733,
+        "wk:page":"Kyzylbeyit"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"40748c29d023a78d58a3a4a46c1b1d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1209723297,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209723297,
+    "wof:lastmodified":1537653135,
+    "wof:name":"Kyzylbiit",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.40942,
+    41.54448,
+    72.40942,
+    41.54448
+],
+  "geometry": {"coordinates":[72.40942,41.54448],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226144769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.24975,41.61671,72.24975,41.61671",
+    "geom:latitude":41.61671,
+    "geom:longitude":72.24975,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kokkumay",
+    "gn:country_code":"KG",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194340,
+    "gn:latitude":41.61671,
+    "gn:longitude":72.24975,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kokkumay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u043a\u043a\u0443\u043c\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u043a\u0443\u043c\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194340
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"0c5c80dc96c972281f54460a74430e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226144769,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226144769,
+    "wof:lastmodified":1537653256,
+    "wof:name":"Kokkumay",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.24975,
+    41.61671,
+    72.24975,
+    41.61671
+],
+  "geometry": {"coordinates":[72.24975000000001,41.61671],"type":"Point"}
+}

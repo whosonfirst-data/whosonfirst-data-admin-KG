@@ -1,0 +1,76 @@
+{
+  "id": 1310001827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07338,39.9986,71.07338,39.9986",
+    "geom:latitude":39.9986,
+    "geom:longitude":71.07338,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Boz-Adyr",
+    "gn:country_code":"KG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8376076,
+    "gn:latitude":39.9986,
+    "gn:longitude":71.07338,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Boz-Adyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Boz-Adyr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437-\u0410\u0434\u044b\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Bo\u2018z-Adir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376076
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"20ab401d68f7c3a77a58481819fe5679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690427,
+            "locality_id":1310001827,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1310001827,
+    "wof:lastmodified":1537653292,
+    "wof:name":"Boz-Adyr",
+    "wof:parent_id":1091690427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07338,
+    39.9986,
+    71.07338,
+    39.9986
+],
+  "geometry": {"coordinates":[71.07338,39.9986],"type":"Point"}
+}

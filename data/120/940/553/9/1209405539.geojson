@@ -1,0 +1,67 @@
+{
+  "id": 1209405539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60706,40.3659,72.60706,40.3659",
+    "geom:latitude":40.3659,
+    "geom:longitude":72.60706,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dangi",
+    "gn:country_code":"KG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139769,
+    "gn:latitude":40.3659,
+    "gn:longitude":72.60706,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u0430\u043d\u0433\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0433\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139769
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"2b8461ab3ab7cd4c6678df810137a35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209405539
+        }
+    ],
+    "wof:id":1209405539,
+    "wof:lastmodified":1537653222,
+    "wof:name":"Dangi",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60706,
+    40.3659,
+    72.60706,
+    40.3659
+],
+  "geometry": {"coordinates":[72.60706,40.3659],"type":"Point"}
+}

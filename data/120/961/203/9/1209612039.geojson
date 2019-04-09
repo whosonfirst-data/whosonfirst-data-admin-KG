@@ -1,0 +1,72 @@
+{
+  "id": 1209612039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3687,40.78681,73.3687,40.78681",
+    "geom:latitude":40.78681,
+    "geom:longitude":73.3687,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Dyjkan",
+    "gn:country_code":"KG",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527510,
+    "gn:latitude":40.78681,
+    "gn:longitude":73.3687,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kara-Dyjkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0414\u044b\u0439\u043a\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019ichevka",
+        "Pamyat\u2019 Il\u2019icha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527510,
+        "wk:page":"Pamyat%27_Il%27icha"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"55f20630db1aa9b0560937c6bde4b1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209612039
+        }
+    ],
+    "wof:id":1209612039,
+    "wof:lastmodified":1537653124,
+    "wof:name":"Kara-Dyjkan",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3687,
+    40.78681,
+    73.3687,
+    40.78681
+],
+  "geometry": {"coordinates":[73.3687,40.78681],"type":"Point"}
+}

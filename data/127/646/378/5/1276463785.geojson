@@ -1,0 +1,76 @@
+{
+  "id": 1276463785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14121,40.55633,73.14121,40.55633",
+    "geom:latitude":40.55633,
+    "geom:longitude":73.14121,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kochkor-Ata",
+    "gn:country_code":"KG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144838,
+    "gn:latitude":40.55633,
+    "gn:longitude":73.14121,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kochkor-Ata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0447\u043a\u043e\u0440-\u0410\u0442\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0447\u043a\u043e\u0440-\u0410\u0442\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u2018chqor-Ota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144838
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"cddc97e883fe0aba3c3ccb69616d2cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1276463785,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276463785,
+    "wof:lastmodified":1537653238,
+    "wof:name":"Kochkor-Ata",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14121,
+    40.55633,
+    73.14121,
+    40.55633
+],
+  "geometry": {"coordinates":[73.14121,40.55633],"type":"Point"}
+}

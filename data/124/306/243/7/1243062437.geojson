@@ -1,0 +1,73 @@
+{
+  "id": 1243062437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.95115,42.10149,76.95115,42.10149",
+    "geom:latitude":42.10149,
+    "geom:longitude":76.95115,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karasu",
+    "gn:country_code":"KG",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331934,
+    "gn:latitude":42.10149,
+    "gn:longitude":76.95115,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Karasu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0441\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331934
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bdda84dcdd0305f9d36bf5344143bda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691319,
+            "locality_id":1243062437,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1243062437,
+    "wof:lastmodified":1537653287,
+    "wof:name":"Karasu",
+    "wof:parent_id":1091691319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.95115,
+    42.10149000000001,
+    76.95115,
+    42.10149000000001
+],
+  "geometry": {"coordinates":[76.95115,42.10149000000001],"type":"Point"}
+}

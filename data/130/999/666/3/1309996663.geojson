@@ -1,0 +1,73 @@
+{
+  "id": 1309996663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1894,40.42372,72.1894,40.42372",
+    "geom:latitude":40.42372,
+    "geom:longitude":72.1894,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Syrt Vtoroy",
+    "gn:country_code":"KG",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143933,
+    "gn:latitude":40.42372,
+    "gn:longitude":72.1894,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Syrt Vtoroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u044b\u0440\u0442 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u0442 \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143933
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"499355766813a1164c076c8d09f2023c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690603,
+            "locality_id":1309996663,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1309996663,
+    "wof:lastmodified":1537653236,
+    "wof:name":"Syrt Vtoroy",
+    "wof:parent_id":1091690603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1894,
+    40.42372,
+    72.1894,
+    40.42372
+],
+  "geometry": {"coordinates":[72.18940000000001,40.42372],"type":"Point"}
+}

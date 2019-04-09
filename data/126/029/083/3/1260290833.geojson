@@ -1,0 +1,73 @@
+{
+  "id": 1260290833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.05547,41.44285,76.05547,41.44285",
+    "geom:latitude":41.44285,
+    "geom:longitude":76.05547,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Orto-Saz",
+    "gn:country_code":"KG",
+    "gn:dem":2144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540830,
+    "gn:latitude":41.44285,
+    "gn:longitude":76.05547,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Orto-Saz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0421\u0430\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0442\u043e-\u0421\u0430\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540830
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"74d6307c9e1793a476b01a59adea793f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1260290833,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1260290833,
+    "wof:lastmodified":1537653189,
+    "wof:name":"Orto-Saz",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.05547,
+    41.44285,
+    76.05547,
+    41.44285
+],
+  "geometry": {"coordinates":[76.05547,41.44285],"type":"Point"}
+}

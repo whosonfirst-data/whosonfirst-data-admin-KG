@@ -1,0 +1,79 @@
+{
+  "id": 1310598205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.9225,42.32196,77.9225,42.32196",
+    "geom:latitude":42.32196,
+    "geom:longitude":77.9225,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Saruu",
+    "gn:country_code":"KG",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527466,
+    "gn:latitude":42.32196,
+    "gn:longitude":77.9225,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Saruu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Saru",
+        "Soru",
+        "Saruu",
+        "Sary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527466
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c5b80e944ef55cd0d3b99e21e593c10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691355,
+            "locality_id":1310598205,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1310598205,
+    "wof:lastmodified":1537653121,
+    "wof:name":"Saruu",
+    "wof:parent_id":1091691355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.9225,
+    42.32196,
+    77.9225,
+    42.32196
+],
+  "geometry": {"coordinates":[77.9225,42.32196],"type":"Point"}
+}

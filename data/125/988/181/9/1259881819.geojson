@@ -1,0 +1,76 @@
+{
+  "id": 1259881819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66644,41.58094,71.66644,41.58094",
+    "geom:latitude":41.58094,
+    "geom:longitude":71.66644,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tostu",
+    "gn:country_code":"KG",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375054,
+    "gn:latitude":41.58094,
+    "gn:longitude":71.66644,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Tostu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043a\u0442\u0443"
+    ],
+    "name:kir_x_variant":[
+        "\u0422\u043e\u0441\u0442\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0441\u0442\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375054
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5ed2a161d66412c0562da2cb637310ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1259881819,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259881819,
+    "wof:lastmodified":1537653290,
+    "wof:name":"Tostu",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66644000000002,
+    41.58094000000001,
+    71.66644000000002,
+    41.58094000000001
+],
+  "geometry": {"coordinates":[71.66644000000002,41.58094000000001],"type":"Point"}
+}

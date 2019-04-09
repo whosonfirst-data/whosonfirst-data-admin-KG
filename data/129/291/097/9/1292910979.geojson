@@ -1,0 +1,73 @@
+{
+  "id": 1292910979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47997,41.99369,72.47997,41.99369",
+    "geom:latitude":41.99369,
+    "geom:longitude":72.47997,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karakyungey",
+    "gn:country_code":"KG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194276,
+    "gn:latitude":41.99369,
+    "gn:longitude":72.47997,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Karakyungey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u044e\u043d\u0433\u0435\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a\u044e\u043d\u0433\u0435\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194276
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"aaadc4e6dda3fffbd553119b080f81b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1292910979,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1292910979,
+    "wof:lastmodified":1537653255,
+    "wof:name":"Karakyungey",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47997,
+    41.99369,
+    72.47997,
+    41.99369
+],
+  "geometry": {"coordinates":[72.47996999999999,41.99369],"type":"Point"}
+}

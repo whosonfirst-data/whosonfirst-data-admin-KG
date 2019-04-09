@@ -1,0 +1,73 @@
+{
+  "id": 1209727237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41845,42.03415,72.41845,42.03415",
+    "geom:latitude":42.03415,
+    "geom:longitude":72.41845,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Birbulak",
+    "gn:country_code":"KG",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272925,
+    "gn:latitude":42.03415,
+    "gn:longitude":72.41845,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Birbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0438\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0440\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272925
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c7297be70306f39b2651c5f628c4ca44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1209727237,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1209727237,
+    "wof:lastmodified":1537653283,
+    "wof:name":"Birbulak",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41845,
+    42.03415,
+    72.41845,
+    42.03415
+],
+  "geometry": {"coordinates":[72.41845000000001,42.03415],"type":"Point"}
+}

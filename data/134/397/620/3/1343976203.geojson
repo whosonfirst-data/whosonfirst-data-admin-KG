@@ -1,0 +1,75 @@
+{
+  "id": 1343976203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.45,41.86667,74.45,41.86667",
+    "geom:latitude":41.86667,
+    "geom:longitude":74.45,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yangi-Jol",
+    "gn:country_code":"KG",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527020,
+    "gn:latitude":41.86667,
+    "gn:longitude":74.45,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Yangi-Jol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u043d\u044b-\u0416\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Yangi-iol",
+        "Yangi-Dzhol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527020,
+        "wk:page":"Yangi-Dzhol"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bf55eb9cccba1cf1b77efa9e44ba2f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1343976203,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343976203,
+    "wof:lastmodified":1537653104,
+    "wof:name":"Yangi-Jol",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.45,
+    41.86667,
+    74.45,
+    41.86667
+],
+  "geometry": {"coordinates":[74.45,41.86667],"type":"Point"}
+}

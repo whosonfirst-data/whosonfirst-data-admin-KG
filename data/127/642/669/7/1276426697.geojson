@@ -1,0 +1,75 @@
+{
+  "id": 1276426697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.19952,40.35526,74.19952,40.35526",
+    "geom:latitude":40.35526,
+    "geom:longitude":74.19952,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Burachaty",
+    "gn:country_code":"KG",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528626,
+    "gn:latitude":40.35526,
+    "gn:longitude":74.19952,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Burachaty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0430\u0447\u0430\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bura-Chat\u00f6",
+        "Burachaty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528626,
+        "wk:page":"Bura-Chaty"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a5d70ded76ce01bf0f0208064e3679d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1276426697,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276426697,
+    "wof:lastmodified":1537653171,
+    "wof:name":"Burachaty",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.19951999999998,
+    40.35526,
+    74.19951999999998,
+    40.35526
+],
+  "geometry": {"coordinates":[74.19951999999998,40.35526],"type":"Point"}
+}

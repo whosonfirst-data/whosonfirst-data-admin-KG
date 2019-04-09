@@ -1,0 +1,76 @@
+{
+  "id": 1360009747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.18569,41.45523,76.18569,41.45523",
+    "geom:latitude":41.45523,
+    "geom:longitude":76.18569,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chet-Nura",
+    "gn:country_code":"KG",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528480,
+    "gn:latitude":41.45523,
+    "gn:longitude":76.18569,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chet-Nura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u0442-\u041d\u0443\u0440\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0442-\u041d\u0443\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chot-Nura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528480
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f2c2be61ff28a0b67d9638590394d31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1360009747,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1360009747,
+    "wof:lastmodified":1537653165,
+    "wof:name":"Chet-Nura",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.18569000000002,
+    41.45523,
+    76.18569000000002,
+    41.45523
+],
+  "geometry": {"coordinates":[76.18569000000002,41.45523],"type":"Point"}
+}

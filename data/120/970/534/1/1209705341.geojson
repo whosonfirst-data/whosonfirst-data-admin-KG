@@ -1,0 +1,76 @@
+{
+  "id": 1209705341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.57068,40.08838,69.57068,40.08838",
+    "geom:latitude":40.08838,
+    "geom:longitude":69.57068,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ak-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377522,
+    "gn:latitude":40.08838,
+    "gn:longitude":69.57068,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Ak-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043c\u0443\u043d\u0438\u0437\u043c"
+    ],
+    "name:und_x_variant":[
+        "Kommunizm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377522
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7dc23abf43428ff8912ba8767dd2e442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1209705341,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1209705341,
+    "wof:lastmodified":1537653300,
+    "wof:name":"Ak-Aryk",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.57068000000001,
+    40.08838,
+    69.57068000000001,
+    40.08838
+],
+  "geometry": {"coordinates":[69.57068000000001,40.08838],"type":"Point"}
+}

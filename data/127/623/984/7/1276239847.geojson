@@ -1,0 +1,77 @@
+{
+  "id": 1276239847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14722,41.83643,73.14722,41.83643",
+    "geom:latitude":41.83643,
+    "geom:longitude":73.14722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Torkent",
+    "gn:country_code":"KG",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527179,
+    "gn:latitude":41.83643,
+    "gn:longitude":73.14722,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Torkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Torkent"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u043a\u0435\u043d\u0442"
+    ],
+    "name:und_x_variant":[
+        "Ail-Torken",
+        "Torkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527179
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a5b082f1b22875084bf23e4fc423bfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1276239847,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1276239847,
+    "wof:lastmodified":1537653109,
+    "wof:name":"Torkent",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14721999999998,
+    41.83643,
+    73.14721999999998,
+    41.83643
+],
+  "geometry": {"coordinates":[73.14721999999998,41.83643],"type":"Point"}
+}

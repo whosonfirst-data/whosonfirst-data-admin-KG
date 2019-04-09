@@ -1,0 +1,93 @@
+{
+  "id": 1226450091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75826,41.49399,71.75826,41.49399",
+    "geom:latitude":41.49399,
+    "geom:longitude":71.75826,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"8139375",
+    "gn:asciiname":"Kerben",
+    "gn:country_code":"KG",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1528052,
+    "gn:latitude":41.49399,
+    "gn:longitude":71.75826,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kerben",
+    "gn:population":14141,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Karavan"
+    ],
+    "name:eng_x_preferred":[
+        "Karavan"
+    ],
+    "name:eng_x_variant":[
+        "Kerben"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u0440\u0431\u0435\u043d"
+    ],
+    "name:rus_x_historical":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0431\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528052,
+        "wk:page":"Kerben%2C_Kyrgyzstan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5ac10c71ef9df79ec483f8ecc6f6ebc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1226450091,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226450091,
+    "wof:lastmodified":1537653148,
+    "wof:name":"Kerben",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:population":14141,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75825999999998,
+    41.49399,
+    71.75825999999998,
+    41.49399
+],
+  "geometry": {"coordinates":[71.75825999999998,41.49399],"type":"Point"}
+}

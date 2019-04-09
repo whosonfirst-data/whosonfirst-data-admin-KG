@@ -1,0 +1,73 @@
+{
+  "id": 1343943347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84427,40.45423,72.84427,40.45423",
+    "geom:latitude":40.45423,
+    "geom:longitude":72.84427,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Kismak",
+    "gn:country_code":"KG",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139812,
+    "gn:latitude":40.45423,
+    "gn:longitude":72.84427,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kara-Kismak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u0438\u0441\u043c\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u041a\u0438\u0441\u043c\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139812
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1e1b8ab5e9e1f03dcf3416a4a9f309a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1343943347,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343943347,
+    "wof:lastmodified":1537653223,
+    "wof:name":"Kara-Kismak",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84427,
+    40.45423,
+    72.84427,
+    40.45423
+],
+  "geometry": {"coordinates":[72.84426999999999,40.45423],"type":"Point"}
+}

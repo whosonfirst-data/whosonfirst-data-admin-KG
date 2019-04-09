@@ -1,0 +1,76 @@
+{
+  "id": 1326928219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41332,42.76018,71.41332,42.76018",
+    "geom:latitude":42.76018,
+    "geom:longitude":71.41332,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Talas",
+    "gn:country_code":"KG",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064002,
+    "gn:latitude":42.76018,
+    "gn:longitude":71.41332,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Talas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Sovkhoz Manas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064002
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"521f564236c8989c4834b14daef39795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690313,
+            "locality_id":1326928219,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1326928219,
+    "wof:lastmodified":1537653198,
+    "wof:name":"Talas",
+    "wof:parent_id":1091690313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41332,
+    42.76018,
+    71.41332,
+    42.76018
+],
+  "geometry": {"coordinates":[71.41332,42.76018],"type":"Point"}
+}

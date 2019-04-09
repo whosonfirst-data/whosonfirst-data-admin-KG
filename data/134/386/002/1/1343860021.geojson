@@ -1,0 +1,73 @@
+{
+  "id": 1343860021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.14736,41.38988,72.14736,41.38988",
+    "geom:latitude":41.38988,
+    "geom:longitude":72.14736,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karagandy",
+    "gn:country_code":"KG",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194444,
+    "gn:latitude":41.38988,
+    "gn:longitude":72.14736,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Karagandy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u044b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194444
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"32100756e1469d282f2754e5d7aa98b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1343860021,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343860021,
+    "wof:lastmodified":1537653258,
+    "wof:name":"Karagandy",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.14735999999998,
+    41.38988,
+    72.14735999999998,
+    41.38988
+],
+  "geometry": {"coordinates":[72.14735999999998,41.38988],"type":"Point"}
+}

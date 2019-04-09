@@ -1,0 +1,80 @@
+{
+  "id": 1260380805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.33287,39.85643,69.33287,39.85643",
+    "geom:latitude":39.85643,
+    "geom:longitude":69.33287,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Razvaliny Dazgon",
+    "gn:country_code":"KG",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1222682,
+    "gn:latitude":39.85643,
+    "gn:longitude":69.33287,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Razvaliny Dazgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0414\u0430\u0437\u0433\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0432\u0430\u043b\u0438\u043d\u044b \u0414\u0430\u0437\u0433\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dazgan",
+        "Dasgan",
+        "Dazgon",
+        "Razvaliny Dazgon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1222682,
+        "wk:page":"Dazgon"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8d286877d3bc37ccfee9c26596e07eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1260380805,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1260380805,
+    "wof:lastmodified":1537653099,
+    "wof:name":"Razvaliny Dazgon",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.33287,
+    39.85643,
+    69.33287,
+    39.85643
+],
+  "geometry": {"coordinates":[69.33287,39.85643],"type":"Point"}
+}

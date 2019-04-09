@@ -1,0 +1,73 @@
+{
+  "id": 1226244611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01197,40.99647,73.01197,40.99647",
+    "geom:latitude":40.99647,
+    "geom:longitude":73.01197,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Kyrgyzstan",
+    "gn:country_code":"KG",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174154,
+    "gn:latitude":40.99647,
+    "gn:longitude":73.01197,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kyzyl-Kyrgyzstan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174154
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f6a877f819acbcc450532ab8ed83f465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1226244611,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226244611,
+    "wof:lastmodified":1537653249,
+    "wof:name":"Kyzyl-Kyrgyzstan",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01196999999998,
+    40.99647,
+    73.01196999999998,
+    40.99647
+],
+  "geometry": {"coordinates":[73.01196999999998,40.99647],"type":"Point"}
+}

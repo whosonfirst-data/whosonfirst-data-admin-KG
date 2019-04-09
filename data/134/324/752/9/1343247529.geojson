@@ -1,0 +1,82 @@
+{
+  "id": 1343247529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86864,40.63999,72.86864,40.63999",
+    "geom:latitude":40.63999,
+    "geom:longitude":72.86864,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imeni Kalinina",
+    "gn:country_code":"KG",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139906,
+    "gn:latitude":40.63999,
+    "gn:longitude":72.86864,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Imeni Kalinina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u041d\u043e\u043c\u0435\u0440 \u0414\u0432\u0430 \u0421\u043e\u0432\u0445\u043e\u0437\u0430 \u041a\u0430\u0440\u0430-\u0421\u0443\u0443"
+    ],
+    "name:und_x_variant":[
+        "Otdeleniye Nomer Dva Sovkhoza Kara-Suu"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora-Suu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139906
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8ae76bdf56aac8836fbee4ad61b7f21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1343247529,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343247529,
+    "wof:lastmodified":1537653226,
+    "wof:name":"Imeni Kalinina",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86864,
+    40.63999,
+    72.86864,
+    40.63999
+],
+  "geometry": {"coordinates":[72.86864,40.63999],"type":"Point"}
+}

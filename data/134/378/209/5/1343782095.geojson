@@ -1,0 +1,73 @@
+{
+  "id": 1343782095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84506,40.65667,72.84506,40.65667",
+    "geom:latitude":40.65667,
+    "geom:longitude":72.84506,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Imeni Lenina",
+    "gn:country_code":"KG",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139907,
+    "gn:latitude":40.65667,
+    "gn:longitude":72.84506,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Imeni Lenina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u044b\u043b-\u041a\u0435\u043b\u0434\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139907
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"937fa898022244e95d2ebebdeb01a2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1343782095,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343782095,
+    "wof:lastmodified":1537653226,
+    "wof:name":"Imeni Lenina",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84506,
+    40.65667,
+    72.84506,
+    40.65667
+],
+  "geometry": {"coordinates":[72.84506,40.65667],"type":"Point"}
+}

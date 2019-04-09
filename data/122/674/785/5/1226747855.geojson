@@ -1,0 +1,74 @@
+{
+  "id": 1226747855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.61364,41.50947,75.61364,41.50947",
+    "geom:latitude":41.50947,
+    "geom:longitude":75.61364,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tegerekkyrchin",
+    "gn:country_code":"KG",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527249,
+    "gn:latitude":41.50947,
+    "gn:longitude":75.61364,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Tegerekkyrchin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u0440\u0435\u043a-\u041a\u044b\u0440\u0447\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0433\u0435\u0440\u0435\u043a\u043a\u044b\u0440\u0447\u0438\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527249,
+        "wk:page":"Tegerek-Kyrchin"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8be0ef28bd77426d946c3a5ca871482c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1226747855,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1226747855,
+    "wof:lastmodified":1537653112,
+    "wof:name":"Tegerekkyrchin",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.61364,
+    41.50947,
+    75.61364,
+    41.50947
+],
+  "geometry": {"coordinates":[75.61364,41.50947],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343668215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.19465,41.44479,76.19465,41.44479",
+    "geom:latitude":41.44479,
+    "geom:longitude":76.19465,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Alysh",
+    "gn:country_code":"KG",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1540831,
+    "gn:latitude":41.44479,
+    "gn:longitude":76.19465,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Alysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u044b\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044b\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1540831
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ad4050f3667d679ecdd195be94da6980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1343668215,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1343668215,
+    "wof:lastmodified":1537653189,
+    "wof:name":"Alysh",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.19465,
+    41.44479000000001,
+    76.19465,
+    41.44479000000001
+],
+  "geometry": {"coordinates":[76.19465,41.44479000000001],"type":"Point"}
+}

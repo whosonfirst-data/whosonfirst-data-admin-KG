@@ -1,0 +1,85 @@
+{
+  "id": 1226657717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68255,41.09194,72.68255,41.09194",
+    "geom:latitude":41.09194,
+    "geom:longitude":72.68255,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alma",
+    "gn:country_code":"KG",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528318,
+    "gn:latitude":41.09194,
+    "gn:longitude":72.68255,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Alma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u043c\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "Gul\u2019mara"
+    ],
+    "name:und_x_variant":[
+        "Gul\u2019ma",
+        "Alma",
+        "Gul\u2019mara"
+    ],
+    "name:uzb_x_preferred":[
+        "Olma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528318,
+        "wk:page":"Gul%27ma"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"1fec88f3967b68af21fc810449142b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1226657717,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226657717,
+    "wof:lastmodified":1537653157,
+    "wof:name":"Alma",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68255,
+    41.09194,
+    72.68255,
+    41.09194
+],
+  "geometry": {"coordinates":[72.68255000000001,41.09194],"type":"Point"}
+}

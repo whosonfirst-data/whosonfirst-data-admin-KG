@@ -1,0 +1,79 @@
+{
+  "id": 1259669211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61469,39.62979,72.61469,39.62979",
+    "geom:latitude":39.62979,
+    "geom:longitude":72.61469,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhil'ma-Odin",
+    "gn:country_code":"KG",
+    "gn:dem":2812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8399534,
+    "gn:latitude":39.62979,
+    "gn:longitude":72.61469,
+    "gn:modification_date":"2015-06-04",
+    "gn:name":"Dzhil\u2019ma-Odin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0438\u043b\u044c\u043c\u0430-\u041e\u0434\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "Dzhil\u2019ma-Odin"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0436\u0438\u043b\u044c\u043c\u0430-\u041e\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dzhil\u2019ma-Odin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8399534
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"91114da7130bef033be5330210464a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690519,
+            "locality_id":1259669211,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1259669211,
+    "wof:lastmodified":1537653310,
+    "wof:name":"Dzhil'ma-Odin",
+    "wof:parent_id":1091690519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61469,
+    39.62979,
+    72.61469,
+    39.62979
+],
+  "geometry": {"coordinates":[72.61469,39.62979],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209421093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.83404,41.97407,74.83404,41.97407",
+    "geom:latitude":41.97407,
+    "geom:longitude":74.83404,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Davlet-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527701,
+    "gn:latitude":41.97407,
+    "gn:longitude":74.83404,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Davlet-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u0430\u0432\u043b\u0435\u0442-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0432\u043b\u0435\u0442\u0430\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Davletaryk",
+        "Kyzyltu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527701
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b167ff8b30d9d3eb1715ed1102883a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209421093
+        }
+    ],
+    "wof:id":1209421093,
+    "wof:lastmodified":1537653133,
+    "wof:name":"Davlet-Aryk",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.83404,
+    41.97407000000001,
+    74.83404,
+    41.97407000000001
+],
+  "geometry": {"coordinates":[74.83404,41.97407000000001],"type":"Point"}
+}

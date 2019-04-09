@@ -1,0 +1,70 @@
+{
+  "id": 1326540169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.66667,41.73333,75.66667,41.73333",
+    "geom:latitude":41.73333,
+    "geom:longitude":75.66667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kum-Bel' (not a PPL, delete?)",
+    "gn:country_code":"KG",
+    "gn:dem":2922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527795,
+    "gn:latitude":41.73333,
+    "gn:longitude":75.66667,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Kum-Bel\u2019 (not a PPL, delete?)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kum-Bel\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527795
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"311ee228b645b8191c25e40283ddadf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1326540169,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1326540169,
+    "wof:lastmodified":1537653136,
+    "wof:name":"Kum-Bel' (not a PPL, delete?)",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.66667,
+    41.73333,
+    75.66667,
+    41.73333
+],
+  "geometry": {"coordinates":[75.66667,41.73333],"type":"Point"}
+}

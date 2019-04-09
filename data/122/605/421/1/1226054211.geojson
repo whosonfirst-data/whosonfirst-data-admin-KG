@@ -1,0 +1,73 @@
+{
+  "id": 1226054211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.2145,40.96008,73.2145,40.96008",
+    "geom:latitude":40.96008,
+    "geom:longitude":73.2145,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Markay",
+    "gn:country_code":"KG",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174166,
+    "gn:latitude":40.96008,
+    "gn:longitude":73.2145,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Markay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174166
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"a73029bf0419d43def5c3e2bdee7f50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1226054211,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226054211,
+    "wof:lastmodified":1537653249,
+    "wof:name":"Markay",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.2145,
+    40.96008,
+    73.2145,
+    40.96008
+],
+  "geometry": {"coordinates":[73.2145,40.96008],"type":"Point"}
+}

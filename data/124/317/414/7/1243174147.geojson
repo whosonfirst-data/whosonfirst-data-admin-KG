@@ -1,0 +1,73 @@
+{
+  "id": 1243174147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5187,41.02861,72.5187,41.02861",
+    "geom:latitude":41.02861,
+    "geom:longitude":72.5187,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kyzyl-Dzhyldyz",
+    "gn:country_code":"KG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135765,
+    "gn:latitude":41.02861,
+    "gn:longitude":72.5187,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kyzyl-Dzhyldyz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0416\u044b\u043b\u0434\u044b\u0437"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0414\u0436\u044b\u043b\u0434\u044b\u0437"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135765
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c8c6d34ca904dbc3566035f3d3071ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1243174147,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243174147,
+    "wof:lastmodified":1537653210,
+    "wof:name":"Kyzyl-Dzhyldyz",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5187,
+    41.02861,
+    72.5187,
+    41.02861
+],
+  "geometry": {"coordinates":[72.5187,41.02861],"type":"Point"}
+}

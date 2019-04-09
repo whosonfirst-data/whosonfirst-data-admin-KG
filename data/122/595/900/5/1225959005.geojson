@@ -1,0 +1,76 @@
+{
+  "id": 1225959005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61834,40.26597,72.61834,40.26597",
+    "geom:latitude":40.26597,
+    "geom:longitude":72.61834,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"7910405",
+    "gn:asciiname":"Nookat",
+    "gn:country_code":"KG",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1528339,
+    "gn:latitude":40.26597,
+    "gn:longitude":72.61834,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Nookat",
+    "gn:population":14371,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iski-Naukat",
+        "Eski-Nookat"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528339,
+        "wk:page":"Nookat"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f17c786f8a9ea4bb39ea73f68df895c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1225959005,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1225959005,
+    "wof:lastmodified":1537653158,
+    "wof:name":"Nookat",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:population":14371,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61834,
+    40.26597,
+    72.61834,
+    40.26597
+],
+  "geometry": {"coordinates":[72.61834,40.26597],"type":"Point"}
+}

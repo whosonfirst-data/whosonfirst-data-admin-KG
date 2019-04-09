@@ -1,0 +1,76 @@
+{
+  "id": 1310117719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19923,41.00914,72.19923,41.00914",
+    "geom:latitude":41.00914,
+    "geom:longitude":72.19923,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nooshkent",
+    "gn:country_code":"KG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1513137,
+    "gn:latitude":41.00914,
+    "gn:longitude":72.19923,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Nooshkent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u043e\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043e\u0448\u043a\u0435\u043d\u0442"
+    ],
+    "name:und_x_variant":[
+        "Naushkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1513137
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"83c2babe3097898407f80fa08298a5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1310117719,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310117719,
+    "wof:lastmodified":1537653101,
+    "wof:name":"Nooshkent",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19923,
+    41.00914,
+    72.19923,
+    41.00914
+],
+  "geometry": {"coordinates":[72.19923,41.00914],"type":"Point"}
+}

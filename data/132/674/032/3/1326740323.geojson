@@ -1,0 +1,71 @@
+{
+  "id": 1326740323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75,40.56667,73.75,40.56667",
+    "geom:latitude":40.56667,
+    "geom:longitude":73.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tereksu",
+    "gn:country_code":"KG",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527222,
+    "gn:latitude":40.56667,
+    "gn:longitude":73.75,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Tereksu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u0435\u0440\u0435\u043a-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527222,
+        "wk:page":"Tereksu"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"51c7f1c2cdf792748ad4afb4af104c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1326740323,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326740323,
+    "wof:lastmodified":1537653110,
+    "wof:name":"Tereksu",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75,
+    40.56667,
+    73.75,
+    40.56667
+],
+  "geometry": {"coordinates":[73.75,40.56667],"type":"Point"}
+}

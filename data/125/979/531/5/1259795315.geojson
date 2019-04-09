@@ -1,0 +1,73 @@
+{
+  "id": 1259795315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41722,41.39188,71.41722,41.39188",
+    "geom:latitude":41.39188,
+    "geom:longitude":71.41722,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cho`loq-Tuma",
+    "gn:country_code":"KG",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580858,
+    "gn:latitude":41.39188,
+    "gn:longitude":71.41722,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Cho\u2018loq-Tuma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cho\u2018loq-Tuma"
+    ],
+    "name:kir_x_preferred":[
+        "\u0427\u043e\u043b\u043e\u043a-\u0422\u0443\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580858
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"56408158ba5581c17c13657e58f83617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1259795315,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259795315,
+    "wof:lastmodified":1537653194,
+    "wof:name":"Cho`loq-Tuma",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41722,
+    41.39188,
+    71.41722,
+    41.39188
+],
+  "geometry": {"coordinates":[71.41722,41.39188],"type":"Point"}
+}

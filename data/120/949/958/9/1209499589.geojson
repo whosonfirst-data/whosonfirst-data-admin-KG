@@ -1,0 +1,67 @@
+{
+  "id": 1209499589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86055,39.77302,70.86055,39.77302",
+    "geom:latitude":39.77302,
+    "geom:longitude":70.86055,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Symap",
+    "gn:country_code":"KG",
+    "gn:dem":2638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383605,
+    "gn:latitude":39.77302,
+    "gn:longitude":70.86055,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Symap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u044b\u043c\u0430\u043f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u043c\u0430\u043f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383605
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"60215e33d5afaaf00228e45aaa1332a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209499589
+        }
+    ],
+    "wof:id":1209499589,
+    "wof:lastmodified":1537653305,
+    "wof:name":"Symap",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86055,
+    39.77302,
+    70.86055,
+    39.77302
+],
+  "geometry": {"coordinates":[70.86055,39.77302],"type":"Point"}
+}

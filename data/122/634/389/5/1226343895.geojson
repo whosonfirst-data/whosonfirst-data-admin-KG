@@ -1,0 +1,70 @@
+{
+  "id": 1226343895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02174,41.10318,73.02174,41.10318",
+    "geom:latitude":41.10318,
+    "geom:longitude":73.02174,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shatrak",
+    "gn:country_code":"KG",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8178293,
+    "gn:latitude":41.10318,
+    "gn:longitude":73.02174,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Shatrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0442\u0440\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8178293
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9a8d6e4233a95028014ae6af24f77093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1226343895,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226343895,
+    "wof:lastmodified":1537653252,
+    "wof:name":"Shatrak",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02174000000002,
+    41.10318,
+    73.02174000000002,
+    41.10318
+],
+  "geometry": {"coordinates":[73.02174000000002,41.10318],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293012057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54603,40.99413,72.54603,40.99413",
+    "geom:latitude":40.99413,
+    "geom:longitude":72.54603,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sakaldy",
+    "gn:country_code":"KG",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1512940,
+    "gn:latitude":40.99413,
+    "gn:longitude":72.54603,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sakaldy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Sakaldy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u043b\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sakaldy-Dubar",
+        "Sakaldy"
+    ],
+    "name:uzb_x_preferred":[
+        "Soqoldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1512940
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b1eeac54af8ee9ddf57b952f0da3640c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1293012057,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1293012057,
+    "wof:lastmodified":1537653101,
+    "wof:name":"Sakaldy",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54603,
+    40.99413,
+    72.54603,
+    40.99413
+],
+  "geometry": {"coordinates":[72.54603,40.99413],"type":"Point"}
+}

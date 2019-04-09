@@ -1,0 +1,73 @@
+{
+  "id": 1327219441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47792,40.28424,73.47792,40.28424",
+    "geom:latitude":40.28424,
+    "geom:longitude":73.47792,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chakmak",
+    "gn:country_code":"KG",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143731,
+    "gn:latitude":40.28424,
+    "gn:longitude":73.47792,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Chakmak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0430\u043a\u043c\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u043c\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143731
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e6cd232459544c79797617e1a96b1e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1327219441,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327219441,
+    "wof:lastmodified":1537653235,
+    "wof:name":"Chakmak",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47792,
+    40.28424,
+    73.47792,
+    40.28424
+],
+  "geometry": {"coordinates":[73.47792,40.28424],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309805345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02295,40.86277,73.02295,40.86277",
+    "geom:latitude":40.86277,
+    "geom:longitude":73.02295,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Debey",
+    "gn:country_code":"KG",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174137,
+    "gn:latitude":40.86277,
+    "gn:longitude":73.02295,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"D\u00ebb\u00eby",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tashkent",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u04e9\u0431\u04e9\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "D\u00ebb\u00eby"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0451\u0431\u0451\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174137
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f45ce0d0414f25ab09c080d8ccfe71a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1309805345,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1309805345,
+    "wof:lastmodified":1537653248,
+    "wof:name":"Debey",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02295,
+    40.86277000000001,
+    73.02295,
+    40.86277000000001
+],
+  "geometry": {"coordinates":[73.02294999999999,40.86277000000001],"type":"Point"}
+}

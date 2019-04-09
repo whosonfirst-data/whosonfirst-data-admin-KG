@@ -1,0 +1,73 @@
+{
+  "id": 1226743149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88274,39.67371,72.88274,39.67371",
+    "geom:latitude":39.67371,
+    "geom:longitude":72.88274,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sary-Mogol",
+    "gn:country_code":"KG",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8393188,
+    "gn:latitude":39.67371,
+    "gn:longitude":72.88274,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Sary-Mogol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041c\u043e\u0433\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u044b-\u041c\u043e\u0433\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8393188
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6c082bc2e474808623d5371a60043840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1226743149,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226743149,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Sary-Mogol",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88274,
+    39.67371,
+    72.88274,
+    39.67371
+],
+  "geometry": {"coordinates":[72.88274,39.67371],"type":"Point"}
+}

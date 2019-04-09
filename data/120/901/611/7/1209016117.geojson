@@ -1,0 +1,72 @@
+{
+  "id": 1209016117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.81431,41.57447,71.81431,41.57447",
+    "geom:latitude":41.57447,
+    "geom:longitude":71.81431,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Uspenovka",
+    "gn:country_code":"KG",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527063,
+    "gn:latitude":41.57447,
+    "gn:longitude":71.81431,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Uspenovka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u043f\u0435\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Uspenka",
+        "Uspenovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527063,
+        "wk:page":"Uspenovka%2C_Kyrgyzstan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f6a56cb0895d5570a3bd85e07ac59dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209016117
+        }
+    ],
+    "wof:id":1209016117,
+    "wof:lastmodified":1537653106,
+    "wof:name":"Uspenovka",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.81430999999998,
+    41.57447,
+    71.81430999999998,
+    41.57447
+],
+  "geometry": {"coordinates":[71.81430999999998,41.57447],"type":"Point"}
+}

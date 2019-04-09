@@ -1,0 +1,76 @@
+{
+  "id": 1310212741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16671,41.47839,71.16671,41.47839",
+    "geom:latitude":41.47839,
+    "geom:longitude":71.16671,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Buzuk",
+    "gn:country_code":"KG",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577863,
+    "gn:latitude":41.47839,
+    "gn:longitude":71.16671,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Buzuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buzuq"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0443\u0437\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0437\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577863
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5ff4bd1ef2f651e2d865439f93b43826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690779,
+            "locality_id":1310212741,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310212741,
+    "wof:lastmodified":1537653191,
+    "wof:name":"Buzuk",
+    "wof:parent_id":1091690779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16671,
+    41.47839000000001,
+    71.16671,
+    41.47839000000001
+],
+  "geometry": {"coordinates":[71.16670999999999,41.47839000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226238415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5283,39.80091,69.5283,39.80091",
+    "geom:latitude":39.80091,
+    "geom:longitude":69.5283,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ak-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377979,
+    "gn:latitude":39.80091,
+    "gn:longitude":69.5283,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ak-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377979,
+        "wk:page":"Ak-Bulak%2C_Kyrgyzstan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c5596f8dbe3828de92ea2dd40a3f52be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690385,
+            "locality_id":1226238415,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1226238415,
+    "wof:lastmodified":1537653303,
+    "wof:name":"Ak-Bulak",
+    "wof:parent_id":1091690385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5283,
+    39.80091,
+    69.5283,
+    39.80091
+],
+  "geometry": {"coordinates":[69.5283,39.80091],"type":"Point"}
+}

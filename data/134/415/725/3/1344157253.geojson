@@ -1,0 +1,78 @@
+{
+  "id": 1344157253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.90805,41.1564,75.90805,41.1564",
+    "geom:latitude":41.1564,
+    "geom:longitude":75.90805,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bash-Kaindy",
+    "gn:country_code":"KG",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528745,
+    "gn:latitude":41.1564,
+    "gn:longitude":75.90805,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Bash-Kaindy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0448-\u041a\u0430\u0439\u044b\u043d\u0434\u044b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448-\u041a\u0430\u0438\u043d\u0434\u044b"
+    ],
+    "name:und_x_variant":[
+        "Bash-Kayyngdy",
+        "Bash-Kaindy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528745,
+        "wk:page":"Bash-Kaindy"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e3a4add5b17b3fdb4dec68f45efcb68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1344157253,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1344157253,
+    "wof:lastmodified":1537653176,
+    "wof:name":"Bash-Kaindy",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.90805,
+    41.1564,
+    75.90805,
+    41.1564
+],
+  "geometry": {"coordinates":[75.90805,41.1564],"type":"Point"}
+}

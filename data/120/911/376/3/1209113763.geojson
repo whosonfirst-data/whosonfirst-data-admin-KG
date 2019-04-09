@@ -1,0 +1,67 @@
+{
+  "id": 1209113763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37336,41.04335,72.37336,41.04335",
+    "geom:latitude":41.04335,
+    "geom:longitude":72.37336,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chek",
+    "gn:country_code":"KG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8135697,
+    "gn:latitude":41.04335,
+    "gn:longitude":72.37336,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Chek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8135697
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"001fbbf4e46fa4bda52371246bb79a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209113763
+        }
+    ],
+    "wof:id":1209113763,
+    "wof:lastmodified":1537653209,
+    "wof:name":"Chek",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37335999999998,
+    41.04335,
+    72.37335999999998,
+    41.04335
+],
+  "geometry": {"coordinates":[72.37335999999998,41.04335],"type":"Point"}
+}

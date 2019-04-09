@@ -1,0 +1,73 @@
+{
+  "id": 1360305335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01859,40.51463,73.01859,40.51463",
+    "geom:latitude":40.51463,
+    "geom:longitude":73.01859,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kara-Echki",
+    "gn:country_code":"KG",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145114,
+    "gn:latitude":40.51463,
+    "gn:longitude":73.01859,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Kara-Echki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u042d\u0447\u043a\u0438"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora-Echki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145114
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"5cfb6e3e92eacc4521e1b751d0200646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1360305335,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1360305335,
+    "wof:lastmodified":1537653239,
+    "wof:name":"Kara-Echki",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01859,
+    40.51463,
+    73.01859,
+    40.51463
+],
+  "geometry": {"coordinates":[73.01859,40.51463],"type":"Point"}
+}

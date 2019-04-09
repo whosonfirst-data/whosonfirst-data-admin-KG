@@ -1,0 +1,73 @@
+{
+  "id": 1292905229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23542,41.51484,72.23542,41.51484",
+    "geom:latitude":41.51484,
+    "geom:longitude":72.23542,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alcha",
+    "gn:country_code":"KG",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194393,
+    "gn:latitude":41.51484,
+    "gn:longitude":72.23542,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Alcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u043b\u0447\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194393
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bc821f44f901d94f029ecf01ba469087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1292905229,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1292905229,
+    "wof:lastmodified":1537653257,
+    "wof:name":"Alcha",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23541999999998,
+    41.51484,
+    72.23541999999998,
+    41.51484
+],
+  "geometry": {"coordinates":[72.23541999999998,41.51484],"type":"Point"}
+}

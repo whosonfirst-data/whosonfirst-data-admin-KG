@@ -1,0 +1,67 @@
+{
+  "id": 1310124301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.25,40.38333,73.25,40.38333",
+    "geom:latitude":40.38333,
+    "geom:longitude":73.25,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bardu",
+    "gn:country_code":"KG",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528750,
+    "gn:latitude":40.38333,
+    "gn:longitude":73.25,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Bardu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528750
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f01c7485eb10fb5ae2f40c6023a3e6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690561,
+            "locality_id":1310124301,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310124301,
+    "wof:lastmodified":1536969073,
+    "wof:name":"Bardu",
+    "wof:parent_id":1091690561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.25,
+    40.38333,
+    73.25,
+    40.38333
+],
+  "geometry": {"coordinates":[73.25,40.38333],"type":"Point"}
+}

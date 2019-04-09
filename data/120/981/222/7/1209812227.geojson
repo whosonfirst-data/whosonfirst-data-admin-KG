@@ -1,0 +1,82 @@
+{
+  "id": 1209812227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"79.08075,42.02896,79.08075,42.02896",
+    "geom:latitude":42.02896,
+    "geom:longitude":79.08075,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Engilchek",
+    "gn:country_code":"KG",
+    "gn:dem":2495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528345,
+    "gn:latitude":42.02896,
+    "gn:longitude":79.08075,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Engilchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0418\u043d\u044b\u043b\u044c\u0447\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Inyl\u2019chek"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043d\u044b\u043b\u044c\u0447\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Enil\u2019chek",
+        "Engil\u2019chek",
+        "Engilchek",
+        "Inyl\u2019chek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672983,
+        1091691455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528345
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"3e04ad7af088b22dfb6ee7354542152d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691455,
+            "locality_id":1209812227,
+            "region_id":85672983
+        }
+    ],
+    "wof:id":1209812227,
+    "wof:lastmodified":1537653158,
+    "wof:name":"Engilchek",
+    "wof:parent_id":1091691455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    79.08075,
+    42.02896,
+    79.08075,
+    42.02896
+],
+  "geometry": {"coordinates":[79.08074999999999,42.02896],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360192209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06534,41.00526,73.06534,41.00526",
+    "geom:latitude":41.00526,
+    "geom:longitude":73.06534,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kedey-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528332,
+    "gn:latitude":41.00526,
+    "gn:longitude":73.06534,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kedey-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0435\u0434\u0435\u0439-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0434\u0435\u0439-\u0410\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Gaday-Aryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528332
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"32a989effebad91081c54f7776db6791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1360192209,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360192209,
+    "wof:lastmodified":1537653158,
+    "wof:name":"Kedey-Aryk",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06534,
+    41.00526,
+    73.06534,
+    41.00526
+],
+  "geometry": {"coordinates":[73.06534000000001,41.00526],"type":"Point"}
+}

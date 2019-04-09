@@ -1,0 +1,79 @@
+{
+  "id": 1243178137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.98291,41.98608,74.98291,41.98608",
+    "geom:latitude":41.98608,
+    "geom:longitude":74.98291,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bazar-Turuk",
+    "gn:country_code":"KG",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064356,
+    "gn:latitude":41.98608,
+    "gn:longitude":74.98291,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Bazar-Turuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bazar-Turuk"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440-\u0422\u0443\u0440\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440\u0442\u0443\u0440\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bazarturuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064356
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e657cea8df617cc6a0bbea713e0b9bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1243178137,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1243178137,
+    "wof:lastmodified":1537653201,
+    "wof:name":"Bazar-Turuk",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.98291,
+    41.98608,
+    74.98291,
+    41.98608
+],
+  "geometry": {"coordinates":[74.98291,41.98608],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242978239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66119,41.54575,71.66119,41.54575",
+    "geom:latitude":41.54575,
+    "geom:longitude":71.66119,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ulan-Bulak",
+    "gn:country_code":"KG",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580285,
+    "gn:latitude":41.54575,
+    "gn:longitude":71.66119,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ulan-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ulan-Buloq"
+    ],
+    "name:kir_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580285
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"914e44755b12e7666430c37cd581a5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1242978239,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1242978239,
+    "wof:lastmodified":1537653192,
+    "wof:name":"Ulan-Bulak",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66119,
+    41.54575,
+    71.66119,
+    41.54575
+],
+  "geometry": {"coordinates":[71.66119,41.54575],"type":"Point"}
+}

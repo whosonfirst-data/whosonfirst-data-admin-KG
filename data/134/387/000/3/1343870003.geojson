@@ -1,0 +1,73 @@
+{
+  "id": 1343870003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21982,41.58054,72.21982,41.58054",
+    "geom:latitude":41.58054,
+    "geom:longitude":72.21982,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Korgontyube",
+    "gn:country_code":"KG",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134182,
+    "gn:latitude":41.58054,
+    "gn:longitude":72.21982,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Korgontyube",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Korgon-D\u00f6b\u00f6"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0433\u043e\u043d\u0442\u044e\u0431\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134182
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"75b28b321dc837beb999b34b6b59e3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690943,
+            "locality_id":1343870003,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1343870003,
+    "wof:lastmodified":1537653204,
+    "wof:name":"Korgontyube",
+    "wof:parent_id":1091690943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21982,
+    41.58054,
+    72.21982,
+    41.58054
+],
+  "geometry": {"coordinates":[72.21982,41.58054],"type":"Point"}
+}

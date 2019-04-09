@@ -1,0 +1,76 @@
+{
+  "id": 1343659607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39145,40.58175,72.39145,40.58175",
+    "geom:latitude":40.58175,
+    "geom:longitude":72.39145,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uygur-Abad",
+    "gn:country_code":"KG",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140019,
+    "gn:latitude":40.58175,
+    "gn:longitude":72.39145,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Uygur-Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0439\u0433\u0443\u0440-\u0410\u0431\u0430\u0434"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0439\u0433\u0443\u0440-\u0410\u0431\u0430\u0434"
+    ],
+    "name:uzb_x_preferred":[
+        "Uyg\u2018ur-Obod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140019
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bf6e9df54cb116d9594fa024410fb0ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690603,
+            "locality_id":1343659607,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343659607,
+    "wof:lastmodified":1537653227,
+    "wof:name":"Uygur-Abad",
+    "wof:parent_id":1091690603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39145,
+    40.58175,
+    72.39145,
+    40.58175
+],
+  "geometry": {"coordinates":[72.39145000000001,40.58175],"type":"Point"}
+}

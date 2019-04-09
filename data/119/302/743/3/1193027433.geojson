@@ -1,0 +1,73 @@
+{
+  "id": 1193027433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2155,41.28747,72.2155,41.28747",
+    "geom:latitude":41.28747,
+    "geom:longitude":72.2155,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kuduk-Say",
+    "gn:country_code":"KG",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134479,
+    "gn:latitude":41.28747,
+    "gn:longitude":72.2155,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Kuduk-Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u043a-\u0421\u0430\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0434\u0443\u043a-\u0421\u0430\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134479
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fe3dc3a066bccea37ce5f5a66cc85bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690981,
+            "locality_id":1193027433,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1193027433,
+    "wof:lastmodified":1537653208,
+    "wof:name":"Kuduk-Say",
+    "wof:parent_id":1091690981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2155,
+    41.28747,
+    72.2155,
+    41.28747
+],
+  "geometry": {"coordinates":[72.21550000000001,41.28747],"type":"Point"}
+}

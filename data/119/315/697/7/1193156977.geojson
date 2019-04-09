@@ -1,0 +1,73 @@
+{
+  "id": 1193156977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80875,39.94321,72.80875,39.94321",
+    "geom:latitude":39.94321,
+    "geom:longitude":72.80875,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ming-Teke",
+    "gn:country_code":"KG",
+    "gn:dem":2477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8392990,
+    "gn:latitude":39.94321,
+    "gn:longitude":72.80875,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Ming-Teke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041c\u044b\u04a3-\u0422\u044d\u043a\u044d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0433-\u0422\u0435\u043a\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8392990
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f984ca73175906f429e6c242c47e09c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1193156977,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1193156977,
+    "wof:lastmodified":1537653309,
+    "wof:name":"Ming-Teke",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80875,
+    39.94321,
+    72.80875,
+    39.94321
+],
+  "geometry": {"coordinates":[72.80875,39.94321],"type":"Point"}
+}

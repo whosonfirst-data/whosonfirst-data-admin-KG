@@ -1,0 +1,74 @@
+{
+  "id": 1327219311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.27357,40.318,72.27357,40.318",
+    "geom:latitude":40.318,
+    "geom:longitude":72.27357,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dodon",
+    "gn:country_code":"KG",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528457,
+    "gn:latitude":40.318,
+    "gn:longitude":72.27357,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Dodon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0434\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Dodan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528457,
+        "wk:page":"Dodan"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"daa5e78016822eb1857263be70f88bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1327219311,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327219311,
+    "wof:lastmodified":1537653164,
+    "wof:name":"Dodon",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.27356999999998,
+    40.31800000000001,
+    72.27356999999998,
+    40.31800000000001
+],
+  "geometry": {"coordinates":[72.27356999999998,40.31800000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260203403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.33336,40.78694,73.33336,40.78694",
+    "geom:latitude":40.78694,
+    "geom:longitude":73.33336,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Progres",
+    "gn:country_code":"KG",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174022,
+    "gn:latitude":40.78694,
+    "gn:longitude":73.33336,
+    "gn:modification_date":"2015-05-23",
+    "gn:name":"Progres",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174022
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c033fa9b8125fdb9ef84ecbd6fc3fca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1260203403,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1260203403,
+    "wof:lastmodified":1537653244,
+    "wof:name":"Progres",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.33336,
+    40.78694,
+    73.33336,
+    40.78694
+],
+  "geometry": {"coordinates":[73.33336,40.78694],"type":"Point"}
+}

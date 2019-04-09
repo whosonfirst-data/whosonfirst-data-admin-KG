@@ -1,0 +1,74 @@
+{
+  "id": 1310117699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5751,41.90072,73.5751,41.90072",
+    "geom:latitude":41.90072,
+    "geom:longitude":73.5751,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Toluk",
+    "gn:country_code":"KG",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527190,
+    "gn:latitude":41.90072,
+    "gn:longitude":73.5751,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Toluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043b\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527190,
+        "wk:page":"Toluk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"40918bbe5e86881eebdafb9dcc684dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1310117699,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1310117699,
+    "wof:lastmodified":1537653110,
+    "wof:name":"Toluk",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5751,
+    41.90072,
+    73.5751,
+    41.90072
+],
+  "geometry": {"coordinates":[73.57510000000001,41.90072],"type":"Point"}
+}

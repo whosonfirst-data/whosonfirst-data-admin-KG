@@ -1,0 +1,73 @@
+{
+  "id": 1209109523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.34217,42.85474,74.34217,42.85474",
+    "geom:latitude":42.85474,
+    "geom:longitude":74.34217,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shopokov",
+    "gn:country_code":"KG",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527370,
+    "gn:latitude":42.85474,
+    "gn:longitude":74.34217,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Shopokov",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Shopokov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043f\u043e\u043a\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Krasnooktyabr\u2019skiy",
+        "Novo-Troitskoye",
+        "Shopokov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527370,
+        "wk:page":"Shopokov"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4567c51a491f6e4b1e84765d11c11dd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209109523
+        }
+    ],
+    "wof:id":1209109523,
+    "wof:lastmodified":1537653117,
+    "wof:name":"Shopokov",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.34217,
+    42.85474,
+    74.34217,
+    42.85474
+],
+  "geometry": {"coordinates":[74.34217,42.85474],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310525445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.04887,41.50689,76.04887,41.50689",
+    "geom:latitude":41.50689,
+    "geom:longitude":76.04887,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Leninchildzhash",
+    "gn:country_code":"KG",
+    "gn:dem":2411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8066519,
+    "gn:latitude":41.50689,
+    "gn:longitude":76.04887,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Leninchildzhash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:kir_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0447\u0438\u043b\u0434\u0436\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u0447\u0438\u043b\u0434\u0436\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8066519
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"b3810c1ae64660efd18d714c895c5662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691221,
+            "locality_id":1310525445,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1310525445,
+    "wof:lastmodified":1537653203,
+    "wof:name":"Leninchildzhash",
+    "wof:parent_id":1091691221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.04887,
+    41.50689000000001,
+    76.04887,
+    41.50689000000001
+],
+  "geometry": {"coordinates":[76.04886999999999,41.50689000000001],"type":"Point"}
+}

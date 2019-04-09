@@ -1,0 +1,73 @@
+{
+  "id": 1226749395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00591,40.89195,73.00591,40.89195",
+    "geom:latitude":40.89195,
+    "geom:longitude":73.00591,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Komsomol",
+    "gn:country_code":"KG",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8134199,
+    "gn:latitude":40.89195,
+    "gn:longitude":73.00591,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Komsomol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Komsomol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8134199
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"4c3c3d9aafcdffa3d7d49aaf3aee14dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691053,
+            "locality_id":1226749395,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1226749395,
+    "wof:lastmodified":1537653206,
+    "wof:name":"Komsomol",
+    "wof:parent_id":1091691053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00591,
+    40.89195,
+    73.00591,
+    40.89195
+],
+  "geometry": {"coordinates":[73.00591,40.89195],"type":"Point"}
+}

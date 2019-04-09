@@ -1,0 +1,73 @@
+{
+  "id": 1326827027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19485,40.50135,73.19485,40.50135",
+    "geom:latitude":40.50135,
+    "geom:longitude":73.19485,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Beyshe-Uulu",
+    "gn:country_code":"KG",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144826,
+    "gn:latitude":40.50135,
+    "gn:longitude":73.19485,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Beyshe-Uulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0439\u0448\u0435-\u0423\u0443\u043b\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u0448\u0435-\u0423\u0443\u043b\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144826
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"be0a5bd2795724aa777d0d216523623b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690705,
+            "locality_id":1326827027,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1326827027,
+    "wof:lastmodified":1537653238,
+    "wof:name":"Beyshe-Uulu",
+    "wof:parent_id":1091690705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19485,
+    40.50135,
+    73.19485,
+    40.50135
+],
+  "geometry": {"coordinates":[73.19485,40.50135],"type":"Point"}
+}

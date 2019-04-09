@@ -1,0 +1,73 @@
+{
+  "id": 1226769927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26083,40.43428,73.26083,40.43428",
+    "geom:latitude":40.43428,
+    "geom:longitude":73.26083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kyzyl-Suu",
+    "gn:country_code":"KG",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144384,
+    "gn:latitude":40.43428,
+    "gn:longitude":73.26083,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kyzyl-Suu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0421\u0443\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0421\u0443\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144384
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"9426ead8b7fd9b07325d552bfd4900c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690751,
+            "locality_id":1226769927,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1226769927,
+    "wof:lastmodified":1537653236,
+    "wof:name":"Kyzyl-Suu",
+    "wof:parent_id":1091690751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26083,
+    40.43428,
+    73.26083,
+    40.43428
+],
+  "geometry": {"coordinates":[73.26083,40.43428],"type":"Point"}
+}

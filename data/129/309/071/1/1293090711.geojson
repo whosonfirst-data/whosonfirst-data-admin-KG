@@ -1,0 +1,73 @@
+{
+  "id": 1293090711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61972,40.03911,71.61972,40.03911",
+    "geom:latitude":40.03911,
+    "geom:longitude":71.61972,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kuldu",
+    "gn:country_code":"KG",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376300,
+    "gn:latitude":40.03911,
+    "gn:longitude":71.61972,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Kuldu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0443\u043b\u0434\u0443"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b\u0434\u0443"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376300
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"8b82630a979783da3cc76062e7301dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1293090711,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1293090711,
+    "wof:lastmodified":1537653299,
+    "wof:name":"Kuldu",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61972,
+    40.03911,
+    71.61972,
+    40.03911
+],
+  "geometry": {"coordinates":[71.61972,40.03911],"type":"Point"}
+}

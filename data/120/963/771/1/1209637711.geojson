@@ -1,0 +1,70 @@
+{
+  "id": 1209637711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08949,40.43134,74.08949,40.43134",
+    "geom:latitude":40.43134,
+    "geom:longitude":74.08949,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhon Pervyy",
+    "gn:country_code":"KG",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8403988,
+    "gn:latitude":40.43134,
+    "gn:longitude":74.08949,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Dzhon Pervyy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Chong-Jon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d \u041f\u0435\u0440\u0432\u044b\u0439"
+    ],
+    "name:und_x_variant":[
+        "Chon-Dzhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8403988
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f87bb2a85ab92d0fecff688fa3eac27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632761,
+            "locality_id":1209637711
+        }
+    ],
+    "wof:id":1209637711,
+    "wof:lastmodified":1537653311,
+    "wof:name":"Dzhon Pervyy",
+    "wof:parent_id":85632761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08949,
+    40.43134000000001,
+    74.08949,
+    40.43134000000001
+],
+  "geometry": {"coordinates":[74.08949,40.43134000000001],"type":"Point"}
+}

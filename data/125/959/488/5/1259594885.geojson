@@ -1,0 +1,73 @@
+{
+  "id": 1259594885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41976,41.7084,73.41976,41.7084",
+    "geom:latitude":41.7084,
+    "geom:longitude":73.41976,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dzhar-Tash",
+    "gn:country_code":"KG",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208318,
+    "gn:latitude":41.7084,
+    "gn:longitude":73.41976,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Dzhar-Tash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u0440-\u0422\u0430\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440-\u0422\u0430\u0448"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208318
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"117c2137c5b649cebd9114d7569c190b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690815,
+            "locality_id":1259594885,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1259594885,
+    "wof:lastmodified":1537653261,
+    "wof:name":"Dzhar-Tash",
+    "wof:parent_id":1091690815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41976,
+    41.7084,
+    73.41976,
+    41.7084
+],
+  "geometry": {"coordinates":[73.41976,41.7084],"type":"Point"}
+}

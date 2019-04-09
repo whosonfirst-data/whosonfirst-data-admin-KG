@@ -1,0 +1,73 @@
+{
+  "id": 1343383509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79271,40.49195,73.79271,40.49195",
+    "geom:latitude":40.49195,
+    "geom:longitude":73.79271,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Uryuk",
+    "gn:country_code":"KG",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142549,
+    "gn:latitude":40.49195,
+    "gn:longitude":73.79271,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Uryuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0440\u044e\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u044e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142549
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"f0d074a9c77c0e7560a95647b77d1dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690665,
+            "locality_id":1343383509,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1343383509,
+    "wof:lastmodified":1537653231,
+    "wof:name":"Uryuk",
+    "wof:parent_id":1091690665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79271,
+    40.49195,
+    73.79271,
+    40.49195
+],
+  "geometry": {"coordinates":[73.79271,40.49195],"type":"Point"}
+}

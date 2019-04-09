@@ -1,0 +1,82 @@
+{
+  "id": 1276556501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.21633,42.7506,75.21633,42.7506",
+    "geom:latitude":42.7506,
+    "geom:longitude":75.21633,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dong-Aryk",
+    "gn:country_code":"KG",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528451,
+    "gn:latitude":42.7506,
+    "gn:longitude":75.21633,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"D\u00f6ng-Aryk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0414\u04e9\u04a3-\u0410\u0440\u044b\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "D\u00ebn-Aryk"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0451\u043d-\u0410\u0440\u044b\u043a"
+    ],
+    "name:und_x_variant":[
+        "Don-Aryk",
+        "D\u00f6ng-Aryk",
+        "D\u00ebn-Aryk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528451,
+        "wk:page":"Don-Aryk"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ec1dd4983b1d262063da8c7823a10eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691731,
+            "locality_id":1276556501,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1276556501,
+    "wof:lastmodified":1537653164,
+    "wof:name":"Dong-Aryk",
+    "wof:parent_id":1091691731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.21633,
+    42.7506,
+    75.21633,
+    42.7506
+],
+  "geometry": {"coordinates":[75.21633,42.7506],"type":"Point"}
+}

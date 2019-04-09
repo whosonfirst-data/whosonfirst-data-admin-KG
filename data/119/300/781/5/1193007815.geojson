@@ -1,0 +1,77 @@
+{
+  "id": 1193007815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.714,40.09336,71.714,40.09336",
+    "geom:latitude":40.09336,
+    "geom:longitude":71.714,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"1222671",
+    "gn:asciiname":"Dzhyydelik",
+    "gn:country_code":"KG",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376210,
+    "gn:latitude":40.09336,
+    "gn:longitude":71.714,
+    "gn:modification_date":"2015-05-31",
+    "gn:name":"Dzhyydelik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0416\u0438\u0439\u0434\u0435\u043b\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u044b\u0439\u0434\u0435\u043b\u0438\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Jiydelik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672995,
+        1091690479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376210
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"60b41070d51f8cf6e3f66a6c31e5bb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690479,
+            "locality_id":1193007815,
+            "region_id":85672995
+        }
+    ],
+    "wof:id":1193007815,
+    "wof:lastmodified":1537653296,
+    "wof:name":"Dzhyydelik",
+    "wof:parent_id":1091690479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.714,
+    40.09336,
+    71.714,
+    40.09336
+],
+  "geometry": {"coordinates":[71.714,40.09336],"type":"Point"}
+}

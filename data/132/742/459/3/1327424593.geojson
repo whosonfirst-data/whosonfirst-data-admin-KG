@@ -1,0 +1,73 @@
+{
+  "id": 1327424593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.43965,40.58666,72.43965,40.58666",
+    "geom:latitude":40.58666,
+    "geom:longitude":72.43965,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Langar",
+    "gn:country_code":"KG",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140022,
+    "gn:latitude":40.58666,
+    "gn:longitude":72.43965,
+    "gn:modification_date":"2015-05-27",
+    "gn:name":"Langar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041b\u0430\u04a3\u0430\u0440"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140022
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c059e95113b4ea657bb461be25baad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690603,
+            "locality_id":1327424593,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1327424593,
+    "wof:lastmodified":1537653227,
+    "wof:name":"Langar",
+    "wof:parent_id":1091690603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.43965,
+    40.58666,
+    72.43965,
+    40.58666
+],
+  "geometry": {"coordinates":[72.43965,40.58666],"type":"Point"}
+}

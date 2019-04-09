@@ -1,0 +1,73 @@
+{
+  "id": 1310011827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.94165,41.97322,74.94165,41.97322",
+    "geom:latitude":41.97322,
+    "geom:longitude":74.94165,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Karachiy",
+    "gn:country_code":"KG",
+    "gn:dem":2094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198498,
+    "gn:latitude":41.97322,
+    "gn:longitude":74.94165,
+    "gn:modification_date":"2015-05-26",
+    "gn:name":"Karachiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0427\u0438\u0439"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0438\u0439"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198498
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"ebae76c5743ec543932755f1021e2232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691101,
+            "locality_id":1310011827,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1310011827,
+    "wof:lastmodified":1537653260,
+    "wof:name":"Karachiy",
+    "wof:parent_id":1091691101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.94165,
+    41.97322,
+    74.94165,
+    41.97322
+],
+  "geometry": {"coordinates":[74.94165,41.97322],"type":"Point"}
+}

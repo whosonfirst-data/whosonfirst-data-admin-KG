@@ -1,0 +1,76 @@
+{
+  "id": 1310391101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.76391,40.24748,72.76391,40.24748",
+    "geom:latitude":40.24748,
+    "geom:longitude":72.76391,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzhany-Bazar",
+    "gn:country_code":"KG",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139583,
+    "gn:latitude":40.24748,
+    "gn:longitude":72.76391,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dzhany-Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Jangy-Bazar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u044b-\u0411\u0430\u0437\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Jangy-Bazar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139583
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"08879be23539c7e3399b389984f1a38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1310391101,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1310391101,
+    "wof:lastmodified":1537653220,
+    "wof:name":"Dzhany-Bazar",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.76391,
+    40.24748,
+    72.76391,
+    40.24748
+],
+  "geometry": {"coordinates":[72.76391,40.24748],"type":"Point"}
+}

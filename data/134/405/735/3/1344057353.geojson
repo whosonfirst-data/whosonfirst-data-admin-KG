@@ -1,0 +1,70 @@
+{
+  "id": 1344057353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.45464,41.21738,76.45464,41.21738",
+    "geom:latitude":41.21738,
+    "geom:longitude":76.45464,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Besh-Belchir",
+    "gn:country_code":"KG",
+    "gn:dem":2713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8065789,
+    "gn:latitude":41.21738,
+    "gn:longitude":76.45464,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Besh-Belchir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0448-\u0411\u0435\u043b\u0447\u0438\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8065789
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"fbd429c7b820c74ea40281fe5c7b92a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691813,
+            "locality_id":1344057353,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1344057353,
+    "wof:lastmodified":1537653202,
+    "wof:name":"Besh-Belchir",
+    "wof:parent_id":1091691813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.45464,
+    41.21738,
+    76.45464,
+    41.21738
+],
+  "geometry": {"coordinates":[76.45464,41.21738],"type":"Point"}
+}

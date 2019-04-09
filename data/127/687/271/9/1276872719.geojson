@@ -1,0 +1,76 @@
+{
+  "id": 1276872719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.59134,42.20055,75.59134,42.20055",
+    "geom:latitude":42.20055,
+    "geom:longitude":75.59134,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chikil'dek",
+    "gn:country_code":"KG",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328295,
+    "gn:latitude":42.20055,
+    "gn:longitude":75.59134,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Chikil\u2019dek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0427\u0438\u043a\u0438\u043b\u044c\u0434\u0435\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "Chikil\u2019dek"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0438\u043a\u0438\u043b\u044c\u0434\u0435\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328295
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"bcaa0d1a80535257e304d038e9990e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691143,
+            "locality_id":1276872719,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1276872719,
+    "wof:lastmodified":1537653285,
+    "wof:name":"Chikil'dek",
+    "wof:parent_id":1091691143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.59134,
+    42.20055,
+    75.59134,
+    42.20055
+],
+  "geometry": {"coordinates":[75.59134,42.20055],"type":"Point"}
+}

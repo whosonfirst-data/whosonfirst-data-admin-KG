@@ -1,0 +1,73 @@
+{
+  "id": 1225852321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8262,41.31731,73.8262,41.31731",
+    "geom:latitude":41.31731,
+    "geom:longitude":73.8262,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Imeni Karla-Marksa",
+    "gn:country_code":"KG",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1528289,
+    "gn:latitude":41.31731,
+    "gn:longitude":73.8262,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Imeni Karla-Marksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u0440\u043b\u0430-\u041c\u0430\u0440\u043a\u0441\u0430"
+    ],
+    "name:und_x_variant":[
+        "Imeni Molotova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1528289
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"d67ea7ef67ff2c69c3c0f7430d294477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690861,
+            "locality_id":1225852321,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1225852321,
+    "wof:lastmodified":1537653155,
+    "wof:name":"Imeni Karla-Marksa",
+    "wof:parent_id":1091690861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8262,
+    41.31731,
+    73.8262,
+    41.31731
+],
+  "geometry": {"coordinates":[73.8262,41.31731],"type":"Point"}
+}

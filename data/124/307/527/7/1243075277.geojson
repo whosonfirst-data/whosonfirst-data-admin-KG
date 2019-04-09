@@ -1,0 +1,80 @@
+{
+  "id": 1243075277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38315,41.17685,71.38315,41.17685",
+    "geom:latitude":41.17685,
+    "geom:longitude":71.38315,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ajek",
+    "gn:country_code":"KG",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580833,
+    "gn:latitude":41.17685,
+    "gn:longitude":71.38315,
+    "gn:modification_date":"2015-05-24",
+    "gn:name":"Ajek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0410\u0436\u0435\u043a"
+    ],
+    "name:rus_x_historical":[
+        "Uchastok Nomer Shest\u2019 Sovkhoz Komsomol",
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041d\u043e\u043c\u0435\u0440 \u0428\u0435\u0441\u0442\u044c \u0421\u043e\u0432\u0445\u043e\u0437 \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "Uchastok Nomer Shest\u2019 Sovkhoz Komsomol"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u0447\u0430\u0441\u0442\u043e\u043a \u041d\u043e\u043c\u0435\u0440 \u0428\u0435\u0441\u0442\u044c \u0421\u043e\u0432\u0445\u043e\u0437 \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091690903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580833
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"cf47e4f19ad0729ea5ca755430b9a64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690903,
+            "locality_id":1243075277,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1243075277,
+    "wof:lastmodified":1537653194,
+    "wof:name":"Ajek",
+    "wof:parent_id":1091690903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38315,
+    41.17685,
+    71.38315,
+    41.17685
+],
+  "geometry": {"coordinates":[71.38315,41.17685],"type":"Point"}
+}

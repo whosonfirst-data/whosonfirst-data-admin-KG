@@ -1,0 +1,77 @@
+{
+  "id": 1259707859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.70431,41.21809,74.70431,41.21809",
+    "geom:latitude":41.21809,
+    "geom:longitude":74.70431,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uzgorysh",
+    "gn:country_code":"KG",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527050,
+    "gn:latitude":41.21809,
+    "gn:longitude":74.70431,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Uzgorysh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0423\u0437\u0433\u043e\u0440\u044b\u0448"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0437\u0433\u043e\u0440\u044b\u0448"
+    ],
+    "name:und_x_variant":[
+        "Kara-Burgen",
+        "Kara-Burga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672987,
+        1091691175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527050
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"c542552c3f9aae8c2b237b2704251e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691175,
+            "locality_id":1259707859,
+            "region_id":85672987
+        }
+    ],
+    "wof:id":1259707859,
+    "wof:lastmodified":1537653106,
+    "wof:name":"Uzgorysh",
+    "wof:parent_id":1091691175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.70430999999998,
+    41.21809,
+    74.70430999999998,
+    41.21809
+],
+  "geometry": {"coordinates":[74.70430999999998,41.21809],"type":"Point"}
+}

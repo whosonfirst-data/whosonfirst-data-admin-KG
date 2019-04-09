@@ -1,0 +1,77 @@
+{
+  "id": 1276426573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34653,40.3203,72.34653,40.3203",
+    "geom:latitude":40.3203,
+    "geom:longitude":72.34653,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nayman",
+    "gn:country_code":"KG",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1527585,
+    "gn:latitude":40.3203,
+    "gn:longitude":72.34653,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Nayman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Nayman"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0438\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Naiman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673005,
+        1091690641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1527585,
+        "wk:page":"Nayman"
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"7425c429c812c06d4fd42b19f5159514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690641,
+            "locality_id":1276426573,
+            "region_id":85673005
+        }
+    ],
+    "wof:id":1276426573,
+    "wof:lastmodified":1537653128,
+    "wof:name":"Nayman",
+    "wof:parent_id":1091690641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34653,
+    40.3203,
+    72.34653,
+    40.3203
+],
+  "geometry": {"coordinates":[72.34653,40.3203],"type":"Point"}
+}

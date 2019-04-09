@@ -1,0 +1,66 @@
+{
+  "id": 1360304035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.7325,41.06278,72.7325,41.06278",
+    "geom:latitude":41.06278,
+    "geom:longitude":72.7325,
+    "gn:asciiname":"Alykulova",
+    "gn:country_code":"KG",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335082,
+    "gn:latitude":41.06278,
+    "gn:longitude":72.7325,
+    "gn:modification_date":"2012-06-14",
+    "gn:name":"Alykulova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672997,
+        1091691031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335082
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"6b821b17a6c5c92d1a7fe7f673f5a7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691031,
+            "locality_id":1360304035,
+            "region_id":85672997
+        }
+    ],
+    "wof:id":1360304035,
+    "wof:lastmodified":1536628029,
+    "wof:name":"Alykulova",
+    "wof:parent_id":1091691031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.7325,
+    41.06278,
+    72.7325,
+    41.06278
+],
+  "geometry": {"coordinates":[72.7325,41.06278],"type":"Point"}
+}

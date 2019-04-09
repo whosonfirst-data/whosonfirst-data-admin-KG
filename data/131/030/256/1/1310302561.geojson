@@ -1,0 +1,73 @@
+{
+  "id": 1310302561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.05684,42.51848,72.05684,42.51848",
+    "geom:latitude":42.51848,
+    "geom:longitude":72.05684,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Beshbulak",
+    "gn:country_code":"KG",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8272570,
+    "gn:latitude":42.51848,
+    "gn:longitude":72.05684,
+    "gn:modification_date":"2015-05-25",
+    "gn:name":"Beshbulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u0448\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85673003,
+        1091690161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8272570
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"336ad0c92cda90601e96a584e245e34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091690161,
+            "locality_id":1310302561,
+            "region_id":85673003
+        }
+    ],
+    "wof:id":1310302561,
+    "wof:lastmodified":1537653281,
+    "wof:name":"Beshbulak",
+    "wof:parent_id":1091690161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.05684000000002,
+    42.51848,
+    72.05684000000002,
+    42.51848
+],
+  "geometry": {"coordinates":[72.05684000000002,42.51848],"type":"Point"}
+}

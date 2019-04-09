@@ -1,0 +1,73 @@
+{
+  "id": 1243366593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.95263,42.20202,73.95263,42.20202",
+    "geom:latitude":42.20202,
+    "geom:longitude":73.95263,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tunuk",
+    "gn:country_code":"KG",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8064056,
+    "gn:latitude":42.20202,
+    "gn:longitude":73.95263,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tunuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bishkek",
+    "iso:country":"KG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "Tunuk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043d\u0443\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632761,
+        85672981,
+        1091691555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8064056
+    },
+    "wof:country":"KG",
+    "wof:geomhash":"e9c010a96aa25b105ad6c5c7f06ef865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632761,
+            "county_id":1091691555,
+            "locality_id":1243366593,
+            "region_id":85672981
+        }
+    ],
+    "wof:id":1243366593,
+    "wof:lastmodified":1537653200,
+    "wof:name":"Tunuk",
+    "wof:parent_id":1091691555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.95263,
+    42.20202000000001,
+    73.95263,
+    42.20202000000001
+],
+  "geometry": {"coordinates":[73.95263,42.20202000000001],"type":"Point"}
+}
