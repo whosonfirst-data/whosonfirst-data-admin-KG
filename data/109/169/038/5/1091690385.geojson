@@ -10,6 +10,12 @@
     "geom:latitude":39.86081,
     "geom:longitude":69.789239,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Leilek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.822174,
     "lbl:longitude":69.842545,
     "meso:admin1_loc":"\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430\u044f",
@@ -29,6 +35,9 @@
     "mps:longitude":69.842545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Leilek"
+    ],
     "name:eng_x_variant":[
         "Leylek",
         "Lailak"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091690385,
-    "wof:lastmodified":1536614930,
+    "wof:lastmodified":1555220356,
     "wof:name":"Leilek",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":41.247277,
     "geom:longitude":72.497852,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Nooken District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.121459,
     "lbl:longitude":72.567228,
     "meso:admin1_loc":"\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u0441\u043a\u0430\u044f",
@@ -39,9 +45,10 @@
         "Nooken District"
     ],
     "name:eng_x_preferred":[
-        "Nooken District"
+        "Nooken"
     ],
     "name:eng_x_variant":[
+        "Nooken",
         "Nooken"
     ],
     "name:geo_x_preferred":[
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":1091690981,
-    "wof:lastmodified":1536614932,
+    "wof:lastmodified":1555220356,
     "wof:name":"Nooken",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

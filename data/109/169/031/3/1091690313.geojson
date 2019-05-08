@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114945,
-    "geom:area_square_m":1044195775.78532,
+    "geom:area_square_m":1044195775.785418,
     "geom:bbox":"71.331627829,42.54739957,72.151502139,42.840583533",
     "geom:latitude":42.721109,
     "geom:longitude":71.796964,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Manas District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.737071,
     "lbl:longitude":71.831094,
     "meso:admin1_loc":"\u0422\u0430\u043b\u0430\u0441\u0441\u043a\u0430\u044f",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1091690313,
-    "wof:lastmodified":1553816437,
+    "wof:lastmodified":1555037706,
     "wof:name":"Manas",
     "wof:parent_id":85673003,
     "wof:placetype":"county",

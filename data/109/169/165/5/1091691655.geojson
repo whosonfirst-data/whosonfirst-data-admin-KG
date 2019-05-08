@@ -10,6 +10,12 @@
     "geom:latitude":42.733218,
     "geom:longitude":74.593763,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Alamudun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.617863,
     "lbl:longitude":74.597599,
     "meso:admin1_loc":"\u0427\u0443\u0439\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091691655,
-    "wof:lastmodified":1536614934,
+    "wof:lastmodified":1553717902,
     "wof:name":"Alamudun",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

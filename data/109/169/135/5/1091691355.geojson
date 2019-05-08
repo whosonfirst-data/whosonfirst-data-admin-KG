@@ -10,6 +10,12 @@
     "geom:latitude":41.818341,
     "geom:longitude":78.124513,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Jeti-Oguz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.850537,
     "lbl:longitude":78.049551,
     "meso:admin1_loc":"\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091691355,
-    "wof:lastmodified":1536614933,
+    "wof:lastmodified":1553717901,
     "wof:name":"Jeti-Oguz",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

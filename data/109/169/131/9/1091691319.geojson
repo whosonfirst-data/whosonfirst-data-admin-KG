@@ -10,6 +10,12 @@
     "geom:latitude":42.030779,
     "geom:longitude":76.709237,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Ton District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.867321,
     "lbl:longitude":77.021221,
     "meso:admin1_loc":"\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091691319,
-    "wof:lastmodified":1536614933,
+    "wof:lastmodified":1553717901,
     "wof:name":"Ton",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":40.246398,
     "geom:longitude":72.134999,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Kyzyl-Kia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.244183,
     "lbl:longitude":72.138684,
     "meso:admin1_loc":"\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430\u044f",
@@ -29,6 +35,9 @@
     "mps:longitude":72.138684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kyzyl-Kia"
+    ],
     "name:eng_x_variant":[
         "Kadamjay",
         "Kadamjai"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1091692173,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1555220357,
     "wof:name":"Kyzyl-Kia",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

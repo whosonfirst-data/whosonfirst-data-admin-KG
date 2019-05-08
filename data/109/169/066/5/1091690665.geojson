@@ -10,6 +10,12 @@
     "geom:latitude":40.454343,
     "geom:longitude":74.112899,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Kara-Kulja District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.406145,
     "lbl:longitude":74.124483,
     "meso:admin1_loc":"\u041e\u0448\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091690665,
-    "wof:lastmodified":1536614931,
+    "wof:lastmodified":1553717900,
     "wof:name":"Kara-Kulja",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

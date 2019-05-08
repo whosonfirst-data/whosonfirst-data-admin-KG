@@ -10,6 +10,12 @@
     "geom:latitude":42.347404,
     "geom:longitude":71.947748,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Bakai-Ata District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.360341,
     "lbl:longitude":71.94221,
     "meso:admin1_loc":"\u0422\u0430\u043b\u0430\u0441\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091690161,
-    "wof:lastmodified":1536614930,
+    "wof:lastmodified":1553717900,
     "wof:name":"Bakai-Ata",
     "wof:parent_id":85673003,
     "wof:placetype":"county",

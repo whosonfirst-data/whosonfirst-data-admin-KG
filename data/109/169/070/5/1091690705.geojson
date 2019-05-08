@@ -10,6 +10,12 @@
     "geom:latitude":40.830411,
     "geom:longitude":73.588053,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Uzgen District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.836743,
     "lbl:longitude":73.579079,
     "meso:admin1_loc":"\u041e\u0448\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091690705,
-    "wof:lastmodified":1536614931,
+    "wof:lastmodified":1553717899,
     "wof:name":"Uzgen",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

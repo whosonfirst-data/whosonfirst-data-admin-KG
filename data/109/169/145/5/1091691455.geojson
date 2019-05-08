@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.041534,
-    "geom:area_square_m":9530504156.964165,
+    "geom:area_square_m":9530504156.963577,
     "geom:bbox":"78.23800036,41.824943564,80.226452287,42.745141754",
     "geom:latitude":42.266799,
     "geom:longitude":79.193907,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Ak-Suu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.335187,
     "lbl:longitude":78.859104,
     "meso:admin1_loc":"\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
@@ -36,9 +42,10 @@
         "Ak-Suu District"
     ],
     "name:eng_x_preferred":[
-        "Ak-Suu District"
+        "Ak-Suu"
     ],
     "name:eng_x_variant":[
+        "Ak-Suu",
         "Ak-Suu"
     ],
     "name:geo_x_preferred":[
@@ -104,7 +111,7 @@
         }
     ],
     "wof:id":1091691455,
-    "wof:lastmodified":1553816437,
+    "wof:lastmodified":1555220357,
     "wof:name":"Ak-Suu",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

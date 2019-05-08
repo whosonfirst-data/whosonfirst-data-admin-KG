@@ -10,6 +10,12 @@
     "geom:latitude":41.281503,
     "geom:longitude":72.461102,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Mailuu-Suu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.277867,
     "lbl:longitude":72.459502,
     "meso:admin1_loc":"\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u0441\u043a\u0430\u044f",
@@ -39,10 +45,11 @@
         "Nooken District"
     ],
     "name:eng_x_preferred":[
-        "Nooken District"
+        "Mailuu-Suu"
     ],
     "name:eng_x_variant":[
-        "Nooken"
+        "Nooken",
+        "Mailuu-Suu"
     ],
     "name:geo_x_preferred":[
         "\u10dc\u10dd\u10dd\u10d9\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":1091692051,
-    "wof:lastmodified":1536614935,
+    "wof:lastmodified":1555220357,
     "wof:name":"Mailuu-Suu",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

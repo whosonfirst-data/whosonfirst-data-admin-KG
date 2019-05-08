@@ -10,6 +10,12 @@
     "geom:latitude":40.905478,
     "geom:longitude":76.001503,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Ak-Bashy District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.871485,
     "lbl:longitude":76.128787,
     "meso:admin1_loc":"\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091691813,
-    "wof:lastmodified":1536614934,
+    "wof:lastmodified":1553717904,
     "wof:name":"Ak-Bashy",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

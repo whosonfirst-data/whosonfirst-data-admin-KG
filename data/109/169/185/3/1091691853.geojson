@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005225,
-    "geom:area_square_m":47632691.629325,
+    "geom:area_square_m":47632691.629329,
     "geom:bbox":"78.273541307,42.436789877,78.485051187,42.587463982",
     "geom:latitude":42.500703,
     "geom:longitude":78.386395,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Karakol District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.49447,
     "lbl:longitude":78.392225,
     "meso:admin1_loc":"\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
@@ -36,10 +42,11 @@
         "Ak-Suu District"
     ],
     "name:eng_x_preferred":[
-        "Ak-Suu District"
+        "Karakol"
     ],
     "name:eng_x_variant":[
-        "Ak-Suu"
+        "Ak-Suu",
+        "Karakol"
     ],
     "name:geo_x_preferred":[
         "\u10d0\u10e5-\u10e1\u10e3\u10e3\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
@@ -104,7 +111,7 @@
         }
     ],
     "wof:id":1091691853,
-    "wof:lastmodified":1553816437,
+    "wof:lastmodified":1555220357,
     "wof:name":"Karakol",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

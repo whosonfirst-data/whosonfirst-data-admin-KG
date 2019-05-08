@@ -10,6 +10,12 @@
     "geom:latitude":42.710515,
     "geom:longitude":74.916715,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Ysyk-Ata District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":42.722823,
     "lbl:longitude":74.941353,
     "meso:admin1_loc":"\u0427\u0443\u0439\u0441\u043a\u0430\u044f",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1091691689,
-    "wof:lastmodified":1536614934,
+    "wof:lastmodified":1553717902,
     "wof:name":"Ysyk-Ata",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

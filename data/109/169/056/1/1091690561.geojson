@@ -10,6 +10,12 @@
     "geom:latitude":39.854179,
     "geom:longitude":73.45946,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Alai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.791177,
     "lbl:longitude":73.520015,
     "meso:admin1_loc":"\u041e\u0448\u0441\u043a\u0430\u044f",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091690561,
-    "wof:lastmodified":1536614931,
+    "wof:lastmodified":1553717900,
     "wof:name":"Alai",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

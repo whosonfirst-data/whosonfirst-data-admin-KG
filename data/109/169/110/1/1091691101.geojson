@@ -10,6 +10,12 @@
     "geom:latitude":41.891182,
     "geom:longitude":74.538148,
     "iso:country":"KG",
+    "label:eng_x_preferred_longname":[
+        "Jumgal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.920094,
     "lbl:longitude":74.610035,
     "meso:admin1_loc":"\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1091691101,
-    "wof:lastmodified":1536614932,
+    "wof:lastmodified":1553717901,
     "wof:name":"Jumgal",
     "wof:parent_id":85672987,
     "wof:placetype":"county",
