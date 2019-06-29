@@ -14,17 +14,11 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u056f\u057f\u0578\u0563\u0578\u0582\u056c"
-    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u06c6\u0642\u062a\u06c6\u063a\u0648\u0644"
-    ],
-    "name:dut_x_preferred":[
-        "Toktogul"
     ],
     "name:eng_x_preferred":[
         "Toktogul"
@@ -35,14 +29,14 @@
     "name:fas_x_preferred":[
         "\u062a\u0627\u06a9\u062a\u0627\u06af\u0648\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0642\u062a\u0648\u063a\u0648\u0644\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Toktogul"
     ],
-    "name:fre_x_preferred":[
-        "Toktogul"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10e5\u10e2\u10dd\u10d2\u10e3\u10da\u10d8"
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u056f\u057f\u0578\u0563\u0578\u0582\u056c"
     ],
     "name:ita_x_preferred":[
         "Toktogul"
@@ -50,11 +44,14 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30af\u30c8\u30b0\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10e5\u10e2\u10dd\u10d2\u10e3\u10da\u10d8"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0642\u062a\u0648\u063a\u0648\u0644\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Toktogul"
     ],
     "name:pol_x_preferred":[
         "Toktogu\u0142"
@@ -217,7 +214,7 @@
         }
     ],
     "wof:id":421195445,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561777420,
     "wof:name":"Toktogul",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

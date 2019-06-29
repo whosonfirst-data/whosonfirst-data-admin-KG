@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0634 \u0623\u0648\u0628\u0644\u0627\u0633\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0555\u0577\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "O\u015f vilay\u0259ti"
     ],
@@ -54,17 +51,17 @@
     "name:che_x_preferred":[
         "\u041e\u0448\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u4ec0\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Osh Region"
+    ],
+    "name:deu_x_preferred":[
+        "Gebiet Osch"
     ],
     "name:diq_x_preferred":[
         "O\u015f"
     ],
-    "name:dut_x_preferred":[
-        "Osj"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039f\u03c2"
     ],
     "name:eng_x_preferred":[
         "Osh"
@@ -75,23 +72,17 @@
     "name:est_x_preferred":[
         "O\u0161i oblast"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0634"
+    ],
     "name:fin_x_preferred":[
         "O\u0161in alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province d'Och"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e8\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gebiet Osch"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Osh"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039f\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab6 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -101,6 +92,9 @@
     ],
     "name:hrv_x_preferred":[
         "O\u0161ka oblast"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0577\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Osh"
@@ -116,6 +110,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c93\u0cb6\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e8\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0448 \u043e\u0431\u043b\u044b\u0441\u044b"
@@ -135,20 +132,20 @@
     "name:mar_x_preferred":[
         "\u0913\u0936 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Osh"
-    ],
     "name:mon_x_preferred":[
         "\u041e\u0448 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Osh"
     ],
     "name:nds_x_preferred":[
         "Rebeet Osch"
     ],
+    "name:nld_x_preferred":[
+        "Osj"
+    ],
     "name:nob_x_preferred":[
         "Osh region"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0634"
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d oszy\u0144ski"
@@ -207,6 +204,9 @@
     ],
     "name:vie_x_preferred":[
         "Osh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u4ec0\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KGZ",
@@ -333,7 +333,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1553550416,
+    "wof:lastmodified":1561777408,
     "wof:name":"Osh",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

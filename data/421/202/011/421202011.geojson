@@ -20,17 +20,11 @@
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0447\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u96f7\u514b\u5947"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0644\u0642\u0686\u06cc"
     ],
     "name:deu_x_preferred":[
         "Balyktschy"
-    ],
-    "name:dut_x_preferred":[
-        "Balykchy"
     ],
     "name:eng_x_preferred":[
         "Balykchy"
@@ -44,14 +38,11 @@
     "name:fas_x_preferred":[
         "\u0628\u0627\u0644\u06cc\u0642\u0686\u06cc\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0644\u06cc\u06a9\u0686\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Balyktchy"
-    ],
-    "name:fre_x_preferred":[
-        "Balyktchy"
-    ],
-    "name:ger_x_preferred":[
-        "Balyktschy"
     ],
     "name:glg_x_preferred":[
         "Baliksi"
@@ -83,14 +74,14 @@
     "name:mon_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0433\u0447"
     ],
+    "name:nld_x_preferred":[
+        "Balykchy"
+    ],
     "name:nob_x_preferred":[
         "Balyktsjy"
     ],
     "name:nor_x_preferred":[
         "Balyktsjy"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0644\u06cc\u06a9\u0686\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ba\u0142ykczy"
@@ -261,7 +252,7 @@
         }
     ],
     "wof:id":421202011,
-    "wof:lastmodified":1514468810,
+    "wof:lastmodified":1561777420,
     "wof:name":"Ysyk-Kol",
     "wof:parent_id":1091691903,
     "wof:placetype":"locality",

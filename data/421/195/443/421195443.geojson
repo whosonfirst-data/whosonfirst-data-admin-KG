@@ -29,16 +29,10 @@
     "name:che_x_preferred":[
         "\u0422\u043e\u043a\u043c\u043e\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u514b\u9a6c\u514b"
-    ],
     "name:ckb_x_preferred":[
         "\u062a\u06c6\u0642\u0645\u06c6\u0642"
     ],
     "name:deu_x_preferred":[
-        "Tokmok"
-    ],
-    "name:dut_x_preferred":[
         "Tokmok"
     ],
     "name:eng_x_preferred":[
@@ -53,16 +47,10 @@
     "name:fas_x_preferred":[
         "\u062a\u062e\u0645\u0627\u0642"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0642\u0645\u0648\u0642\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Tokmok"
-    ],
-    "name:fre_x_preferred":[
-        "Tokmok"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10dd\u10e5\u10db\u10d0\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tokmok"
     ],
     "name:heb_x_preferred":[
@@ -95,8 +83,8 @@
     "name:mon_x_preferred":[
         "\u0422\u043e\u043a\u043c\u043e\u043a"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0642\u0645\u0648\u0642\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Tokmok"
     ],
     "name:pol_x_preferred":[
         "Tokmok"
@@ -280,7 +268,7 @@
         }
     ],
     "wof:id":421195443,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561777420,
     "wof:name":"Tokmok",
     "wof:parent_id":1091692255,
     "wof:placetype":"locality",

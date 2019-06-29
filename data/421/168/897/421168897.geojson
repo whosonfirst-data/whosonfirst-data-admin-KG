@@ -35,9 +35,6 @@
     "name:che_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
     ],
-    "name:chi_x_preferred":[
-        "\u8cc8\u62c9\u62c9\u5df4\u5fb7"
-    ],
     "name:ckb_x_preferred":[
         "\u062c\u06d5\u0644\u0627\u0644\u0627\u0628\u0627\u062a\u060c \u0642\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
@@ -50,8 +47,8 @@
     "name:deu_x_preferred":[
         "Dschalalabat"
     ],
-    "name:dut_x_preferred":[
-        "Dzjalal-Abad"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bb\u03ac\u03bb-\u0391\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Jalal-Abad"
@@ -68,20 +65,14 @@
     "name:fas_x_preferred":[
         "\u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "\u017dalal-Abad"
     ],
     "name:fra_x_preferred":[
         "Djalalabad"
-    ],
-    "name:fre_x_preferred":[
-        "Djalalabad"
-    ],
-    "name:ger_x_preferred":[
-        "Dschalalabat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03b1\u03bb\u03ac\u03bb-\u0391\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ab2\u0abe\u0ab2-\u0a86\u0aac\u0abe\u0aa6"
@@ -135,9 +126,6 @@
     "name:mar_x_preferred":[
         "\u091c\u0932\u093e\u0932-\u0906\u092c\u093e\u0926"
     ],
-    "name:may_x_preferred":[
-        "Jalal-Abad"
-    ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
     ],
@@ -152,9 +140,6 @@
     ],
     "name:nor_x_preferred":[
         "Jalal-Abad"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:pol_x_preferred":[
         "D\u017calalabad"
@@ -214,9 +199,6 @@
         "D\u017ealal Abad"
     ],
     "name:vie_x_preferred":[
-        "Jalal-Abad"
-    ],
-    "name:wel_x_preferred":[
         "Jalal-Abad"
     ],
     "name:zho_x_preferred":[
@@ -362,7 +344,7 @@
         }
     ],
     "wof:id":421168897,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561777419,
     "wof:name":"Dzhalal-Abad",
     "wof:parent_id":1091692021,
     "wof:placetype":"locality",
