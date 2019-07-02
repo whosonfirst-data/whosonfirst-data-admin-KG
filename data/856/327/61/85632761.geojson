@@ -172,9 +172,6 @@
     "name:cym_x_variant":[
         "Kyrgyzstan"
     ],
-    "name:cze_x_preferred":[
-        "Kyrgyzst\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Kirgisistan"
     ],
@@ -661,9 +658,6 @@
     "name:rue_x_preferred":[
         "\u041a\u0456\u0440\u0491\u0456\u0441\u0442\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
-        "K\u00e2rg\u00e2zstan"
-    ],
     "name:rum_x_variant":[
         "Kirghizia"
     ],
@@ -885,7 +879,6 @@
     ],
     "name:zho_x_variant":[
         "\u5409\u723e\u5409\u65af",
-        "\u5409\u5c14\u5409\u65af\u65af\u5766",
         "\u5409\u5c14\u5409\u514b\u65af\u5766"
     ],
     "name:zho_yue_x_preferred":[
@@ -1042,7 +1035,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1544059179,
+    "wof:lastmodified":1561777408,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -16,14 +16,8 @@
     "name:deu_x_preferred":[
         "Sarytasch"
     ],
-    "name:dut_x_preferred":[
-        "Sary-Tash"
-    ],
     "name:eng_x_preferred":[
         "Sary-Tash"
-    ],
-    "name:ger_x_preferred":[
-        "Sarytasch"
     ],
     "name:ita_x_preferred":[
         "Sary Ta\u0161"
@@ -42,6 +36,9 @@
     ],
     "name:nds_x_preferred":[
         "Sary-Tasch"
+    ],
+    "name:nld_x_preferred":[
+        "Sary-Tash"
     ],
     "name:rup_x_preferred":[
         "Sary-Tash"
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421195065,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561777419,
     "wof:name":"Sary-Tash",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

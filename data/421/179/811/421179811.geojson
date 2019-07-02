@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Karabalta"
     ],
-    "name:dut_x_preferred":[
-        "Kara-Balta"
-    ],
     "name:eng_x_preferred":[
         "Kara-Balta"
     ],
@@ -35,13 +32,10 @@
     "name:fas_x_preferred":[
         "\u0642\u0631\u0647\u200c\u0628\u0627\u0644\u062a\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0627\u0631\u0627\u0628\u0627\u0644\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Karabalta"
-    ],
-    "name:fre_x_preferred":[
-        "Karabalta"
-    ],
-    "name:ger_x_preferred":[
         "Karabalta"
     ],
     "name:heb_x_preferred":[
@@ -73,9 +67,6 @@
     ],
     "name:nld_x_preferred":[
         "Kara-Balta"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0631\u0627\u0628\u0627\u0644\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Karaba\u0142ta"
@@ -247,7 +238,7 @@
         }
     ],
     "wof:id":421179811,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561777420,
     "wof:name":"Kara-Balta",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

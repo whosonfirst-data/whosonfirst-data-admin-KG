@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u0633\u064a\u0643 \u0643\u0648\u0644 \u0623\u0648\u0628\u0644\u0627\u0633\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u053b\u057d\u056b\u0584 \u0554\u0578\u0582\u056c\u056b \u0574\u0561\u0580\u0566"
-    ],
     "name:aze_x_preferred":[
         "\u0130s\u0131kg\u00f6l vilay\u0259ti"
     ],
@@ -48,14 +45,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Issik Kel"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u585e\u514b\u6e56\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Issyk-Kul Region"
     ],
-    "name:dut_x_preferred":[
-        "Ysykk\u00f6l"
+    "name:deu_x_preferred":[
+        "Gebiet Yssykk\u00f6l"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03c3\u03bf\u03cd\u03ba-\u039a\u03bf\u03cd\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ysyk-Kol"
@@ -71,20 +68,14 @@
     "name:est_x_preferred":[
         "\u00d5s\u00f5kk\u00f6li oblast"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u06cc\u06a9\u200c\u06a9\u0648\u0644"
+    ],
     "name:fin_x_preferred":[
         "Yssyk-K\u00f6lin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yssykk\u00f6l"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10d8\u10d9-\u10e7\u10e3\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gebiet Yssykk\u00f6l"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c3\u03c3\u03bf\u03cd\u03ba-\u039a\u03bf\u03cd\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0abf\u0a95-\u0a95\u0ac1\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -94,6 +85,9 @@
     ],
     "name:hrv_x_preferred":[
         "Isjakulska oblast"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u056b\u0584 \u0554\u0578\u0582\u056c\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Issyk Kul"
@@ -109,6 +103,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0ccd\u0cb8\u0cbf\u0c95\u0ccd-\u0c95\u0cc1\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10d8\u10d9-\u10e7\u10e3\u10da\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u042b\u0441\u0442\u044b\u049b\u043a\u04e9\u043b \u043e\u0431\u043b\u044b\u0441\u044b"
@@ -135,17 +132,17 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u0916\u093f\u0915-\u0915\u0941\u0932 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
-    "name:may_x_preferred":[
-        "Issyk-Kul Region"
-    ],
     "name:mon_x_preferred":[
         "\u0418\u0441\u0441\u044b\u043a-\u041a\u04af\u043b \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Issyk-Kul Region"
+    ],
+    "name:nld_x_preferred":[
+        "Ysykk\u00f6l"
+    ],
     "name:nob_x_preferred":[
         "Ysyk-K\u00f6l"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u06cc\u06a9\u200c\u06a9\u0648\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u06cc\u06a9 \u06a9\u0648\u0644 \u0635\u0648\u0628\u06c1"
@@ -156,7 +153,7 @@
     "name:por_x_preferred":[
         "Issyk-Kul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Iss\u00e2k-Kul"
     ],
     "name:rus_x_preferred":[
@@ -211,6 +208,9 @@
     ],
     "name:vie_x_preferred":[
         "Issyk Kul"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u585e\u514b\u6e56\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"KGZ",
@@ -337,7 +337,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1553550448,
+    "wof:lastmodified":1561777411,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

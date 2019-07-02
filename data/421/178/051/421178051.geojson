@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u7279"
-    ],
     "name:ckb_x_preferred":[
         "\u0642\u0627\u0646\u062a\u060c \u0642\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
     "name:deu_x_preferred":[
-        "Kant"
-    ],
-    "name:dut_x_preferred":[
         "Kant"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +31,10 @@
     "name:fas_x_preferred":[
         "\u0642\u0646\u062f\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0627\u0646\u062a\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Kant"
-    ],
-    "name:fre_x_preferred":[
-        "Kant"
-    ],
-    "name:ger_x_preferred":[
         "Kant"
     ],
     "name:heb_x_preferred":[
@@ -64,11 +55,11 @@
     "name:lit_x_preferred":[
         "Kantas"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Kant"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0646\u062a\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Kant"
     ],
     "name:pol_x_preferred":[
         "Kant"
@@ -141,7 +132,7 @@
         }
     ],
     "wof:id":421178051,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1561777421,
     "wof:name":"Kant",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

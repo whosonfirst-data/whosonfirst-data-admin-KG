@@ -19,16 +19,10 @@
     "name:bxr_x_preferred":[
         "\u0418\u0441\u0444\u0430\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u6cd5\u7d0d"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0633\u0641\u0627\u0646\u0627"
     ],
     "name:deu_x_preferred":[
-        "Isfana"
-    ],
-    "name:dut_x_preferred":[
         "Isfana"
     ],
     "name:eng_x_preferred":[
@@ -40,13 +34,10 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u0641\u0646\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0633\u0641\u0627\u0646\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Isfana"
-    ],
-    "name:fre_x_preferred":[
-        "Isfana"
-    ],
-    "name:ger_x_preferred":[
         "Isfana"
     ],
     "name:ita_x_preferred":[
@@ -64,11 +55,11 @@
     "name:lit_x_preferred":[
         "Isfana"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Isfana"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0633\u0641\u0627\u0646\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Isfana"
     ],
     "name:pol_x_preferred":[
         "Isfana"
@@ -151,7 +142,7 @@
         }
     ],
     "wof:id":421178623,
-    "wof:lastmodified":1527717725,
+    "wof:lastmodified":1561777421,
     "wof:name":"Isfana",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

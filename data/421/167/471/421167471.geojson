@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0632\u0643\u0646\u062f"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0566\u0563\u0565\u0576"
-    ],
     "name:azb_x_preferred":[
         "\u0627\u0624\u0632\u06af\u0646"
     ],
@@ -34,20 +31,17 @@
     "name:cat_x_preferred":[
         "Uzkend"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u8332\u6839"
+    "name:ces_x_preferred":[
+        "Uzgen"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0632\u06af\u0648\u06ce\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Uzgen"
-    ],
     "name:deu_x_preferred":[
         "\u00d6sg\u00f6n"
     ],
-    "name:dut_x_preferred":[
-        "Uzgen"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b6\u03b3\u03ba\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Uzgen"
@@ -61,14 +55,11 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u0632\u06a9\u0646\u062f"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0632\u06af\u0646\u062f"
+    ],
+    "name:fra_x_preferred":[
         "Uzgen"
-    ],
-    "name:ger_x_preferred":[
-        "\u00d6sg\u00f6n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b6\u03b3\u03ba\u03ad\u03bd"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0566\u0563\u0565\u0576"
@@ -94,8 +85,8 @@
     "name:mon_x_preferred":[
         "\u04e8\u0437\u0433\u04e9\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0632\u06af\u0646\u062f"
+    "name:nld_x_preferred":[
+        "Uzgen"
     ],
     "name:pol_x_preferred":[
         "\u00d6zg\u00f6n"
@@ -180,7 +171,7 @@
         }
     ],
     "wof:id":421167471,
-    "wof:lastmodified":1514468797,
+    "wof:lastmodified":1561777420,
     "wof:name":"Ozgon",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",
