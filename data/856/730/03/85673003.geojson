@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Talas"
     ],
+    "name:ceb_x_preferred":[
+        "Talas"
+    ],
     "name:dan_x_preferred":[
         "Talas Region"
     ],
@@ -60,11 +63,17 @@
     "name:eng_x_preferred":[
         "Talas"
     ],
+    "name:eng_x_variant":[
+        "Talas Region"
+    ],
     "name:epo_x_preferred":[
         "Provinco Talas"
     ],
     "name:est_x_preferred":[
         "Talasi oblast"
+    ],
+    "name:eus_x_preferred":[
+        "Talas probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u0627\u0632"
@@ -74,6 +83,12 @@
     ],
     "name:fra_x_preferred":[
         "Province de Talas"
+    ],
+    "name:fra_x_variant":[
+        "Talas"
+    ],
+    "name:frr_x_preferred":[
+        "Talas"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab2\u0ab8 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -115,10 +130,14 @@
         "Talas Oblusu",
         "\u0422\u0430\u043b\u0430\u0441",
         "\u0422\u0430\u043b\u0430\u0441 \u041e\u0431\u043b\u0443\u0441\u0443",
-        "\u0422\u0430\u043b\u0430\u0441 \u043e\u0431\u043b\u0430\u0441\u0442\u044b"
+        "\u0422\u0430\u043b\u0430\u0441 \u043e\u0431\u043b\u0430\u0441\u0442\u044b",
+        "\u0422\u0430\u043b\u0430\u0441 \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
     "name:kor_x_preferred":[
         "\ud0c8\ub77c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c8\ub77c\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Talasas apgabals"
@@ -140,6 +159,9 @@
     ],
     "name:nob_x_preferred":[
         "Talas region"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0637\u0644\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d ta\u0142aski"
@@ -181,8 +203,14 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e32\u0e25\u0e32\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e25\u0e31\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Talas \u0130li"
+    ],
+    "name:uig_x_preferred":[
+        "\u062a\u0627\u0644\u0627\u0633 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -327,7 +355,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1561777407,
+    "wof:lastmodified":1563309176,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

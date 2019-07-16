@@ -36,13 +36,17 @@
         "\u0686\u0627\u0644\u067e\u0627\u0646\u200c\u0622\u062a\u0627"
     ],
     "name:fas_x_variant":[
-        "\u0686\u0648\u0644\u067e\u0648\u0646\u0627\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+        "\u0686\u0648\u0644\u067e\u0648\u0646\u0627\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+        "\u0686\u0648\u0644\u067e\u0648\u0646\u0627\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Tcholponata"
     ],
     "name:glg_x_preferred":[
         "Cholpon-Ata"
+    ],
+    "name:hsb_x_preferred":[
+        "\u010colpon-Ata"
     ],
     "name:ita_x_preferred":[
         "\u010colponata"
@@ -92,6 +96,9 @@
     "name:spa_x_preferred":[
         "Cholpon-Ata"
     ],
+    "name:tat_x_preferred":[
+        "\u0427\u0443\u043b\u043f\u0430\u043d-\u0410\u0442\u0430"
+    ],
     "name:tur_x_preferred":[
         "\u00c7olpon-Ata"
     ],
@@ -100,6 +107,9 @@
     ],
     "name:uzb_x_preferred":[
         "Cho\u02bblponota"
+    ],
+    "name:uzb_x_variant":[
+        "Cho\u02bblpon-Ota"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u723e\u84ec\u963f\u5854"
@@ -246,7 +256,7 @@
         }
     ],
     "wof:id":421202013,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309426,
     "wof:name":"Cholpon-Ata",
     "wof:parent_id":1091691273,
     "wof:placetype":"locality",

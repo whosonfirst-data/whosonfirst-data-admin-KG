@@ -36,6 +36,9 @@
     "name:aze_x_preferred":[
         "Narin vilay\u0259ti"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09af\u09bc\u09c7\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -48,6 +51,9 @@
     "name:ces_x_preferred":[
         "Narynsk\u00e1 oblast"
     ],
+    "name:cym_x_preferred":[
+        "Ardal Naryn"
+    ],
     "name:dan_x_preferred":[
         "Naryn Region"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:eng_x_preferred":[
         "Naryn"
+    ],
+    "name:eng_x_variant":[
+        "Naryn Region"
     ],
     "name:epo_x_preferred":[
         "Provinco Narin"
@@ -74,6 +83,12 @@
     ],
     "name:fra_x_preferred":[
         "Province de Naryn"
+    ],
+    "name:fra_x_variant":[
+        "Naryn"
+    ],
+    "name:frr_x_preferred":[
+        "Naryn"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0ab0\u0ac0\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -124,6 +139,9 @@
     "name:kor_x_preferred":[
         "\ub098\ub9b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub098\ub9b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Narinas apgabals"
     ],
@@ -144,6 +162,9 @@
     ],
     "name:nob_x_preferred":[
         "Naryn"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0646\u0627\u0631\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Obw\u00f3d nary\u0144ski"
@@ -188,8 +209,14 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e23\u0e34\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e32\u0e23\u0e36\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Nar\u0131n ili"
+    ],
+    "name:uig_x_preferred":[
+        "\u0646\u0627\u0631\u0649\u0646 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -337,7 +364,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1561777410,
+    "wof:lastmodified":1563309185,
     "wof:name":"Naryn",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

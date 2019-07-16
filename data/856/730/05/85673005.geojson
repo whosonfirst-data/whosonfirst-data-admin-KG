@@ -48,8 +48,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Oix"
     ],
+    "name:cat_x_variant":[
+        "prov\u00edncia d'Oix"
+    ],
+    "name:ceb_x_preferred":[
+        "Osh Oblasty"
+    ],
+    "name:ces_x_preferred":[
+        "O\u0161sk\u00e1 oblast"
+    ],
     "name:che_x_preferred":[
         "\u041e\u0448\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Osh"
     ],
     "name:dan_x_preferred":[
         "Osh Region"
@@ -66,6 +78,9 @@
     "name:eng_x_preferred":[
         "Osh"
     ],
+    "name:eng_x_variant":[
+        "Osh Region"
+    ],
     "name:epo_x_preferred":[
         "Provinco O\u015d"
     ],
@@ -80,6 +95,12 @@
     ],
     "name:fra_x_preferred":[
         "Province d'Och"
+    ],
+    "name:fra_x_variant":[
+        "Och"
+    ],
+    "name:frr_x_preferred":[
+        "Osch"
     ],
     "name:glg_x_preferred":[
         "Rexi\u00f3n de Osh"
@@ -105,6 +126,9 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30b7"
     ],
+    "name:jpn_x_variant":[
+        "\u30aa\u30b7\u5dde"
+    ],
     "name:kaa_x_preferred":[
         "Osh wa'layati"
     ],
@@ -120,8 +144,14 @@
     "name:kir_x_preferred":[
         "\u041e\u0448 \u041e\u0431\u043b\u0443\u0441\u0443"
     ],
+    "name:kir_x_variant":[
+        "\u041e\u0448 \u043e\u0431\u043b\u0443\u0441\u0443"
+    ],
     "name:kor_x_preferred":[
         "\uc624\uc288"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\uc2dc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "O\u0161as apgabals"
@@ -169,6 +199,9 @@
     "name:spa_x_preferred":[
         "Provincia de Osh"
     ],
+    "name:srp_x_preferred":[
+        "\u041e\u0448\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Osj"
     ],
@@ -187,8 +220,14 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e2d\u0e0a\u0e2e\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e2d\u0e0a"
+    ],
     "name:tur_x_preferred":[
         "O\u015f \u0130li"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0648\u0634 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0448\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -333,7 +372,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1561777408,
+    "wof:lastmodified":1563309177,
     "wof:name":"Osh",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
