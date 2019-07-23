@@ -15,10 +15,16 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Karavan"
+    ],
     "name:eng_x_preferred":[
         "Kerben"
     ],
     "name:eng_x_variant":[
+        "Karavan"
+    ],
+    "name:fra_x_preferred":[
         "Karavan"
     ],
     "name:kir_x_preferred":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":890438561,
-    "wof:lastmodified":1527735419,
+    "wof:lastmodified":1563309436,
     "wof:name":"Karavan",
     "wof:parent_id":1091690641,
     "wof:placetype":"locality",

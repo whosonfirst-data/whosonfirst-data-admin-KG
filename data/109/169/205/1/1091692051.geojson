@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u043a\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Nooken"
+    ],
     "name:che_x_preferred":[
         "\u041d\u043e\u043e\u043a\u0435\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
@@ -49,7 +52,7 @@
     ],
     "name:eng_x_variant":[
         "Nooken",
-        "Mailuu-Suu"
+        "Nooken District"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0648\u06a9\u0646\u062f"
@@ -59,6 +62,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10dd\u10d9\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0443\u043a\u0435\u043d \u0430\u0443\u0434\u0430\u043d\u044b"
     ],
     "name:kir_x_preferred":[
         "\u041d\u043e\u043e\u043a\u0435\u043d \u0440\u0430\u0439\u043e\u043d\u0443"
@@ -96,6 +102,9 @@
     "name:uzb_x_preferred":[
         "Novken tumani"
     ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u5965\u80af\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":1091692051,
-    "wof:lastmodified":1561777418,
+    "wof:lastmodified":1563309393,
     "wof:name":"Mailuu-Suu",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

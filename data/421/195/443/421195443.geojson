@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Tokmok"
     ],
+    "name:cat_x_variant":[
+        "Tokmak"
+    ],
+    "name:ceb_x_preferred":[
+        "Tokmok"
+    ],
     "name:che_x_preferred":[
         "\u0422\u043e\u043a\u043c\u043e\u043a"
     ],
@@ -48,7 +54,8 @@
         "\u062a\u062e\u0645\u0627\u0642"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0648\u0642\u0645\u0648\u0642\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+        "\u062a\u0648\u0642\u0645\u0648\u0642\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+        "\u062a\u0648\u0642\u0645\u0648\u0642"
     ],
     "name:fra_x_preferred":[
         "Tokmok"
@@ -58,6 +65,12 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u094b\u0915\u092e\u094b\u0915"
+    ],
+    "name:hsb_x_preferred":[
+        "Tokmok"
+    ],
+    "name:hun_x_preferred":[
+        "Tokmok"
     ],
     "name:ita_x_preferred":[
         "Tokmok"
@@ -76,6 +89,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a0\ud06c\ub9c8\ud06c"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a1\ub9c8\ud06c"
     ],
     "name:lit_x_preferred":[
         "Tokmakas"
@@ -104,8 +120,14 @@
     "name:spa_x_preferred":[
         "Tokmak"
     ],
+    "name:sqi_x_preferred":[
+        "Tokmok"
+    ],
     "name:swe_x_preferred":[
         "Tokmak"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043a\u043c\u0430\u043a"
     ],
     "name:tur_x_preferred":[
         "Tokmok"
@@ -268,7 +290,7 @@
         }
     ],
     "wof:id":421195443,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309421,
     "wof:name":"Tokmok",
     "wof:parent_id":1091692255,
     "wof:placetype":"locality",

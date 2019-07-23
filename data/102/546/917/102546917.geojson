@@ -12,6 +12,21 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cholpon-Ata Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Cholpon-Ata Airport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30eb\u30dd\u30f3\uff1d\u30a2\u30bf\u7a7a\u6e2f"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Czo\u0142ponata"
+    ],
+    "name:swe_x_preferred":[
+        "Tjolpon-Atinskij aeroport"
+    ],
     "oa:elevation_ft":"5420",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":102546917,
-    "wof:lastmodified":1543856641,
+    "wof:lastmodified":1563309135,
     "wof:name":"Cholponata Airport",
     "wof:parent_id":85672983,
     "wof:placetype":"campus",

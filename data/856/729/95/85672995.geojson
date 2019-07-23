@@ -36,6 +36,9 @@
     "name:aze_x_preferred":[
         "Batk\u0259n vilay\u0259ti"
     ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0995\u09c7\u09a8 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Batken"
+    ],
+    "name:ceb_x_preferred":[
+        "Batken"
     ],
     "name:che_x_preferred":[
         "\u0411\u0430\u0442\u043a\u0435\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -60,6 +66,9 @@
     "name:eng_x_preferred":[
         "Batken"
     ],
+    "name:eng_x_variant":[
+        "Batken Region"
+    ],
     "name:epo_x_preferred":[
         "Provinco Batken"
     ],
@@ -74,6 +83,12 @@
     ],
     "name:fra_x_preferred":[
         "province de Batken"
+    ],
+    "name:fra_x_variant":[
+        "Batken"
+    ],
+    "name:frr_x_preferred":[
+        "Batken"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0a9f\u0a95\u0ac7\u0aa8 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0"
@@ -113,10 +128,14 @@
         "Batken Oblusu",
         "\u0411\u0430\u0442\u043a\u0435\u043d",
         "\u0411\u0430\u0442\u043a\u0435\u043d \u041e\u0431\u043b\u0443\u0441\u0443",
-        "\u0411\u0430\u0442\u043a\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044b"
+        "\u0411\u0430\u0442\u043a\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044b",
+        "\u0411\u0430\u0442\u043a\u0435\u043d \u043e\u0431\u043b\u0443\u0441\u0443"
     ],
     "name:kor_x_preferred":[
         "\ubc27\ucf04 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc27\ucf04\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Batkenas apgabals"
@@ -144,6 +163,9 @@
     ],
     "name:por_x_preferred":[
         "Batken"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Batken"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -181,6 +203,9 @@
     ],
     "name:tur_x_preferred":[
         "Batken \u0130li"
+    ],
+    "name:uig_x_preferred":[
+        "\u0628\u0627\u062a\u0643\u06d5\u0646 \u0626\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -325,7 +350,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1561777410,
+    "wof:lastmodified":1563309184,
     "wof:name":"Batken",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

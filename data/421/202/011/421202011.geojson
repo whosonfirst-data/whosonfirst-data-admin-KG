@@ -17,6 +17,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a\u0447\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Balykchy"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0430\u043b\u044b\u043a\u0447\u0438"
     ],
@@ -47,6 +50,12 @@
     "name:glg_x_preferred":[
         "Baliksi"
     ],
+    "name:hsb_x_preferred":[
+        "Balyk\u010dy"
+    ],
+    "name:hun_x_preferred":[
+        "Balikcsi"
+    ],
     "name:ita_x_preferred":[
         "Balyk\u010dy"
     ],
@@ -67,6 +76,9 @@
     ],
     "name:lat_x_preferred":[
         "Balykcy"
+    ],
+    "name:lat_x_variant":[
+        "Thalasseupolis"
     ],
     "name:lit_x_preferred":[
         "Balyk\u010di"
@@ -100,6 +112,12 @@
     ],
     "name:spa_x_preferred":[
         "Balikci"
+    ],
+    "name:swe_x_preferred":[
+        "Rybatjje"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043b\u044b\u043a\u0447\u044b"
     ],
     "name:tur_x_preferred":[
         "Bal\u0131k\u00e7\u0131"
@@ -252,7 +270,7 @@
         }
     ],
     "wof:id":421202011,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309427,
     "wof:name":"Ysyk-Kol",
     "wof:parent_id":1091691903,
     "wof:placetype":"locality",

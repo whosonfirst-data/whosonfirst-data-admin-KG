@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sary-Tash"
+    ],
     "name:deu_x_preferred":[
         "Sarytasch"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:uzb_x_preferred":[
         "Sariq-Tosh"
+    ],
+    "name:zho_x_preferred":[
+        "\u6492\u5229-\u5854\u4ec0"
     ],
     "qs:gn_country":"KG",
     "qs:gn_fcode":"PPL",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421195065,
-    "wof:lastmodified":1561777419,
+    "wof:lastmodified":1563309419,
     "wof:name":"Sary-Tash",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

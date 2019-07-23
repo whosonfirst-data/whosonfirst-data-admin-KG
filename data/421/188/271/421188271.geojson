@@ -47,10 +47,16 @@
     "name:fas_x_preferred":[
         "\u062a\u0631\u0627\u0632\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0627\u0632"
+    ],
     "name:fin_x_preferred":[
         "Talas"
     ],
     "name:fra_x_preferred":[
+        "Talas"
+    ],
+    "name:frr_x_preferred":[
         "Talas"
     ],
     "name:heb_x_preferred":[
@@ -60,6 +66,9 @@
         "\u0924\u0932\u093e\u0938"
     ],
     "name:hrv_x_preferred":[
+        "Talas"
+    ],
+    "name:hsb_x_preferred":[
         "Talas"
     ],
     "name:hun_x_preferred":[
@@ -80,6 +89,9 @@
     "name:kir_x_preferred":[
         "Talas"
     ],
+    "name:kir_x_variant":[
+        "\u0422\u0430\u043b\u0430\u0441 \u0448\u0430\u0430\u0440\u044b"
+    ],
     "name:kor_x_preferred":[
         "\ud0c8\ub77c\uc2a4"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:mon_x_variant":[
+        "\u0422\u0430\u043b\u0430\u0441 \u0445\u043e\u0442"
     ],
     "name:nds_x_preferred":[
         "Talas"
@@ -124,6 +139,12 @@
     ],
     "name:swe_x_preferred":[
         "Talas"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32\u0e25\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Talas"
@@ -282,7 +303,7 @@
         }
     ],
     "wof:id":421188271,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309429,
     "wof:name":"Talas",
     "wof:parent_id":1091692213,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Uzkend"
     ],
+    "name:ceb_x_preferred":[
+        "Uzgen"
+    ],
     "name:ces_x_preferred":[
         "Uzgen"
     ],
@@ -60,6 +63,12 @@
     ],
     "name:fra_x_preferred":[
         "Uzgen"
+    ],
+    "name:hsb_x_preferred":[
+        "Uzgen"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6zg\u00f6n"
     ],
     "name:hye_x_preferred":[
         "\u0548\u0582\u0566\u0563\u0565\u0576"
@@ -109,8 +118,17 @@
     "name:swe_x_preferred":[
         "Uzgen"
     ],
+    "name:tat_x_preferred":[
+        "\u04ae\u0437\u0433\u04d9\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0423\u0437\u0433\u0435\u043d"
+    ],
     "name:tur_x_preferred":[
         "\u00d6z\u00e7ent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0437\u0433\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Uzkend"
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":421167471,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309423,
     "wof:name":"Ozgon",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

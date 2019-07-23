@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kara-Balta"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0430-\u0411\u0430\u043b\u0442\u0430"
     ],
@@ -33,13 +36,20 @@
         "\u0642\u0631\u0647\u200c\u0628\u0627\u0644\u062a\u0647"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0627\u0631\u0627\u0628\u0627\u0644\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+        "\u0642\u0627\u0631\u0627\u0628\u0627\u0644\u062a\u0627\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+        "\u0642\u0627\u0631\u0627\u0628\u0627\u0644\u062a\u0627"
     ],
     "name:fra_x_preferred":[
         "Karabalta"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d4 \u05d1\u05dc\u05ea\u05d4"
+    ],
+    "name:hsb_x_preferred":[
+        "Kara-Balta"
+    ],
+    "name:hun_x_preferred":[
+        "Karabalta"
     ],
     "name:ita_x_preferred":[
         "Kara-Balta"
@@ -59,6 +69,9 @@
     "name:lat_x_preferred":[
         "Karabalta"
     ],
+    "name:lat_x_variant":[
+        "Melanopelecypolis"
+    ],
     "name:lit_x_preferred":[
         "Kara Balta"
     ],
@@ -70,6 +83,9 @@
     ],
     "name:pol_x_preferred":[
         "Karaba\u0142ta"
+    ],
+    "name:por_x_preferred":[
+        "Kara-Balta"
     ],
     "name:rup_x_preferred":[
         "Kara-Balta"
@@ -86,6 +102,9 @@
     "name:swe_x_preferred":[
         "Kara-Balta"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0430\u043b\u0442\u0430"
+    ],
     "name:tur_x_preferred":[
         "Kara-Balta"
     ],
@@ -97,6 +116,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qorabolta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5df4\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kyrgyzstan",
@@ -238,7 +260,7 @@
         }
     ],
     "wof:id":421179811,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309433,
     "wof:name":"Kara-Balta",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

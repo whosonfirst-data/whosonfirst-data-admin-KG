@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kochkor"
+    ],
     "name:ces_x_preferred":[
         "Ko\u010dkor"
+    ],
+    "name:deu_x_preferred":[
+        "Kotschkor"
     ],
     "name:eng_x_preferred":[
         "Kochkor"
@@ -36,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u043a\u043e\u0440\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kochkor"
     ],
     "name:tur_x_preferred":[
         "Ko\u00e7kor"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":421192491,
-    "wof:lastmodified":1561777419,
+    "wof:lastmodified":1563309419,
     "wof:name":"Kochkorka",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

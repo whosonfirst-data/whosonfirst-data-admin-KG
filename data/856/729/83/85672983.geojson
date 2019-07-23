@@ -36,6 +36,9 @@
     "name:aze_x_preferred":[
         "\u0130s\u0131kg\u00f6l vilay\u0259ti"
     ],
+    "name:bel_x_preferred":[
+        "\u0406\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09bf\u0995 \u0995\u09c1\u09b2 \u0985\u099e\u09cd\u099a\u09b2"
     ],
@@ -44,6 +47,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Issik Kel"
+    ],
+    "name:ceb_x_preferred":[
+        "Issyk-Kul'skaya Oblast'"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Issyk-Kul"
     ],
     "name:dan_x_preferred":[
         "Issyk-Kul Region"
@@ -76,6 +85,9 @@
     ],
     "name:fra_x_preferred":[
         "Yssykk\u00f6l"
+    ],
+    "name:frr_x_preferred":[
+        "Ysyk-Sia"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0abf\u0a95-\u0a95\u0ac1\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
@@ -122,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2dd\ucfe8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc2dd\ucfe8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Isikula apgabals"
@@ -181,6 +196,9 @@
     "name:tat_x_preferred":[
         "\u042b\u0441\u0441\u044b\u043a \u041a\u04af\u043b \u04e9\u043b\u043a\u04d9\u0441\u0435"
     ],
+    "name:tat_x_variant":[
+        "\u042d\u0441\u0441\u0435\u043a\u04af\u043b \u04e9\u043b\u043a\u04d9\u0441\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c07\u0c38\u0c3f\u0c15\u0c4d-\u0c15\u0c41\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
     ],
@@ -189,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e2a\u0e44\u0e0b-\u0e04\u0e39\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e37\u0e2d\u0e0b\u0e36\u0e01-\u0e40\u0e01\u0e34\u0e25"
     ],
     "name:tur_x_preferred":[
         "Iss\u0131k-G\u00f6l \u0130li"
@@ -337,7 +358,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1561777411,
+    "wof:lastmodified":1563309192,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

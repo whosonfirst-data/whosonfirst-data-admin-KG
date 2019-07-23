@@ -17,6 +17,9 @@
     "name:aze_x_preferred":[
         "Ta\u015f-Kum\u0131r"
     ],
+    "name:ceb_x_preferred":[
+        "Tash-Kumyr"
+    ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0448-\u041a\u0443\u043c\u044b\u0440"
     ],
@@ -36,13 +39,17 @@
         "\u062a\u0627\u0634\u200c\u06a9\u0645\u0648\u0631"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0627\u0634\u06a9\u0648\u0645\u0648\u0631\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+        "\u062a\u0627\u0634\u06a9\u0648\u0645\u0648\u0631\u060c \u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+        "\u062a\u0627\u0634\u06a9\u0648\u0645\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "Tachkoumyr"
     ],
     "name:fra_x_variant":[
         "Tash-Kumyr"
+    ],
+    "name:hsb_x_preferred":[
+        "Ta\u0161kumyr"
     ],
     "name:ita_x_preferred":[
         "Ta\u0161k\u00f6mur"
@@ -52,7 +59,8 @@
     ],
     "name:kir_x_variant":[
         "Tash-K\u00f6m\u00fcr",
-        "\u0422\u0410\u0428\u041a\u04e8\u041c\u04ae\u0420"
+        "\u0422\u0410\u0428\u041a\u04e8\u041c\u04ae\u0420",
+        "\u0422\u0430\u0448\u043a\u04e9\u043c\u04af\u0440"
     ],
     "name:lit_x_preferred":[
         "Ta\u0161 Kumyras"
@@ -78,8 +86,17 @@
     "name:spa_x_preferred":[
         "Tashk\u00f6m\u00fcr"
     ],
+    "name:swe_x_preferred":[
+        "Tasj-Kumyr"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0448\u043a\u04af\u043c\u0435\u0440"
+    ],
     "name:tur_x_preferred":[
         "Ta\u015f-K\u00f6m\u00fcr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0448-\u041a\u0443\u043c\u0438\u0440"
     ],
     "name:unk_x_variant":[
         "Tashkum\u00f6r"
@@ -229,7 +246,7 @@
         }
     ],
     "wof:id":421179999,
-    "wof:lastmodified":1561777420,
+    "wof:lastmodified":1563309433,
     "wof:name":"Tash-Kumyr",
     "wof:parent_id":1091691975,
     "wof:placetype":"locality",
