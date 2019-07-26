@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Qoracha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326842017,
-    "wof:lastmodified":1537653152,
+    "wof:lastmodified":1564177824,
     "wof:name":"Karacha",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

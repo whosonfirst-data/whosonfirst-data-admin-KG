@@ -36,6 +36,12 @@
         "Mykan",
         "Mekan"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Mikan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1327336527,
-    "wof:lastmodified":1537653128,
+    "wof:lastmodified":1564177820,
     "wof:name":"Mykan",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

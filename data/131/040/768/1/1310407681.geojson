@@ -35,6 +35,9 @@
         "Mazar",
         "Mazarsu"
     ],
+    "name:uzb_x_preferred":[
+        "Mozor-Suv"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310407681,
-    "wof:lastmodified":1537653130,
+    "wof:lastmodified":1564178048,
     "wof:name":"Mazarsu",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u0442\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u0422\u0443\u0443"
+    ],
     "name:und_x_variant":[
         "Kyzyltu",
         "Kyzyl-Tuu"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276679797,
-    "wof:lastmodified":1537653133,
+    "wof:lastmodified":1564177944,
     "wof:name":"Kyzyl-Tuu",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

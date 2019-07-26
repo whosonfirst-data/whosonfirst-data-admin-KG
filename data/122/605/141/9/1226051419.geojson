@@ -25,11 +25,20 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b6\u03af\u03bb-\u0391\u03c3\u03ba\u03ad\u03c1"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0410\u0441\u043a\u0435\u0440"
     ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0410\u0441\u043a\u0435\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil-Askar"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5b5c\u52d2\u963f\u65af\u5361\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226051419,
-    "wof:lastmodified":1537653275,
+    "wof:lastmodified":1564178213,
     "wof:name":"Kyzyl-Asker",
     "wof:parent_id":1091691731,
     "wof:placetype":"locality",

@@ -28,11 +28,20 @@
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0422\u044b\u0448\u0442\u0430\u043a"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0436\u0430\u043d\u0441\u043a\u043e\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Andizhanskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizil-Qishloq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226328009,
-    "wof:lastmodified":1537653224,
+    "wof:lastmodified":1564178218,
     "wof:name":"Kyzyl-Kyshtak",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

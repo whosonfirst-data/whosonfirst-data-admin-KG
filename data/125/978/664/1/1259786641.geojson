@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Tegermenti"
     ],
+    "name:uzb_x_preferred":[
+        "Tegirmenti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259786641,
-    "wof:lastmodified":1537653111,
+    "wof:lastmodified":1564178178,
     "wof:name":"Tegirmenti",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

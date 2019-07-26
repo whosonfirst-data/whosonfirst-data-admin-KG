@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0423\u043b\u0443\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Uluk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242585057,
-    "wof:lastmodified":1537653106,
+    "wof:lastmodified":1564178143,
     "wof:name":"Uluk",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

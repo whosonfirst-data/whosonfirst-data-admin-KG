@@ -35,14 +35,56 @@
     "mps:longitude":72.622058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nookat"
+    ],
     "name:eng_x_preferred":[
         "Nookat"
     ],
     "name:eng_x_variant":[
         "Nookat"
     ],
+    "name:est_x_preferred":[
+        "Eskinookat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06a9\u062b"
+    ],
+    "name:hsb_x_preferred":[
+        "Nookat"
+    ],
+    "name:ita_x_preferred":[
+        "Nookat"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u043e\u043e\u043a\u0430\u0442"
+    ],
+    "name:lit_x_preferred":[
+        "Nokatas"
+    ],
+    "name:pol_x_preferred":[
+        "Nookat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043e\u043a\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Nookat"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u04d9\u04af\u043a\u0430\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Eski-Nookat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u043e\u043a\u0430\u0442"
+    ],
     "name:und_x_variant":[
         "\u041d\u043e\u043e\u043a\u0430\u0442\u0441\u043a\u0438\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Novqat"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -77,7 +119,7 @@
         }
     ],
     "wof:id":1091690641,
-    "wof:lastmodified":1553717899,
+    "wof:lastmodified":1564178094,
     "wof:name":"Nookat",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

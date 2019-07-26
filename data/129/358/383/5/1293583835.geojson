@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Tola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293583835,
-    "wof:lastmodified":1537653297,
+    "wof:lastmodified":1564177905,
     "wof:name":"Talaa",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

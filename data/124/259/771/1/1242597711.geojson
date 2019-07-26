@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0435\u043a-\u0421\u0443\u0443"
     ],
+    "name:tur_x_preferred":[
+        "Terek-Suu"
+    ],
+    "name:uzb_x_preferred":[
+        "Terek-Suv"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242597711,
-    "wof:lastmodified":1537653231,
+    "wof:lastmodified":1564178141,
     "wof:name":"Terek-Suu",
     "wof:parent_id":1091690665,
     "wof:placetype":"locality",

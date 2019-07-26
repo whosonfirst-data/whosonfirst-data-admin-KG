@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u041a\u0430\u043b\u043a\u0430\u043c\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Kalkaman"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043a\u0430\u043c\u0430\u043d"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293583849,
-    "wof:lastmodified":1537653298,
+    "wof:lastmodified":1564177905,
     "wof:name":"Kalkaman",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

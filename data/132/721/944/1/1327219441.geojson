@@ -25,6 +25,9 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u091a\u0915\u092e\u0915"
+    ],
     "name:kir_x_preferred":[
         "\u0427\u0430\u043a\u043c\u0430\u043a"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327219441,
-    "wof:lastmodified":1537653235,
+    "wof:lastmodified":1564177837,
     "wof:name":"Chakmak",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

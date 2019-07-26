@@ -25,11 +25,35 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tamasha"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u092e\u093e\u0936\u093e"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cae\u0cbe\u0cb7\u0cbe"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0448\u0430"
     ],
+    "name:mal_x_preferred":[
+        "\u0d24\u0d2e\u0d3e\u0d37"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u092e\u093e\u0936\u093e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a2e\u0a3e\u0a38\u0a3c\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Tamasza"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0448\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Tamasha"
     ],
     "name:uzb_x_preferred":[
         "Tomosha"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293579181,
-    "wof:lastmodified":1537653297,
+    "wof:lastmodified":1564177903,
     "wof:name":"Tamasha",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

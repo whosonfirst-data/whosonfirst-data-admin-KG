@@ -25,11 +25,26 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dolon"
+    ],
+    "name:deu_x_preferred":[
+        "Dolon"
+    ],
+    "name:fra_x_preferred":[
+        "Dolon"
+    ],
+    "name:ita_x_preferred":[
+        "Dolon"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u043e\u043b\u043e\u043d"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dolon"
     ],
     "name:und_x_variant":[
         "Dolono",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242669263,
-    "wof:lastmodified":1537653164,
+    "wof:lastmodified":1564178140,
     "wof:name":"Dolon",
     "wof:parent_id":1091691407,
     "wof:placetype":"locality",

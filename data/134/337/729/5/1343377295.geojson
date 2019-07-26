@@ -28,6 +28,12 @@
     "name:kir_x_preferred":[
         "\u0410\u043b\u043c\u0430\u043b\u0443"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043b\u043c\u0430\u043b\u0443\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Almaluu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343377295,
-    "wof:lastmodified":1537653179,
+    "wof:lastmodified":1564177845,
     "wof:name":"Almalu",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

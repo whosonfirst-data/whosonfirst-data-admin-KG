@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0433\u043e"
     ],
+    "name:vie_x_preferred":[
+        "Kengo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343273641,
-    "wof:lastmodified":1537653211,
+    "wof:lastmodified":1564177873,
     "wof:name":"Kengo",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

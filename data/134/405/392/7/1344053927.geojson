@@ -25,8 +25,14 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u062a\u0631\u06a9"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043a\u0442\u0435\u0440\u0435\u043a"
+    ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u0422\u0435\u0440\u0435\u043a"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0435\u0440\u0435\u043a"
@@ -34,6 +40,9 @@
     "name:und_x_variant":[
         "Aktersk",
         "Akterek"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Terak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1344053927,
-    "wof:lastmodified":1537653180,
+    "wof:lastmodified":1564177871,
     "wof:name":"Akterek",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

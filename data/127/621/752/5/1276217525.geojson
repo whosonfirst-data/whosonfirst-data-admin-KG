@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Teyeke"
     ],
+    "name:uzb_x_variant":[
+        "Teeke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276217525,
-    "wof:lastmodified":1537653223,
+    "wof:lastmodified":1564177934,
     "wof:name":"Teeke",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

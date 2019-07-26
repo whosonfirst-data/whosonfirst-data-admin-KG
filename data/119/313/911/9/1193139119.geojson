@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448-\u041a\u043e\u0440\u0433\u043e\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbsh-Qo\u02bbrg\u02bbon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1193139119,
-    "wof:lastmodified":1537653212,
+    "wof:lastmodified":1564178019,
     "wof:name":"Kosh-Korgon",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

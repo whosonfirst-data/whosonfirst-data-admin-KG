@@ -35,6 +35,9 @@
         "Ak-Kuduk",
         "Ortok"
     ],
+    "name:uzb_x_preferred":[
+        "O\u02bbrtoq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209716521,
-    "wof:lastmodified":1537653125,
+    "wof:lastmodified":1564177989,
     "wof:name":"Ortok",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

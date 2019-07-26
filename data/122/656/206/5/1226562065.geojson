@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u043c-\u0428\u043e\u0440\u043e"
     ],
+    "name:uzb_x_preferred":[
+        "Qum-So\u02bbro\u02bb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226562065,
-    "wof:lastmodified":1537653232,
+    "wof:lastmodified":1564178215,
     "wof:name":"Kum-Shoro",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

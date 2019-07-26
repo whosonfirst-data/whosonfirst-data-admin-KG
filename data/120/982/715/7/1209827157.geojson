@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Izar"
     ],
+    "name:eus_x_preferred":[
+        "Izar"
+    ],
     "name:kir_x_preferred":[
         "Yzar"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc790\ub974"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0437\u0430\u0440"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1209827157,
-    "wof:lastmodified":1537653193,
+    "wof:lastmodified":1564177990,
     "wof:name":"Izar",
     "wof:parent_id":1091690903,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u06af\u0648\u06cc\u0644\u0686\u0648\u06ce"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0686\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Gulcha"
+    ],
+    "name:ita_x_preferred":[
+        "Gul\u010da"
+    ],
     "name:kir_x_preferred":[
         "\u0413\u04af\u043b\u0447\u04e9"
+    ],
+    "name:pol_x_preferred":[
+        "G\u00fclcz\u00f6"
     ],
     "name:rus_x_preferred":[
         "Gul\u2019cha"
@@ -34,10 +49,19 @@
     "name:rus_x_variant":[
         "\u0413\u0443\u043b\u044c\u0447\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Gulcha"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcl\u00e7a"
+    ],
     "name:und_x_variant":[
         "Gultscha",
         "Gul\u2019cha",
         "G\u00fclch\u00f6"
+    ],
+    "name:uzb_x_preferred":[
+        "Gulcha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +87,7 @@
         }
     ],
     "wof:id":1343247693,
-    "wof:lastmodified":1537653157,
+    "wof:lastmodified":1564177856,
     "wof:name":"Gul'cha",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Denisovka"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u0435\u043d\u0438\u0441\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Denisovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293108575,
-    "wof:lastmodified":1537653165,
+    "wof:lastmodified":1564177920,
     "wof:name":"Denisovka",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Min-Kush"
+    ],
     "name:kir_x_preferred":[
         "\u041c\u0438\u04a3-\u041a\u0443\u0448"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d-\u041a\u0443\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Ming-Kusj"
     ],
     "name:und_x_variant":[
         "Ming-Kush",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276124567,
-    "wof:lastmodified":1537653129,
+    "wof:lastmodified":1564177960,
     "wof:name":"Min-Kush",
     "wof:parent_id":1091691101,
     "wof:placetype":"locality",

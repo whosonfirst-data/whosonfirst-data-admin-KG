@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Emgek-Talaa"
     ],
+    "name:uzb_x_preferred":[
+        "Emgek-Tola"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1309744947,
-    "wof:lastmodified":1537653158,
+    "wof:lastmodified":1564178115,
     "wof:name":"Emgektala",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

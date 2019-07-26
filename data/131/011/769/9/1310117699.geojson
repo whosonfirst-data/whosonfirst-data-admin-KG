@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u043b\u0443\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "To\u02bbluq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310117699,
-    "wof:lastmodified":1537653110,
+    "wof:lastmodified":1564178059,
     "wof:name":"Toluk",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

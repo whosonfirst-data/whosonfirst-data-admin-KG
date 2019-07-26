@@ -39,6 +39,9 @@
         "Buzhum",
         "Moskva"
     ],
+    "name:uzb_x_preferred":[
+        "Bujum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209298979,
-    "wof:lastmodified":1537653171,
+    "wof:lastmodified":1564178002,
     "wof:name":"Bujum",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

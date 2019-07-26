@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Murkut"
     ],
+    "name:uzb_x_preferred":[
+        "Murkut"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259603265,
-    "wof:lastmodified":1537653128,
+    "wof:lastmodified":1564178189,
     "wof:name":"Merkit",
     "wof:parent_id":1091690641,
     "wof:placetype":"locality",

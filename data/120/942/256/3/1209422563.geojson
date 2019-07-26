@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0441\u044b\u043a-\u0411\u0443\u043b\u0430\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Sasiq-Buloq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209422563,
-    "wof:lastmodified":1537653215,
+    "wof:lastmodified":1564178005,
     "wof:name":"Sasyk-Bulak",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Aslam"
     ],
+    "name:uzb_x_preferred":[
+        "Asqali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293694343,
-    "wof:lastmodified":1537653177,
+    "wof:lastmodified":1564177904,
     "wof:name":"Askaly",
     "wof:parent_id":1091690861,
     "wof:placetype":"locality",

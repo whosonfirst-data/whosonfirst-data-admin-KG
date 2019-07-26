@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u0437"
     ],
+    "name:uzb_x_preferred":[
+        "Markaz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242662009,
-    "wof:lastmodified":1537653294,
+    "wof:lastmodified":1564178140,
     "wof:name":"Markaz",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

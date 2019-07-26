@@ -36,6 +36,9 @@
         "Kyzyl-Unkyur",
         "Kyzyl-\u00dcnk\u00fcr"
     ],
+    "name:uzb_x_preferred":[
+        "Qizil-Unkur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343572655,
-    "wof:lastmodified":1537653133,
+    "wof:lastmodified":1564177864,
     "wof:name":"Kyzyl-Unkyur",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

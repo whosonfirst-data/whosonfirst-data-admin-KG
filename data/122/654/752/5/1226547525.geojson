@@ -28,8 +28,14 @@
     "name:kir_x_preferred":[
         "Atana"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d20\u0d3e\u0d23"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0442\u0430\u043d\u0430"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9f\u0bbe\u0ba3\u0bbe"
     ],
     "name:und_x_variant":[
         "Renzhit"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1226547525,
-    "wof:lastmodified":1537653101,
+    "wof:lastmodified":1564178234,
     "wof:name":"Atana",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

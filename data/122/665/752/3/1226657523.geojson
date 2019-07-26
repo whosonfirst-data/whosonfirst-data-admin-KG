@@ -25,14 +25,26 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shina"
+    ],
     "name:kir_x_preferred":[
         "\u0428\u0438\u043d\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043d\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Shina"
+    ],
     "name:und_x_variant":[
         "Chomkamysh"
+    ],
+    "name:uzb_x_preferred":[
+        "Shina"
+    ],
+    "name:zho_x_preferred":[
+        "\u652f\u90a3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1226657523,
-    "wof:lastmodified":1537653167,
+    "wof:lastmodified":1564178232,
     "wof:name":"Shina",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

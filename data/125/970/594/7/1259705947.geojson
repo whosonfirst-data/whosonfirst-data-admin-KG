@@ -28,11 +28,17 @@
     "name:kir_x_preferred":[
         "Sasyk-Bulak"
     ],
+    "name:kir_x_variant":[
+        "\u0421\u0430\u0441\u044b\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0441\u044b\u043a\u0431\u0443\u043b\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Sasykbulak"
+    ],
+    "name:uzb_x_preferred":[
+        "Sasiq-Buloq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1259705947,
-    "wof:lastmodified":1537653196,
+    "wof:lastmodified":1564178175,
     "wof:name":"Sasyk-Bulak",
     "wof:parent_id":1091690143,
     "wof:placetype":"locality",

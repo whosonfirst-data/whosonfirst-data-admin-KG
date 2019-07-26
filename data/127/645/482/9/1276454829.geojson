@@ -25,6 +25,9 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0915\u0941\u0930\u0915\u0941\u0930\u093e"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0443\u0440\u043a\u0443\u0440\u0430"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276454829,
-    "wof:lastmodified":1537653257,
+    "wof:lastmodified":1564177936,
     "wof:name":"Kurkura",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

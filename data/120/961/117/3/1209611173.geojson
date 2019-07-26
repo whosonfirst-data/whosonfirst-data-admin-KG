@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0428\u043e\u0440\u043e"
     ],
+    "name:uzb_x_preferred":[
+        "Sho\u02bbro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209611173,
-    "wof:lastmodified":1537653302,
+    "wof:lastmodified":1564177994,
     "wof:name":"Shoro",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

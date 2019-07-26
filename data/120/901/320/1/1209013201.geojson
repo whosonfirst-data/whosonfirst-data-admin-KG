@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0423\u0447\u043a\u0443\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Uchqun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209013201,
-    "wof:lastmodified":1537653269,
+    "wof:lastmodified":1564177979,
     "wof:name":"Uchkun",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sary-Bulak"
+    ],
     "name:kir_x_preferred":[
         "\u0421\u0430\u0440\u044b-\u0411\u0443\u043b\u0430\u043a"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u044b-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sary-Bulak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276659151,
-    "wof:lastmodified":1537653260,
+    "wof:lastmodified":1564177970,
     "wof:name":"Sary-Bulak",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:kir_x_preferred":[
         "\u0410\u043a-\u041a\u0438\u044f"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u041a\u044b\u044f"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Qiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343567407,
-    "wof:lastmodified":1537653202,
+    "wof:lastmodified":1564177865,
     "wof:name":"Ak-Kyya",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
     "name:uzb_x_preferred":[
         "O\u2018tuz-Adir"
     ],
+    "name:uzb_x_variant":[
+        "O\u02bbttiz-Adir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209026557,
-    "wof:lastmodified":1537653185,
+    "wof:lastmodified":1564177999,
     "wof:name":"Otuz-Adyr",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

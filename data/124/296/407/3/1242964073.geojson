@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0447\u0438\u043a"
     ],
+    "name:uzb_x_preferred":[
+        "Kichik"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242964073,
-    "wof:lastmodified":1537653235,
+    "wof:lastmodified":1564178156,
     "wof:name":"Kichik",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

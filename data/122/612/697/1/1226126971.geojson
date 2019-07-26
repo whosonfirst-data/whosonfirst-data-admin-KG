@@ -37,6 +37,9 @@
     "name:uzb_x_preferred":[
         "Qora-Qishtak"
     ],
+    "name:uzb_x_variant":[
+        "Qora-Qishloq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226126971,
-    "wof:lastmodified":1537653150,
+    "wof:lastmodified":1564178225,
     "wof:name":"Kara-Kyshtak",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

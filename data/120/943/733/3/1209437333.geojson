@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0411\u0430\u0439\u0440\u0430\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b \u0411\u0430\u0439\u0440\u0430\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizilbayroq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209437333,
-    "wof:lastmodified":1537653250,
+    "wof:lastmodified":1564178009,
     "wof:name":"Kyzyl-Bayrak",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

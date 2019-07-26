@@ -25,8 +25,14 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kir_x_preferred":[
+        "\u041a\u043e\u0448-\u042d\u0433\u0435\u0440"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0448-\u042d\u0442\u0435\u0440"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbsheter"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1193038215,
-    "wof:lastmodified":1537653250,
+    "wof:lastmodified":1564178020,
     "wof:name":"Kosh-Eter",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

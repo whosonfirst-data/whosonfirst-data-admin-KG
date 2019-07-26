@@ -29,7 +29,8 @@
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
     ],
     "name:kir_x_variant":[
-        "Birinchi May"
+        "Birinchi May",
+        "\u0411\u0438\u0440\u0438\u043d\u0447\u0438 \u041c\u0430\u0439"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u043e\u0435"
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1276886383,
-    "wof:lastmodified":1537653198,
+    "wof:lastmodified":1564177932,
     "wof:name":"Birinchi May",
     "wof:parent_id":1091691511,
     "wof:placetype":"locality",

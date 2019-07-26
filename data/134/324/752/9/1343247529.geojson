@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u0430\u043b\u0438\u043d\u0438\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qora-Suu"
+    ],
+    "name:uzb_x_variant":[
+        "Kalinin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1343247529,
-    "wof:lastmodified":1537653226,
+    "wof:lastmodified":1564177855,
     "wof:name":"Imeni Kalinina",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0427\u0430\u043a\u043c\u0430\u043a-\u0421\u0443\u0443"
     ],
+    "name:uzb_x_preferred":[
+        "Chaqmoq-Suv"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327345441,
-    "wof:lastmodified":1537653217,
+    "wof:lastmodified":1564177819,
     "wof:name":"Chakmak-Suu",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

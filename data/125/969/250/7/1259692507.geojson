@@ -26,14 +26,35 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lebedinovka"
+    ],
+    "name:ita_x_preferred":[
+        "Lebedinovka"
+    ],
     "name:kir_x_preferred":[
         "Lebedinovka"
+    ],
+    "name:kir_x_variant":[
+        "\u041b\u0435\u0431\u0435\u0434\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Lebedinovka"
+    ],
+    "name:swe_x_preferred":[
+        "Lebedinovka"
+    ],
+    "name:tur_x_preferred":[
+        "Lebedinovka"
+    ],
     "name:und_x_variant":[
         "Lebedinka"
+    ],
+    "name:uzb_x_preferred":[
+        "Lebedinovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259692507,
-    "wof:lastmodified":1537653132,
+    "wof:lastmodified":1564178190,
     "wof:name":"Lebedinovka",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

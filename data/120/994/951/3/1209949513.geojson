@@ -31,8 +31,14 @@
     "name:kir_x_preferred":[
         "\u04ae\u0447\u043a\u04af\u043d"
     ],
+    "name:kir_x_variant":[
+        "\u0423\u0447\u043a\u0443\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u0447\u043a\u0443\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Uchqun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1209949513,
-    "wof:lastmodified":1537653107,
+    "wof:lastmodified":1564177998,
     "wof:name":"Uchkun",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

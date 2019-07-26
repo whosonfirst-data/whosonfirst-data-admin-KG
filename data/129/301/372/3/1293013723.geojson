@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0447\u0438-\u041a\u0435\u043c\u0438\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0435\u0447\u0438-\u041a\u0435\u043c\u0438\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Kichik-Kemin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293013723,
-    "wof:lastmodified":1537653273,
+    "wof:lastmodified":1564177887,
     "wof:name":"Kichi-Kemin",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

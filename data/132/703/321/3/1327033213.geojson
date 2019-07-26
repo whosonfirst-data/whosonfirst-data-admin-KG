@@ -31,8 +31,14 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0433\u0430\u0439\u0431\u0443\u043b\u0430\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0433\u0430\u0439-\u0411\u0443\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Karagaybulak"
+    ],
+    "name:uzb_x_preferred":[
+        "Qarag\u02bbay-Buloq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1327033213,
-    "wof:lastmodified":1537653284,
+    "wof:lastmodified":1564177822,
     "wof:name":"Karagay-Bulak",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Qizil-O\u2018rda"
     ],
+    "name:uzb_x_variant":[
+        "Qizil-O\u02bbrda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259580909,
-    "wof:lastmodified":1537653239,
+    "wof:lastmodified":1564178188,
     "wof:name":"Kyzyl-Ordo",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

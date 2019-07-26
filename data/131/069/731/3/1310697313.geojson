@@ -39,6 +39,9 @@
     "name:uzb_x_preferred":[
         "Qizil-Qishtak"
     ],
+    "name:uzb_x_variant":[
+        "Qizil-Qishloq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310697313,
-    "wof:lastmodified":1537653134,
+    "wof:lastmodified":1564178069,
     "wof:name":"Kyzyl-Kyshtak",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

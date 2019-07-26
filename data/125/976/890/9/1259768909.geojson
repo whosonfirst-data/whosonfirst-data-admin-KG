@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u042d\u0440\u043a\u0438\u043d-\u0422\u043e\u043e"
     ],
+    "name:uzb_x_preferred":[
+        "Erkin-Tog\u02bb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259768909,
-    "wof:lastmodified":1537653250,
+    "wof:lastmodified":1564178181,
     "wof:name":"Erkin-Too",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

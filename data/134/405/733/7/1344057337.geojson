@@ -28,6 +28,15 @@
     "name:kir_x_preferred":[
         "Ak-Kuduk"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u041a\u0443\u0434\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a-\u041a\u0443\u0434\u0443\u043a"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Quduq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344057337,
-    "wof:lastmodified":1537653182,
+    "wof:lastmodified":1564177871,
     "wof:name":"Ak-Kuduk",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

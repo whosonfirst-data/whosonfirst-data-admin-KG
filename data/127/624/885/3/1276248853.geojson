@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0433-\u0421\u0443\u0443"
     ],
+    "name:tur_x_preferred":[
+        "Keng-Suu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276248853,
-    "wof:lastmodified":1537653237,
+    "wof:lastmodified":1564177960,
     "wof:name":"Keng-Suu",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

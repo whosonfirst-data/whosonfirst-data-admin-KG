@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0443\u043c"
     ],
+    "name:uzb_x_preferred":[
+        "Pum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327024325,
-    "wof:lastmodified":1537653122,
+    "wof:lastmodified":1564177818,
     "wof:name":"Pum",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

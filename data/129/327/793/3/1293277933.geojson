@@ -28,8 +28,14 @@
     "name:kir_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u0430\u0440\u043b \u041c\u0430\u0440\u043a\u0441"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Karl Marks"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293277933,
-    "wof:lastmodified":1537653233,
+    "wof:lastmodified":1564177914,
     "wof:name":"Imeni Karla Marksa",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

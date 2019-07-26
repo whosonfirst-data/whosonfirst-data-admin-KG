@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Imeni Kirova"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432 \u0430\u0442\u044b\u043d\u0434\u0430\u0433\u044b"
     ],
     "name:rus_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041a\u0438\u0440\u043e\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Imeni Kirova"
     ],
     "name:und_x_variant":[
         "Dzhetygen"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1360298435,
-    "wof:lastmodified":1537653275,
+    "wof:lastmodified":1564178080,
     "wof:name":"Imeni Kirova",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

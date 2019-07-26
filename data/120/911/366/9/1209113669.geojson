@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Oq-Tom"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u062a\u0627\u0645"
+    ],
     "name:kir_x_preferred":[
         "Ak-Tam"
+    ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u0422\u0430\u043c"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a-\u0422\u0430\u043c"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209113669,
-    "wof:lastmodified":1537653191,
+    "wof:lastmodified":1564178001,
     "wof:name":"Ak-Tam",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

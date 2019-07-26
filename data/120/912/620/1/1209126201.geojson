@@ -43,6 +43,9 @@
     "name:uzb_x_preferred":[
         "Qirg\u2018iz-Chek"
     ],
+    "name:uzb_x_variant":[
+        "Qirg\u02bbiz-Chek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209126201,
-    "wof:lastmodified":1537653118,
+    "wof:lastmodified":1564177986,
     "wof:name":"Kyrgyz-Chek",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

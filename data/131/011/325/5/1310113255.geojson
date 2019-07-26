@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Mo\u2018g\u2018ol-Qo\u2018rg\u2018on"
     ],
+    "name:uzb_x_variant":[
+        "Mo\u02bbg\u02bbul-Qo\u02bbrg\u02bbon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310113255,
-    "wof:lastmodified":1537653211,
+    "wof:lastmodified":1564178059,
     "wof:name":"Mogol-Korgon",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

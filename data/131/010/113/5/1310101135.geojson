@@ -25,6 +25,9 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Erkin"
+    ],
     "name:kir_x_preferred":[
         "\u042d\u0440\u043a\u0438\u043d"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310101135,
-    "wof:lastmodified":1537653241,
+    "wof:lastmodified":1564178061,
     "wof:name":"Erkin",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

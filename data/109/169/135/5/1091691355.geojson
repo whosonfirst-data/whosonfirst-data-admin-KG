@@ -45,6 +45,9 @@
     "name:und_x_variant":[
         "\u0416\u0435\u0442\u0438-\u041e\u0433\u0443\u0437\u0441\u043a\u0438\u0439"
     ],
+    "name:zho_x_preferred":[
+        "\u6770\u5b63-\u5965\u53e4\u5179"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091691355,
-    "wof:lastmodified":1553717901,
+    "wof:lastmodified":1564178085,
     "wof:name":"Jeti-Oguz",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

@@ -25,8 +25,20 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0441\u044b\u043c\u0431\u0435\u043a"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0441\u044b\u043c\u0431\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Kasymbek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u044b\u043c\u0431\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0438\u043c\u0431\u0435\u043a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276883463,
-    "wof:lastmodified":1537653147,
+    "wof:lastmodified":1564177932,
     "wof:name":"Kasymbek",
     "wof:parent_id":1091691175,
     "wof:placetype":"locality",

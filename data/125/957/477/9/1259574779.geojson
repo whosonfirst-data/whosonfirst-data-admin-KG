@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0443\u0430\u0439\u0433\u044b\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0440\u0443-\u0410\u0439\u0433\u044b\u0440"
+    ],
     "name:und_x_variant":[
         "Toraygyn",
         "Toraygyr",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259574779,
-    "wof:lastmodified":1537653109,
+    "wof:lastmodified":1564178182,
     "wof:name":"Toru-Aygyr",
     "wof:parent_id":1091691273,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u042d\u043f\u043a\u0438\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Epkin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276370135,
-    "wof:lastmodified":1537653260,
+    "wof:lastmodified":1564177969,
     "wof:name":"Epkin",
     "wof:parent_id":1091691101,
     "wof:placetype":"locality",

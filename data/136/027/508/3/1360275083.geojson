@@ -29,7 +29,8 @@
         "\u0420\u0430\u0443\u0442"
     ],
     "name:kir_x_variant":[
-        "Kaiyndy"
+        "Kaiyndy",
+        "\u041a\u0430\u0439\u044b\u04a3\u0434\u044b"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0443\u0442"
@@ -40,6 +41,9 @@
     "name:und_x_variant":[
         "Raut",
         "Kayyndy"
+    ],
+    "name:uzb_x_preferred":[
+        "Qayindi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1360275083,
-    "wof:lastmodified":1537653097,
+    "wof:lastmodified":1564178078,
     "wof:name":"Kayyndy",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",
