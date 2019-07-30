@@ -25,11 +25,20 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koy-Tash"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u043e\u0439-\u0422\u0430\u0448"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0439-\u0422\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Koy-Tash"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bby-Tosh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293101749,
-    "wof:lastmodified":1537653265,
+    "wof:lastmodified":1564177920,
     "wof:name":"Koy-Tash",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

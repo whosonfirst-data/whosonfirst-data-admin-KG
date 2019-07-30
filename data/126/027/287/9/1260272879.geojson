@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Jani-Jer"
     ],
+    "name:uzb_x_variant":[
+        "Yangi-Yer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1260272879,
-    "wof:lastmodified":1537653295,
+    "wof:lastmodified":1564178030,
     "wof:name":"Dzhany-Dzher",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

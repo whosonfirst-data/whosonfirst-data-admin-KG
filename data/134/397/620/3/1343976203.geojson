@@ -32,6 +32,9 @@
         "Yangi-iol",
         "Yangi-Dzhol"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u06cc-\u062f\u0632\u06be\u0648\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343976203,
-    "wof:lastmodified":1537653104,
+    "wof:lastmodified":1564177847,
     "wof:name":"Yangi-Jol",
     "wof:parent_id":1091691101,
     "wof:placetype":"locality",

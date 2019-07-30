@@ -25,19 +25,32 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pristan' Przheval'sk"
+    ],
     "name:kir_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c \u041f\u0440\u0436\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
+    ],
+    "name:kir_x_variant":[
+        "\u041f\u0440\u0436\u0435\u0432\u0430\u043b\u044c\u0441\u043a \u043f\u0440\u0438\u0441\u0442\u0430\u043d\u044b"
     ],
     "name:rus_x_preferred":[
         "Pristan\u2019 Przheval\u2019sk"
     ],
     "name:rus_x_variant":[
-        "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c \u041f\u0440\u0436\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
+        "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c \u041f\u0440\u0436\u0435\u0432\u0430\u043b\u044c\u0441\u043a",
+        "\u041f\u0440\u0438\u0441\u0442\u0430\u043d\u044c-\u041f\u0440\u0436\u0435\u0432\u0430\u043b\u044c\u0441\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Pristan' Przheval'sk"
     ],
     "name:und_x_variant":[
         "Przheval\u2019sk",
         "Pristan\u2019-Prjeval\u2019sk",
         "Pristan\u2019 Przheval\u2019sk"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5c14\u70ed\u74e6\u5c14\u65af\u514b\u7801\u5934"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +76,7 @@
         }
     ],
     "wof:id":1277068345,
-    "wof:lastmodified":1537653123,
+    "wof:lastmodified":1564177924,
     "wof:name":"Pristan' Przheval'sk",
     "wof:parent_id":1091691853,
     "wof:placetype":"locality",

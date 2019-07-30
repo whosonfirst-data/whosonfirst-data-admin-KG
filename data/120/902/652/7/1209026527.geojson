@@ -36,6 +36,9 @@
         "Oytal",
         "Oy-Tal"
     ],
+    "name:uzb_x_preferred":[
+        "O\u02bby-Tol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209026527,
-    "wof:lastmodified":1537653124,
+    "wof:lastmodified":1564177999,
     "wof:name":"Oytal",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

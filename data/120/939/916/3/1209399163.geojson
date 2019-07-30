@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Qora-Sho\u2018ro"
     ],
+    "name:uzb_x_variant":[
+        "Qora-Sho\u02bbro\u02bb"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209399163,
-    "wof:lastmodified":1537653308,
+    "wof:lastmodified":1564177980,
     "wof:name":"Kara-Shoro",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

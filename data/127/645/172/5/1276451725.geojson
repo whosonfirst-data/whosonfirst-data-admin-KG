@@ -25,11 +25,32 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Altyn"
+    ],
+    "name:deu_x_preferred":[
+        "Altyn"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d"
     ],
+    "name:lit_x_preferred":[
+        "Altynas"
+    ],
+    "name:pol_x_preferred":[
+        "A\u0142tyn"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Altyn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0442\u0438\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276451725,
-    "wof:lastmodified":1537653272,
+    "wof:lastmodified":1564177936,
     "wof:name":"Altyn",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

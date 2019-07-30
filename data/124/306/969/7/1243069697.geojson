@@ -25,11 +25,176 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Alcidae"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0644\u06cc\u062c\u06cc\u0645\u0627\u0631\u062a\u06cc\u06a9\u06cc\u0645\u06cc\u200c\u0644\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259miz\u00e7il\u0259r"
+    ],
+    "name:bre_x_preferred":[
+        "Alcidae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "\u00c0lcids"
+    ],
+    "name:ceb_x_preferred":[
+        "Alcidae"
+    ],
+    "name:ces_x_preferred":[
+        "Alky"
+    ],
+    "name:cym_x_preferred":[
+        "Carfilod"
+    ],
+    "name:dan_x_preferred":[
+        "Alkefugle"
+    ],
+    "name:deu_x_preferred":[
+        "Alkenv\u00f6gel"
+    ],
+    "name:epo_x_preferred":[
+        "A\u016dkedoj"
+    ],
+    "name:est_x_preferred":[
+        "Alklased"
+    ],
+    "name:eus_x_preferred":[
+        "Alcidae"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u06cc\u200c\u06af\u06cc\u0631\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Ruokit"
+    ],
+    "name:fra_x_preferred":[
+        "Alcidae"
+    ],
+    "name:frr_x_preferred":[
+        "Alken"
+    ],
+    "name:fry_x_preferred":[
+        "Alkf\u00fbgels"
+    ],
+    "name:gle_x_preferred":[
+        "Falc\u00f3g"
+    ],
+    "name:glg_x_preferred":[
+        "\u00c1lcidos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e7\u05d9\u05d9\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Njorke"
+    ],
+    "name:hun_x_preferred":[
+        "Alkaf\u00e9l\u00e9k"
+    ],
+    "name:ind_x_preferred":[
+        "Auk"
+    ],
+    "name:isl_x_preferred":[
+        "Svartfuglar"
+    ],
+    "name:ita_x_preferred":[
+        "Alcidae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30df\u30b9\u30ba\u30e1\u79d1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d9\u10d0\u10e1\u10d4\u10d1\u10e0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u04b1\u043d\u0442\u0430\u0437\u049b\u04b1\u0441\u0442\u0430\u0440 \u0442\u04b1\u049b\u044b\u043c\u0434\u0430\u0441\u044b"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u0443\u043a"
     ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub2e4\uc1e0\uc624\ub9ac\ub958"
+    ],
+    "name:lav_x_preferred":[
+        "Alku dzimta"
+    ],
+    "name:lit_x_preferred":[
+        "Alkiniai"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d13\u0d15\u0d4d\u0d15\u0d4d \u0d2a\u0d15\u0d4d\u0d37\u0d3f"
+    ],
+    "name:nds_x_preferred":[
+        "Alkenvagels"
+    ],
+    "name:nld_x_preferred":[
+        "Alken"
+    ],
+    "name:nno_x_preferred":[
+        "Alkefamilien"
+    ],
+    "name:nor_x_preferred":[
+        "Alkefugler"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0648\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Alki"
+    ],
+    "name:por_x_preferred":[
+        "Alcidae"
+    ],
+    "name:ron_x_preferred":[
+        "Alcidae"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0443\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u0438\u0441\u0442\u0438\u043a\u043e\u0432\u044b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Alcidae"
+    ],
+    "name:swa_x_preferred":[
+        "Alka"
+    ],
+    "name:swe_x_preferred":[
+        "Alkor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0b95\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Dal\u0131c\u0131mart\u0131giller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u043a\u043e\u0432\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Chistiklar"
+    ],
+    "name:vie_x_preferred":[
+        "Alcidae"
+    ],
+    "name:war_x_preferred":[
+        "Alcidae"
+    ],
+    "name:zea_x_preferred":[
+        "Alken"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u96c0\u79d1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +219,7 @@
         }
     ],
     "wof:id":1243069697,
-    "wof:lastmodified":1537653211,
+    "wof:lastmodified":1564178131,
     "wof:name":"Auk",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

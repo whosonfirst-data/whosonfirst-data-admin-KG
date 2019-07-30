@@ -34,6 +34,12 @@
     "name:und_x_variant":[
         "Dzhany-Dzhol"
     ],
+    "name:uzb_x_preferred":[
+        "Churbek"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u5c14\u522b\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293119763,
-    "wof:lastmodified":1537653099,
+    "wof:lastmodified":1564177915,
     "wof:name":"Churbek",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

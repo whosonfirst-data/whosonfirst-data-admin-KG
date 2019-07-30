@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430-\u041f\u0430\u0442\u0447\u0430"
     ],
+    "name:kir_x_variant":[
+        "\u041c\u044b\u0440\u0437\u0430-\u041f\u0430\u0442\u0447\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0440\u0437\u0430-\u041f\u0430\u0442\u0447\u0430"
     ],
@@ -37,6 +40,9 @@
     "name:und_x_variant":[
         "Mirza-Patcha",
         "Myrza-Patcha"
+    ],
+    "name:uzb_x_preferred":[
+        "Mirzapochcha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1276640389,
-    "wof:lastmodified":1537653301,
+    "wof:lastmodified":1564177967,
     "wof:name":"Myrza-Patcha",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

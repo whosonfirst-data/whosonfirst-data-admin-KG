@@ -25,6 +25,9 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b6\u03b9\u03bb\u03c4\u03bf\u03ba\u03cc\u03b9"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0422\u043e\u043a\u043e\u0439"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qizil-Toqoy"
+    ],
+    "name:uzb_x_variant":[
+        "Qizil-To\u02bbqay"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1344258839,
-    "wof:lastmodified":1537653133,
+    "wof:lastmodified":1564177848,
     "wof:name":"Kyzyl-Tokoy",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

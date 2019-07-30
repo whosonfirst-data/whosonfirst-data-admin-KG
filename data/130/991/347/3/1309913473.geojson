@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430-\u0410\u043b\u043c\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "Qora-Olma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1309913473,
-    "wof:lastmodified":1537653152,
+    "wof:lastmodified":1564178107,
     "wof:name":"Kara-Alma",
     "wof:parent_id":1091691053,
     "wof:placetype":"locality",

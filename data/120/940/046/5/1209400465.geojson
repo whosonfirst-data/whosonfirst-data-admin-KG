@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Mamazhan"
     ],
+    "name:uzb_x_preferred":[
+        "Mamajon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209400465,
-    "wof:lastmodified":1537653103,
+    "wof:lastmodified":1564177988,
     "wof:name":"Mamajan",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

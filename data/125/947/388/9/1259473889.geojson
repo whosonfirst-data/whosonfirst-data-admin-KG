@@ -38,6 +38,9 @@
         "Kara-K\u00f6l",
         "Karool"
     ],
+    "name:uzb_x_preferred":[
+        "Karool"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259473889,
-    "wof:lastmodified":1537653150,
+    "wof:lastmodified":1564178180,
     "wof:name":"Karool",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

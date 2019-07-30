@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aktash"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0422\u0430\u0448"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0430\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Aktash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1210024097,
-    "wof:lastmodified":1537653256,
+    "wof:lastmodified":1564178015,
     "wof:name":"Aktash",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

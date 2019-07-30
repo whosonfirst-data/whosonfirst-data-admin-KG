@@ -25,11 +25,32 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tuz"
+    ],
+    "name:ceb_x_preferred":[
+        "Tuz"
+    ],
+    "name:deu_x_preferred":[
+        "Tuz"
+    ],
+    "name:hun_x_preferred":[
+        "T\u0171z"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u0443\u0437"
     ],
+    "name:pol_x_preferred":[
+        "Tuz"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0437"
+    ],
+    "name:swe_x_preferred":[
+        "Tuz"
+    ],
+    "name:tur_x_preferred":[
+        "Tuz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1260188853,
-    "wof:lastmodified":1537653286,
+    "wof:lastmodified":1564178032,
     "wof:name":"Tuz",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

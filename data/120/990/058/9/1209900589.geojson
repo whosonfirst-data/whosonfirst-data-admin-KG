@@ -25,11 +25,20 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katran"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u0430\u0442\u0440\u0430\u043d"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Katran"
+    ],
+    "name:uzb_x_preferred":[
+        "Qatran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209900589,
-    "wof:lastmodified":1537653097,
+    "wof:lastmodified":1564177982,
     "wof:name":"Katran",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

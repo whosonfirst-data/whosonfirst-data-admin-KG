@@ -25,14 +25,56 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kochkor-Ata"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u06c6\u0686\u0642\u06c6\u0631-\u0626\u0627\u062a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Kotschkor-Ata"
+    ],
+    "name:est_x_preferred":[
+        "Kot\u0161kor-Ata"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0686\u06a9\u0627\u0631\u0622\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kotchkor-Ata"
+    ],
+    "name:hsb_x_preferred":[
+        "Ko\u010dkor-Ata"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u043e\u0447\u043a\u043e\u0440-\u0410\u0442\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Ko\u010dkor Ata"
+    ],
+    "name:pol_x_preferred":[
+        "Koczkorata"
+    ],
+    "name:por_x_preferred":[
+        "Kochkor-Ata"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0447\u043a\u043e\u0440-\u0410\u0442\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0447\u043a\u0430\u0440-\u0410\u0442\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Ko\u00e7kor-Ata"
+    ],
     "name:uzb_x_preferred":[
         "Qo\u2018chqor-Ota"
+    ],
+    "name:uzb_x_variant":[
+        "Qo\u02bbchqorota"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5947\u79d1\u723e\u963f\u5854"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +99,7 @@
         }
     ],
     "wof:id":1276463785,
-    "wof:lastmodified":1537653238,
+    "wof:lastmodified":1564177961,
     "wof:name":"Kochkor-Ata",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

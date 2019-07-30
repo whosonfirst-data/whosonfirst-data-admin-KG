@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u0427\u044b\u043c\u0433\u0435\u043d"
     ],
+    "name:kir_x_variant":[
+        "\u0427\u0438\u043c\u0433\u0435\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u044b\u043c\u0433\u0435\u043d"
     ],
@@ -37,6 +40,9 @@
     "name:und_x_variant":[
         "Chymgen",
         "Bol\u2019shevik",
+        "Chimgen"
+    ],
+    "name:uzb_x_preferred":[
         "Chimgen"
     ],
     "src:geom":"geonames",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1293707899,
-    "wof:lastmodified":1537653303,
+    "wof:lastmodified":1564177895,
     "wof:name":"Chimgen",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

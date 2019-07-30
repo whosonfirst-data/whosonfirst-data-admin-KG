@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u042f\u0440\u044b\u043a\u0442\u0430\u0448"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0631\u06cc\u06a9\u062a\u0627\u0634"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310212679,
-    "wof:lastmodified":1537653104,
+    "wof:lastmodified":1564178063,
     "wof:name":"Yaryktash",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

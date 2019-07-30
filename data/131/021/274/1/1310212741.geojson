@@ -34,6 +34,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0437\u0443\u043a"
     ],
+    "name:sqi_x_preferred":[
+        "Buzuku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310212741,
-    "wof:lastmodified":1537653191,
+    "wof:lastmodified":1564178063,
     "wof:name":"Buzuk",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

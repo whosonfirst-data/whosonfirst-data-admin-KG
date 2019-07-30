@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0441\u043a\u043e\u043e\u043b"
     ],
+    "name:uzb_x_preferred":[
+        "Toskool"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226250067,
-    "wof:lastmodified":1537653210,
+    "wof:lastmodified":1564178221,
     "wof:name":"Toskool",
     "wof:parent_id":1091690981,
     "wof:placetype":"locality",

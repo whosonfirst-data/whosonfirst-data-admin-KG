@@ -35,12 +35,30 @@
     "mps:longitude":77.021221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Tonne"
+    ],
     "name:eng_x_preferred":[
         "Ton"
     ],
     "name:eng_x_variant":[
         "Tong",
         "Ton"
+    ],
+    "name:eus_x_preferred":[
+        "Tona ingelesa"
+    ],
+    "name:nno_x_preferred":[
+        "Megagram"
+    ],
+    "name:nor_x_preferred":[
+        "Megagram"
+    ],
+    "name:swe_x_preferred":[
+        "Ton"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c28\u0c4d"
     ],
     "name:und_x_variant":[
         "\u0422\u043e\u043d\u0441\u043a\u0438\u0439"
@@ -78,7 +96,7 @@
         }
     ],
     "wof:id":1091691319,
-    "wof:lastmodified":1553717901,
+    "wof:lastmodified":1564178097,
     "wof:name":"Ton",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

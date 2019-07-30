@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043e\u043e\u043b"
     ],
+    "name:uzb_x_preferred":[
+        "Karool"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259678281,
-    "wof:lastmodified":1537653221,
+    "wof:lastmodified":1564178186,
     "wof:name":"Karool",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u0421\u044b\u043d-\u0422\u0430\u0448"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u044b\u043d\u0442\u0430\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Sintosh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1293796883,
-    "wof:lastmodified":1537653114,
+    "wof:lastmodified":1564177890,
     "wof:name":"Syn-Tash",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

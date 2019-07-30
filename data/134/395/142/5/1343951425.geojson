@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u044b-\u0411\u044d\u044d"
     ],
+    "name:uzb_x_preferred":[
+        "Sariq-Bee"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343951425,
-    "wof:lastmodified":1537653231,
+    "wof:lastmodified":1564177860,
     "wof:name":"Sary-Bee",
     "wof:parent_id":1091690665,
     "wof:placetype":"locality",

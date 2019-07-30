@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Chunqur-Qishtak"
     ],
+    "name:uzb_x_variant":[
+        "Chunqur-Qishloq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209209539,
-    "wof:lastmodified":1537653295,
+    "wof:lastmodified":1564178002,
     "wof:name":"Chunkur-Kyshtak",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

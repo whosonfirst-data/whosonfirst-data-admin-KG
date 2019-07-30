@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Diykan-Qishtak"
     ],
+    "name:uzb_x_variant":[
+        "Dehqon-Qishloq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1309796719,
-    "wof:lastmodified":1537653185,
+    "wof:lastmodified":1564178110,
     "wof:name":"Dyykan-Kyshtak",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

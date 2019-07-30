@@ -25,15 +25,33 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akbulun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9-\u0628\u0627\u0644\u0648\u0646"
+    ],
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0411\u0443\u043b\u0443\u043d"
+    ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0443\u04a3"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0431\u0443\u043b\u0443\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0410\u043a-\u0411\u0443\u043b\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Akbulun"
+    ],
     "name:und_x_variant":[
         "Ak-Bulung",
         "Akbulun"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u514b\u5e03\u9686"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226741543,
-    "wof:lastmodified":1537653184,
+    "wof:lastmodified":1564178206,
     "wof:name":"Akbulun",
     "wof:parent_id":1091691455,
     "wof:placetype":"locality",

@@ -28,11 +28,17 @@
     "name:kir_x_preferred":[
         "Shamaldy-Say"
     ],
+    "name:kir_x_variant":[
+        "\u0428\u0430\u043c\u0430\u043b\u0434\u044b-\u0421\u0430\u0439"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043c\u0430\u043b\u0434\u044b-\u0421\u0430\u0439"
     ],
     "name:uzb_x_preferred":[
         "Shomoldi-Soy"
+    ],
+    "name:uzb_x_variant":[
+        "Shamoldi-Soy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226354119,
-    "wof:lastmodified":1537653118,
+    "wof:lastmodified":1564178217,
     "wof:name":"Shamaldy-Say",
     "wof:parent_id":1091690981,
     "wof:placetype":"locality",

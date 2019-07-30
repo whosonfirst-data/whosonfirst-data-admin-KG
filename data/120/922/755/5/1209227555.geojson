@@ -31,6 +31,15 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0440\u0443\u0441"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u043e\u0440\u0443\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Nijniy-Norus"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8bfa\u9c81\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209227555,
-    "wof:lastmodified":1537653187,
+    "wof:lastmodified":1564177991,
     "wof:name":"Nizhniy Norus",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

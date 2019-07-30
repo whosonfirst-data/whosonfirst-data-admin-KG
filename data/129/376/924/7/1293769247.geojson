@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0422\u044d\u044d\u043a\u0435"
     ],
+    "name:uzb_x_preferred":[
+        "Teeke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293769247,
-    "wof:lastmodified":1537653235,
+    "wof:lastmodified":1564177896,
     "wof:name":"Teeke",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

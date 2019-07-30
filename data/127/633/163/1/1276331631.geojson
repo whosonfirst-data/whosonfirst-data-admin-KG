@@ -25,8 +25,14 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Novodonetskoye"
+    ],
     "name:kir_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u043e\u043d\u0435\u0446\u043a\u043e\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Novodonetskoye"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0434\u043e\u043d\u0435\u0446\u043a\u043e\u0435"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276331631,
-    "wof:lastmodified":1537653278,
+    "wof:lastmodified":1564177941,
     "wof:name":"Novodonetskoye",
     "wof:parent_id":1091690313,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u043c\u0430\u043a-\u0410\u0448\u0443\u0443"
     ],
+    "name:uzb_x_preferred":[
+        "Qalmoq-Oshuv"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327240299,
-    "wof:lastmodified":1537653276,
+    "wof:lastmodified":1564177813,
     "wof:name":"Kalmak-Ashuu",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

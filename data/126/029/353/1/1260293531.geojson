@@ -25,14 +25,23 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boroldoy"
+    ],
     "name:kir_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043b\u0434\u043e\u0439"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u043b\u0434\u043e\u0439"
     ],
+    "name:swe_x_preferred":[
+        "Boroldoy"
+    ],
     "name:und_x_variant":[
         "Burulday",
+        "Boroldoy"
+    ],
+    "name:uzb_x_preferred":[
         "Boroldoy"
     ],
     "src:geom":"geonames",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1260293531,
-    "wof:lastmodified":1537653172,
+    "wof:lastmodified":1564178033,
     "wof:name":"Boroldoy",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

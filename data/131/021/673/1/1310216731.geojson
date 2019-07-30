@@ -35,6 +35,9 @@
         "Chonaryk",
         "Chong-Aryk"
     ],
+    "name:uzb_x_preferred":[
+        "Cho\u02bbn-Ariq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310216731,
-    "wof:lastmodified":1537653166,
+    "wof:lastmodified":1564178063,
     "wof:name":"Chon-Aryk",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

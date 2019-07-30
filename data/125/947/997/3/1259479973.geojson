@@ -25,11 +25,20 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u057d\u057f\u0565\u0580\u056b"
+    ],
     "name:kir_x_preferred":[
         "\u0411\u043e\u0437\u0442\u0435\u0440\u0438"
     ],
+    "name:kir_x_variant":[
+        "\u0411\u043e\u0441\u0442\u0435\u0440\u0438"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0437\u0442\u0435\u0440\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0441\u0442\u0435\u0440\u0438"
     ],
     "name:und_x_variant":[
         "Bozterinovka",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1259479973,
-    "wof:lastmodified":1537653172,
+    "wof:lastmodified":1564178179,
     "wof:name":"Bosteri",
     "wof:parent_id":1091691273,
     "wof:placetype":"locality",

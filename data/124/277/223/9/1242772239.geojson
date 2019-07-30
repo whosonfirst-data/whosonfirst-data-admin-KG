@@ -25,11 +25,23 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Darkhan"
+    ],
+    "name:fra_x_preferred":[
+        "Darkhan"
+    ],
     "name:kir_x_preferred":[
         "\u0414\u0430\u0440\u0445\u0430\u043d"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0440\u0445\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Darkhan"
+    ],
+    "name:swe_x_preferred":[
+        "Darkhan"
     ],
     "name:und_x_variant":[
         "Tarkhana",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1242772239,
-    "wof:lastmodified":1537653165,
+    "wof:lastmodified":1564178153,
     "wof:name":"Darkhan",
     "wof:parent_id":1091691355,
     "wof:placetype":"locality",

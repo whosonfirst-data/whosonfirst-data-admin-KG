@@ -25,8 +25,14 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pitomnik"
+    ],
     "name:kir_x_preferred":[
         "\u041f\u0438\u0442\u043e\u043c\u043d\u0438\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Pitomnik"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0442\u043e\u043c\u043d\u0438\u043a"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1242669319,
-    "wof:lastmodified":1537653277,
+    "wof:lastmodified":1564178138,
     "wof:name":"Pitomnik",
     "wof:parent_id":1091691273,
     "wof:placetype":"locality",

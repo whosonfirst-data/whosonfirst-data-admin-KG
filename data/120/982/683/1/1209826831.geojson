@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u0427\u0430\u04a3\u044b\u0440-\u0422\u0430\u0448"
     ],
+    "name:kir_x_variant":[
+        "\u0427\u0430\u043d\u0433\u044b\u0440-\u0422\u0430\u0448"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043d\u0433\u044b\u0440-\u0422\u0430\u0448"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:uzb_x_preferred":[
         "Chang\u2018ir-Tosh"
+    ],
+    "name:uzb_x_variant":[
+        "Chang\u02bbir-Tosh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1209826831,
-    "wof:lastmodified":1537653169,
+    "wof:lastmodified":1564177990,
     "wof:name":"Changyr-Tash",
     "wof:parent_id":1091691053,
     "wof:placetype":"locality",

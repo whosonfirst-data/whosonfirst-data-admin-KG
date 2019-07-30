@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Taldy-Suu"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0434\u044b-\u0421\u0443\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Taldy-Suu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343843539,
-    "wof:lastmodified":1537653309,
+    "wof:lastmodified":1564177854,
     "wof:name":"Taldy-Suu",
     "wof:parent_id":1091690561,
     "wof:placetype":"locality",

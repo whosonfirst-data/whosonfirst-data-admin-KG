@@ -28,8 +28,14 @@
     "name:kir_x_preferred":[
         "Tuura-Suu"
     ],
+    "name:kir_x_variant":[
+        "\u0422\u0443\u0443\u0440\u0430-\u0421\u0443\u0443"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u0430\u0441\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0443\u0443\u0440\u0430-\u0421\u0443\u0443"
     ],
     "name:und_x_variant":[
         "Turasu",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276253209,
-    "wof:lastmodified":1537653201,
+    "wof:lastmodified":1564177953,
     "wof:name":"Tuura-Suu",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

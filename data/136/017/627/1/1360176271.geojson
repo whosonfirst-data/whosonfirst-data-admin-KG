@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0435\u043d\u0441\u0443"
     ],
+    "name:tur_x_preferred":[
+        "Keng-Suu"
+    ],
     "name:und_x_variant":[
         "Kensu"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1360176271,
-    "wof:lastmodified":1537653289,
+    "wof:lastmodified":1564178081,
     "wof:name":"Keng-Suu",
     "wof:parent_id":1091691455,
     "wof:placetype":"locality",

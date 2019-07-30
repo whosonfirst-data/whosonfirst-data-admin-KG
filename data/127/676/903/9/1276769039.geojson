@@ -37,6 +37,9 @@
     "name:und_x_variant":[
         "Karasaz"
     ],
+    "name:uzb_x_preferred":[
+        "Qora-Soz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276769039,
-    "wof:lastmodified":1537653201,
+    "wof:lastmodified":1564177954,
     "wof:name":"Kara-Saz",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

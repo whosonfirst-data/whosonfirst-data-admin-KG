@@ -34,6 +34,9 @@
     "name:und_x_variant":[
         "Dzhergetal"
     ],
+    "name:uzb_x_preferred":[
+        "Jerge-Tol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1242978355,
-    "wof:lastmodified":1537653304,
+    "wof:lastmodified":1564178157,
     "wof:name":"Jerge-Tal",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

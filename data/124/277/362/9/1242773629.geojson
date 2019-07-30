@@ -28,11 +28,17 @@
     "name:kir_x_preferred":[
         "Tashty-Kalan"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u043e\u0440\u0433\u043e\u043d-\u0422\u0430\u0448"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0448\u0442\u044b-\u041a\u0430\u043b\u0430\u043d"
     ],
     "name:rus_x_variant":[
         "\u041a\u043e\u0440\u0433\u043e\u043d-\u0422\u0430\u0448"
+    ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbrg\u02bbon-Tosh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242773629,
-    "wof:lastmodified":1537653304,
+    "wof:lastmodified":1564178152,
     "wof:name":"Korgon-Tash",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",

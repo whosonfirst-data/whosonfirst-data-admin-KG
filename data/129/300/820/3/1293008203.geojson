@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ak-Bulak"
+    ],
     "name:kir_x_preferred":[
         "Ak-Bulak"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043a-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Ak-Bulak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293008203,
-    "wof:lastmodified":1537653206,
+    "wof:lastmodified":1564177882,
     "wof:name":"Ak-Bulak",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

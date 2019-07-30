@@ -25,6 +25,9 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sarban"
+    ],
     "name:kir_x_preferred":[
         "\u0421\u0430\u0440\u0431\u0430\u043d"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293598067,
-    "wof:lastmodified":1537653262,
+    "wof:lastmodified":1564177901,
     "wof:name":"Sarban",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

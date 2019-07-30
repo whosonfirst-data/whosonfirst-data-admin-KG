@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u0443\u0440\u0433\u0430\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Quturg\u02bban"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276426429,
-    "wof:lastmodified":1537653135,
+    "wof:lastmodified":1564177937,
     "wof:name":"Kuturgan",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

@@ -31,8 +31,20 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u0438\u043e\u0437\u0435\u0440\u043d\u044b\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
+    "name:tat_x_preferred":[
+        "\u042b\u043d\u0442\u044b\u043c\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Priozernyy"
+    ],
+    "name:uzb_x_preferred":[
+        "Intimoq"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u63d0\u9a6c\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310000419,
-    "wof:lastmodified":1537653288,
+    "wof:lastmodified":1564178049,
     "wof:name":"Yntymak",
     "wof:parent_id":1091691407,
     "wof:placetype":"locality",

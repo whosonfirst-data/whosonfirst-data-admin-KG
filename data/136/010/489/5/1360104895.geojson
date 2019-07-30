@@ -28,8 +28,14 @@
     "name:kir_x_preferred":[
         "Kashkar-Kyshtak"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u0430\u0448\u0433\u0430\u0440-\u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0448\u0433\u0430\u0440 \u041a\u044b\u0448\u0442\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0448\u0433\u0430\u0440-\u041a\u044b\u0448\u0442\u0430\u043a"
     ],
     "name:und_x_variant":[
         "Kashgarkishlak",
@@ -39,6 +45,9 @@
     ],
     "name:uzb_x_preferred":[
         "Qashg\u2018ar-Qishtak"
+    ],
+    "name:uzb_x_variant":[
+        "Qashg\u02bbar-Qishloq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1360104895,
-    "wof:lastmodified":1537653147,
+    "wof:lastmodified":1564178084,
     "wof:name":"Kashgar Kyshtak",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

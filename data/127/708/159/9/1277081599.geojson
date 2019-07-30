@@ -25,11 +25,68 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ckb_x_preferred":[
+        "\u0642\u0632\u0644-\u0642\u06cc\u0627"
+    ],
+    "name:est_x_preferred":[
+        "K\u00f5z\u00f5lk\u00f5ja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u0644\u200c\u0642\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Kyzyl-Kiya"
+    ],
+    "name:hsb_x_preferred":[
+        "Kyzyl-Kija"
+    ],
+    "name:hun_x_preferred":[
+        "Kizilkija"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u044b\u0437\u044b\u043b-\u049a\u0438\u044f"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u044f"
     ],
+    "name:kir_x_variant":[
+        "\u041a\u044b\u0437\u044b\u043b-\u041a\u044b\u044f \u0448\u0430\u0430\u0440\u044b"
+    ],
+    "name:lat_x_preferred":[
+        "Cyzylcia"
+    ],
+    "name:lit_x_preferred":[
+        "Kyzyl Kija"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u044b\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Kyzy\u0142kyja"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u041a\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Kyzil-Kiya"
+    ],
+    "name:spa_x_preferred":[
+        "Kyzyl-Kiya"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u043a\u044b\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0437\u0438\u043b-\u041a\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u0632\u06cc\u0644 \u0642\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Qizilqiya"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5b5c\u52d2\u57fa\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +111,7 @@
         }
     ],
     "wof:id":1277081599,
-    "wof:lastmodified":1537653253,
+    "wof:lastmodified":1564177925,
     "wof:name":"Kyzyl-Kiya",
     "wof:parent_id":1091691053,
     "wof:placetype":"locality",

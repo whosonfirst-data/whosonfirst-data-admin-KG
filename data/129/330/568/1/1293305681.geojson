@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u0410\u043a-\u0411\u0435\u043a\u0435\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043b\u044b\u0439 \u041f\u0438\u043a\u0435\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Oqbeket"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293305681,
-    "wof:lastmodified":1537653273,
+    "wof:lastmodified":1564177884,
     "wof:name":"Ak-Beket",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

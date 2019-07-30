@@ -35,14 +35,62 @@
     "mps:longitude":73.072436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Toktogul"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06c6\u0642\u062a\u06c6\u063a\u0648\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Toktogul"
+    ],
     "name:eng_x_preferred":[
         "Toktogul"
     ],
     "name:eng_x_variant":[
         "Toktogul"
     ],
+    "name:est_x_preferred":[
+        "Toktogul"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0642\u062a\u0648\u063a\u0648\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Toktogul"
+    ],
+    "name:hsb_x_preferred":[
+        "Toktogul"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30af\u30c8\u30b0\u30eb"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Toktogu\u0142"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Toktogul"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043a\u0442\u0430\u0433\u044b\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Toktogul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
+    ],
     "name:und_x_variant":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "To\u02bbqto\u02bbg\u02bbul"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -77,7 +125,7 @@
         }
     ],
     "wof:id":1091690815,
-    "wof:lastmodified":1553717900,
+    "wof:lastmodified":1564178100,
     "wof:name":"Toktogul",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

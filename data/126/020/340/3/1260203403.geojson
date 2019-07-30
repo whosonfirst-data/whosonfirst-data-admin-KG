@@ -25,10 +25,25 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
     "name:kir_x_preferred":[
         "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
     ],
+    "name:pol_x_preferred":[
+        "Progres"
+    ],
+    "name:ron_x_preferred":[
+        "Progres"
+    ],
     "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
     ],
     "src:geom":"geonames",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1260203403,
-    "wof:lastmodified":1537653244,
+    "wof:lastmodified":1564178029,
     "wof:name":"Progres",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

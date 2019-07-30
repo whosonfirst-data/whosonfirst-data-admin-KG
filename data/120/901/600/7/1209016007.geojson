@@ -31,10 +31,19 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0438\u043d-\u0414\u0436\u043e\u043b"
     ],
+    "name:tur_x_preferred":[
+        "Mass\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u0441\u0438"
+    ],
     "name:und_x_variant":[
         "Leninjol",
         "Lenin-Dzhol",
         "Massy"
+    ],
+    "name:uzb_x_preferred":[
+        "Mossi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209016007,
-    "wof:lastmodified":1537653132,
+    "wof:lastmodified":1564177979,
     "wof:name":"Massy",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

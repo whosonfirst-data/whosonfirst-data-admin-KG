@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "Ak-Talaa"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u0422\u0430\u043b\u0430\u0430"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0430\u043b\u0430"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259415781,
-    "wof:lastmodified":1537653202,
+    "wof:lastmodified":1564178177,
     "wof:name":"Ak-Talaa",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

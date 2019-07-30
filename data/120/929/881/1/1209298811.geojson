@@ -34,6 +34,9 @@
     "name:uzb_x_preferred":[
         "Qurilish"
     ],
+    "name:uzb_x_variant":[
+        "Qurulush"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632761
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209298811,
-    "wof:lastmodified":1537653293,
+    "wof:lastmodified":1564178002,
     "wof:name":"Kurulush",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0442"
     ],
+    "name:uzb_x_preferred":[
+        "Samat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310299909,
-    "wof:lastmodified":1537653301,
+    "wof:lastmodified":1564178060,
     "wof:name":"Samat",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

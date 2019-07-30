@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "Tash-Bashat"
     ],
+    "name:kir_x_variant":[
+        "\u0422\u0430\u0448-\u0411\u0430\u0448\u0430\u0442"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0448\u043f\u043e\u0448\u0430\u0442"
     ],
@@ -35,6 +38,9 @@
         "Tashposhat",
         "Imeni Voroshilova",
         "Kolkhoz Imeni Lenina"
+    ],
+    "name:uzb_x_preferred":[
+        "Tosh-Boshot"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1309804081,
-    "wof:lastmodified":1537653189,
+    "wof:lastmodified":1564178116,
     "wof:name":"Tash-Bashat",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

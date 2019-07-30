@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0447\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Moncho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1360175459,
-    "wof:lastmodified":1537653222,
+    "wof:lastmodified":1564178082,
     "wof:name":"Moncho",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

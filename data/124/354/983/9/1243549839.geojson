@@ -31,6 +31,12 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0433\u043e\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbrg\u02bbon"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5c14\u8d21"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243549839,
-    "wof:lastmodified":1537653139,
+    "wof:lastmodified":1564178123,
     "wof:name":"Korgon",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

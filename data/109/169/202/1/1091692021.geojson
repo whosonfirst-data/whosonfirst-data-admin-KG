@@ -35,14 +35,173 @@
     "mps:longitude":73.003046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "C\u0259lalabad"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09b2\u09be\u09b2-\u0986\u09ac\u09be\u09a6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b \u0410\u0431\u0430\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:ceb_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:ces_x_preferred":[
+        "D\u017ealal-Abad"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062c\u06d5\u0644\u0627\u0644\u0627\u0628\u0627\u062a"
+    ],
+    "name:cym_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:deu_x_preferred":[
+        "Dschalalabat"
+    ],
     "name:eng_x_preferred":[
         "Jalal-Abad"
     ],
     "name:eng_x_variant":[
         "Suzak"
     ],
+    "name:epo_x_preferred":[
+        "\u0134alalabat"
+    ],
+    "name:est_x_preferred":[
+        "D\u017ealal-Abad"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "\u017dalal-Abad"
+    ],
+    "name:fra_x_preferred":[
+        "Djalalabad"
+    ],
+    "name:frr_x_preferred":[
+        "Dschalalabat"
+    ],
+    "name:glg_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05dc\u05d0\u05dc-\u05d0\u05d1\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0932\u093e\u0932\u093e\u092c\u093e\u0926"
+    ],
+    "name:hrv_x_preferred":[
+        "\u017dalalabat"
+    ],
+    "name:hsb_x_preferred":[
+        "D\u017aalal-Abad"
+    ],
+    "name:hun_x_preferred":[
+        "Dzsalalabad"
+    ],
+    "name:ind_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:ita_x_preferred":[
+        "\u017dalalabad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30e9\u30e9\u30d0\u30fc\u30c9"
+    ],
+    "name:kaa_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0430\u043b\u0430\u043b\u0430\u0431\u0430\u0442"
+    ],
+    "name:kir_x_preferred":[
+        "\u0416\u0430\u043b\u0430\u043b \u0410\u0431\u0430\u0442"
+    ],
+    "name:kor_x_preferred":[
+        "\uc798\ub784\uc544\ubc14\ud2b8"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017ealalabada"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017ealalabatas"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:nld_x_preferred":[
+        "Dzjalal-Abad"
+    ],
+    "name:nor_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017calalabad"
+    ],
+    "name:por_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:spa_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:swe_x_preferred":[
+        "Dzjalal-Abad"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u04d9\u043b\u0430\u043b\u0430\u0431\u0430\u0434"
+    ],
+    "name:tgl_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e32\u0e25\u0e32\u0e25\u0e32\u0e1a\u0e31\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Celal-Abad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0627\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Jalolobod"
+    ],
+    "name:vep_x_preferred":[
+        "D\u017ealal-Abad"
+    ],
+    "name:war_x_preferred":[
+        "Jalal-Abad"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cc8\u62c9\u62c9\u5df4\u5fb7"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -67,7 +226,7 @@
         }
     ],
     "wof:id":1091692021,
-    "wof:lastmodified":1555220357,
+    "wof:lastmodified":1564178095,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

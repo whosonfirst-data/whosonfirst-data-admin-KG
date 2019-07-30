@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u041a\u043e\u0440\u0433\u043e\u043d-\u0421\u0430\u0439"
     ],
+    "name:uzb_x_preferred":[
+        "Qo\u02bbrg\u02bbon-Soy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1293106357,
-    "wof:lastmodified":1537653216,
+    "wof:lastmodified":1564177920,
     "wof:name":"Korgon-Say",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

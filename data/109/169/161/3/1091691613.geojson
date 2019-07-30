@@ -35,14 +35,35 @@
     "mps:longitude":74.373363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Sokuluk"
+    ],
     "name:eng_x_preferred":[
         "Sokuluk"
     ],
     "name:eng_x_variant":[
         "Sokuluk"
     ],
+    "name:ita_x_preferred":[
+        "Sokuluk"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u043e\u043a\u0443\u043b\u0443\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u0443\u043b\u0443\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Sokuluk"
+    ],
+    "name:tur_x_preferred":[
+        "Sokuluk"
+    ],
     "name:und_x_variant":[
         "\u0421\u043e\u043a\u0443\u043b\u0443\u043a\u0441\u043a\u0438\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "So\u02bbquluq"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -77,7 +98,7 @@
         }
     ],
     "wof:id":1091691613,
-    "wof:lastmodified":1553717902,
+    "wof:lastmodified":1564178090,
     "wof:name":"Sokuluk",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

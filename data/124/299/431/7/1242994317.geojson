@@ -25,11 +25,17 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bogatyrovka"
+    ],
     "name:kir_x_preferred":[
         "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bogatyrovka"
     ],
     "name:und_x_variant":[
         "Bogat\u00f6rovka",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1242994317,
-    "wof:lastmodified":1537653173,
+    "wof:lastmodified":1564178159,
     "wof:name":"Bogatyrovka",
     "wof:parent_id":1091691355,
     "wof:placetype":"locality",

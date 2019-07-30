@@ -35,6 +35,9 @@
         "Jangy-Bazar",
         "Kurulush"
     ],
+    "name:uzb_x_preferred":[
+        "Qurulush"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259795391,
-    "wof:lastmodified":1537653217,
+    "wof:lastmodified":1564178176,
     "wof:name":"Kurulush",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

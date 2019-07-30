@@ -25,15 +25,42 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belovodskoye"
+    ],
+    "name:deu_x_preferred":[
+        "Belowodsk"
+    ],
+    "name:ita_x_preferred":[
+        "Belovodskoe"
+    ],
     "name:kir_x_preferred":[
         "Belovodskoe"
+    ],
+    "name:kir_x_variant":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e\u0434\u0441\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Bie\u0142owodskoje"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0432\u043e\u0434\u0441\u043a\u043e\u0435"
     ],
+    "name:sco_x_preferred":[
+        "Belovodskoye"
+    ],
+    "name:swe_x_preferred":[
+        "Belovodskoye"
+    ],
+    "name:tur_x_preferred":[
+        "Belovodskoye"
+    ],
     "name:und_x_variant":[
         "Stalinskoye",
         "Belovodskoye"
+    ],
+    "name:uzb_x_preferred":[
+        "Belovodskiy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1242686803,
-    "wof:lastmodified":1537653174,
+    "wof:lastmodified":1564178138,
     "wof:name":"Belovodskoye",
     "wof:parent_id":1091691579,
     "wof:placetype":"locality",

@@ -25,15 +25,27 @@
     "iso:country":"KG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u06a9\u0646\u062f"
+    ],
     "name:kir_x_preferred":[
         "Torkent"
+    ],
+    "name:kir_x_variant":[
+        "\u0422\u043e\u0440\u043a\u0435\u043d\u0442"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u043a\u0435\u043d\u0442"
     ],
+    "name:swe_x_preferred":[
+        "Torkent"
+    ],
     "name:und_x_variant":[
         "Ail-Torken",
         "Torkent"
+    ],
+    "name:uzb_x_preferred":[
+        "To\u02bbrkent"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1276239847,
-    "wof:lastmodified":1537653109,
+    "wof:lastmodified":1564177956,
     "wof:name":"Torkent",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:kir_x_preferred":[
         "\u0423\u043b\u0443\u043a\u0435\u043d\u0442"
     ],
+    "name:tur_x_preferred":[
+        "Ulukent"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276991317,
-    "wof:lastmodified":1537653106,
+    "wof:lastmodified":1564177966,
     "wof:name":"Ulukent",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

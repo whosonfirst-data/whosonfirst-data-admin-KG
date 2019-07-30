@@ -28,8 +28,14 @@
     "name:kir_x_preferred":[
         "Shoro"
     ],
+    "name:kir_x_variant":[
+        "\u0428\u043e\u0440\u043e"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u0440\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Sho\u02bbro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243073867,
-    "wof:lastmodified":1537653117,
+    "wof:lastmodified":1564178121,
     "wof:name":"Shoro",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

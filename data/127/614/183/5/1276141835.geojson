@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043f\u0430\u043d"
     ],
+    "name:uzb_x_preferred":[
+        "Papan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276141835,
-    "wof:lastmodified":1537653123,
+    "wof:lastmodified":1564177952,
     "wof:name":"Papan",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

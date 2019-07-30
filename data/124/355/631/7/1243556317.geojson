@@ -36,6 +36,9 @@
         "Sag\u00f6z-Kand\u00f6r",
         "Sagyzkandyk"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u06cc\u0632-\u06a9\u0646\u0688\u06cc\u06a9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243556317,
-    "wof:lastmodified":1537653122,
+    "wof:lastmodified":1564178133,
     "wof:name":"Sagyzkandyk",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

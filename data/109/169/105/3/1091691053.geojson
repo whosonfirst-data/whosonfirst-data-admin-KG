@@ -35,14 +35,56 @@
     "mps:longitude":73.297032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Suzak"
+    ],
+    "name:deu_x_preferred":[
+        "Susak"
+    ],
     "name:eng_x_preferred":[
         "Suzak"
     ],
     "name:eng_x_variant":[
         "Suzak"
     ],
+    "name:fra_x_preferred":[
+        "Suzak"
+    ],
+    "name:ita_x_preferred":[
+        "Suzak"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0437\u0430\u049b"
+    ],
+    "name:kir_x_preferred":[
+        "\u0421\u0443\u0437\u0430\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Suzak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0437\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Suzak"
+    ],
+    "name:swe_x_preferred":[
+        "Suzak"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u0437\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "Suzak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0437\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "\u0421\u0443\u0437\u0430\u043a\u0441\u043a\u0438\u0439"
+    ],
+    "name:uzb_x_preferred":[
+        "Suzoq"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -67,7 +109,7 @@
         }
     ],
     "wof:id":1091691053,
-    "wof:lastmodified":1555220356,
+    "wof:lastmodified":1564178090,
     "wof:name":"Suzak",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

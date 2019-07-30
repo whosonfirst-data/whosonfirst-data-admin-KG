@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u0443\u0440\u0433\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0442\u0443\u0440\u0433\u0443"
+    ],
     "name:und_x_variant":[
         "Fol\u2019baumka",
         "Kuturga",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209235745,
-    "wof:lastmodified":1537653135,
+    "wof:lastmodified":1564177987,
     "wof:name":"Kuturgu",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u0431\u043e"
     ],
+    "name:uzb_x_preferred":[
+        "G\u02bbo\u02bblva"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309701945,
-    "wof:lastmodified":1537653303,
+    "wof:lastmodified":1564178109,
     "wof:name":"Golbo",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

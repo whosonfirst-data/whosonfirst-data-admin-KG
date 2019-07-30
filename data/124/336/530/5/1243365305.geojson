@@ -28,11 +28,17 @@
     "name:kir_x_preferred":[
         "Ak-Tektir"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u043a-\u0422\u0435\u043a\u0442\u0438\u0440"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0442\u0435\u043a\u0442\u0438\u0440"
     ],
     "name:und_x_variant":[
         "Aktektir"
+    ],
+    "name:uzb_x_preferred":[
+        "Oq-Tektir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243365305,
-    "wof:lastmodified":1537653205,
+    "wof:lastmodified":1564178122,
     "wof:name":"Ak-Tektir",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",
