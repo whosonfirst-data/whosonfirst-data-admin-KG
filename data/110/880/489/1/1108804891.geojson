@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OC"
+    ],
     "lbl:latitude":40.527481,
     "lbl:longitude":72.802102,
     "meso:name_alt1":"",
@@ -75,7 +78,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1553643120,
+    "wof:lastmodified":1565725043,
     "wof:name":"Osh City",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

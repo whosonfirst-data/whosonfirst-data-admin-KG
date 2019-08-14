@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":39.852275,
     "lbl:longitude":70.213658,
     "meso:name_alt1":"",
@@ -339,9 +342,6 @@
         }
     ],
     "wof:id":85672995,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -350,7 +350,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309184,
+    "wof:lastmodified":1565725035,
     "wof:name":"Batken",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

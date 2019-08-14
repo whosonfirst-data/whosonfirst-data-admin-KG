@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TL"
+    ],
     "lbl:latitude":42.442511,
     "lbl:longitude":71.989641,
     "meso:name_alt1":"",
@@ -344,9 +347,6 @@
         }
     ],
     "wof:id":85673003,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -355,7 +355,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309176,
+    "wof:lastmodified":1565725033,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

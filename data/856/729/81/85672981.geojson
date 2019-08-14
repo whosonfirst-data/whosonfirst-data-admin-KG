@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Chuy Region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":42.614032,
     "lbl:longitude":74.113474,
     "meso:name_alt1":"Ch\u00fcy",
@@ -336,9 +339,6 @@
         }
     ],
     "wof:id":85672981,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -347,7 +347,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309189,
+    "wof:lastmodified":1565725035,
     "wof:name":"Chuy",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "996"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KG"
+    ],
     "lbl:latitude":41.68268,
     "lbl:longitude":74.524734,
     "mps:latitude":41.68268,
@@ -1113,9 +1116,6 @@
         }
     ],
     "wof:id":85632761,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -1124,7 +1124,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309181,
+    "wof:lastmodified":1565725033,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

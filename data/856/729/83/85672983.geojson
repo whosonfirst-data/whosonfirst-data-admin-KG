@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YK"
+    ],
     "lbl:latitude":41.983929,
     "lbl:longitude":78.309762,
     "meso:name_alt1":"Ysyk-K\u00f6l",
@@ -347,9 +350,6 @@
         }
     ],
     "wof:id":85672983,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -358,7 +358,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309192,
+    "wof:lastmodified":1565725036,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

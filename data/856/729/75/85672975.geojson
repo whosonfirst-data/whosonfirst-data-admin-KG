@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GB"
+    ],
     "lbl:latitude":42.86899,
     "lbl:longitude":74.596148,
     "meso:name_alt1":"",
@@ -642,9 +645,6 @@
         }
     ],
     "wof:id":85672975,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kir",
         "rus"
@@ -653,7 +653,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1563309188,
+    "wof:lastmodified":1565725035,
     "wof:name":"Bishkek",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
