@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.32544,40.18244,71.36544,40.22244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u0438\u043b\u044c-\u0421\u0443\u0443"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0438\u043b\u044c-\u0421\u0443\u0443"
-    ],
-    "name:und_x_variant":[
-        "Bil\u2019-Suu"
     ],
     "name:uzb_x_preferred":[
         "Bil-Suv"
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1292995157,
-    "wof:lastmodified":1537653295,
+    "wof:lastmodified":1566727114,
     "wof:name":"Bil'-Suu",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

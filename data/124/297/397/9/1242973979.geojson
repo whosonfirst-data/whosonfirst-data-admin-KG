@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.95787,42.78139,74.99787,42.82139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u0412\u043e\u0441\u0442\u043e\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242973979,
-    "wof:lastmodified":1537653267,
+    "wof:lastmodified":1566727172,
     "wof:name":"Krasnyy Vostok",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.0883,42.80944,74.1283,42.84944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Belovodskoye"
     ],
@@ -56,8 +60,7 @@
         "Belovodskoye"
     ],
     "name:und_x_variant":[
-        "Stalinskoye",
-        "Belovodskoye"
+        "Stalinskoye"
     ],
     "name:uzb_x_preferred":[
         "Belovodskiy"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1242686803,
-    "wof:lastmodified":1564178138,
+    "wof:lastmodified":1566727167,
     "wof:name":"Belovodskoye",
     "wof:parent_id":1091691579,
     "wof:placetype":"locality",

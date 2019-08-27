@@ -10,8 +10,12 @@
     "geom:latitude":40.76994,
     "geom:longitude":73.30068,
     "iso:country":"KG",
+    "lbl:bbox":"73.28068,40.74994,73.32068,40.78994",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0632\u0643\u0646\u062f"
@@ -130,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0437\u0433\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Uzkend"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0624\u0632\u06af\u0646"
     ],
@@ -172,7 +173,7 @@
     "wof:concordances":{
         "gn:id":1527513,
         "gp:id":1969629,
-        "qs:id":133425,
+        "qs_pg:id":133425,
         "wd:id":"Q765887",
         "wk:page":"Uzgen"
     },
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":421167471,
-    "wof:lastmodified":1563309423,
+    "wof:lastmodified":1566727162,
     "wof:name":"Ozgon",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",

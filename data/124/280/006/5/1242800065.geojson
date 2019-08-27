@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.23176,40.37133,74.27176,40.41133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0416\u043e\u043d\u0431\u0443\u043b\u0430\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242800065,
-    "wof:lastmodified":1537653312,
+    "wof:lastmodified":1566727165,
     "wof:name":"Dzhonbulak",
     "wof:parent_id":1091690665,
     "wof:placetype":"locality",

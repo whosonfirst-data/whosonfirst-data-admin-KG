@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.03049,39.87276,71.07049,39.91276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Sogment"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226531957,
-    "wof:lastmodified":1537653306,
+    "wof:lastmodified":1566727190,
     "wof:name":"Sogment",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",

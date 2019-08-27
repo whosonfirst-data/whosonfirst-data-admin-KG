@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.82385,42.8579,73.86385,42.8979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u042d\u0440\u0438\u043a\u0442\u0443\u0443"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209109165,
-    "wof:lastmodified":1537653272,
+    "wof:lastmodified":1566727135,
     "wof:name":"Eriktuu",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

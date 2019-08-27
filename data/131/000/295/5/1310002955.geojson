@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.94731,42.09301,76.98731,42.13301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0422\u0443\u0440\u0430\u0442\u0430\u043c"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310002955,
-    "wof:lastmodified":1537653287,
+    "wof:lastmodified":1566727145,
     "wof:name":"Turatam",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

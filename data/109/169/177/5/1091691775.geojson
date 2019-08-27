@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.770587,
     "lbl:longitude":76.105021,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0427\u0443\u0439\u0441\u043a\u0430\u044f",
     "meso:admin_1":"Chui",
     "meso:gadm_admin":"Kemin",
@@ -35,6 +37,7 @@
     "mps:longitude":76.105021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kemin"
     ],
@@ -96,7 +99,7 @@
         "\u51ef\u660e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Kemin",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1091691775,
-    "wof:lastmodified":1564178104,
+    "wof:lastmodified":1566727158,
     "wof:name":"Kemin",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

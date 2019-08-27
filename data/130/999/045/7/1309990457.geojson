@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.61274,40.19218,71.65274,40.23218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khalmion"
     ],
@@ -41,8 +45,7 @@
         "Khalmion"
     ],
     "name:und_x_variant":[
-        "Kalmion",
-        "Khalmion"
+        "Kalmion"
     ],
     "name:uzb_x_preferred":[
         "Xalmion"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1309990457,
-    "wof:lastmodified":1564178109,
+    "wof:lastmodified":1566727159,
     "wof:name":"Khalmion",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

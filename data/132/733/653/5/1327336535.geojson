@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.68985,42.69684,73.72985,42.73684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0443\u043c-\u0410\u0440\u044b\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327336535,
-    "wof:lastmodified":1537653270,
+    "wof:lastmodified":1566727089,
     "wof:name":"Kum-Aryk",
     "wof:parent_id":1091691511,
     "wof:placetype":"locality",

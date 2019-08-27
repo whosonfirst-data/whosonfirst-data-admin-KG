@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.78875,40.46674,72.82875,40.50674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0422\u0443\u043b\u0435\u0439\u043a\u0435\u043d"
     ],
@@ -35,7 +39,6 @@
         "\u0422\u0451\u043b\u0451\u0439\u043a\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "T\u00ebl\u00ebyken",
         "Tuleyken",
         "T\u00f6l\u00f6yk\u00f6n"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326915901,
-    "wof:lastmodified":1537653109,
+    "wof:lastmodified":1566727092,
     "wof:name":"Teleyken",
     "wof:parent_id":1108804891,
     "wof:placetype":"locality",

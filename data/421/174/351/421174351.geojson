@@ -10,8 +10,12 @@
     "geom:latitude":40.06259,
     "geom:longitude":70.81939,
     "iso:country":"KG",
+    "lbl:bbox":"70.79939,40.04259,70.83939,40.08259",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "Batken"
@@ -179,7 +183,7 @@
     "wof:concordances":{
         "gn:id":1528735,
         "gp:id":1969078,
-        "qs:id":782273,
+        "qs_pg:id":782273,
         "wd:id":"Q478031",
         "wk:page":"Batken"
     },
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":421174351,
-    "wof:lastmodified":1563309428,
+    "wof:lastmodified":1566727162,
     "wof:name":"Batken",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",

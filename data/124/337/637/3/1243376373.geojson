@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.46248,42.54235,74.50248,42.58235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Ala-Archa Al\u2019plegri"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243376373,
-    "wof:lastmodified":1537653200,
+    "wof:lastmodified":1566727165,
     "wof:name":"Ala-Archa Al'plegri",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.63707,41.36579,75.67707,41.40579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03b6\u03af\u03bb-\u0391\u03c3\u03ba\u03ad\u03c1"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293134059,
-    "wof:lastmodified":1564177900,
+    "wof:lastmodified":1566727111,
     "wof:name":"Kyzyl-Asker",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.580396,
     "lbl:longitude":72.489809,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u0441\u043a\u0430\u044f",
     "mps:latitude":41.464857,
@@ -281,9 +282,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-01-01",
+    "src:population_date":"2009-01-01",
     "statoids:area_km":"20,200",
     "statoids:area_mi":"7,800",
     "statoids:as_of_date":"2009-01-01",
@@ -308,7 +309,7 @@
         "gp:id":20070193,
         "hasc:id":"KG.CU",
         "iso:id":"KG-C",
-        "qs:id":896384,
+        "qs_pg:id":896384,
         "unlc:id":"KG-J",
         "wd:id":"Q487640",
         "wk:page":"Jalal-Abad Region"
@@ -331,11 +332,10 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1565725036,
+    "wof:lastmodified":1566727107,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":801500,
     "wof:population_rank":11,

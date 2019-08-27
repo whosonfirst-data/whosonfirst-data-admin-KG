@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.50002,42.60341,71.54002,42.64341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Chymgent"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260386837,
-    "wof:lastmodified":1537653167,
+    "wof:lastmodified":1566727139,
     "wof:name":"Chymgent",
     "wof:parent_id":1091690357,
     "wof:placetype":"locality",

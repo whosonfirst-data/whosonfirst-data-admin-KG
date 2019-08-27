@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.9654,41.06702,73.0054,41.10702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0427\u0430\u043b\u0443\u0443"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309723805,
-    "wof:lastmodified":1537653216,
+    "wof:lastmodified":1566727161,
     "wof:name":"Akchaluu",
     "wof:parent_id":1091691053,
     "wof:placetype":"locality",

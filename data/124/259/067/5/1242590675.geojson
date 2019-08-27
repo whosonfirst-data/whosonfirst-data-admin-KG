@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.33967,43.01075,74.37967,43.05075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0422\u04e9\u0440\u0442-\u041a\u04e9\u043b"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_variant":[
         "\u0422\u0451\u0440\u0442-\u041a\u0451\u043b\u044c"
-    ],
-    "name:und_x_variant":[
-        "T\u00ebrt-K\u00ebl\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1242590675,
-    "wof:lastmodified":1537653269,
+    "wof:lastmodified":1566727168,
     "wof:name":"Tert-Kel'",
     "wof:parent_id":1091691613,
     "wof:placetype":"locality",

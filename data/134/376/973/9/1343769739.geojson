@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.37898,41.62617,73.41898,41.66617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0427\u0430\u043b\u0434\u044b\u0431\u0430\u0440"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343769739,
-    "wof:lastmodified":1564177857,
+    "wof:lastmodified":1566727098,
     "wof:name":"Chaldybar",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

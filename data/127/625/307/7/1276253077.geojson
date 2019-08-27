@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.51268,41.01326,75.55268,41.05326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0437\u044b\u0431\u0435\u043a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276253077,
-    "wof:lastmodified":1537653188,
+    "wof:lastmodified":1566727123,
     "wof:name":"Kazybek",
     "wof:parent_id":1091691813,
     "wof:placetype":"locality",

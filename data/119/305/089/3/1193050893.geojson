@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.7691,41.15417,75.8091,41.19417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Ak-Jar"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193050893,
-    "wof:lastmodified":1537653183,
+    "wof:lastmodified":1566727138,
     "wof:name":"Ak-Dzhar",
     "wof:parent_id":1091691813,
     "wof:placetype":"locality",

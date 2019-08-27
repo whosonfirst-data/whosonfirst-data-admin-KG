@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.01597,40.5041,73.05597,40.5441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0410\u043a-\u0414\u0436\u0430\u0440"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209535863,
-    "wof:lastmodified":1537653118,
+    "wof:lastmodified":1566727128,
     "wof:name":"Ak-Dzhar",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

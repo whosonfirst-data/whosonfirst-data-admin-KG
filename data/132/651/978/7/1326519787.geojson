@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.06285,40.16517,72.10285,40.20517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0412\u0430\u043b\u0430\u043a\u044b\u0448"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326519787,
-    "wof:lastmodified":1537653105,
+    "wof:lastmodified":1566727084,
     "wof:name":"Valakish",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

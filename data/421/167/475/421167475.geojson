@@ -10,8 +10,12 @@
     "geom:latitude":40.7046,
     "geom:longitude":72.86666,
     "iso:country":"KG",
+    "lbl:bbox":"72.84666,40.6846,72.88666,40.7246",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ckb_x_preferred":[
         "\u0642\u0627\u0631\u0627-\u0633\u0648"
@@ -85,9 +89,6 @@
     "name:tur_x_preferred":[
         "Kara-Su"
     ],
-    "name:unk_x_variant":[
-        "Kara Suu"
-    ],
     "name:uzb_x_preferred":[
         "Qorasuv"
     ],
@@ -130,7 +131,7 @@
     "wof:concordances":{
         "gn:id":1528091,
         "gp:id":1969333,
-        "qs:id":133434,
+        "qs_pg:id":133434,
         "wd:id":"Q1023290",
         "wk:page":"Kara-Suu"
     },
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421167475,
-    "wof:lastmodified":1563309424,
+    "wof:lastmodified":1566727162,
     "wof:name":"Kara-Su",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

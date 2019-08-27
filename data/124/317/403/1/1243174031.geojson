@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.60183,40.9261,72.64183,40.9661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0425\u0430\u0434\u0436\u0438\u0440-\u0410\u0431\u0430\u0434"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243174031,
-    "wof:lastmodified":1537653143,
+    "wof:lastmodified":1566727174,
     "wof:name":"Khadzhir-Abad",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

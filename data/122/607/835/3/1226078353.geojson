@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.40236,41.21988,76.44236,41.25988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u043e\u0441\u043e\u0433\u043e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226078353,
-    "wof:lastmodified":1537653202,
+    "wof:lastmodified":1566727191,
     "wof:name":"Bosogo",
     "wof:parent_id":1091691813,
     "wof:placetype":"locality",

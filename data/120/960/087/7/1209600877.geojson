@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.50416,40.47518,73.54416,40.51518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0440\u0430-\u0411\u043e\u0433\u0443\u0437"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209600877,
-    "wof:lastmodified":1537653232,
+    "wof:lastmodified":1566727133,
     "wof:name":"Karaboguz",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

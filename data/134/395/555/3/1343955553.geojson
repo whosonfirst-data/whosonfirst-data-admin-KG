@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.18277,40.35624,72.22277,40.39624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0425\u0430\u0443\u0437"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343955553,
-    "wof:lastmodified":1537653229,
+    "wof:lastmodified":1566727099,
     "wof:name":"Khauz",
     "wof:parent_id":1091690603,
     "wof:placetype":"locality",

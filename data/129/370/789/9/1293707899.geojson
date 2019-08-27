@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"69.48696,39.8513,69.52696,39.8913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0427\u044b\u043c\u0433\u0435\u043d"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Chymgen",
-        "Bol\u2019shevik",
-        "Chimgen"
+        "Bol\u2019shevik"
     ],
     "name:uzb_x_preferred":[
         "Chimgen"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293707899,
-    "wof:lastmodified":1564177895,
+    "wof:lastmodified":1566727111,
     "wof:name":"Chimgen",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

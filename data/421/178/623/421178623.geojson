@@ -10,8 +10,12 @@
     "geom:latitude":39.83895,
     "geom:longitude":69.5276,
     "iso:country":"KG",
+    "lbl:bbox":"69.5076,39.81895,69.5476,39.85895",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bak_x_preferred":[
         "\u0418\u0441\u0444\u0430\u043d\u0430"
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0444\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isfina"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":1222662,
         "gp:id":1969907,
-        "qs:id":131011,
+        "qs_pg:id":131011,
         "wd:id":"Q1647776",
         "wk:page":"Isfana"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":421178623,
-    "wof:lastmodified":1563309434,
+    "wof:lastmodified":1566727163,
     "wof:name":"Isfana",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

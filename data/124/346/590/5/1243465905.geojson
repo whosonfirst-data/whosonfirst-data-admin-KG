@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.86859,41.12069,72.90859,41.16069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u0435\u0448-\u0411\u0430\u0434\u0430\u043c"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243465905,
-    "wof:lastmodified":1564178145,
+    "wof:lastmodified":1566727169,
     "wof:name":"Besh-Badam",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.72794,41.63396,72.76794,41.67396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0440\u0430-\u041a\u04e9\u043b"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343470175,
-    "wof:lastmodified":1537653150,
+    "wof:lastmodified":1566727098,
     "wof:name":"Kara-Kol",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

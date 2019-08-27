@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.86779,42.7645,74.90779,42.8045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u043e\u0441-\u0411\u0430\u0440\u043c\u0430\u043a"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259890383,
-    "wof:lastmodified":1537653315,
+    "wof:lastmodified":1566727181,
     "wof:name":"Bos-Bormak",
     "wof:parent_id":1091691689,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.30419,41.66444,74.34419,41.70444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0414\u044e\u043d\u0433\u044e\u0440\u0451\u043c\u0451"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276986641,
-    "wof:lastmodified":1537653163,
+    "wof:lastmodified":1566727127,
     "wof:name":"Dungurme",
     "wof:parent_id":1091691101,
     "wof:placetype":"locality",

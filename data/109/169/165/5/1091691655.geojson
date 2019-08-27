@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.617863,
     "lbl:longitude":74.597599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0427\u0443\u0439\u0441\u043a\u0430\u044f",
     "meso:admin_1":"Chui",
     "meso:gadm_admin":"Alam\u00fcd\u00fcn",
@@ -35,6 +37,7 @@
     "mps:longitude":74.597599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Alam\u00fcd\u00fcn"
     ],
@@ -46,7 +49,7 @@
         "\u0410\u043b\u0430\u043c\u0443\u0434\u0443\u043d\u0441\u043a\u0438\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Lebedevka",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091691655,
-    "wof:lastmodified":1553717902,
+    "wof:lastmodified":1566727156,
     "wof:name":"Alamudun",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

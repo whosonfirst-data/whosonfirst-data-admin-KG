@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":39.822174,
     "lbl:longitude":69.842545,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430\u044f",
     "meso:admin_1":"Batken",
     "meso:gadm_admin":"Lailak",
@@ -35,6 +37,7 @@
     "mps:longitude":69.842545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Leilek"
     ],
@@ -46,7 +49,7 @@
         "\u041b\u0435\u0439\u043b\u0435\u043a\u0441\u043a\u0438\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632761,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1091690385,
-    "wof:lastmodified":1555220356,
+    "wof:lastmodified":1566727155,
     "wof:name":"Leilek",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

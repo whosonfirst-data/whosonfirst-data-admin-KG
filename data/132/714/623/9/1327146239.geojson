@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.14206,41.31471,71.18206,41.35471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Oq-Bashat"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1327146239,
-    "wof:lastmodified":1537653191,
+    "wof:lastmodified":1566727087,
     "wof:name":"Ak-Bashat",
     "wof:parent_id":1091690903,
     "wof:placetype":"locality",

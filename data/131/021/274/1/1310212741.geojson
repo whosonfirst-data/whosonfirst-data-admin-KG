@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.14671,41.45839,71.18671,41.49839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buzuq"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310212741,
-    "wof:lastmodified":1564178063,
+    "wof:lastmodified":1566727148,
     "wof:name":"Buzuk",
     "wof:parent_id":1091690779,
     "wof:placetype":"locality",

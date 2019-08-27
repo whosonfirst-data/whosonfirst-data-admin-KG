@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.62747,42.75265,74.66747,42.79265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u0435\u0448-\u041a\u044e\u043d\u0433e\u0439"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0435\u0448-\u041a\u044e\u043d\u0433\u0451\u0439"
-    ],
-    "name:und_x_variant":[
-        "Besh-Kyung\u00eby"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1226543037,
-    "wof:lastmodified":1537653266,
+    "wof:lastmodified":1566727191,
     "wof:name":"Besh-Kyungey",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

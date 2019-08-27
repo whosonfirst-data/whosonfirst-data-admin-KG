@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.442511,
     "lbl:longitude":71.989641,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\u0422\u0430\u043b\u0430\u0441\u0441\u043a\u0430\u044f",
     "mps:latitude":42.440444,
@@ -192,7 +193,7 @@
         "Talas"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bb2\u0bb8\u0bcd  \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+        "\u0b9f\u0bb2\u0bb8\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0441 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -305,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-01-01",
+    "src:population_date":"2009-01-01",
     "statoids:area_km":"11,400",
     "statoids:area_mi":"4,400",
     "statoids:as_of_date":"2009-01-01",
@@ -332,7 +333,7 @@
         "gp:id":20070192,
         "hasc:id":"KG.TL",
         "iso:id":"KG-T",
-        "qs:id":236958,
+        "qs_pg:id":236958,
         "unlc:id":"KG-T",
         "wd:id":"Q109838",
         "wk:page":"Talas Region"
@@ -355,11 +356,10 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1565725033,
+    "wof:lastmodified":1566727103,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":226300,
     "wof:population_rank":10,

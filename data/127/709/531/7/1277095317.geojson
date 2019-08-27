@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.90058,40.04572,71.94058,40.08572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u04e9\u0442\u04e9\u0440\u043c\u04e9"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0451\u0442\u0451\u0440\u043c\u0435"
-    ],
-    "name:und_x_variant":[
-        "K\u00ebt\u00ebrme"
     ],
     "name:uzb_x_preferred":[
         "Kyotyormyo"
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1277095317,
-    "wof:lastmodified":1537653297,
+    "wof:lastmodified":1566727118,
     "wof:name":"Keterme",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

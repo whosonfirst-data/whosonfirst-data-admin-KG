@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":42.86899,
     "lbl:longitude":74.596148,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"Bi\u0161kek",
     "mps:latitude":42.859712,
@@ -481,12 +482,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0448\u043a\u0435\u043a"
     ],
-    "name:und_x_variant":[
-        "Bi\u0161kek"
-    ],
-    "name:unk_x_variant":[
-        "Gorod Bishkek"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0634\u06a9\u06cc\u06a9"
     ],
@@ -598,9 +593,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-01-01",
+    "src:population_date":"2009-01-01",
     "statoids:area_km":"127",
     "statoids:area_mi":"50",
     "statoids:as_of_date":"2009-01-01",
@@ -627,7 +622,7 @@
         "hasc:id":"KG.GB",
         "iso:id":"KG-GB",
         "loc:id":"n91129719",
-        "qs:id":1287644,
+        "qs_pg:id":1287644,
         "unlc:id":"KG-GB",
         "wd:id":"Q9361",
         "wk:page":"Bishkek"
@@ -653,11 +648,10 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1565725035,
+    "wof:lastmodified":1566727107,
     "wof:name":"Bishkek",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":832500,
     "wof:population_rank":11,

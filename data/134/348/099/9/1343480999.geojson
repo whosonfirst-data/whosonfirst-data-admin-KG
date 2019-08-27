@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.97587,40.26336,73.01587,40.30336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440-\u0422\u0435\u0440\u0435\u043a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343480999,
-    "wof:lastmodified":1537653218,
+    "wof:lastmodified":1566727097,
     "wof:name":"Mazar-Terek",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",

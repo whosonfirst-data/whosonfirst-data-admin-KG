@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.05576,42.71302,76.09576,42.75302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0428\u0430\u0431\u0434\u0430\u043d"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293209339,
-    "wof:lastmodified":1564177913,
+    "wof:lastmodified":1566727115,
     "wof:name":"Shabdan",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

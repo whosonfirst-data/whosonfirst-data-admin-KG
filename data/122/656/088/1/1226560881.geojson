@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"69.3503,39.94877,69.3903,39.98877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0447\u043e\u044e\u043d\u0447\u0443"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226560881,
-    "wof:lastmodified":1537653098,
+    "wof:lastmodified":1566727185,
     "wof:name":"Choyunchu",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.962,40.21104,72.002,40.25104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0440\u0430-\u0422\u0435\u043f\u0435"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343658569,
-    "wof:lastmodified":1537653292,
+    "wof:lastmodified":1566727094,
     "wof:name":"Kara-Tepe",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",
