@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.6387,41.99339,74.6787,42.03339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0411\u0430\u0448-\u041a\u0443\u0443\u0440\u0433\u0430\u043d\u0434\u044b"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225845853,
-    "wof:lastmodified":1537653176,
+    "wof:lastmodified":1566727192,
     "wof:name":"Bash-Kurgandy",
     "wof:parent_id":1091691101,
     "wof:placetype":"locality",

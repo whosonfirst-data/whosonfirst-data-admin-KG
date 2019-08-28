@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"78.40338,42.45689,78.44338,42.49689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0416\u043e\u043b\u0433\u043e\u043b\u043e\u0442"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293710523,
-    "wof:lastmodified":1537653159,
+    "wof:lastmodified":1566727111,
     "wof:name":"Zholgolot",
     "wof:parent_id":1091691455,
     "wof:placetype":"locality",

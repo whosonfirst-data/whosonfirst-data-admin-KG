@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"69.37804,39.71859,69.41804,39.75859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u04e9\u043a-\u0422\u0430\u0448"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u0451\u043a-\u0422\u0430\u0448"
-    ],
-    "name:und_x_variant":[
-        "K\u00ebk-Tash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1225940845,
-    "wof:lastmodified":1537653304,
+    "wof:lastmodified":1566727181,
     "wof:name":"Kek-Tash",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

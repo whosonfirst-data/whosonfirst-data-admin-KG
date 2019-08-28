@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.24558,42.18205,75.28558,42.22205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0422\u04e9\u0431\u04e9"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Kyzylt\u00ebb\u00eb",
         "Kyzyltyube",
-        "Kyzyl-D\u00f6b\u00f6",
-        "Kyzyl-D\u00ebb\u00eb"
+        "Kyzyl-D\u00f6b\u00f6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243455105,
-    "wof:lastmodified":1537653133,
+    "wof:lastmodified":1566727174,
     "wof:name":"Kyzyltyube",
     "wof:parent_id":1091691143,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"69.41642,39.78584,69.45642,39.82584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Bala \u00c7ayl\u0131"
     ],
@@ -44,9 +48,6 @@
         "\u041a\u043e\u043c\u043c\u0443\u043d\u0430"
     ],
     "name:rus_x_variant":[
-        "Sary-Deb\u00eb"
-    ],
-    "name:und_x_variant":[
         "Sary-Deb\u00eb"
     ],
     "src:geom":"geonames",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1259477815,
-    "wof:lastmodified":1564178179,
+    "wof:lastmodified":1566727178,
     "wof:name":"Kommuna",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

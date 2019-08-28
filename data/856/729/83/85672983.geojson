@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":41.983929,
     "lbl:longitude":78.309762,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Ysyk-K\u00f6l",
     "meso:name_loc":"\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
     "mps:latitude":42.034513,
@@ -221,8 +222,7 @@
         "\u0406\u0441\u0441\u0438\u043a-\u041a\u0443\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:und_x_variant":[
-        "\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f",
-        "Ysyk-K\u00f6l"
+        "\u0418\u0441\u0441\u044b\u043a-\u041a\u0443\u043b\u044c\u0441\u043a\u0430\u044f"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u06cc\u0633\u06cc\u06a9 \u06a9\u0648\u0644"
@@ -308,9 +308,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-01-01",
+    "src:population_date":"2009-01-01",
     "statoids:area_km":"43,100",
     "statoids:area_mi":"16,600",
     "statoids:as_of_date":"2009-01-01",
@@ -335,7 +335,7 @@
         "gp:id":20070190,
         "hasc:id":"KG.YK",
         "iso:id":"KG-Y",
-        "qs:id":236957,
+        "qs_pg:id":236957,
         "unlc:id":"KG-Y",
         "wd:id":"Q487413",
         "wk:page":"Issyk-Kul Region"
@@ -358,11 +358,10 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1565725036,
+    "wof:lastmodified":1566727107,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":437700,
     "wof:population_rank":10,

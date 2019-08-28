@@ -10,8 +10,10 @@
     "geom:latitude":42.894077,
     "geom:longitude":74.553223,
     "iso:country":"KG",
+    "lbl:bbox":"74.548223,42.889077,74.558223,42.899077",
     "lbl:latitude":42.894077,
     "lbl:longitude":74.553223,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.894076,
     "mps:longitude":74.553223,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Kyzyl-Asker"
     ],
     "name:rup_x_preferred":[
-        "Kyzyl-Asker"
-    ],
-    "name:unk_x_variant":[
         "Kyzyl-Asker"
     ],
     "name:uzb_x_preferred":[
@@ -74,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":16,
     "wof:belongsto":[
         85672975,
@@ -103,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563309174,
+    "wof:lastmodified":1566727103,
     "wof:name":"Kyzyl-Asker",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

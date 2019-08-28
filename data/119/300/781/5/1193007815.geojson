@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.694,40.07336,71.734,40.11336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0416\u0438\u0439\u0434\u0435\u043b\u0438\u043a"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193007815,
-    "wof:lastmodified":1537653296,
+    "wof:lastmodified":1566727137,
     "wof:name":"Dzhyydelik",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

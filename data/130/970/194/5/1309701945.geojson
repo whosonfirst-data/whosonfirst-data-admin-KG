@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"69.59442,39.79187,69.63442,39.83187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0413\u043e\u043b\u0431\u043e"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309701945,
-    "wof:lastmodified":1564178109,
+    "wof:lastmodified":1566727159,
     "wof:name":"Golbo",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

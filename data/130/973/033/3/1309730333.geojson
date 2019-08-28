@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.14667,41.58,76.18667,41.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mazar"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1309730333,
-    "wof:lastmodified":1564178115,
+    "wof:lastmodified":1566727160,
     "wof:name":"Mazar",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

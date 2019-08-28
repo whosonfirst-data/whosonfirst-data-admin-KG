@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.48168,42.73032,74.52168,42.77032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Baygel\u2019di"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1292912035,
-    "wof:lastmodified":1537653262,
+    "wof:lastmodified":1566727114,
     "wof:name":"Baygel'di",
     "wof:parent_id":1091691655,
     "wof:placetype":"locality",

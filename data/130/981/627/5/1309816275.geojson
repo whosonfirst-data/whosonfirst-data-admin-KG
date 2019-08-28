@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.93783,42.82602,73.97783,42.86602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poltavka"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309816275,
-    "wof:lastmodified":1564178118,
+    "wof:lastmodified":1566727161,
     "wof:name":"Poltavka",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

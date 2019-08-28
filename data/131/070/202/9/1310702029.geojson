@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.8374,41.24658,74.8774,41.28658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Jangy-Tilek"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310702029,
-    "wof:lastmodified":1537653202,
+    "wof:lastmodified":1566727144,
     "wof:name":"Jangy-Tilek",
     "wof:parent_id":1091691175,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"73.47334,40.55289,73.51334,40.59289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0416\u0435\u0442\u0438\u043c-\u0414\u04e9\u0431\u04e9"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360070725,
-    "wof:lastmodified":1537653237,
+    "wof:lastmodified":1566727150,
     "wof:name":"Dzhetim-Debe",
     "wof:parent_id":1091690665,
     "wof:placetype":"locality",

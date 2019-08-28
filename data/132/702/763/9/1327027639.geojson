@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.09886,42.486,71.13886,42.526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e5\u10d8\u10dd\u10e5-\u10e1\u10d0\u10d8"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1327027639,
-    "wof:lastmodified":1564177815,
+    "wof:lastmodified":1566727088,
     "wof:name":"Sovkhoz Kek-Say",
     "wof:parent_id":1091690357,
     "wof:placetype":"locality",

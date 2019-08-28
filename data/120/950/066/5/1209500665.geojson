@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.98927,39.95979,73.02927,39.99979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0416\u044b\u043b\u0433\u0430"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209500665,
-    "wof:lastmodified":1537653099,
+    "wof:lastmodified":1566727131,
     "wof:name":"Ak-Jylga",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

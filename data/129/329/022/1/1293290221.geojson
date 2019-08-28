@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.76816,40.65292,72.80816,40.69292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0418\u043c\u0435\u043d\u0438 \u041b\u0435\u043d\u0438\u043d\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293290221,
-    "wof:lastmodified":1537653241,
+    "wof:lastmodified":1566727115,
     "wof:name":"Imeni Lenina",
     "wof:parent_id":85680401,
     "wof:placetype":"locality",

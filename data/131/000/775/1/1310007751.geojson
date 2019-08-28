@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.18926,41.35552,74.22926,41.39552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u043b\u0443\u04a3"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310007751,
-    "wof:lastmodified":1537653152,
+    "wof:lastmodified":1566727145,
     "wof:name":"Karabulun",
     "wof:parent_id":1091690861,
     "wof:placetype":"locality",

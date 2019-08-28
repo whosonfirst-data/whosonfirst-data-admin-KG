@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.146342,
     "lbl:longitude":75.615551,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f",
     "meso:admin_1":"Naryn",
     "meso:gadm_admin":"Kochkor",
@@ -35,6 +37,7 @@
     "mps:longitude":75.615551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kochkor"
     ],
@@ -45,7 +48,7 @@
         "\u041a\u043e\u0447\u043a\u043e\u0440\u0441\u043a\u0438\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Ko\u010dkor",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1091691143,
-    "wof:lastmodified":1553717902,
+    "wof:lastmodified":1566727158,
     "wof:name":"Kochokor",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

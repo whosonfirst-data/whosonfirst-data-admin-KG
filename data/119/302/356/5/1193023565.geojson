@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.43113,41.61709,72.47113,41.65709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0443\u043b\u043e\u043c\u0430"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193023565,
-    "wof:lastmodified":1537653257,
+    "wof:lastmodified":1566727138,
     "wof:name":"Kuloma",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

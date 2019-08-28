@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.04029,41.64869,72.08029,41.68869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0422\u04e9\u04e9"
     ],
@@ -35,8 +39,7 @@
         "\u0410\u043a\u0442\u0435\u0451"
     ],
     "name:und_x_variant":[
-        "Aktuidu",
-        "Akte\u00eb"
+        "Aktuidu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209727063,
-    "wof:lastmodified":1537653180,
+    "wof:lastmodified":1566727136,
     "wof:name":"Aktee",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

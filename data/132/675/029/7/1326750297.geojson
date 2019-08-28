@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.27527,40.28092,72.31527,40.32092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041e\u043d-\u042d\u043a\u0438-\u041c\u043e\u0439\u043d\u043e\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326750297,
-    "wof:lastmodified":1537653229,
+    "wof:lastmodified":1566727083,
     "wof:name":"On-Eki-Moynok",
     "wof:parent_id":1091690641,
     "wof:placetype":"locality",

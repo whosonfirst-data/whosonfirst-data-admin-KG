@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Almaty",
     "iso:country":"KG",
+    "lbl:bbox":"79.12888,42.74003,79.16888,42.78003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kaz_x_preferred":[
         "Qarqara"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360306671,
-    "wof:lastmodified":1537653102,
+    "wof:lastmodified":1566727151,
     "wof:name":"Karkara",
     "wof:parent_id":1091691407,
     "wof:placetype":"locality",

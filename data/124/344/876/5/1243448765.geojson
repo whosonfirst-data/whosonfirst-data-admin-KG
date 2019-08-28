@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"71.56588,40.19089,71.60588,40.23089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Novgardan"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243448765,
-    "wof:lastmodified":1537653292,
+    "wof:lastmodified":1566727175,
     "wof:name":"Noogardan",
     "wof:parent_id":1091690479,
     "wof:placetype":"locality",

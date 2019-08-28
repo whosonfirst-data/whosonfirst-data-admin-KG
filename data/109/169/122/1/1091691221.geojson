@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":41.615019,
     "lbl:longitude":76.197987,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u041d\u0430\u0440\u044b\u043d\u0441\u043a\u0430\u044f",
     "meso:admin_1":"Naryn",
     "meso:gadm_admin":"Naryn",
@@ -35,6 +37,7 @@
     "mps:longitude":76.197987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u064a\u0646"
     ],
@@ -177,7 +180,7 @@
         "Naryn"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632761,
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":1091691221,
-    "wof:lastmodified":1564178105,
+    "wof:lastmodified":1566727158,
     "wof:name":"Naryn",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

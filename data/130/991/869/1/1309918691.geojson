@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.51397,42.79057,74.55397,42.83057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0438\u0439 \u041e\u0440\u043e\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309918691,
-    "wof:lastmodified":1537653187,
+    "wof:lastmodified":1566727158,
     "wof:name":"Nizhniy Orok",
     "wof:parent_id":1091691613,
     "wof:placetype":"locality",

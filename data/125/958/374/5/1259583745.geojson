@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.91601,41.28493,74.95601,41.32493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0418\u0447\u043a\u0435\u0441\u0443"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259583745,
-    "wof:lastmodified":1537653156,
+    "wof:lastmodified":1566727180,
     "wof:name":"Ichkesu",
     "wof:parent_id":1091691175,
     "wof:placetype":"locality",

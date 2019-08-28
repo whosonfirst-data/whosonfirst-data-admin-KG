@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.08006,41.42744,76.12006,41.46744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0410\u043a-\u041a\u0438\u044f"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343567407,
-    "wof:lastmodified":1564177865,
+    "wof:lastmodified":1566727100,
     "wof:name":"Ak-Kyya",
     "wof:parent_id":1091691221,
     "wof:placetype":"locality",

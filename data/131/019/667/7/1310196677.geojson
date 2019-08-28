@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"78.19601,42.41233,78.23601,42.45233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Jeti-\u00d6g\u00fcz"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "Jet\u00f6-Oguz",
         "Dzhetyoguz",
-        "Jeti-\u00d6g\u00fcz",
         "Zhetyoguz"
     ],
     "src:geom":"geonames",
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310196677,
-    "wof:lastmodified":1537653160,
+    "wof:lastmodified":1566727148,
     "wof:name":"Zhetyoguz",
     "wof:parent_id":1091691355,
     "wof:placetype":"locality",

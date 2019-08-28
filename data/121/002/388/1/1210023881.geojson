@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.92988,41.33875,72.96988,41.37875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u043e\u0448\u0442\u0435\u0440\u0435\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210023881,
-    "wof:lastmodified":1537653258,
+    "wof:lastmodified":1566727137,
     "wof:name":"Koshterek",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

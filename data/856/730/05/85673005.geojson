@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":40.130615,
     "lbl:longitude":73.339886,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"",
     "meso:name_loc":"\u041e\u0448\u0441\u043a\u0430\u044f",
     "mps:latitude":40.129167,
@@ -322,9 +323,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2009-01-01",
+    "src:population_date":"2009-01-01",
     "statoids:area_km":"29,200",
     "statoids:area_mi":"11,300",
     "statoids:as_of_date":"2009-01-01",
@@ -349,7 +350,7 @@
         "gp:id":20070197,
         "hasc:id":"KG.OH",
         "iso:id":"KG-O",
-        "qs:id":1287655,
+        "qs_pg:id":1287655,
         "unlc:id":"KG-O",
         "wd:id":"Q231987",
         "wk:page":"Osh Region"
@@ -372,11 +373,10 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1565725033,
+    "wof:lastmodified":1566727104,
     "wof:name":"Osh",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1101200,
     "wof:population_rank":12,

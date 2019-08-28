@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.07077,41.12448,72.11077,41.16448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b-\u0416\u0430\u0440"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293304089,
-    "wof:lastmodified":1537653208,
+    "wof:lastmodified":1566727108,
     "wof:name":"Kyzyl-Dzhar",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.8745,42.65658,75.9145,42.69658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0416\u044d\u043b-\u0410\u0440\u044b\u043a"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_variant":[
         "\u0414\u0436\u0435\u043b\u044c-\u0410\u0440\u044b\u043a"
-    ],
-    "name:und_x_variant":[
-        "Dzhel\u2019-Aryk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1276875579,
-    "wof:lastmodified":1537653273,
+    "wof:lastmodified":1566727121,
     "wof:name":"Dzhel'-Aryk",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

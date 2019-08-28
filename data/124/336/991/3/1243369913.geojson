@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"74.58027,41.23008,74.62027,41.27008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "Kongorchok"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u043e\u0440\u0447\u043e\u043a"
-    ],
-    "name:und_x_variant":[
-        "Kongorchok"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243369913,
-    "wof:lastmodified":1564178122,
+    "wof:lastmodified":1566727163,
     "wof:name":"Konorchok",
     "wof:parent_id":1091691175,
     "wof:placetype":"locality",

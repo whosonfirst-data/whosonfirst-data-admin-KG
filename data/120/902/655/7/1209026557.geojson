@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.94609,40.58605,72.98609,40.62605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041e\u0442\u0443\u0437-\u0410\u0434\u044b\u0440"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209026557,
-    "wof:lastmodified":1564177999,
+    "wof:lastmodified":1566727133,
     "wof:name":"Otuz-Adyr",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",

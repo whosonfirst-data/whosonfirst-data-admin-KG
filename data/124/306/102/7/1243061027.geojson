@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.72546,39.89008,72.76546,39.93008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u041a\u0430\u0448\u043a\u0430-\u0421\u0443\u0443"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243061027,
-    "wof:lastmodified":1537653097,
+    "wof:lastmodified":1566727165,
     "wof:name":"Kashka-Suu",
     "wof:parent_id":1091690641,
     "wof:placetype":"locality",

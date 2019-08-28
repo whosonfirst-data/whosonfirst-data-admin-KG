@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"75.56109,42.79801,75.60109,42.83801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Safarovskoye",
         "Sarbagysh"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343280329,
-    "wof:lastmodified":1537653121,
+    "wof:lastmodified":1566727102,
     "wof:name":"Sarbagysh",
     "wof:parent_id":1091691775,
     "wof:placetype":"locality",

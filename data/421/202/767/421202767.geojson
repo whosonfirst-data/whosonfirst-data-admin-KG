@@ -10,8 +10,12 @@
     "geom:latitude":42.11768,
     "geom:longitude":76.99332,
     "iso:country":"KG",
+    "lbl:bbox":"76.97332,42.09768,77.01332,42.13768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bokonbayevo"
@@ -43,9 +47,6 @@
     "name:tur_x_preferred":[
         "B\u00f6k\u00f6nbayevo"
     ],
-    "name:unk_x_variant":[
-        "B\u00f6k\u00f6nbaev"
-    ],
     "qs:gn_country":"KG",
     "qs:gn_fcode":"PPLA2",
     "qs:gn_id":1528666,
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1528666,
         "gp:id":1969107,
-        "qs:id":44591,
+        "qs_pg:id":44591,
         "wd:id":"Q3541513",
         "wk:page":"Bokonbayevo"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421202767,
-    "wof:lastmodified":1563309426,
+    "wof:lastmodified":1566727162,
     "wof:name":"Bokonbayevskoye",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

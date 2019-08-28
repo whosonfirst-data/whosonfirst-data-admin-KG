@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"76.56443,42.10628,76.60443,42.14628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0414\u04e9\u04a3-\u0422\u0430\u043b\u0430\u0430"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360176373,
-    "wof:lastmodified":1537653165,
+    "wof:lastmodified":1566727152,
     "wof:name":"Dengtala",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

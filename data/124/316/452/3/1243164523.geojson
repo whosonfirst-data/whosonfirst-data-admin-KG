@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Bishkek",
     "iso:country":"KG",
+    "lbl:bbox":"72.96063,42.37661,73.00063,42.41661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u04e8\u0442\u043c\u0435\u043a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243164523,
-    "wof:lastmodified":1537653282,
+    "wof:lastmodified":1566727173,
     "wof:name":"Otmek",
     "wof:parent_id":1091690143,
     "wof:placetype":"locality",
