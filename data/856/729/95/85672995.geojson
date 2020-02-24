@@ -334,6 +334,9 @@
         "wk:page":"Batken Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2a2d934a68ef0fb6c2a5036ba9d32c6",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727106,
+    "wof:lastmodified":1582345704,
     "wof:name":"Batken",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

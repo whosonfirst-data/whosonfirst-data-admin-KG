@@ -627,6 +627,9 @@
     ],
     "wof:country":"KG",
     "wof:created":1459008785,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e4e3cea6df1b50f77c8911879b3f7f2",
     "wof:hierarchy":[
         {
@@ -638,7 +641,7 @@
         }
     ],
     "wof:id":421168899,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1582345709,
     "wof:name":"Bishkek",
     "wof:parent_id":1091692295,
     "wof:placetype":"locality",

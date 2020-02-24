@@ -339,6 +339,9 @@
         "wk:page":"Talas Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a524e1c4130f4c662a0eba6f89a3b362",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727103,
+    "wof:lastmodified":1582345702,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

@@ -631,6 +631,9 @@
         421168899
     ],
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a598809257d37f51d822e679c8706b98",
     "wof:hierarchy":[
         {
@@ -648,7 +651,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727107,
+    "wof:lastmodified":1582345705,
     "wof:name":"Bishkek",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
