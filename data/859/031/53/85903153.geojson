@@ -100,6 +100,9 @@
         "wk:page":"Tokol'dosh"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51d19e32283d3fa410a9798bd0a8716d",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566727103,
+    "wof:lastmodified":1582345701,
     "wof:name":"Tokol'dosh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

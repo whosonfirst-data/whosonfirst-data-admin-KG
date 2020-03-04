@@ -341,6 +341,9 @@
         "wk:page":"Issyk-Kul Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"932b1a3d5d3e64ac67ae66b4be63acfa",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727107,
+    "wof:lastmodified":1582345706,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

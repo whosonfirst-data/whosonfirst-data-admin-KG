@@ -1048,8 +1048,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
-        "meso"
+        "meso",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1103,6 +1103,11 @@
     },
     "wof:country":"KG",
     "wof:country_alpha3":"KGZ",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"4947deabca5fba7043b02646eaf2e156",
     "wof:hierarchy":[
         {
@@ -1119,7 +1124,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727104,
+    "wof:lastmodified":1583224602,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

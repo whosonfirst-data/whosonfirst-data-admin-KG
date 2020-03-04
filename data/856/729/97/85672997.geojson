@@ -315,6 +315,9 @@
         "wk:page":"Jalal-Abad Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5ecc18a58c91793b90340752db8c484",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727107,
+    "wof:lastmodified":1582345705,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

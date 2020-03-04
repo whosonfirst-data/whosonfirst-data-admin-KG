@@ -356,6 +356,9 @@
         "wk:page":"Osh Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df1e8b09107ba72c10aa27ec7be3e2a6",
     "wof:hierarchy":[
         {
@@ -373,7 +376,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727104,
+    "wof:lastmodified":1582345702,
     "wof:name":"Osh",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

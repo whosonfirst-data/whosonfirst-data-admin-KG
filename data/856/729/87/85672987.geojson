@@ -345,6 +345,9 @@
         "wk:page":"Naryn Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"589286b1a3912c1e01ec550fa5bc480e",
     "wof:hierarchy":[
         {
@@ -362,7 +365,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727106,
+    "wof:lastmodified":1582345705,
     "wof:name":"Naryn",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

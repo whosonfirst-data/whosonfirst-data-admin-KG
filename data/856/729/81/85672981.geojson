@@ -327,6 +327,9 @@
         "wk:page":"Chuy Region"
     },
     "wof:country":"KG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c1568253d29bbdcf50a4ed798aff9a1f",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1566727107,
+    "wof:lastmodified":1582345705,
     "wof:name":"Chuy",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
