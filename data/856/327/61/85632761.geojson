@@ -1079,9 +1079,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Kyrgyzstan",
-        "digitalenvoy:country_code":[
-            417
-        ],
+        "digitalenvoy:country_code":417,
         "fb:id":"en.kyrgyzstan",
         "fifa:id":"KGZ",
         "fips:code":"KG",
@@ -1127,7 +1125,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1583529169,
+    "wof:lastmodified":1583797375,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
