@@ -621,6 +621,7 @@
     "wof:concordances":{
         "gn:id":1528675,
         "gp:id":1969888,
+        "ne:id":1159150813,
         "qs_pg:id":274012,
         "wd:id":"Q9361"
     },
@@ -643,7 +644,8 @@
         }
     ],
     "wof:id":421168899,
-    "wof:lastmodified":1607390892,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Bishkek",
     "wof:parent_id":1091692295,
     "wof:placetype":"locality",
