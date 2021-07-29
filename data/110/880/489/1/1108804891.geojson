@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Osh City"
     ],
+    "name:fra_x_preferred":[
+        "Och"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0448"
     ],
@@ -82,7 +85,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1614894992,
+    "wof:lastmodified":1627522281,
     "wof:name":"Osh City",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
