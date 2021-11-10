@@ -90,13 +90,22 @@
         "Manas"
     ],
     "name:tur_x_preferred":[
+        "Manas"
+    ],
+    "name:tur_x_variant":[
         "Manas \u0130l\u00e7esi"
     ],
     "name:und_x_variant":[
         "\u041c\u0430\u043d\u0430\u0441\u0441\u043a\u0438\u0439"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u0633"
+    ],
     "name:uzb_x_preferred":[
         "Manas"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Manas"
     ],
     "name:zho_x_preferred":[
         "\u739b\u7eb3\u65af\u533a"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":1091690313,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1636500643,
     "wof:name":"Manas",
     "wof:parent_id":85673003,
     "wof:placetype":"county",

@@ -70,12 +70,18 @@
         "Batken"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05e7\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05d8\u05e7\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0924\u0915\u0947\u0928"
     ],
     "name:hsb_x_preferred":[
+        "Batken"
+    ],
+    "name:hun_x_preferred":[
         "Batken"
     ],
     "name:ind_x_preferred":[
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421174351,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1636500645,
     "wof:name":"Batken",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",

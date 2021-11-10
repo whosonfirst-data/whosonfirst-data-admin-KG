@@ -29,13 +29,61 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u064a\u062a\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u0987\u09a4\u09be\u09b2"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03ca\u03c4\u03ac\u03bb"
+    ],
+    "name:fra_x_preferred":[
+        "Oytal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d8\u05d0\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0913\u0907\u091f\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Oytal"
+    ],
+    "name:ind_x_preferred":[
+        "Oytal"
+    ],
+    "name:ita_x_preferred":[
+        "Oytal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a4\u30bf\u30eb"
+    ],
     "name:kir_x_preferred":[
         "\u041e\u0439\u0442\u0430\u043b"
     ],
     "name:kir_x_variant":[
         "\u041e\u0439-\u0422\u0430\u043b"
     ],
+    "name:kor_x_preferred":[
+        "\uc624\uc774\ud0c8"
+    ],
+    "name:pol_x_preferred":[
+        "Ojta\u0142"
+    ],
+    "name:por_x_preferred":[
+        "Oytal"
+    ],
     "name:rus_x_preferred":[
+        "\u041e\u0439\u0442\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Oytal"
+    ],
+    "name:swe_x_preferred":[
+        "Oytal"
+    ],
+    "name:ukr_x_preferred":[
         "\u041e\u0439\u0442\u0430\u043b"
     ],
     "name:und_x_variant":[
@@ -44,8 +92,20 @@
         "Alekseyevka",
         "Oytal"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0626\u062a\u0627\u0644"
+    ],
     "name:uzb_x_preferred":[
         "O\u02bby-Tol"
+    ],
+    "name:vie_x_preferred":[
+        "Oytal"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5965\u4f0a\u5854\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5967\u4f0a\u5854\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +119,7 @@
         "gn:id":1527516
     },
     "wof:country":"KG",
-    "wof:geomhash":"37bc38414929800e3b2ee70cd9327fc9",
+    "wof:geomhash":"6f7b5f8579b253cc189a915fb4cb6fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +130,7 @@
         }
     ],
     "wof:id":1193272523,
-    "wof:lastmodified":1566727139,
+    "wof:lastmodified":1636500641,
     "wof:name":"Oytal",
     "wof:parent_id":1091691407,
     "wof:placetype":"locality",
@@ -80,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    78.01541999999998,
-    42.74162000000001,
-    78.01541999999998,
-    42.74162000000001
+    78.01542,
+    42.74162,
+    78.01542,
+    42.74162
 ],
-  "geometry": {"coordinates":[78.01541999999998,42.74162000000001],"type":"Point"}
+  "geometry": {"coordinates":[78.01542000000001,42.74162],"type":"Point"}
 }

@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0643\u062a\u062c\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u0995\u09a4\u09c1\u0997\u09c1\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Toktogul"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03c4\u03cc\u03b3\u03ba\u03bf\u03c5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Toktogul"
@@ -45,11 +54,23 @@
     "name:fra_x_preferred":[
         "Toktogul"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05e7\u05d8\u05d5\u05d2\u05d8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094b\u0915\u094d\u0924\u094b\u0917\u0941\u0932"
+    ],
     "name:hsb_x_preferred":[
+        "Toktogul"
+    ],
+    "name:hun_x_preferred":[
         "Toktogul"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u056f\u057f\u0578\u0563\u0578\u0582\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Toktogul"
     ],
     "name:ita_x_preferred":[
         "Toktogul"
@@ -66,17 +87,26 @@
     "name:kir_x_variant":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b \u0448\u0430\u0430\u0440\u0447\u0430\u0441\u044b"
     ],
+    "name:kor_x_preferred":[
+        "\ud1a1\ud1a0\uad74"
+    ],
     "name:nld_x_preferred":[
         "Toktogul"
     ],
     "name:pol_x_preferred":[
         "Toktogu\u0142"
     ],
+    "name:por_x_preferred":[
+        "Toktogul"
+    ],
     "name:rup_x_preferred":[
         "Toktogul"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Toktogul"
     ],
     "name:swe_x_preferred":[
         "Toktogul"
@@ -90,8 +120,20 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043a\u0442\u043e\u0433\u0443\u043b"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u0648\u06a9\u0679\u0648\u06af\u0644"
+    ],
     "name:uzb_x_preferred":[
         "To\u02bbqto\u02bbg\u02bbul"
+    ],
+    "name:vie_x_preferred":[
+        "Toktogul"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6258\u514b\u6258\u53e4\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6258\u514b\u6258\u53e4\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Kyrgyzstan",
@@ -233,7 +275,7 @@
         }
     ],
     "wof:id":421195445,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1636500644,
     "wof:name":"Toktogul",
     "wof:parent_id":1091690815,
     "wof:placetype":"locality",

@@ -47,6 +47,9 @@
     "name:grn_x_preferred":[
         "Choguy"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05d9"
+    ],
     "name:hye_x_preferred":[
         "\u0549\u0578\u0582\u0575"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1243181197,
-    "wof:lastmodified":1566727173,
+    "wof:lastmodified":1636500646,
     "wof:name":"Chuy",
     "wof:parent_id":1091691731,
     "wof:placetype":"locality",

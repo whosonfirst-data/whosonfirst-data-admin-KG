@@ -91,11 +91,17 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0ab2\u0abe\u0ab2-\u0a85\u0aac\u0abe\u0aa6 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05dc\u05d0\u05dc-\u05e2\u05d1\u05d0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0932\u093e\u0932\u093e\u092c\u093e\u0926 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
         "\u017dalalabatska oblast"
+    ],
+    "name:hun_x_preferred":[
+        "Jalal-Abad"
     ],
     "name:hye_x_preferred":[
         "\u054b\u0561\u056c\u0561\u056c\u0561\u0562\u0561\u0564\u056b \u0574\u0561\u0580\u0566"
@@ -335,7 +341,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1614894991,
+    "wof:lastmodified":1636500639,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

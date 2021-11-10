@@ -87,6 +87,9 @@
         "Progreso social"
     ],
     "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439 \u043f\u0440\u043e\u0433\u0440\u0435\u0441"
     ],
     "name:und_x_variant":[
@@ -97,6 +100,9 @@
     ],
     "name:uzb_x_preferred":[
         "Pitomnik"
+    ],
+    "name:vie_x_preferred":[
+        "Progress"
     ],
     "name:zho_x_preferred":[
         "\u793e\u4f1a\u8fdb\u6b65"
@@ -110,7 +116,7 @@
         "gn:id":8139915
     },
     "wof:country":"KG",
-    "wof:geomhash":"1f26923d04d1cca76b1a8f1b4ba14c7c",
+    "wof:geomhash":"bde5034a6490a479190407f47bd20a51",
     "wof:hierarchy":[
         {
             "country_id":85632761,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1209236749,
-    "wof:lastmodified":1566727130,
+    "wof:lastmodified":1636500641,
     "wof:name":"Progress",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",
@@ -128,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.93191999999998,
+    72.93192,
     40.66602,
-    72.93191999999998,
+    72.93192,
     40.66602
 ],
-  "geometry": {"coordinates":[72.93191999999998,40.66602],"type":"Point"}
+  "geometry": {"coordinates":[72.93192000000001,40.66602],"type":"Point"}
 }

@@ -75,7 +75,13 @@
         "Talas"
     ],
     "name:hun_x_preferred":[
+        "Talas"
+    ],
+    "name:hun_x_variant":[
         "Talasz"
+    ],
+    "name:ind_x_preferred":[
+        "Talas"
     ],
     "name:ita_x_preferred":[
         "Talas"
@@ -162,6 +168,9 @@
         "\u062a\u0631\u0627\u0632"
     ],
     "name:uzb_x_preferred":[
+        "Talas"
+    ],
+    "name:vie_x_preferred":[
         "Talas"
     ],
     "name:zho_x_preferred":[
@@ -306,7 +315,7 @@
         }
     ],
     "wof:id":421188271,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1636500645,
     "wof:name":"Talas",
     "wof:parent_id":1091692213,
     "wof:placetype":"locality",

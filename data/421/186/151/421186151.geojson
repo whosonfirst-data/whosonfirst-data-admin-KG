@@ -201,6 +201,9 @@
         "Naron"
     ],
     "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0646\u0627\u0631\u06cc\u0646"
     ],
     "name:uzb_x_preferred":[
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":421186151,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1636500645,
     "wof:name":"Naryn",
     "wof:parent_id":1091692087,
     "wof:placetype":"locality",
