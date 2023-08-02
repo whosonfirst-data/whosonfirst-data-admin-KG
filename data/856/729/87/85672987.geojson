@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u064a\u0646 \u0623\u0648\u0628\u0644\u0627\u0633\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0631\u064a\u0646 \u0627\u0648\u0628\u0644\u0627\u0633\u062a\u0649"
+    ],
     "name:aze_x_preferred":[
         "Narin vilay\u0259ti"
     ],
@@ -52,8 +55,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Narin"
     ],
+    "name:ceb_x_preferred":[
+        "Naryn oblast"
+    ],
     "name:ces_x_preferred":[
         "Narynsk\u00e1 oblast"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:cym_x_preferred":[
         "Ardal Naryn"
@@ -78,6 +87,9 @@
     ],
     "name:est_x_preferred":[
         "Nar\u00f5ni oblast"
+    ],
+    "name:eus_x_preferred":[
+        "Naryn"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0646\u0627\u0631\u06cc\u0646"
@@ -108,6 +120,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0580\u056b\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Narin"
     ],
     "name:ind_x_preferred":[
         "Provinsi Naryn"
@@ -167,6 +182,9 @@
     "name:nob_x_preferred":[
         "Naryn"
     ],
+    "name:oss_x_preferred":[
+        "\u041d\u0430\u0440\u044b\u043d\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0627\u0631\u06cc\u0646"
     ],
@@ -195,11 +213,17 @@
     "name:spa_x_preferred":[
         "Provincia de Naryn"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0440\u0438\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Naryn"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba8\u0bb0\u0bbf\u0baf\u0ba9\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041d\u0430\u0440\u044b\u043d \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -239,6 +263,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c Naryn"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7eb3\u4f26\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u502b\u5dde"
@@ -368,7 +395,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1636500638,
+    "wof:lastmodified":1690938083,
     "wof:name":"Naryn",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

@@ -79,6 +79,9 @@
     "name:est_x_preferred":[
         "Batkeni oblast"
     ],
+    "name:eus_x_preferred":[
+        "Batken"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u062a\u06a9\u0646"
     ],
@@ -112,6 +115,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u0569\u056f\u0565\u0576\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:ido_x_preferred":[
+        "Provinco Batken"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Batken"
     ],
@@ -120,6 +126,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c8\u30b1\u30f3\u5dde"
+    ],
+    "name:kaa_x_preferred":[
+        "Botken Oblisi"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0caf\u0cbe\u0c9f\u0ccd\u0c95\u0cc6\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0ca6\u0cc7\u0cb6"
@@ -168,6 +177,9 @@
     "name:nob_x_preferred":[
         "Batken region"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0442\u043a\u0435\u043d\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pol_x_preferred":[
         "Obw\u00f3d batke\u0144ski"
     ],
@@ -193,6 +205,9 @@
     "name:spa_x_preferred":[
         "Provincia de Batken"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0442\u043a\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Batken"
     ],
@@ -207,6 +222,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0430\u0442\u043a\u0435\u043d"
+    ],
+    "name:tgk_x_variant":[
+        "\u0432\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u043e\u0434\u043a\u0430\u043d\u0434"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e31\u0e15\u0e40\u0e01\u0e19"
@@ -360,7 +378,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1636500638,
+    "wof:lastmodified":1690938082,
     "wof:name":"Batken",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

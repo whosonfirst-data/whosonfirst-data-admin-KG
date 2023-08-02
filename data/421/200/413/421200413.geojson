@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Kaindy"
+    ],
     "name:ceb_x_preferred":[
         "Kaindy"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0435\u043d\u043b\u044b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0430\u0439\u0438\u043d\u0434\u0438"
     ],
     "name:tur_x_preferred":[
         "K\u0430y\u0131n\u011fd\u0131"
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":421200413,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938093,
     "wof:name":"Kaindy",
     "wof:parent_id":1091691511,
     "wof:placetype":"locality",

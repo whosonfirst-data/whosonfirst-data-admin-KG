@@ -44,6 +44,9 @@
     "name:che_x_preferred":[
         "\u0422\u043e\u0433\u0443\u0437-\u0422\u043e\u0440\u043e\u043d \u043a\u04c0\u043e\u0448\u0442"
     ],
+    "name:che_x_variant":[
+        "\u0422\u043e\u0433\u0443\u0437-\u0422\u043e\u0440\u043e\u043d\u0430\u043d \u043a\u04c0\u043e\u0448\u0442"
+    ],
     "name:eng_x_preferred":[
         "Togus-Toro"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1091690861,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1690938087,
     "wof:name":"Toguz-Toro",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

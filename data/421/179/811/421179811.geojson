@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0628\u0627\u0644\u062a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0647 \u0628\u0627\u0644\u062a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Kara-Balta"
     ],
@@ -108,8 +114,14 @@
     "name:tat_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0430\u043b\u0442\u0430"
     ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0430\u0440\u043e-\u0411\u043e\u043b\u0442\u0430"
+    ],
     "name:tur_x_preferred":[
         "Kara-Balta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430-\u0411\u0430\u043b\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Imeni Mikoyana"
@@ -263,7 +275,7 @@
         }
     ],
     "wof:id":421179811,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938094,
     "wof:name":"Kara-Balta",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

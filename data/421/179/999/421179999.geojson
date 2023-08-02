@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tashk\u00f6m\u00fcr"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0634\u06a9\u0624\u0645\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "Ta\u015f-Kum\u0131r"
     ],
@@ -25,6 +31,9 @@
     ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0448-\u041a\u0443\u043c\u044b\u0440"
+    ],
+    "name:che_x_variant":[
+        "\u0422\u0430\u0448-\u041a\u043e\u044c\u043c\u0443\u044c\u0440"
     ],
     "name:ckb_x_preferred":[
         "\u062a\u0627\u0634\u06a9\u0648\u06ce\u0645\u0648\u06cc\u0631"
@@ -54,8 +63,14 @@
     "name:hsb_x_preferred":[
         "Ta\u0161kumyr"
     ],
+    "name:hun_x_preferred":[
+        "Task\u00f6m\u00fcr"
+    ],
     "name:ita_x_preferred":[
         "Ta\u0161k\u00f6mur"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u0441\u043a\u04e9\u043c\u0456\u0440"
     ],
     "name:kir_x_preferred":[
         "\u0422\u0430\u0448\u043a\u04e9\u043c\u04af\u0440 \u0448\u0430\u0430\u0440\u0447\u0430\u0441\u044b"
@@ -94,6 +109,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0422\u0430\u0448\u043a\u04af\u043c\u0435\u0440"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u043e\u0448-\u041a\u0443\u043c\u0443\u0440"
     ],
     "name:tur_x_preferred":[
         "Ta\u015f-K\u00f6m\u00fcr"
@@ -249,7 +267,7 @@
         }
     ],
     "wof:id":421179999,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938094,
     "wof:name":"Tash-Kumyr",
     "wof:parent_id":1091691975,
     "wof:placetype":"locality",

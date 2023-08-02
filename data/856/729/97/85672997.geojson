@@ -76,6 +76,9 @@
     "name:est_x_preferred":[
         "D\u017ealalabati oblast"
     ],
+    "name:eus_x_preferred":[
+        "Jalal-Abad"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -103,8 +106,14 @@
     "name:hun_x_preferred":[
         "Jalal-Abad"
     ],
+    "name:hun_x_variant":[
+        "Dzsalalabad tartom\u00e1ny"
+    ],
     "name:hye_x_preferred":[
         "\u054b\u0561\u056c\u0561\u056c\u0561\u0562\u0561\u0564\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Jalal-Abad"
     ],
     "name:ind_x_preferred":[
         "Provinsi Jalal-Abad"
@@ -157,11 +166,17 @@
     "name:nob_x_preferred":[
         "Jalal-Abad region"
     ],
+    "name:oss_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pol_x_preferred":[
         "Obw\u00f3d d\u017calalabadzki"
     ],
     "name:por_x_preferred":[
         "Jalal-Abad"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Jalal-Abad"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -175,6 +190,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0dbd\u0dcf\u0dbd\u0dca-\u0d85\u0db6\u0da9\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0430\u043b\u0430\u043b-\u0410\u0431\u0430\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:swe_x_preferred":[
         "Dzjalal-Abad"
@@ -341,7 +359,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1636500639,
+    "wof:lastmodified":1690938084,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

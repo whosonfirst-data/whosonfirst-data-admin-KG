@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0432\u0430\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Karavan"
+    ],
     "qs:name":"Karavan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890438561,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938095,
     "wof:name":"Karavan",
     "wof:parent_id":1091690641,
     "wof:placetype":"locality",

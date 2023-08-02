@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Sosnovka"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
     ],
     "name:eng_x_preferred":[
         "Sosnovka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0633\u0646\u0648\u0641\u06a9\u0627"
     ],
     "name:kir_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
@@ -33,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0441\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sosnovka"
     ],
     "name:uzb_x_preferred":[
         "Sosnovka"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890440441,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938095,
     "wof:name":"Sosnovka",
     "wof:parent_id":1091691555,
     "wof:placetype":"locality",

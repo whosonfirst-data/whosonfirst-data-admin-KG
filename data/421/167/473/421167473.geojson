@@ -17,11 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Kyzyl-Kiya"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyzyl-Kyya"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b \u041a\u0438\u044f"
+    ],
     "name:ckb_x_preferred":[
         "\u0642\u0632\u0644-\u0642\u06cc\u0627"
     ],
     "name:deu_x_preferred":[
         "Kyzyl-Kiya"
+    ],
+    "name:deu_x_variant":[
+        "Kysyl-Kyja"
     ],
     "name:eng_x_preferred":[
         "Kzyl-Kiya"
@@ -47,6 +59,9 @@
     ],
     "name:hun_x_preferred":[
         "Kizilkija"
+    ],
+    "name:ita_x_preferred":[
+        "Kyzyl-Kyja"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30b8\u30eb\uff1d\u30ad\u30e4"
@@ -90,8 +105,14 @@
     "name:spa_x_preferred":[
         "Kyzyl-Kiya"
     ],
+    "name:swe_x_preferred":[
+        "Kyzyl-Kyia"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u043a\u044b\u044f"
+    ],
+    "name:tgk_x_preferred":[
+        "\u049a\u0438\u0437\u0438\u043b-\u041a\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0437\u0438\u043b-\u041a\u0456\u044f"
@@ -159,7 +180,7 @@
         }
     ],
     "wof:id":421167473,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1690938090,
     "wof:name":"Kyzyl-Kyya",
     "wof:parent_id":1091692173,
     "wof:placetype":"locality",

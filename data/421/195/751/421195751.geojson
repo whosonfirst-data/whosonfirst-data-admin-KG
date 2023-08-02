@@ -26,11 +26,17 @@
     "name:arz_x_preferred":[
         "\u0627\u0648\u0634"
     ],
+    "name:ast_x_preferred":[
+        "Osh"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0634"
     ],
     "name:aze_x_preferred":[
         "O\u015f"
+    ],
+    "name:bak_x_preferred":[
+        "\u041e\u0448"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041e\u0448"
@@ -98,6 +104,9 @@
     "name:frr_x_preferred":[
         "Osch"
     ],
+    "name:gle_x_preferred":[
+        "Osh"
+    ],
     "name:glg_x_preferred":[
         "Osh"
     ],
@@ -124,6 +133,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u0577"
+    ],
+    "name:ido_x_preferred":[
+        "Osh"
+    ],
+    "name:ile_x_preferred":[
+        "Osh"
     ],
     "name:ind_x_preferred":[
         "Osh"
@@ -167,6 +182,9 @@
     "name:mar_x_preferred":[
         "\u0913\u0936"
     ],
+    "name:mlt_x_preferred":[
+        "Osh"
+    ],
     "name:mon_x_preferred":[
         "\u041e\u0448"
     ],
@@ -185,6 +203,9 @@
     "name:nor_x_preferred":[
         "Osj"
     ],
+    "name:oss_x_preferred":[
+        "\u041e\u0448"
+    ],
     "name:pol_x_preferred":[
         "Osz"
     ],
@@ -198,6 +219,9 @@
         "Osh"
     ],
     "name:rus_x_preferred":[
+        "\u041e\u0448"
+    ],
+    "name:sah_x_preferred":[
         "\u041e\u0448"
     ],
     "name:sco_x_preferred":[
@@ -427,7 +451,7 @@
         }
     ],
     "wof:id":421195751,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1690938089,
     "wof:name":"Osh",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

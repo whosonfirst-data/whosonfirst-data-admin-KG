@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Batken"
+    ],
     "name:aze_x_preferred":[
         "Batken"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Batken"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0442\u043a\u0435\u043d"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u0442\u043a\u0435\u043d"
@@ -51,6 +57,9 @@
         "Batken"
     ],
     "name:est_x_preferred":[
+        "Batken"
+    ],
+    "name:eus_x_preferred":[
         "Batken"
     ],
     "name:fas_x_preferred":[
@@ -114,10 +123,16 @@
     "name:nld_x_preferred":[
         "Batken"
     ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u0442\u043a\u0435\u043d"
+    ],
     "name:pol_x_preferred":[
         "Batken"
     ],
     "name:por_x_preferred":[
+        "Batken"
+    ],
+    "name:ron_x_preferred":[
         "Batken"
     ],
     "name:rup_x_preferred":[
@@ -138,6 +153,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0442\u043a\u04d9\u043d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0442\u043a\u0430\u043d\u0434"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e15\u0e40\u0e01\u0e19"
     ],
@@ -152,6 +170,9 @@
     ],
     "name:uzb_x_preferred":[
         "Botken"
+    ],
+    "name:vie_x_preferred":[
+        "Batken"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u7279\u80af"
@@ -206,7 +227,7 @@
         }
     ],
     "wof:id":421174351,
-    "wof:lastmodified":1636500645,
+    "wof:lastmodified":1690938092,
     "wof:name":"Batken",
     "wof:parent_id":1091690427,
     "wof:placetype":"locality",
