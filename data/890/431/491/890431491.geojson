@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:aze_x_preferred":[
+        "Bazar-Korqon"
+    ],
     "name:ceb_x_preferred":[
         "Bazar-Korgon"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0437\u0430\u0440-\u041a\u043e\u0440\u0433\u043e\u043d"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0632\u0627\u0695-\u0642\u06c6\u0631\u063a\u06c6\u0646"
@@ -60,6 +66,9 @@
     ],
     "name:swe_x_preferred":[
         "Bazar-Korgon"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u043e\u0437\u043e\u0440-\u049a\u04ef\u0440\u0493\u043e\u043d"
     ],
     "name:tur_x_preferred":[
         "Bazar-Korgon"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":890431491,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938095,
     "wof:name":"Bazar-Korgon",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",

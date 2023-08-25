@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Razzaqov"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0641\u0627\u0646\u0627"
+    ],
     "name:bak_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
         "\u0418\u0441\u0444\u0430\u043d\u0430"
     ],
     "name:bxr_x_preferred":[
@@ -25,6 +34,9 @@
     ],
     "name:ceb_x_preferred":[
         "Isfana"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u043d\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06cc\u0633\u0641\u0627\u0646\u0627"
@@ -35,8 +47,14 @@
     "name:eng_x_preferred":[
         "Isfana"
     ],
+    "name:eng_x_variant":[
+        "Razzaqov"
+    ],
     "name:est_x_preferred":[
         "Isfana"
+    ],
+    "name:est_x_variant":[
+        "Razzakov"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0641\u0646\u0647"
@@ -48,11 +66,17 @@
     "name:fra_x_preferred":[
         "Isfana"
     ],
+    "name:fra_x_variant":[
+        "Razzaqov"
+    ],
     "name:hsb_x_preferred":[
         "Isfana"
     ],
     "name:ita_x_preferred":[
         "Isfana"
+    ],
+    "name:ita_x_variant":[
+        "Razzakov"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30d5\u30a1\u30ca"
@@ -64,7 +88,8 @@
         "\u0418\u0441\u0444\u0430\u043d\u0430"
     ],
     "name:kir_x_variant":[
-        "\u0418\u0441\u0444\u0430\u043d\u0430 \u0448\u0430\u0430\u0440\u044b"
+        "\u0418\u0441\u0444\u0430\u043d\u0430 \u0448\u0430\u0430\u0440\u044b",
+        "\u0420\u0430\u0437\u0437\u0430\u043a\u043e\u0432"
     ],
     "name:lit_x_preferred":[
         "Isfana"
@@ -87,6 +112,9 @@
     "name:rus_x_preferred":[
         "\u0418\u0441\u0444\u0430\u043d\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u0420\u0430\u0437\u0437\u0430\u043a\u043e\u0432"
+    ],
     "name:sco_x_preferred":[
         "Isfana"
     ],
@@ -99,8 +127,14 @@
     "name:tat_x_preferred":[
         "\u0418\u0441\u0444\u04d9\u043d\u04d9"
     ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u043d\u0430"
+    ],
     "name:tur_x_preferred":[
         "\u0130sfana"
+    ],
+    "name:tur_x_variant":[
+        "Razzakov"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0444\u0430\u043d\u0430"
@@ -113,6 +147,9 @@
     ],
     "name:uzb_x_preferred":[
         "Isfana"
+    ],
+    "name:uzb_x_variant":[
+        "Razzoqov"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6cd5\u7d0d"
@@ -168,7 +205,7 @@
         }
     ],
     "wof:id":421178623,
-    "wof:lastmodified":1566727163,
+    "wof:lastmodified":1690938094,
     "wof:name":"Isfana",
     "wof:parent_id":1091690385,
     "wof:placetype":"locality",

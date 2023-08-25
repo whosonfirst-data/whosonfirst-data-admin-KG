@@ -55,6 +55,9 @@
     "name:ceb_x_preferred":[
         "Talas"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:dan_x_preferred":[
         "Talas Region"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:eus_x_preferred":[
         "Talas probintzia"
+    ],
+    "name:eus_x_variant":[
+        "Talas"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u0627\u0632"
@@ -105,6 +111,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u056c\u0561\u057d\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Talas"
     ],
     "name:ind_x_preferred":[
         "Talas"
@@ -167,6 +176,9 @@
     "name:nob_x_preferred":[
         "Talas region"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0637\u0644\u0627\u0633"
     ],
@@ -175,6 +187,9 @@
     ],
     "name:por_x_preferred":[
         "Talas"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea Talas"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0441\u0441\u043a\u0430\u044f \u041e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -192,11 +207,17 @@
     "name:spa_x_preferred":[
         "Talas"
     ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
     "name:swe_x_preferred":[
         "Talas"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bb2\u0bb8\u0bcd \u0baa\u0b95\u0bc1\u0ba4\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0ba4\u0bb2\u0bbe\u0bb8\u0bcd \u0baa\u0bbf\u0bb0\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0430\u043b\u0430\u0441 \u04e9\u043b\u043a\u04d9\u0441\u0435"
@@ -362,7 +383,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1636500638,
+    "wof:lastmodified":1690938080,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

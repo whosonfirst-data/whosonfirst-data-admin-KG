@@ -17,8 +17,20 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0648\u0646\u0628\u0627\u064a\u0641\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0648\u0646\u0628\u0627\u064a\u0641\u0648"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u044c\u043a\u043e\u044c\u043d\u0431\u0430\u0435\u0432"
+    ],
     "name:eng_x_preferred":[
         "Bokonbayevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0646\u0628\u0627\u06cc\u0641\u0648"
     ],
     "name:fra_x_preferred":[
         "Bokonba\u00efevo"
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":421202767,
-    "wof:lastmodified":1566727162,
+    "wof:lastmodified":1690938091,
     "wof:name":"Bokonbayevskoye",
     "wof:parent_id":1091691319,
     "wof:placetype":"locality",

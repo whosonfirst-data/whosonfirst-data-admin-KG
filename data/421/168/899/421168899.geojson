@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0643\u0643"
     ],
+    "name:arg_x_preferred":[
+        "Bishkek"
+    ],
+    "name:ary_x_preferred":[
+        "\u0628\u064a\u0634\u0643\u064a\u0643"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0634\u0643\u064a\u0643"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u0438\u0448\u043a\u04d9\u043a"
+    ],
+    "name:ban_x_preferred":[
+        "Bishkek"
     ],
     "name:bcl_x_preferred":[
         "Bishkek"
@@ -154,7 +163,13 @@
     "name:fry_x_preferred":[
         "Bisjkek"
     ],
+    "name:gag_x_preferred":[
+        "Bi\u015fkek"
+    ],
     "name:gla_x_preferred":[
+        "Bishkek"
+    ],
+    "name:gle_x_preferred":[
         "Bishkek"
     ],
     "name:glg_x_preferred":[
@@ -171,6 +186,9 @@
     ],
     "name:hat_x_preferred":[
         "Bichkek"
+    ],
+    "name:hau_x_preferred":[
+        "Bishkek"
     ],
     "name:hbs_x_preferred":[
         "Bi\u0161kek"
@@ -292,6 +310,9 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0936\u094d\u0915\u0947\u0915"
     ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0438\u0448\u043a\u0435\u043a"
+    ],
     "name:mhr_x_preferred":[
         "\u0411\u0438\u0448\u043a\u0435\u043a"
     ],
@@ -299,6 +320,9 @@
         "\u0411\u0438\u0448\u043a\u0435\u043a"
     ],
     "name:mlg_x_preferred":[
+        "Bishkek"
+    ],
+    "name:mlt_x_preferred":[
         "Bishkek"
     ],
     "name:mon_x_preferred":[
@@ -323,6 +347,9 @@
         "Bixquec"
     ],
     "name:nan_x_preferred":[
+        "Bishkek"
+    ],
+    "name:nau_x_preferred":[
         "Bishkek"
     ],
     "name:nds_x_preferred":[
@@ -421,6 +448,9 @@
     "name:swe_x_preferred":[
         "Bisjkek"
     ],
+    "name:szl_x_preferred":[
+        "Biszkek"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbf\u0b9a\u0bc1\u0b95\u0bcd\u0b95\u0bc6\u0b95\u0bcd"
     ],
@@ -466,6 +496,9 @@
     "name:uzb_x_preferred":[
         "Bishkek"
     ],
+    "name:vec_x_preferred":[
+        "Bi\u0161kek"
+    ],
     "name:vep_x_preferred":[
         "Bi\u0161kek"
     ],
@@ -477,6 +510,9 @@
     ],
     "name:war_x_preferred":[
         "Bishkek"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u4ec0\u51ef\u514b"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10e8\u10d9\u10d4\u10d9\u10d8"
@@ -611,8 +647,8 @@
     "wof:belongsto":[
         102191569,
         85632761,
-        1091692295,
-        85672975
+        85672975,
+        1091692295
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -644,7 +680,7 @@
         }
     ],
     "wof:id":421168899,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1690938088,
     "wof:megacity":1,
     "wof:name":"Bishkek",
     "wof:parent_id":1091692295,
