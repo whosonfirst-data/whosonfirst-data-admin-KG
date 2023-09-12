@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.377242,
-    "geom:area_square_m":198054211977.613586,
+    "geom:area_square_m":198054211977.612854,
     "geom:bbox":"69.250998,39.180254,80.226559,43.265357",
     "geom:latitude":41.464774,
     "geom:longitude":74.529537,
@@ -14,6 +14,9 @@
     "iso:country":"KG",
     "itu:country_code":[
         "996"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "KG"
@@ -1278,7 +1281,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"996",
     "statoids:ds":"KS",
     "statoids:fifa":"KGZ",
@@ -1336,7 +1340,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"a6490ded1c9788228adb2390fd22d457",
+    "wof:geomhash":"8b88828ab4c3a747dd29633e248fd902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1352,12 +1356,12 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938081,
+    "wof:lastmodified":1694492075,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":5776500,
-    "wof:population_rank":13,
+    "wof:population":6456900,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:shortcode":"KG",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.183027,
-    "geom:area_square_m":19865065252.31945,
+    "geom:area_square_m":19865065428.22113,
     "geom:bbox":"73.050636,41.842761,77.225168,43.26612",
     "geom:latitude":42.614293,
     "geom:longitude":74.603369,
@@ -13,6 +13,9 @@
     "iso:country":"KG",
     "label:eng_x_preferred_longname":[
         "Chuy Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "CU"
@@ -351,7 +354,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"682f8840dc8cb0badcca9bf0356aeaaa",
+    "wof:geomhash":"04908e4b9427930ed0e6bc1dbac39418",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -368,7 +371,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938084,
+    "wof:lastmodified":1694493258,
     "wof:name":"Chuy",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
