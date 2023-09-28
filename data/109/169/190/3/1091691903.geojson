@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00272,
-    "geom:area_square_m":24814109.737822,
+    "geom:area_square_m":24814105.537504,
     "geom:bbox":"76.130599,42.426462,76.244639,42.483287",
     "geom:latitude":42.460825,
     "geom:longitude":76.187448,
@@ -167,9 +167,10 @@
     "wof:concordances":{
         "hasc:id":"KG.YK.YK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879395,
-    "wof:geomhash":"c76f1da04da80397237e5e15994cc5eb",
+    "wof:geomhash":"d4eef7e360f980f418bd41e08256b7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1091691903,
-    "wof:lastmodified":1636500643,
+    "wof:lastmodified":1695886763,
     "wof:name":"Balykchy",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

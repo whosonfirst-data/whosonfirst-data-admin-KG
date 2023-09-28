@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30725,
-    "geom:area_square_m":2895400472.870373,
+    "geom:area_square_m":2895400630.071497,
     "geom:bbox":"72.663871,39.812862,73.38476,40.770937",
     "geom:latitude":40.349164,
     "geom:longitude":73.049496,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KG.OH.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879349,
-    "wof:geomhash":"6e3c65dde136e6fe86b9b912d2b58c1f",
+    "wof:geomhash":"be48558a37c50e1f9adc751a90e46246",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091690751,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Kara-suu",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

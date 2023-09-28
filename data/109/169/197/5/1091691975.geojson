@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002009,
-    "geom:area_square_m":18642061.968314,
+    "geom:area_square_m":18642095.40086,
     "geom:bbox":"72.181826,41.328086,72.239789,41.418731",
     "geom:latitude":41.37084,
     "geom:longitude":72.215928,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879398,
-    "wof:geomhash":"8624b68b1275b757b7ae6663bdd5e89a",
+    "wof:geomhash":"0df1b660e6d852f274ff66257a9fa47e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091691975,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Tash-Kumir",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

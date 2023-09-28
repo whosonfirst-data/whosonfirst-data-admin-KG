@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.795084,
-    "geom:area_square_m":7547231199.305124,
+    "geom:area_square_m":7547231355.673344,
     "geom:bbox":"72.800722,39.344671,74.038816,40.505591",
     "geom:latitude":39.854179,
     "geom:longitude":73.45946,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"KG.OH.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879342,
-    "wof:geomhash":"588522340d5bbf2c88b85362df2ec48b",
+    "wof:geomhash":"e30baf9581d6b791527021ba6f9c23a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091690561,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886746,
     "wof:name":"Alai",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

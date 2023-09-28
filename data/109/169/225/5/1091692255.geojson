@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003974,
-    "geom:area_square_m":36036062.927403,
+    "geom:area_square_m":36036062.927406,
     "geom:bbox":"75.23012678,42.782559203,75.358102926,42.861539884",
     "geom:latitude":42.83354,
     "geom:longitude":75.296977,
@@ -170,9 +170,10 @@
     "wof:concordances":{
         "hasc:id":"KG.CU.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879409,
-    "wof:geomhash":"576373bd40540002ea158d2b1152c25a",
+    "wof:geomhash":"d56a3a79f0dcc1b814951e6cf2cdc0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1091692255,
-    "wof:lastmodified":1566727157,
+    "wof:lastmodified":1695886186,
     "wof:name":"Tokmok",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177744,
-    "geom:area_square_m":1617654771.891735,
+    "geom:area_square_m":1617655086.779293,
     "geom:bbox":"75.032068,42.417377,75.695214,42.879966",
     "geom:latitude":42.606171,
     "geom:longitude":75.336415,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.CU.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879387,
-    "wof:geomhash":"bad18fb88e2a18ecd54d6ca59a854840",
+    "wof:geomhash":"7d6eab211a926462d3a288e4f3ab3627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091691731,
-    "wof:lastmodified":1627522279,
+    "wof:lastmodified":1695886748,
     "wof:name":"Chui",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

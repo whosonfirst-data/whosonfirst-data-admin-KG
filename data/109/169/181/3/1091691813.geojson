@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.983033,
-    "geom:area_square_m":18532241992.337433,
+    "geom:area_square_m":18532241777.912533,
     "geom:bbox":"74.158498,40.280971,77.907331,41.433477",
     "geom:latitude":40.905478,
     "geom:longitude":76.001503,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"KG.NA.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879391,
-    "wof:geomhash":"3f531ca702077abf807b51ce0b1ab599",
+    "wof:geomhash":"6b7821ceb75c44dc61da50f60bc6f139",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091691813,
-    "wof:lastmodified":1627522279,
+    "wof:lastmodified":1695886748,
     "wof:name":"Ak-Bashy",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

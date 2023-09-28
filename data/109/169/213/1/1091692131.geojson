@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001589,
-    "geom:area_square_m":15061889.632311,
+    "geom:area_square_m":15061847.189524,
     "geom:bbox":"69.562753,39.907126,69.616149,39.964164",
     "geom:latitude":39.936671,
     "geom:longitude":69.585555,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"KG.BA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879404,
-    "wof:geomhash":"0c8f5490dbf986ed10de5a4292833c9e",
+    "wof:geomhash":"222fa67fce5701c6c3dccc77960839ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1091692131,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Sulukta",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

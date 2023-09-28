@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.558271,
-    "geom:area_square_m":5097079299.781749,
+    "geom:area_square_m":5097079584.780793,
     "geom:bbox":"72.084881,42.049063,73.658246,42.769576",
     "geom:latitude":42.406804,
     "geom:longitude":72.728158,
@@ -124,9 +124,10 @@
     "wof:concordances":{
         "hasc:id":"KG.TL.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879325,
-    "wof:geomhash":"9d5d7393519f621d68f5ec5bc6898c30",
+    "wof:geomhash":"9577926b0a6bc73a7cf668afcb55ea9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1091690143,
-    "wof:lastmodified":1636500642,
+    "wof:lastmodified":1695886762,
     "wof:name":"Talas",
     "wof:parent_id":85673003,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0031,
-    "geom:area_square_m":28919898.547882,
+    "geom:area_square_m":28920098.654043,
     "geom:bbox":"73.146514,40.974922,73.23886,41.049779",
     "geom:latitude":41.018978,
     "geom:longitude":73.197987,
@@ -61,9 +61,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879396,
-    "wof:geomhash":"f14d796929a8e583e607676de00abb73",
+    "wof:geomhash":"dedae01e566b21e2407a714d8096dd3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1091691931,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Kok-Zhangak",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.778582,
-    "geom:area_square_m":7150960270.197833,
+    "geom:area_square_m":7150960481.026839,
     "geom:bbox":"75.641311,41.553815,77.527913,42.617958",
     "geom:latitude":42.030779,
     "geom:longitude":76.709237,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"KG.YK.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879370,
-    "wof:geomhash":"86dbd9fb07fa84847925373ea1368e55",
+    "wof:geomhash":"da006a24bcf0560e7ef8d8b5047e4348",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1091691319,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Ton",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

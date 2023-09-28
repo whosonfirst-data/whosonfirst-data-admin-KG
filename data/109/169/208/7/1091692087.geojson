@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004415,
-    "geom:area_square_m":40938647.275273,
+    "geom:area_square_m":40938582.109644,
     "geom:bbox":"75.929346,41.396682,76.09385,41.438212",
     "geom:latitude":41.418029,
     "geom:longitude":76.006714,
@@ -190,9 +190,10 @@
     "wof:concordances":{
         "hasc:id":"KG.NA.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879403,
-    "wof:geomhash":"a133909ac4ca73ec0458c8fd7ef796d5",
+    "wof:geomhash":"eb92de43271708c2f508db7ef2868008",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1091692087,
-    "wof:lastmodified":1636500644,
+    "wof:lastmodified":1695886763,
     "wof:name":"Naryn",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

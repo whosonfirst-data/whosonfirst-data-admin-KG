@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3644,
-    "geom:area_square_m":3409358000.849236,
+    "geom:area_square_m":3409358000.848953,
     "geom:bbox":"73.093823597,40.470123759,74.260311304,41.146402055",
     "geom:latitude":40.830411,
     "geom:longitude":73.588053,
@@ -174,9 +174,10 @@
     "wof:concordances":{
         "hasc:id":"KG.OH.UZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879348,
-    "wof:geomhash":"8dfcf47454f7525da74fa8c86dae8e7d",
+    "wof:geomhash":"936bac0c5a87a66018662554970104c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":1091690705,
-    "wof:lastmodified":1566727154,
+    "wof:lastmodified":1695886185,
     "wof:name":"Uzgen",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

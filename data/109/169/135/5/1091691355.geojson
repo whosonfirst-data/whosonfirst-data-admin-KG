@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.470195,
-    "geom:area_square_m":13548122653.437119,
+    "geom:area_square_m":13548122815.287226,
     "geom:bbox":"77.268246,41.181538,79.487265,42.581236",
     "geom:latitude":41.818341,
     "geom:longitude":78.124513,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"KG.YK.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879372,
-    "wof:geomhash":"c38dcaec00c4c4b207b0bbdd3ae5706f",
+    "wof:geomhash":"e6d29822fd09ded311ac9d98d0f9a619",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091691355,
-    "wof:lastmodified":1627522279,
+    "wof:lastmodified":1695886747,
     "wof:name":"Jeti-Oguz",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

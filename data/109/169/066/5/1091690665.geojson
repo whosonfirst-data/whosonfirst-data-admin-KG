@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609323,
-    "geom:area_square_m":5733078023.858187,
+    "geom:area_square_m":5733077332.47127,
     "geom:bbox":"73.358797,40.079746,74.911163,40.793171",
     "geom:latitude":40.454343,
     "geom:longitude":74.112899,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"KG.OH.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879346,
-    "wof:geomhash":"35a7329269749fa967813dcc1d5f73ab",
+    "wof:geomhash":"91906f1a5b8ee84d0530de5ec9aff097",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091690665,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Kara-Kulja",
     "wof:parent_id":85673005,
     "wof:placetype":"county",

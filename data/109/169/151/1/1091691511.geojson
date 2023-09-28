@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.538119,
-    "geom:area_square_m":4914521316.329101,
+    "geom:area_square_m":4914521316.329186,
     "geom:bbox":"73.050635772,41.947252934,74.874310414,43.099178969",
     "geom:latitude":42.388111,
     "geom:longitude":73.811293,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"KG.CU.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879378,
-    "wof:geomhash":"9342bcde67ff0b4df42324d38d56e49a",
+    "wof:geomhash":"b8c24d94537804b911fd09b65f4e5c41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091691511,
-    "wof:lastmodified":1566727154,
+    "wof:lastmodified":1695886185,
     "wof:name":"Panfilov",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

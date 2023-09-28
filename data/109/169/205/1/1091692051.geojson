@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013701,
-    "geom:area_square_m":127309217.995806,
+    "geom:area_square_m":127309137.562505,
     "geom:bbox":"72.363114,41.177526,72.573711,41.339067",
     "geom:latitude":41.281504,
     "geom:longitude":72.461102,
@@ -123,9 +123,10 @@
         "hasc:id":"KG.DA.NN",
         "wd:id":"Q2573293"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879401,
-    "wof:geomhash":"5df4fb104d1d3b8bed255c15015b023d",
+    "wof:geomhash":"657b197df6ccd270fa2c5bd2b2104676",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091692051,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Mailuu-Suu",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

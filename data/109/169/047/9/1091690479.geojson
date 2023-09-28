@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.647301,
-    "geom:area_square_m":6132597253.91181,
+    "geom:area_square_m":6132596964.658777,
     "geom:bbox":"71.032404,39.648247,72.544867,40.347447",
     "geom:latitude":39.986597,
     "geom:longitude":71.763595,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.BA.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879339,
-    "wof:geomhash":"3a49f1be96e39c4ff9c7f9fe6ed9b6a9",
+    "wof:geomhash":"818392cb2e6418c1f6090b9dc6b92cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091690479,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Kadamjai",
     "wof:parent_id":85672995,
     "wof:placetype":"county",
