@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003291,
-    "geom:area_square_m":30929380.731963,
+    "geom:area_square_m":30929466.413327,
     "geom:bbox":"72.762238,40.471576,72.83418,40.589054",
     "geom:latitude":40.521386,
     "geom:longitude":72.802107,
@@ -64,11 +64,13 @@
     "wof:concordances":{
         "fips:code":"KG10",
         "hasc:id":"KG.OC",
+        "iso:code":"KG-GO",
         "iso:id":"KG-GO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:created":1485453182,
-    "wof:geomhash":"ccc3f56d73cf69205510b24f3d439ef6",
+    "wof:geomhash":"7d5f28b1e4799b9cc603f4cc04612b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +87,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695884754,
     "wof:name":"Osh City",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

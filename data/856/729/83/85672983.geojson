@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.927516,
-    "geom:area_square_m":36018481522.664085,
+    "geom:area_square_m":36018481076.486259,
     "geom:bbox":"75.641311,41.181538,80.226452,42.941789",
     "geom:latitude":42.125218,
     "geom:longitude":78.044363,
@@ -359,17 +359,19 @@
         "gn:id":1528260,
         "gp:id":20070190,
         "hasc:id":"KG.YK",
+        "iso:code":"KG-Y",
         "iso:id":"KG-Y",
         "qs_pg:id":236957,
         "unlc:id":"KG-Y",
         "wd:id":"Q487413",
         "wk:page":"Issyk-Kul Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"942ae31a15ba3776f4e2971ad96bfc40",
+    "wof:geomhash":"8d33b411dcfa79015c35c60fa79767cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938084,
+    "wof:lastmodified":1695884519,
     "wof:name":"Ysyk-K\u00f6l",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

@@ -346,10 +346,12 @@
         "gn:id":1538652,
         "gp:id":20070195,
         "hasc:id":"KG.CU",
+        "iso:code":"KG-C",
         "qs_pg:id":1287645,
         "wd:id":"Q486370",
         "wk:page":"Chuy Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
@@ -371,7 +373,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1694493258,
+    "wof:lastmodified":1695884872,
     "wof:name":"Chuy",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

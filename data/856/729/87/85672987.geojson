@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.807331,
-    "geom:area_square_m":44611388636.259109,
+    "geom:area_square_m":44611386946.423798,
     "geom:bbox":"73.712814,40.280971,77.907331,42.453003",
     "geom:latitude":41.365217,
     "geom:longitude":75.605078,
@@ -368,17 +368,19 @@
         "gn:id":1527590,
         "gp:id":20070191,
         "hasc:id":"KG.NA",
+        "iso:code":"KG-N",
         "iso:id":"KG-N",
         "qs_pg:id":1287643,
         "unlc:id":"KG-N",
         "wd:id":"Q486375",
         "wk:page":"Naryn Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7f08f0797e7257b09d1d1ba4e3da53cd",
+    "wof:geomhash":"26c9efa065c966311e411524b1b8350e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938083,
+    "wof:lastmodified":1695884872,
     "wof:name":"Naryn",
     "wof:parent_id":85632761,
     "wof:placetype":"region",
