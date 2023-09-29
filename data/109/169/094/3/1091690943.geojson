@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.497384,
-    "geom:area_square_m":4598021899.545564,
+    "geom:area_square_m":4598021685.107941,
     "geom:bbox":"71.41356,41.119887,72.512773,42.011692",
     "geom:latitude":41.615411,
     "geom:longitude":71.978051,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879357,
-    "wof:geomhash":"98b8a01e9cd5587fc1b0bf86a2cfdbc9",
+    "wof:geomhash":"838b17e755a8b01104c11986919c09c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091690943,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886746,
     "wof:name":"Aksy",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

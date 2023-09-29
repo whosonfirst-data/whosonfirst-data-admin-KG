@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37539,
-    "geom:area_square_m":3406762780.149791,
+    "geom:area_square_m":3406762780.149892,
     "geom:bbox":"75.443196694,42.44640989,77.225167527,42.987719662",
     "geom:latitude":42.782548,
     "geom:longitude":76.193107,
@@ -119,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"KG.CU.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879389,
-    "wof:geomhash":"d2243d0bdab09bbb5120869b2cbf3b81",
+    "wof:geomhash":"b1311ae2176fd0f97bf84d945456d527",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1091691775,
-    "wof:lastmodified":1566727158,
+    "wof:lastmodified":1695886186,
     "wof:name":"Kemin",
     "wof:parent_id":85672981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.253841,
-    "geom:area_square_m":11442596173.406702,
+    "geom:area_square_m":11442596773.955025,
     "geom:bbox":"70.864634,42.049063,73.658246,42.840584",
     "geom:latitude":42.434819,
     "geom:longitude":72.126937,
@@ -356,17 +356,19 @@
         "gn:id":1527297,
         "gp:id":20070192,
         "hasc:id":"KG.TL",
+        "iso:code":"KG-T",
         "iso:id":"KG-T",
         "qs_pg:id":236958,
         "unlc:id":"KG-T",
         "wd:id":"Q109838",
         "wk:page":"Talas Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bee4a2bfeb186f3899dc62969a4c27e",
+    "wof:geomhash":"bde4f644b05a8fa0540789ce1e6a46a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -383,7 +385,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938080,
+    "wof:lastmodified":1695884872,
     "wof:name":"Talas",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

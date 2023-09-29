@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.249972,
-    "geom:area_square_m":2323990482.21521,
+    "geom:area_square_m":2323990703.383064,
     "geom:bbox":"72.151426,40.953451,72.940408,41.51074",
     "geom:latitude":41.247277,
     "geom:longitude":72.497852,
@@ -123,9 +123,10 @@
         "hasc:id":"KG.DA.NN",
         "wd:id":"Q2573293"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879358,
-    "wof:geomhash":"aa90effb7751a1f723ab8cd0471f5edd",
+    "wof:geomhash":"d015286ca27852182922c0fbd5a66f13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091690981,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Nooken",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

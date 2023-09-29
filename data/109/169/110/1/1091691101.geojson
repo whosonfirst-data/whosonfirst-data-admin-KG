@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.586067,
-    "geom:area_square_m":5394624863.937879,
+    "geom:area_square_m":5394623428.71583,
     "geom:bbox":"73.712814,41.541818,75.181975,42.245184",
     "geom:latitude":41.891182,
     "geom:longitude":74.538148,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KG.NA.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879363,
-    "wof:geomhash":"f79c7d5fbe8c9b2d8a1ebfc9116b06ea",
+    "wof:geomhash":"4967a889aacdacab38f5a42830f2bfb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091691101,
-    "wof:lastmodified":1627522279,
+    "wof:lastmodified":1695886747,
     "wof:name":"Jumgal",
     "wof:parent_id":85672987,
     "wof:placetype":"county",

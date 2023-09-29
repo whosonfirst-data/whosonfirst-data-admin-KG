@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423871,
-    "geom:area_square_m":3932555192.194903,
+    "geom:area_square_m":3932555907.690903,
     "geom:bbox":"73.372794,40.976259,74.74013,41.641882",
     "geom:latitude":41.38273,
     "geom:longitude":74.040826,
@@ -124,9 +124,10 @@
         "hasc:id":"KG.DA.TT",
         "wd:id":"Q754798"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879354,
-    "wof:geomhash":"4da3b11c5b34651496d06b56c1b90133",
+    "wof:geomhash":"831472d39bdecdf7199dc988f5093a8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1091690861,
-    "wof:lastmodified":1690938087,
+    "wof:lastmodified":1695886749,
     "wof:name":"Toguz-Toro",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

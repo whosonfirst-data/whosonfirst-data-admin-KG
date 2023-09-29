@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002166,
-    "geom:area_square_m":20440040.029754,
+    "geom:area_square_m":20440148.950362,
     "geom:bbox":"72.096841,40.218259,72.171691,40.276116",
     "geom:latitude":40.246398,
     "geom:longitude":72.134999,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.BA.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879406,
-    "wof:geomhash":"486dea168e1e20d503aab55dd90f0e1f",
+    "wof:geomhash":"4ebdc8d7bb6e9fb558b48d11a7f3d559",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091692173,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886749,
     "wof:name":"Kyzyl-Kia",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

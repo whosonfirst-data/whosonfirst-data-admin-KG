@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.23159,
-    "geom:area_square_m":2103753927.785518,
+    "geom:area_square_m":2103753527.900813,
     "geom:bbox":"77.948749,42.473074,79.45124,42.902149",
     "geom:latitude":42.72326,
     "geom:longitude":78.593858,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"KG.YK.TU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879374,
-    "wof:geomhash":"e9770c027bb94b1f134122ff5021eca5",
+    "wof:geomhash":"d46b25ae955527a761c71e71c720e9a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091691407,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Tup",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

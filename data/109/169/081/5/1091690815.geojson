@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.936884,
-    "geom:area_square_m":8633603446.819523,
+    "geom:area_square_m":8633603215.296959,
     "geom:bbox":"71.912299,41.44106,74.086382,42.221187",
     "geom:latitude":41.818652,
     "geom:longitude":72.998273,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.TG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879352,
-    "wof:geomhash":"dada53f38173990b597809158b78870c",
+    "wof:geomhash":"52f0b8e5c226ff49b11e575f63f59e8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1091690815,
-    "wof:lastmodified":1636500644,
+    "wof:lastmodified":1695886763,
     "wof:name":"Toktogul",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

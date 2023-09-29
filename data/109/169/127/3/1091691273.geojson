@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397669,
-    "geom:area_square_m":3612693712.949881,
+    "geom:area_square_m":3612693478.583361,
     "geom:bbox":"76.12536,42.464807,77.969046,42.941789",
     "geom:latitude":42.718324,
     "geom:longitude":77.039471,
@@ -248,9 +248,10 @@
     "wof:concordances":{
         "hasc:id":"KG.YK.YK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879369,
-    "wof:geomhash":"cbe72be70ebd60be62d7c80d13cf881f",
+    "wof:geomhash":"4d49da8d66f0bb82733d90e6dcc44624",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":1091691273,
-    "wof:lastmodified":1636500643,
+    "wof:lastmodified":1695886763,
     "wof:name":"Issyk-Kul",
     "wof:parent_id":85672983,
     "wof:placetype":"county",

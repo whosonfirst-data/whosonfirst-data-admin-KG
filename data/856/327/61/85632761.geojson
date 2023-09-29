@@ -1319,6 +1319,7 @@
         "hasc:id":"KG",
         "icao:code":"EX",
         "ioc:id":"KGZ",
+        "iso:code":"KG",
         "itu:id":"KGZ",
         "loc:id":"n91129681",
         "m49:code":"417",
@@ -1333,6 +1334,7 @@
         "wk:page":"Kyrgyzstan",
         "wmo:id":"KG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:country_alpha3":"KGZ",
     "wof:geom_alt":[
@@ -1356,7 +1358,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1694639528,
+    "wof:lastmodified":1695881184,
     "wof:name":"Kyrgyzstan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

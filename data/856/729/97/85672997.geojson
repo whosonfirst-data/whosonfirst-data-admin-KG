@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.629685,
-    "geom:area_square_m":33577660462.533951,
+    "geom:area_square_m":33577660591.174187,
     "geom:bbox":"70.169149,40.8042,74.74013,42.221187",
     "geom:latitude":41.569902,
     "geom:longitude":72.455582,
@@ -332,17 +332,19 @@
         "gn:id":1529778,
         "gp:id":20070193,
         "hasc:id":"KG.CU",
+        "iso:code":"KG-C",
         "iso:id":"KG-C",
         "qs_pg:id":896384,
         "unlc:id":"KG-J",
         "wd:id":"Q487640",
         "wk:page":"Jalal-Abad Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b862bccc65e72dbd6cbbd6c5c4230d3d",
+    "wof:geomhash":"b1ca83d0d92173eeecfe7b992bb25d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -359,7 +361,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938084,
+    "wof:lastmodified":1695884872,
     "wof:name":"Jalal-Abad",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

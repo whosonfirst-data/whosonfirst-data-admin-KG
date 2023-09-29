@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214768,
-    "geom:area_square_m":1995548128.534113,
+    "geom:area_square_m":1995548128.533602,
     "geom:bbox":"72.558135165,40.888127952,73.487062013,41.581704491",
     "geom:latitude":41.284827,
     "geom:longitude":72.988576,
@@ -113,9 +113,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879360,
-    "wof:geomhash":"386d58fafaa820c604fd9a11638eeca6",
+    "wof:geomhash":"42f159fa5ec28b07c304531942a2f1bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1091691031,
-    "wof:lastmodified":1566727153,
+    "wof:lastmodified":1695886184,
     "wof:name":"Bazar-Korgon",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

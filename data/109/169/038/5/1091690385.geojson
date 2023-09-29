@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.489508,
-    "geom:area_square_m":4646182274.776377,
+    "geom:area_square_m":4646182128.600961,
     "geom:bbox":"69.26385,39.521151,70.357624,40.234034",
     "geom:latitude":39.86081,
     "geom:longitude":69.789239,
@@ -62,9 +62,10 @@
     "wof:concordances":{
         "hasc:id":"KG.BA.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879336,
-    "wof:geomhash":"09a98bafdd0cafefbf33cd96114a9384",
+    "wof:geomhash":"f715189b16d47778e0feee0b2b31f8a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1091690385,
-    "wof:lastmodified":1627522280,
+    "wof:lastmodified":1695886748,
     "wof:name":"Leilek",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.662888,
-    "geom:area_square_m":6108895356.830389,
+    "geom:area_square_m":6108895100.765144,
     "geom:bbox":"70.169149,41.209369,71.980396,42.2158",
     "geom:latitude":41.816139,
     "geom:longitude":71.095965,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.CK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879351,
-    "wof:geomhash":"6e5eec6c3216027829a7f034969cb511",
+    "wof:geomhash":"aecbb3be0ed1bb864f4630b77c4b1130",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091690779,
-    "wof:lastmodified":1627522281,
+    "wof:lastmodified":1695886749,
     "wof:name":"Chatkal",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

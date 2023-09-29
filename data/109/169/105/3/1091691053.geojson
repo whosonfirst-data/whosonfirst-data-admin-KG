@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297237,
-    "geom:area_square_m":2769702131.239601,
+    "geom:area_square_m":2769702131.239776,
     "geom:bbox":"72.574621397,40.804199765,73.819834867,41.37487948",
     "geom:latitude":41.09845,
     "geom:longitude":73.256723,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879361,
-    "wof:geomhash":"82a3e083adf0decd0e4e45b4a2f5f959",
+    "wof:geomhash":"5c269d8f76a91f5c67c01667a50331a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1091691053,
-    "wof:lastmodified":1566727154,
+    "wof:lastmodified":1695886185,
     "wof:name":"Suzak",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.645084,
-    "geom:area_square_m":6129817342.052608,
+    "geom:area_square_m":6129817754.03581,
     "geom:bbox":"70.087089,39.388948,71.555567,40.292402",
     "geom:latitude":39.78242,
     "geom:longitude":70.787116,
@@ -188,9 +188,10 @@
     "wof:concordances":{
         "hasc:id":"KG.BA.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879337,
-    "wof:geomhash":"47cfb0fcedb8cf1ffb1a46dbe5c0abb4",
+    "wof:geomhash":"dc5429586f7a953dc4b68439efcf69bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1091690427,
-    "wof:lastmodified":1636500643,
+    "wof:lastmodified":1695886762,
     "wof:name":"Batken",
     "wof:parent_id":85672995,
     "wof:placetype":"county",

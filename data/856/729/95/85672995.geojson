@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.785647,
-    "geom:area_square_m":16944098800.403152,
+    "geom:area_square_m":16944098843.435209,
     "geom:bbox":"69.26385,39.388948,72.544867,40.347447",
     "geom:latitude":39.878624,
     "geom:longitude":70.868104,
@@ -351,17 +351,19 @@
         "gn:id":1463580,
         "gp:id":20070196,
         "hasc:id":"KG.BA",
+        "iso:code":"KG-B",
         "iso:id":"KG-B",
         "qs_pg:id":1287646,
         "unlc:id":"KG-B",
         "wd:id":"Q487631",
         "wk:page":"Batken Region"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"KG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e042f54afe6fdb70da90f10e95cddca8",
+    "wof:geomhash":"5bde6a8ab29dee0a9543a5e966bd7664",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -378,7 +380,7 @@
         "kir",
         "rus"
     ],
-    "wof:lastmodified":1690938082,
+    "wof:lastmodified":1695884872,
     "wof:name":"Batken",
     "wof:parent_id":85632761,
     "wof:placetype":"region",

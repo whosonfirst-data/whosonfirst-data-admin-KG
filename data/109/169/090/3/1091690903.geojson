@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325557,
-    "geom:area_square_m":3018865478.863743,
+    "geom:area_square_m":3018865636.518624,
     "geom:bbox":"70.715962,41.112583,71.675747,41.740431",
     "geom:latitude":41.416199,
     "geom:longitude":71.202616,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"KG.DA.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879355,
-    "wof:geomhash":"cd73f90dda281f6b6938410a0203913e",
+    "wof:geomhash":"ab9b320b2ea15c980ecd16cdbc40485b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1091690903,
-    "wof:lastmodified":1627522278,
+    "wof:lastmodified":1695886746,
     "wof:name":"Ala-Buka",
     "wof:parent_id":85672997,
     "wof:placetype":"county",

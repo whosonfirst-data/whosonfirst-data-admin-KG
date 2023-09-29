@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066362,
-    "geom:area_square_m":624388900.662281,
+    "geom:area_square_m":624388526.444932,
     "geom:bbox":"72.057928,40.339981,72.732682,40.618375",
     "geom:latitude":40.455208,
     "geom:longitude":72.427948,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"KG.OH.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"KG",
     "wof:created":1473879343,
-    "wof:geomhash":"afb09093894b3684ded2c9659a6baaa5",
+    "wof:geomhash":"a733d2b3984a10a0190c396a2251995b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1091690603,
-    "wof:lastmodified":1627522279,
+    "wof:lastmodified":1695886747,
     "wof:name":"Aravan",
     "wof:parent_id":85673005,
     "wof:placetype":"county",
