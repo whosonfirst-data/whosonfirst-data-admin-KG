@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1528968
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8137678
+        ]
+    },
     "wof:country":"KG",
     "wof:geomhash":"24f72b47edfb9c2f4bacbc0e7a464b84",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226647803,
-    "wof:lastmodified":1566727189,
+    "wof:lastmodified":1706240322,
     "wof:name":"Orto-Aziya",
     "wof:parent_id":1091691053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344064323
+    ],
     "wof:tags":[]
 },
   "bbox": [

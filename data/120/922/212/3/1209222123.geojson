@@ -122,6 +122,13 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u043c\u0430"
     ],
+    "name:und_x_variant":[
+        "Gul\u2019ma",
+        "Alma"
+    ],
+    "name:uzb_x_preferred":[
+        "Olma"
+    ],
     "name:vol_x_preferred":[
         "Alma"
     ],
@@ -131,7 +138,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8134198
+        "gn:id":8134198,
+        "wk:page":"Gul%27ma"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1528318
+        ]
     },
     "wof:country":"KG",
     "wof:geomhash":"10f26428b037ee0c72280773a31f320c",
@@ -142,13 +155,15 @@
         }
     ],
     "wof:id":1209222123,
-    "wof:lastmodified":1566727131,
+    "wof:lastmodified":1706240322,
     "wof:name":"Alma",
     "wof:parent_id":85632761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226657717
+    ],
     "wof:tags":[]
 },
   "bbox": [

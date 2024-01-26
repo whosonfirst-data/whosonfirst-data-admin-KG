@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1527724
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8194397
+        ]
+    },
     "wof:country":"KG",
     "wof:geomhash":"d57f8b3f19aa5422f8268f30cfa3bf03",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1226541959,
-    "wof:lastmodified":1566727190,
+    "wof:lastmodified":1706240322,
     "wof:name":"Akkala",
     "wof:parent_id":1091690943,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277086017
+    ],
     "wof:tags":[]
 },
   "bbox": [

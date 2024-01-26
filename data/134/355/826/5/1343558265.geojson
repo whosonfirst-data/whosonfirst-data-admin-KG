@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"73.03597,40.5241,73.03597,40.5241",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0410\u043a-\u0416\u0430\u0440"
@@ -47,7 +49,7 @@
         "gn:id":8145113
     },
     "wof:country":"KG",
-    "wof:geomhash":"7a4fece50e0c27089bee196e74971207",
+    "wof:geomhash":"37e46cb84d133dd3ef8e54c4a1877b3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +60,22 @@
         }
     ],
     "wof:id":1343558265,
-    "wof:lastmodified":1566727095,
+    "wof:lastmodified":1706240322,
     "wof:name":"Ak-Dzhar",
     "wof:parent_id":1091690751,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209535863
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.03596999999998,
+    73.03597,
     40.5241,
-    73.03596999999998,
+    73.03597,
     40.5241
 ],
-  "geometry": {"coordinates":[73.03596999999998,40.5241],"type":"Point"}
+  "geometry": {"coordinates":[73.03597000000001,40.5241],"type":"Point"}
 }
