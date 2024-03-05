@@ -52,6 +52,11 @@
         "gn:id":1527041,
         "wk:page":"Verkhne-Pokrovskoye"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8173616
+        ]
+    },
     "wof:country":"KG",
     "wof:geomhash":"b49cefef5b6a54c9a45c0d5d7857e3a1",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1225941823,
-    "wof:lastmodified":1566727181,
+    "wof:lastmodified":1706240322,
     "wof:name":"Staraya Pokrovka",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293512015
+    ],
     "wof:tags":[]
 },
   "bbox": [

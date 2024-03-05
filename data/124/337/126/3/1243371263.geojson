@@ -35,6 +35,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0440\u043f\u0430\u043a-\u041a\u043e\u0440\u0433\u043e\u043d"
     ],
+    "name:und_x_variant":[
+        "Podachi",
+        "Kurpak-Korgon"
+    ],
+    "name:uzb_x_preferred":[
+        "Ko\u2018rpak-Qo\u2018rg\u2018on"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8137727
+        "gn:id":8137727,
+        "wk:page":"Podachi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1527500
+        ]
     },
     "wof:country":"KG",
     "wof:geomhash":"8b0996001afd708812b11644d51e5add",
@@ -58,13 +71,15 @@
         }
     ],
     "wof:id":1243371263,
-    "wof:lastmodified":1566727164,
+    "wof:lastmodified":1706240323,
     "wof:name":"Kurpak-Korgon",
     "wof:parent_id":1091691031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326537483
+    ],
     "wof:tags":[]
 },
   "bbox": [

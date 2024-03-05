@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Komintern"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u06a9\u0646\u062f"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0574\u056b\u0576\u057f\u0565\u0580\u0576"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0438\u043d\u0442\u0435\u0440\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Naukent"
     ],
     "name:spa_x_preferred":[
         "Komintern"
@@ -71,7 +77,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8135760
+        "gn:id":8135760,
+        "wk:page":"Naukent"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1527587
+        ]
     },
     "wof:country":"KG",
     "wof:geomhash":"10793d134caf28a6133be3d400e372ac",
@@ -85,13 +97,15 @@
         }
     ],
     "wof:id":1276342595,
-    "wof:lastmodified":1566727122,
+    "wof:lastmodified":1706240323,
     "wof:name":"Komintern",
     "wof:parent_id":1091690981,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293894933
+    ],
     "wof:tags":[]
 },
   "bbox": [

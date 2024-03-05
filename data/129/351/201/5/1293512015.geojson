@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"73.15426,40.68585,73.15426,40.68585",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:kir_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u041f\u043e\u043a\u0440\u043e\u0432\u043a\u0430"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1293512015,
-    "wof:lastmodified":1566727113,
+    "wof:lastmodified":1706240322,
     "wof:name":"Staraya Pokrovka",
     "wof:parent_id":1091690705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-kg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225941823
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
